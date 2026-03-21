@@ -1,18 +1,22 @@
 # BundCrimeStats
 
-## Source sheets for CSV export
+## Data Preparation
 
-The source Excel files are stored in `src/`:
+The repository does not store the source Excel workbooks because they are too large.
+
+Download these files from Destatis:
+
+- https://www.destatis.de/DE/Themen/Staat/Justiz-Rechtspflege/Publikationen/_publikationen-innen-strafverfolgung.html
+
+Place the downloaded workbooks into `src/` with these names:
 
 - `src/bund-2022.xlsx`
 - `src/bund-2023.xlsx`
 - `src/bund-2024.xlsx`
 
-These Excel files were taken from Destatis:
+Then run `crime_stats_load.ipynb`.
 
-- https://www.destatis.de/DE/Themen/Staat/Justiz-Rechtspflege/Publikationen/_publikationen-innen-strafverfolgung.html
-
-For CSV export, use these sheets from each workbook:
+It reads these sheets from each workbook:
 
 - `csv-24311-05`
   Contains counts by article (`Art_der_Straftat`) for both `Abgeurteilte` and `Verurteilte`.
@@ -21,8 +25,8 @@ For CSV export, use these sheets from each workbook:
 - `csv-24311-47`
   Contains citizenship (`Staatsangehoerigkeit`) for `Verurteilte` by article.
 
-Expected output CSV datasets:
+The loader writes these CSV files into `src/`:
 
-- `by_article.csv` from `csv-24311-05`
-- `decision_type.csv` from `csv-24311-07`
-- `citizenship.csv` from `csv-24311-47`
+- `src/by_article.csv` from `csv-24311-05`
+- `src/decision_type.csv` from `csv-24311-07`
+- `src/citizenship.csv` from `csv-24311-47`
