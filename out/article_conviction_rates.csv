@@ -1,0 +1,1472 @@
+source_year,Straftat_Gesetz,Art_der_Straftat,abgeurteilte,verurteilte,verurteilungsquote,verurteilungsquote_pct
+2022,AMG  ,"Arzneimittelgesetz §§ 95, 96 AMG ",287.0,216.0,0.7526132404181185,75.26132404181185
+2022,AO  ,Abgabenordnung insgesamt AO Summe 4690 bis 4696,12303.0,10630.0,0.8640169064455824,86.40169064455824
+2022,AO  ,Abgabenordnung § 370 Abs. 1 AO ,11474.0,9925.0,0.8649991284643542,86.49991284643542
+2022,AO  ,Abgabenordnung § 370 Abs. 3 AO ,513.0,427.0,0.8323586744639376,83.23586744639377
+2022,AO  ,Abgabenordnung § 372 Abs. 2 AO ,22.0,15.0,0.6818181818181818,68.18181818181817
+2022,AO  ,Abgabenordnung § 373 Abs. 1 AO ,27.0,22.0,0.8148148148148148,81.48148148148148
+2022,AO  ,Abgabenordnung § 373 Abs. 2 AO ,1.0,1.0,1.0,100.0
+2022,AO  ,Abgabenordnung § 374 Abs. 1 AO ,121.0,109.0,0.9008264462809917,90.08264462809917
+2022,AO  ,"Abgabenordnung,§ 374 Abs. 2 AO ",145.0,131.0,0.903448275862069,90.3448275862069
+2022,AWG  ,Außenwirtschaftsgesetz AWG ,17.0,9.0,0.5294117647058824,52.94117647058824
+2022,AbfVerbrG  ,Abfallverbringungsgesetz § 18 a illegale Verbringung gefährlicher Abfälle AbfVerbrG,13.0,9.0,0.6923076923076923,69.23076923076923
+2022,AbfVerbrG  ,Abfallverbringungsgesetz § 18 b illegale Verbringung nicht gefährl. Abfälle AbfVerbrG,9.0,3.0,0.3333333333333333,33.33333333333333
+2022,And BuG  ,Straftaten nach anderen Bundes- und Landesgesetzen (außer StGB und StVG) ,129686.0,112232.0,0.8654133830945514,86.54133830945514
+2022,AnitiDopG  ,Anti-Doping-Gesetz § 4 AntiDopG ,641.0,570.0,0.8892355694227769,88.9235569422777
+2022,ArbZG  ,Arbeitszeitgesetz ArbZG ,1.0,1.0,1.0,100.0
+2022,AsylG  ,Asylgesetz insgesamt AsylG Summe 4052 bis 4054,76.0,63.0,0.8289473684210527,82.89473684210526
+2022,AsylG  ,Asylgesetz § 85 AsylG ,76.0,63.0,0.8289473684210527,82.89473684210526
+2022,AufenthG  ,Aufenthaltsgesetz insgesamt AufenthG Summe 4060 bis 4070,10519.0,9203.0,0.8748930506702158,87.48930506702159
+2022,AufenthG  ,Aufenthaltsgesetz § 95 AufenthG ,9588.0,8367.0,0.8726533166458073,87.26533166458073
+2022,AufenthG  ,Aufenthaltsgesetz § 96 Einschleusen von Ausländern ,891.0,797.0,0.8945005611672279,89.45005611672279
+2022,AufenthG  ,"Aufenthaltsgesetz § 97 Einschleusen mit Todesfolge, gewerbs- und bandenmäßiges Einschleusen",40.0,39.0,0.975,97.5
+2022,AusgStG  ,Ausgangsstoffgesetz AusgStG ,6.0,6.0,1.0,100.0
+2022,AuslPflVG  ,Gesetz über die Haftpflichtversicherung für ausländische Kraftfahrzeuge und Kraftfahr- zeuganhänger AuslPflVG,417.0,394.0,0.9448441247002398,94.48441247002398
+2022,BApO  ,Bundes-Apothekerordnung BApO ,4.0,4.0,1.0,100.0
+2022,BDSG  ,Bundesdatenschutzgesetz BDSG ,9.0,7.0,0.7777777777777778,77.77777777777779
+2022,BJagdG  ,Bundesjagdgesetz BJagdG ,8.0,3.0,0.375,37.5
+2022,BNatSchG  ,Bundesnaturschutzgesetz BNatSchG ,63.0,38.0,0.6031746031746031,60.317460317460316
+2022,BauFordSiG  ,Bauforderungssicherungsgesetz BauFordSiG ,4.0,4.0,1.0,100.0
+2022,BetrVG  ,Betriebsverfassungsgesetz BetrVG ,5.0,2.0,0.4,40.0
+2022,BtMG  ,"BtMG § 29 Abs. 1 Nr. 1 Unerl. Anbauen, Herst., Handeltr. mit, Ein- oder Ausführen etc. von Betäubungsmitteln",20502.0,16224.0,0.7913374304945859,79.13374304945859
+2022,BtMG  ,BtMG § 29 Abs. 1 Nr. 3 Unerlaubter Besitz von Betäubungsmitteln ,35276.0,31475.0,0.8922496881732622,89.22496881732623
+2022,BtMG  ,"BtMG § 29 Abs. 1 Nrn. 2, 5 ff. Andere vorsätzliche Straftaten nach dem Betäubungsmittelgesetz",276.0,231.0,0.8369565217391305,83.69565217391305
+2022,BtMG  ,BtMG § 29 Abs. 3 Nr. 1 Andere gewerbsmäßig begangene Straftaten nach dem Betäubungsmittelgesetz,1288.0,1081.0,0.8392857142857143,83.92857142857143
+2022,BtMG  ,BtMG § 29 Abs. 3 Nr. 2 Gefährdung der Gesundheit mehrerer Menschen durch Betäubungsmittel,17.0,16.0,0.9411764705882353,94.11764705882352
+2022,BtMG  ,"BtMG § 29 a Abs. 1 Nr. 1 Unerlaubtes Abgeben, etc. von Betäubungsmitteln zum unmittelbaren Verbrauch d. Erw. an Kinder o. Jugendliche",996.0,805.0,0.8082329317269076,80.82329317269075
+2022,BtMG  ,"BtMG § 29 a Abs. 1 Nr. 2 Unerlaubtes Handeltreiben mit,Herstellen, etc. von Betäubungsmitteln in nicht geringer Menge",9121.0,8558.0,0.93827431202719,93.827431202719
+2022,BtMG  ,"BtMG § 30 Abs. 1 Nr. 1 Unerlaubtes Anbauen, Herstellen von, Handeltreiben mit Betäubungs- mitteln als Mitglied einer Bande",52.0,41.0,0.7884615384615384,78.84615384615384
+2022,BtMG  ,"BtMG § 30 Abs. 1 Nr. 2 Gewerbsmäßige Abgabe, etc. zum unmittelbaren Verbrauch von Betäubungsm.d. Erw. an Kinder o. Jugendliche",63.0,60.0,0.9523809523809523,95.23809523809523
+2022,BtMG  ,"BtMG § 30 Abs. 1 Nr. 3 Unerlaubtes Abgeben, Verabreichen, Überlassen zum unmittelbaren Verbrauch von Betäubungsm. mit Todesfolge",4.0,4.0,1.0,100.0
+2022,BtMG  ,BtMG § 30 Abs. 1 Nr. 4 Unerlaubte Einfuhr von Betäubungsmitteln in nicht geringer Menge,974.0,915.0,0.9394250513347022,93.94250513347022
+2022,BtMG  ,"BtMG § 30 a Abs. 1 Unerl. Handeltreiben mit., Anbauen, etc. von Betäubungsmitteln in nicht geringer Menge als Mitglied einer Bande",464.0,447.0,0.9633620689655172,96.33620689655173
+2022,BtMG  ,"BtMG § 30 a Abs. 2 Nr. 1 Bestimmung von Kin- dern oder Jugendlichen d. Erwachsene mit Betäubungsm. unerl. Handel zu treiben, etc.",44.0,42.0,0.9545454545454546,95.45454545454545
+2022,BtMG  ,"BtMG § 30 a Abs. 2 Nr. 2 Unerl. Handeltr., ... von Betäubungsm. in nicht ger. Menge u. Mitf.e.Schusswaffe o.sonst.Gegst., die ...",884.0,855.0,0.9671945701357466,96.71945701357465
+2022,BtMG  ,"Straftaten nach dem Betäubungsmittel- gesetz insgesamt, BtMG Summe 3001 bis 3015",69961.0,60754.0,0.8683981075170452,86.83981075170452
+2022,ChemG  ,Chemikaliengesetz ChemG ,65.0,39.0,0.6,60.0
+2022,DesignG  ,Designgesetz DesignG ,7.0,2.0,0.2857142857142857,28.57142857142857
+2022,FreizügGEU  ,Gesetz über die allgemeine Freizügigkeit von Unionsbürgern FreizügG/EU,165.0,144.0,0.8727272727272727,87.27272727272727
+2022,GeschGehG  ,Gesetz zum Schutz von Geschäftsgeheimnissen GeschGehG,19.0,10.0,0.5263157894736842,52.63157894736842
+2022,GewO  ,Gewerbeordnung GewO ,74.0,65.0,0.8783783783783784,87.83783783783784
+2022,GewSchG  ,Gewaltschutzgesetz GewSchG ,764.0,571.0,0.7473821989528796,74.73821989528795
+2022,GmbHG  ,GmbH-Gesetz insgesamt GmbHG Summe 4313 und 4314,80.0,48.0,0.6,60.0
+2022,GmbHG  ,"GmbH-Gesetz, andere Strafvorschriften (§§ 82, 84, 86) GmbHG ",80.0,48.0,0.6,60.0
+2022,GÜG  ,Grundstoffüberwachungsgesetz GÜG ,4.0,4.0,1.0,100.0
+2022,HGB  ,Handelsgesetzbuch insgesamt HGB Summe 4330 bis 4345,2.0,1.0,0.5,50.0
+2022,HGB  ,"Handelsgesetzbuch,andere Strafvorschriften (§§ 333a, 340m Abs. 2, 341m Abs. 2) HGB ",1.0,1.0,1.0,100.0
+2022,HeilprG  ,Heilpraktikergesetz HeilprG ,7.0,6.0,0.8571428571428571,85.71428571428571
+2022,HundVerbrEinfG  ,Hundeverbringungs- und -einfuhr- beschränkungsgesetz HundVerbrEinfG,46.0,43.0,0.9347826086956522,93.47826086956522
+2022,IfSG  ,Infektionsschutzgesetz IfSG ,267.0,201.0,0.7528089887640449,75.28089887640449
+2022,InsO  ,Insolvenzordnung InsO ,1275.0,909.0,0.7129411764705882,71.29411764705881
+2022,JArbSchG  ,Jugendarbeitsschutzgesetz JArbSchG ,15.0,14.0,0.9333333333333333,93.33333333333333
+2022,JuSchG  ,Jugendschutzgesetz JuSchG ,1.0,1.0,1.0,100.0
+2022,KGSG  ,Kulturgutschutzgesetz KGSG ,1.0,1.0,1.0,100.0
+2022,KUG  ,Kunsturheberrechtsgesetz KUG ,207.0,152.0,0.7342995169082126,73.42995169082126
+2022,KWG  ,Kreditwesengesetz KWG ,6.0,6.0,1.0,100.0
+2022,KrWaffKontrG  ,Kriegswaffenkontrollgesetz KrWaffKontrG ,98.0,85.0,0.8673469387755102,86.73469387755102
+2022,LFBG  ,Lebensmittel- und Futtermittel- gesetzbuch insgesamt LFGB Summe 4404 und 4406,552.0,451.0,0.8170289855072463,81.70289855072464
+2022,Landesg  ,Straftaten nach Landesgesetzen LANDESG ,191.0,138.0,0.7225130890052356,72.25130890052355
+2022,LuftSiG  ,Luftsicherheitsgesetz LuftSiG ,4.0,1.0,0.25,25.0
+2022,LuftVG  ,Luftverkehrsgesetz insgesamt LuftVG Summe 4410 bis 4417,4.0,2.0,0.5,50.0
+2022,LuftVG  ,Luftverkehrsgesetz § 60 LuftVG ,2.0,1.0,0.5,50.0
+2022,LuftVG  ,Luftverkehrsgesetz § 62 LuftVG ,2.0,1.0,0.5,50.0
+2022,MPG  ,Medizinproduktegesetz MPG ,5.0,4.0,0.8,80.0
+2022,MarkenG  ,Markengesetz MarkenG ,277.0,205.0,0.740072202166065,74.0072202166065
+2022,NpSG  ,Neue-psychoaktive-Stoffe-Gesetz NpSG ,94.0,82.0,0.8723404255319149,87.2340425531915
+2022,PflVG  ,Pflichtversicherungsgesetz PflVG ,19738.0,17897.0,0.9067281386158679,90.67281386158679
+2022,SchwarzarbG  ,Schwarzarbeitsbekämpfungsgesetz SchwarzArbG ,8.0,6.0,0.75,75.0
+2022,SortSchG  ,Sortenschutzgesetz SortSchG ,2.0,2.0,1.0,100.0
+2022,SprengG  ,Sprengstoffgesetz SprengG ,627.0,523.0,0.8341307814992025,83.41307814992025
+2022,StAG  ,Staatsangehoerigkeitsgesetz StAG ,129.0,97.0,0.751937984496124,75.1937984496124
+2022,StGB  ,Fahrlässige Koerperverl. im Straßenverkehr insgesamt (§ 229 StGB) ,12387.0,10420.0,0.8412044885767337,84.12044885767337
+2022,StGB  ,Fahrlässige Toetung im Straßenverkehr insgesamt (§ 222 StGB) ,514.0,458.0,0.8910505836575876,89.10505836575877
+2022,StGB  ,Gefährdung des Straßenverkehrs nach § 315 c StGB insgesamt ,13792.0,12235.0,0.8871084686774942,88.71084686774941
+2022,StGB  ,Gefährdung des Straßenverkehrs nach § 315 c StGB mit Verkehrsunfall ,11226.0,10326.0,0.9198289684660609,91.98289684660608
+2022,StGB  ,Gefährdung des Straßenverkehrs nach § 315 c StGB ohne Verkehrsunfall ,2566.0,1909.0,0.7439594699922057,74.39594699922057
+2022,StGB  ,Menschenraub StGB § 234 ,4.0,2.0,0.5,50.0
+2022,StGB  ,"StGB 1. Abschnitt, §§ 80 a bis 92 b Friedensverrat, Hochverrat und Gefährdung des demokratischen Rechtsstaates",2646.0,2036.0,0.7694633408919124,76.94633408919124
+2022,StGB  ,"StGB 10. Abschnitt, §§ 164 und 165 Falsche Verdächtigung ",3846.0,2678.0,0.6963078523140925,69.63078523140925
+2022,StGB  ,"StGB 11. Abschnitt, §§ 166 bis 168 Straftaten, welche sich auf Religion und Weltanschauung beziehen",41.0,32.0,0.7804878048780488,78.04878048780488
+2022,StGB  ,"StGB 12. Abschnitt, §§ 169 bis 173 Straftaten gegen den Personenstand, die Ehe und die Familie",1091.0,628.0,0.5756186984417965,57.56186984417965
+2022,StGB  ,"StGB 13. Abschnitt, §§ 174 bis 184 l Straftaten gegen die sexuelle Selbstbestimmung",13611.0,10364.0,0.7614429505546985,76.14429505546984
+2022,StGB  ,"StGB 14. Abschnitt, §§ 185 bis 200 Beleidigung ",30951.0,24825.0,0.8020742463894543,80.20742463894544
+2022,StGB  ,"StGB 15. Abschnitt, §§ 201 bis 206 Verletzung des persoenlichen Lebens- und Geheimbereichs",1459.0,1095.0,0.750514050719671,75.05140507196711
+2022,StGB  ,"StGB 16. Abschnitt, §§ 211 bis 222 (o.V.) Straftaten gegen das Leben (o.V.) ",1006.0,669.0,0.6650099403578529,66.50099403578528
+2022,StGB  ,"StGB 17. Abschnitt, §§ 223 bis 231 (o.V.) Straftaten gegen die koerperliche Unversehrtheit (o.V.)",73560.0,47916.0,0.6513866231647635,65.13866231647634
+2022,StGB  ,"StGB 18. Abschnitt, §§ 232 bis 241 a Straftaten gegen die persoenliche Freiheit",19460.0,13935.0,0.7160842754367934,71.60842754367934
+2022,StGB  ,"StGB 19. Abschnitt, §§ 242 bis 248 c Diebstahl und Unterschlagung ",106435.0,86164.0,0.809545732136985,80.9545732136985
+2022,StGB  ,"StGB 2. Abschnitt, §§ 93 bis 101 a Landesverrat und Gefährdung der äußeren Sicherheit",20.0,16.0,0.8,80.0
+2022,StGB  ,"StGB 20. Abschnitt, §§ 249 bis 256, 316a Raub und Erpressung, räuberischer Angriff auf Kraftfahrer ",7665.0,5329.0,0.6952380952380952,69.52380952380952
+2022,StGB  ,"StGB 21. Abschnitt, §§ 257 bis 262 Begünstigung und Hehlerei ",4682.0,3600.0,0.7689021785561726,76.89021785561727
+2022,StGB  ,"StGB 22. Abschnitt, §§ 263 bis 266 b Betrug und Untreue ",124664.0,103392.0,0.82936533401784,82.93653340178399
+2022,StGB  ,"StGB 23. Abschnitt, §§ 267 bis 282 Urkundenfälschung ",33350.0,29537.0,0.8856671664167916,88.56671664167915
+2022,StGB  ,"StGB 24. Abschnitt, §§ 283 bis 283 d Insolvenzstraftaten ",1081.0,836.0,0.7733580018501388,77.33580018501388
+2022,StGB  ,"StGB 25. Abschnitt, §§ 284 bis 297 Strafbarer Eigennutz ",954.0,703.0,0.7368972746331237,73.68972746331237
+2022,StGB  ,"StGB 26. Abschnitt, §§ 298 bis 301 Straftaten gegen den Wettbewerb ",54.0,32.0,0.5925925925925926,59.25925925925925
+2022,StGB  ,"StGB 27. Abschnitt, §§ 303 bis 305 a Sachbeschädigung ",14786.0,10474.0,0.7083727850669552,70.83727850669553
+2022,StGB  ,"StGB 28. Abschnitt, §§ 306 bis 323c, ohne §§ 315 b bis d, ohne §§ 316,316 a und ohne § 323 a i.V.m. Verkehrsunfall Gemeingefährliche Straftaten",2859.0,2116.0,0.7401189227002448,74.01189227002448
+2022,StGB  ,"StGB 29. Abschnitt, §§ 324 bis 330 a Straftaten gegen die Umwelt ",1218.0,918.0,0.7536945812807881,75.36945812807882
+2022,StGB  ,"StGB 3. Abschnitt, §§ 102 bis 104 a Straftaten gegen ausländische Staaten ",1.0,1.0,1.0,100.0
+2022,StGB  ,"StGB 30. Abschnitt, §§ 331 bis 358 Straftaten im Amt ",389.0,223.0,0.5732647814910026,57.326478149100254
+2022,StGB  ,"StGB 4. Abschnitt, §§ 105 bis 108 e Straftaten gegen Verfassungsorgane sowie bei Wahlen und Abstimmungen",15.0,9.0,0.6,60.0
+2022,StGB  ,"StGB 5. Abschnitt, §§ 109 bis 109 k Straftaten gegen die Landesverteidigung ",1.0,1.0,1.0,100.0
+2022,StGB  ,"StGB 6. Abschnitt, §§ 111 bis 121 Widerstand gegen die Staatsgewalt ",15864.0,13183.0,0.8310010085728694,83.10010085728695
+2022,StGB  ,"StGB 7. Abschnitt, §§ 123 bis 145 d, ohne § 142 Straftaten gegen die oeffentliche Ordnung (o.V.) ",10250.0,7510.0,0.7326829268292683,73.26829268292683
+2022,StGB  ,"StGB 8. Abschnitt, §§ 146 bis 152 c Geld- und Wertzeichenfälschung ",535.0,378.0,0.7065420560747664,70.65420560747664
+2022,StGB  ,"StGB 9. Abschnitt, §§ 153 bis 162 Falsche uneidliche Aussage und Meineid ",3420.0,2389.0,0.6985380116959065,69.85380116959064
+2022,StGB  ,StGB § 100 Friedensgefährdende Beziehungen,3.0,3.0,1.0,100.0
+2022,StGB  ,StGB § 100 a Landesverräterische Fälschung,2.0,2.0,1.0,100.0
+2022,StGB  ,StGB § 109 Wehrpflichtentziehung durch Verstümmelung ,1.0,1.0,1.0,100.0
+2022,StGB  ,StGB § 111 oeffentliche Aufforderung zu Straftaten ,184.0,151.0,0.8206521739130435,82.06521739130434
+2022,StGB  ,StGB § 113 Widerstand gegen Vollstreckungsbeamte ,6595.0,5426.0,0.8227445034116755,82.27445034116755
+2022,StGB  ,StGB § 114 Tätl. Angriff auf Vollstreckungsbeamte ,8539.0,7286.0,0.8532615060311511,85.32615060311511
+2022,StGB  ,"StGB § 115 Abs.1,2 i.V.m. §§ 113, 114 Widerstand gg. o. tätl. Angriff auf Pers., die Vollstreckungsbeamten gleichstehen",333.0,157.0,0.47147147147147145,47.147147147147145
+2022,StGB  ,"StGB § 115 Abs.3 i.V.m. §§ 113, 114 Widerstand gg.o.tätl. Angriff a. Hilfeleis. von Feuerwehr, Katast.-schutz o. Rettungsd.",161.0,134.0,0.8322981366459627,83.22981366459628
+2022,StGB  ,StGB § 120 Gefangenenbefreiung ,41.0,23.0,0.5609756097560976,56.09756097560976
+2022,StGB  ,StGB § 121 Gefangenenmeuterei ,11.0,6.0,0.5454545454545454,54.54545454545454
+2022,StGB  ,StGB § 125 Landfriedensbruch ,182.0,117.0,0.6428571428571429,64.28571428571429
+2022,StGB  ,StGB § 125 a Besonders schwerer Fall des Landfriedensbruchs,103.0,58.0,0.5631067961165048,56.310679611650485
+2022,StGB  ,StGB § 126 Stoerung des oeffentlichen Friedens durch Androhung von Straftaten,222.0,152.0,0.6846846846846847,68.46846846846847
+2022,StGB  ,StGB § 126 a Gefährdendes Verbreiten personenbezogener Daten,2.0,2.0,1.0,100.0
+2022,StGB  ,StGB § 127 Betreiben krimineller Handelsplattformen im Internet,3.0,2.0,0.6666666666666666,66.66666666666666
+2022,StGB  ,StGB § 129 Bildung krimineller Vereinigungen ,6.0,5.0,0.8333333333333334,83.33333333333334
+2022,StGB  ,StGB § 129 a Bildung terroristischer Vereinigungen ,24.0,24.0,1.0,100.0
+2022,StGB  ,StGB § 129 b i.V.m. § 129 a Bildung terroristischer Vereinigungen im Ausland,10.0,7.0,0.7,70.0
+2022,StGB  ,StGB § 130 Abs. 1 Volksverhetzung durch Aufstachelung zum Hass oder vergleichbare Äußerungen,825.0,616.0,0.7466666666666667,74.66666666666667
+2022,StGB  ,StGB § 130 Abs. 2 Volksverhetzung durch Verbreiten volksverhetzender Inhalte ,127.0,89.0,0.7007874015748031,70.07874015748031
+2022,StGB  ,"StGB § 130 Abs. 3 Volksverhetzung durch Billigung, Leugnung oder Verharmlosung des nationalsozialistischen Voelkermordes",336.0,269.0,0.8005952380952381,80.05952380952381
+2022,StGB  ,"StGB § 130 Abs. 4 Volksverhetzung durch Billigung, Verherrlichung o. Rechtfertigung der nat.soz. Gewalt- und Willkürherrschaft",14.0,11.0,0.7857142857142857,78.57142857142857
+2022,StGB  ,StGB § 130 a Anleitung zu Straftaten ,5.0,1.0,0.2,20.0
+2022,StGB  ,StGB § 131 Gewaltdarstellung ,42.0,28.0,0.6666666666666666,66.66666666666666
+2022,StGB  ,StGB § 132 Amtsanmaßung ,98.0,61.0,0.6224489795918368,62.244897959183675
+2022,StGB  ,"StGB § 132 a Missbrauch von Titeln, Berufsbezeich- nungen und Abzeichen",127.0,92.0,0.7244094488188977,72.44094488188976
+2022,StGB  ,StGB § 133 Verwahrungsbruch ,46.0,37.0,0.8043478260869565,80.43478260869566
+2022,StGB  ,"StGB § 136 Verstrickungsbruch, Siegelbruch ",138.0,105.0,0.7608695652173914,76.08695652173914
+2022,StGB  ,StGB § 138 Nichtanzeige geplanter Straftaten ,22.0,17.0,0.7727272727272727,77.27272727272727
+2022,StGB  ,StGB § 140 Belohnung und Billigung von Straftaten ,79.0,70.0,0.8860759493670886,88.60759493670885
+2022,StGB  ,StGB § 142 Abs. 1 Unerl. Entf. vom Unfallort vor Feststellung d. Unfallbeteiligung in Trunkenheit,4357.0,4181.0,0.9596052329584577,95.96052329584577
+2022,StGB  ,StGB § 142 Abs. 1 Unerl. Entf. vom Unfallort vor Feststellung d. Unfallbeteiligung insgesamt,36328.0,28067.0,0.7725996476547016,77.25996476547016
+2022,StGB  ,StGB § 142 Abs. 1 Unerl. Entf. vom Unfallort vor Feststellung d. Unfallbeteiligung ohne Trunkenheit bzw. Trunkenheit nicht bekannt,31971.0,23886.0,0.7471145725814019,74.71145725814019
+2022,StGB  ,StGB § 142 Abs. 2 Entf. vom Unfallort ohne nachträgl. Meldung d. Unfallbeteiligung in Trunkenheit,12.0,12.0,1.0,100.0
+2022,StGB  ,StGB § 142 Abs. 2 Entf. vom Unfallort ohne nachträgl. Meldung d. Unfallbeteiligung insgesamt,163.0,140.0,0.8588957055214724,85.88957055214725
+2022,StGB  ,StGB § 142 Abs. 2 Entf. vom Unfallort ohne nachträgl. Meldung d. Unfallbeteiligung ohne Trunkenheit bzw. Trunkenheit nicht bekannt,151.0,128.0,0.847682119205298,84.76821192052981
+2022,StGB  ,StGB § 145 Missbrauch von Notrufen und Beeinträchtigung von Unfallverhütungs- und Nothilfemitteln,840.0,622.0,0.7404761904761905,74.04761904761905
+2022,StGB  ,StGB § 145 a Verstoß gegen Weisungen während der Führungsaufsicht,991.0,742.0,0.7487386478304743,74.87386478304742
+2022,StGB  ,StGB § 145 c Verstoß gegen das Berufsverbot ,2.0,2.0,1.0,100.0
+2022,StGB  ,StGB § 145 d Vortäuschen einer Straftat ,1334.0,982.0,0.7361319340329835,73.61319340329835
+2022,StGB  ,StGB § 152 b Fälschung von Zahlungskarten mit Garantiefunktion ,16.0,15.0,0.9375,93.75
+2022,StGB  ,"StGB § 152 i.V.m. §§ 146-149 Geld-, Wert- zeichen und -papierfälschung von Geld,Wert- zeichen u. -papieren e. fremden Währungsgeb.",3.0,2.0,0.6666666666666666,66.66666666666666
+2022,StGB  ,StGB § 153 Falsche uneidliche Aussage ,2296.0,1564.0,0.681184668989547,68.1184668989547
+2022,StGB  ,StGB § 154 Meineid ,44.0,30.0,0.6818181818181818,68.18181818181817
+2022,StGB  ,StGB § 156 Falsche Versicherung an Eides Statt ,1020.0,748.0,0.7333333333333333,73.33333333333333
+2022,StGB  ,StGB § 160 Verleitung zur Falschaussage ,3.0,1.0,0.3333333333333333,33.33333333333333
+2022,StGB  ,"StGB § 161 Fahrlässiger Falscheid, fahrlässige falsche Versicherung an Eides Statt",57.0,46.0,0.8070175438596491,80.7017543859649
+2022,StGB  ,StGB § 164 Falsche Verdächtigung ,3846.0,2678.0,0.6963078523140925,69.63078523140925
+2022,StGB  ,StGB § 169 Personenstandsfälschung ,2.0,2.0,1.0,100.0
+2022,StGB  ,StGB § 170 Abs. 1 Verletzung der Unterhaltspflicht ,1002.0,566.0,0.564870259481038,56.4870259481038
+2022,StGB  ,StGB § 170 Abs. 2 Verletzung der Unterhaltspflicht gegenüber einer Schwangeren,1.0,1.0,1.0,100.0
+2022,StGB  ,StGB § 171 Verletzung der Fürsorge- oder Erziehungspflicht,78.0,53.0,0.6794871794871795,67.94871794871796
+2022,StGB  ,StGB § 172 Doppelehe doppelte Lebenspartnerschaft,2.0,1.0,0.5,50.0
+2022,StGB  ,StGB § 173 Beischlaf zwischen Verwandten ,6.0,5.0,0.8333333333333334,83.33333333333334
+2022,StGB  ,StGB § 174 Sexueller Missbrauch von Schutzbefohlenen ,66.0,49.0,0.7424242424242424,74.24242424242425
+2022,StGB  ,"StGB § 174 a Sexueller Missbrauch von Gefangenen, behoerdlich Verwahrten oder Kranken u. Hilfsbedürftigen in Einrichtungen",10.0,7.0,0.7,70.0
+2022,StGB  ,StGB § 174 b Sexueller Missbrauch unter Ausnutzung einer Amtsstellung,3.0,2.0,0.6666666666666666,66.66666666666666
+2022,StGB  ,"StGB § 174 c Abs. 1 Sexueller Missbrauch unter Ausnutzung eines Beratungs-, Behandlungs- oder Betreuungsverhältnisses",25.0,17.0,0.68,68.0
+2022,StGB  ,StGB § 176 Sexueller Missbrauch von Kindern ,1228.0,893.0,0.7271986970684039,72.71986970684038
+2022,StGB  ,StGB § 176 a Sexueller Missbrauch von Kindern ohne Koerperkontakt mit dem Kind,452.0,353.0,0.7809734513274337,78.09734513274337
+2022,StGB  ,StGB § 176 b Vorbereitung des sexuellen Missbrauchs von Kindern,75.0,60.0,0.8,80.0
+2022,StGB  ,StGB § 176 c Schwerer sexueller Missbrauch von Kindern ,617.0,538.0,0.8719611021069692,87.19611021069692
+2022,StGB  ,StGB § 176 d Sexueller Missbrauch von Kindern mit Todesfolge,4.0,3.0,0.75,75.0
+2022,StGB  ,StGB § 177 Abs. 1 Sexuelle Handlungen gegen den erkennbaren Willen,536.0,249.0,0.46455223880597013,46.45522388059701
+2022,StGB  ,"StGB § 177 Abs. 2 Nr. 1, Abs. 4 Sexuelle Handlungen unt. Ausnutzen der Unfähigkeit z.Willensbildung od.-äußerung",97.0,62.0,0.6391752577319587,63.91752577319587
+2022,StGB  ,"StGB § 177 Abs. 2 Nr. 2,3,4,5 Sex.Handlungen unt.Ausnutzung and.Einschränk. d. Fähigkeit z.Willensbild.od.-betätigung",110.0,85.0,0.7727272727272727,77.27272727272727
+2022,StGB  ,"StGB § 177 Abs. 5 Sex. Handlungen unt. Anwendung v. Gewalt, Drohung od. Ausnutzen einer schutzl. Lage",536.0,380.0,0.7089552238805971,70.8955223880597
+2022,StGB  ,StGB § 177 Abs. 6 Nr. 1 Vergewaltigung ,965.0,595.0,0.616580310880829,61.6580310880829
+2022,StGB  ,"StGB § 177 Abs. 6 Nr. 2, Abs. 7,8 Gemeinschaftlich begangener od. anderer schwerer sexueller Übergriff",157.0,126.0,0.802547770700637,80.2547770700637
+2022,StGB  ,StGB § 180 Foerderung sexueller Handlungen Minderjähriger,9.0,4.0,0.4444444444444444,44.44444444444444
+2022,StGB  ,StGB § 181 a Zuhälterei ,16.0,10.0,0.625,62.5
+2022,StGB  ,"StGB § 182 Abs. 1, 2 Sexueller Missbrauch von Jugendlichen unter Ausnutzung einer Zwangslage oder gegen Entgelt",58.0,51.0,0.8793103448275862,87.93103448275862
+2022,StGB  ,StGB § 182 Abs. 3 Sexueller Missbrauch von Jugendlichen unter Ausnutzung fehlender Fähigkeit zur sexuellen Selbstbestimmung,12.0,10.0,0.8333333333333334,83.33333333333334
+2022,StGB  ,StGB § 183 Exhibitionistische Handlungen ,750.0,604.0,0.8053333333333333,80.53333333333333
+2022,StGB  ,StGB § 183 a Erregung oeffentlichen Ärgernisses ,210.0,181.0,0.861904761904762,86.19047619047619
+2022,StGB  ,"StGB § 184 Verbreitung ""einfacher"" pornographischer Inhalte",582.0,454.0,0.7800687285223368,78.00687285223368
+2022,StGB  ,StGB § 184 a Verbreitung gewalt- oder tierpornographischer Inhalte,24.0,14.0,0.5833333333333334,58.333333333333336
+2022,StGB  ,"StGB § 184 b Verbreitung, Erwerb und Besitz kinderpornographischer Inhalte",4422.0,3632.0,0.8213478064224333,82.13478064224333
+2022,StGB  ,"StGB § 184 c Verbreitung, Erwerb und Besitz jugendpornographischer Inhalte",337.0,245.0,0.7270029673590505,72.70029673590504
+2022,StGB  ,"StGB § 184 e i.V.m. §§ 184 b, 184 c Veranstaltung und Besuch kinder- und jugendpornogr. Darbietungen",18.0,18.0,1.0,100.0
+2022,StGB  ,StGB § 184 f Ausübung der verbotenen Prostitution ,150.0,141.0,0.94,94.0
+2022,StGB  ,StGB § 184 g Jugendgefährdende Prostitution ,1.0,1.0,1.0,100.0
+2022,StGB  ,StGB § 184 i Sexuelle Belästigung ,2084.0,1531.0,0.7346449136276392,73.46449136276392
+2022,StGB  ,StGB § 184 k Verletzung des Intimbereichs durch Bildaufnahmen,47.0,41.0,0.8723404255319149,87.2340425531915
+2022,StGB  ,"StGB § 184 l Inverkehrbringen, Erwerb und Besitz von Sexpuppen mit kindlichem Erscheinungsbild",9.0,8.0,0.8888888888888888,88.88888888888889
+2022,StGB  ,StGB § 185 Beleidigung ,29852.0,24122.0,0.8080530617714056,80.80530617714055
+2022,StGB  ,StGB § 186 Üble Nachrede ,508.0,313.0,0.6161417322834646,61.61417322834646
+2022,StGB  ,StGB § 187 Verleumdung ,428.0,241.0,0.5630841121495327,56.30841121495327
+2022,StGB  ,"StGB § 188 Gegen Personen des politischen Lebens gerich- tete Beleidigung,üble Nachrede u. Verleumdung",110.0,103.0,0.9363636363636364,93.63636363636364
+2022,StGB  ,StGB § 189 Verunglimpfung des Andenkens Verstorbener ,19.0,15.0,0.7894736842105263,78.94736842105263
+2022,StGB  ,StGB § 192 a Verhetzende Beleidigung ,34.0,31.0,0.9117647058823529,91.17647058823529
+2022,StGB  ,StGB § 201 Verletzung der Vertraulichkeit des Wortes ,447.0,318.0,0.7114093959731543,71.14093959731544
+2022,StGB  ,StGB § 201 a Verletzung des hoechstpers. Lebensbereichs und von Persoenlichkeitsrechten d. Bildaufn.,527.0,392.0,0.7438330170777988,74.38330170777988
+2022,StGB  ,StGB § 202 Verletzung des Briefgeheimnisses ,32.0,20.0,0.625,62.5
+2022,StGB  ,StGB § 202 a Ausspähen von Daten ,86.0,45.0,0.5232558139534884,52.32558139534884
+2022,StGB  ,StGB § 202 b Abfangen von Daten ,7.0,6.0,0.8571428571428571,85.71428571428571
+2022,StGB  ,StGB § 202 c Vorbereiten des Ausspähens und Abfangens von Daten,3.0,2.0,0.6666666666666666,66.66666666666666
+2022,StGB  ,StGB § 202 d Datenhehlerei ,14.0,8.0,0.5714285714285714,57.14285714285714
+2022,StGB  ,StGB § 203 Verletzung von Privatgeheimnissen ,16.0,6.0,0.375,37.5
+2022,StGB  ,StGB § 204 Verwertung fremder Geheimnisse ,3.0,2.0,0.6666666666666666,66.66666666666666
+2022,StGB  ,StGB § 206 Verletzung des Post- oder Fernmeldegeheimnisses,324.0,296.0,0.9135802469135802,91.35802469135803
+2022,StGB  ,StGB § 211 Mord ,143.0,126.0,0.8811188811188811,88.11188811188812
+2022,StGB  ,"StGB § 211 i.V.m. §§ 22, 23 Versuchter Mord ",138.0,90.0,0.6521739130434783,65.21739130434783
+2022,StGB  ,StGB § 216 Toetung auf Verlangen ,1.0,1.0,1.0,100.0
+2022,StGB  ,StGB § 218 Schwangerschaftsabbruch ,9.0,5.0,0.5555555555555556,55.55555555555556
+2022,StGB  ,StGB § 221 Aussetzung ,16.0,11.0,0.6875,68.75
+2022,StGB  ,StGB § 222 Fahrlässige Toetung im Straßenverkehr in Trunkenheit ,41.0,41.0,1.0,100.0
+2022,StGB  ,StGB § 222 Fahrlässige Toetung im Straßenverkehr ohne Trunkenheit ,473.0,417.0,0.8816067653276956,88.16067653276956
+2022,StGB  ,"StGB § 222 Fahrlässige Toetung, außer im Straßenverkehr ",249.0,150.0,0.6024096385542169,60.24096385542169
+2022,StGB  ,StGB § 223 Koerperverletzung ,40617.0,29278.0,0.7208311790629539,72.08311790629539
+2022,StGB  ,"StGB § 224 Abs. 1 Nr. 1 Gefährliche Koerperverletzung, Vergiftung ",496.0,250.0,0.5040322580645161,50.403225806451616
+2022,StGB  ,StGB § 224 Abs. 1 Nrn. 2 bis 5 Gefährliche Koerperverletzung ,28188.0,15477.0,0.5490634312473393,54.90634312473392
+2022,StGB  ,StGB § 225 Misshandlung von Schutzbefohlenen ,162.0,74.0,0.4567901234567901,45.67901234567901
+2022,StGB  ,StGB § 226 Abs. 1 Schwere Koerperverletzung ,70.0,46.0,0.6571428571428571,65.71428571428571
+2022,StGB  ,StGB § 226 Abs. 2 Absichtliche oder wissentliche schwere Koerperverletzung,7.0,7.0,1.0,100.0
+2022,StGB  ,StGB § 227 Koerperverletzung mit Todesfolge ,51.0,42.0,0.8235294117647058,82.35294117647058
+2022,StGB  ,StGB § 229 Fahrlässige Koerperverletzung im Straßenverkehr in Trunkenheit ,2285.0,2191.0,0.9588621444201313,95.88621444201313
+2022,StGB  ,StGB § 229 Fahrlässige Koerperverletzung im Straßenverkehr ohne Trunkenheit ,10102.0,8229.0,0.8145911700653335,81.45911700653336
+2022,StGB  ,"StGB § 229 Fahrlässige Koerperverletzung, außer im Straßenverkehr",3961.0,2739.0,0.6914920474627619,69.1492047462762
+2022,StGB  ,StGB § 231 Beteiligung an einer Schlägerei ,8.0,3.0,0.375,37.5
+2022,StGB  ,StGB § 232 Menschenhandel ,14.0,12.0,0.8571428571428571,85.71428571428571
+2022,StGB  ,StGB § 232 a Abs. 1 bis 5 Zwangsprostitution ,66.0,54.0,0.8181818181818182,81.81818181818183
+2022,StGB  ,StGB § 232 b Zwangsarbeit ,13.0,9.0,0.6923076923076923,69.23076923076923
+2022,StGB  ,StGB § 233 Ausbeutung der Arbeitskraft ,4.0,2.0,0.5,50.0
+2022,StGB  ,StGB § 235 Entziehung Minderjähriger ,130.0,88.0,0.676923076923077,67.6923076923077
+2022,StGB  ,StGB § 236 Kinderhandel ,1.0,1.0,1.0,100.0
+2022,StGB  ,StGB § 237 Abs. 1 Zwangsheirat - Noetigung zur Eingehung der Ehe,5.0,3.0,0.6,60.0
+2022,StGB  ,StGB § 238 Nachstellung ,824.0,576.0,0.6990291262135923,69.90291262135922
+2022,StGB  ,StGB § 239 Freiheitsberaubung ,345.0,200.0,0.5797101449275363,57.971014492753625
+2022,StGB  ,StGB § 239 a Erpresserischer Menschenraub ,74.0,65.0,0.8783783783783784,87.83783783783784
+2022,StGB  ,StGB § 239 b Geiselnahme ,38.0,32.0,0.8421052631578947,84.21052631578947
+2022,StGB  ,StGB § 240 Abs. 1 Noetigung ,8564.0,5909.0,0.6899813171415227,68.99813171415227
+2022,StGB  ,StGB § 240 Abs. 4 Nr. 1 Noetigung einer Schwangeren zum Schwangerschaftsabbruch,21.0,9.0,0.42857142857142855,42.857142857142854
+2022,StGB  ,StGB § 240 Abs. 4 Nr. 2 Noetigung unter Missbrauch der Befugnisse oder der Stellung als Amtsträger,10.0,5.0,0.5,50.0
+2022,StGB  ,StGB § 241 Bedrohung ,9327.0,6953.0,0.7454701404524499,74.54701404524499
+2022,StGB  ,StGB § 241 a Politische Verdächtigung StGB § 241 a,19.0,15.0,0.7894736842105263,78.94736842105263
+2022,StGB  ,StGB § 242 Diebstahl ,79688.0,65244.0,0.8187430980825219,81.87430980825219
+2022,StGB  ,StGB § 243 Abs. 1 Satz 2 Nr. 1 Einbruchdiebstahl ,7197.0,5281.0,0.7337779630401556,73.37779630401556
+2022,StGB  ,StGB § 243 Abs. 1 Satz 2 Nrn. 2 bis 7 Diebstahl in anderen besonders schweren Fällen,7806.0,6463.0,0.8279528567768383,82.79528567768382
+2022,StGB  ,StGB § 244 Abs. 1 Nr. 1 Diebstahl mit Waffen ,3566.0,3020.0,0.8468872686483455,84.68872686483455
+2022,StGB  ,StGB § 244 Abs. 1 Nr. 2 Bandendiebstahl ,143.0,62.0,0.43356643356643354,43.35664335664335
+2022,StGB  ,StGB § 244 Abs. 1 Nr. 3 Wohnungseinbruchdiebstahl ,698.0,449.0,0.6432664756446992,64.32664756446992
+2022,StGB  ,StGB § 244 Abs. 4 Privatwohnungseinbruchdiebstahl ,1444.0,1187.0,0.8220221606648199,82.202216066482
+2022,StGB  ,StGB § 244 a Schwerer Bandendiebstahl ,553.0,472.0,0.8535262206148282,85.35262206148282
+2022,StGB  ,StGB § 246 Unterschlagung ,4678.0,3440.0,0.735356990166738,73.53569901667379
+2022,StGB  ,StGB § 248 b Unbefugter Gebrauch eines Fahrzeugs ,347.0,274.0,0.7896253602305475,78.96253602305475
+2022,StGB  ,StGB § 248 c Entziehung elektrischer Energie ,315.0,272.0,0.8634920634920635,86.34920634920636
+2022,StGB  ,StGB § 249 Raub ,1837.0,1117.0,0.608056614044638,60.8056614044638
+2022,StGB  ,StGB § 250 Schwerer Raub ,1055.0,818.0,0.7753554502369668,77.53554502369668
+2022,StGB  ,StGB § 251 Raub mit Todesfolge ,2.0,1.0,0.5,50.0
+2022,StGB  ,StGB § 252 Räuberischer Diebstahl ,1425.0,1045.0,0.7333333333333333,73.33333333333333
+2022,StGB  ,StGB § 253 Abs. 1 Erpressung ,811.0,517.0,0.6374845869297164,63.748458692971646
+2022,StGB  ,StGB § 253 Abs. 4 Besonders schwerer Fall der Erpressung ,26.0,11.0,0.4230769230769231,42.30769230769231
+2022,StGB  ,StGB § 255 Räuberische Erpressung ,2451.0,1769.0,0.7217462260301918,72.17462260301917
+2022,StGB  ,StGB § 259 Hehlerei ,1546.0,1156.0,0.7477360931435963,74.77360931435963
+2022,StGB  ,StGB § 260 Abs. 1 Nr. 1 Gewerbsmäßige Hehlerei ,315.0,257.0,0.8158730158730159,81.58730158730158
+2022,StGB  ,StGB § 260 Abs. 1 Nr. 2 Bandenhehlerei ,4.0,1.0,0.25,25.0
+2022,StGB  ,StGB § 260 a Gewerbsmäßige Bandenhehlerei ,27.0,16.0,0.5925925925925926,59.25925925925925
+2022,StGB  ,StGB § 261 Abs. 1 Geldwäsche ,654.0,459.0,0.7018348623853211,70.18348623853211
+2022,StGB  ,StGB § 261 Abs. 2 Geldwäsche ,51.0,33.0,0.6470588235294118,64.70588235294117
+2022,StGB  ,StGB § 261 Abs. 4 Geldwäsche durch Verpflichtete ,24.0,22.0,0.9166666666666666,91.66666666666666
+2022,StGB  ,StGB § 261 Abs. 5 Besonders schwere Fälle der Geldwäsche ,172.0,148.0,0.8604651162790697,86.04651162790698
+2022,StGB  ,StGB § 261 Abs. 6 Leichtfertige Geldwäsche ,811.0,697.0,0.8594327990135635,85.94327990135635
+2022,StGB  ,StGB § 261 Abs. 7 i.V.m. § 261 Abs. 1 bis 6 Geldwäsche ,17.0,15.0,0.8823529411764706,88.23529411764706
+2022,StGB  ,StGB § 261 Abs. 9 i.V.m. § 261 Abs. 1 bis 6 Geldwäsche ,1.0,1.0,1.0,100.0
+2022,StGB  ,StGB § 263 Abs. 1 Betrug ,73094.0,59274.0,0.810928393575396,81.0928393575396
+2022,StGB  ,StGB § 263 Abs. 3 und 5 Schwerwiegende Fälle des Betruges ,6950.0,5855.0,0.8424460431654677,84.24460431654677
+2022,StGB  ,StGB § 263 a Computerbetrug ,3324.0,2566.0,0.7719614921780987,77.19614921780988
+2022,StGB  ,StGB § 264 Subventionsbetrug ,2206.0,1668.0,0.7561196736174071,75.61196736174071
+2022,StGB  ,StGB § 264 a Kapitalanlagebetrug ,2.0,2.0,1.0,100.0
+2022,StGB  ,StGB § 265 Versicherungsmissbrauch ,76.0,60.0,0.7894736842105263,78.94736842105263
+2022,StGB  ,StGB § 265 a Erschleichen von Leistungen ,33781.0,29884.0,0.8846392942778485,88.46392942778485
+2022,StGB  ,StGB § 265 b Kreditbetrug ,7.0,7.0,1.0,100.0
+2022,StGB  ,StGB § 266 Untreue ,828.0,469.0,0.5664251207729468,56.64251207729468
+2022,StGB  ,StGB § 266 a Abs. 1 Vorenthalten von Arbeitnehmerbeiträgen durch den Arbeitgeber,4308.0,3534.0,0.8203342618384402,82.03342618384401
+2022,StGB  ,StGB § 266 a Abs. 2 Vorenthalten von Arbeitgeberbeiträgen durch den Arbeitgeber,37.0,30.0,0.8108108108108109,81.08108108108108
+2022,StGB  ,StGB § 266 a Abs. 3 Veruntreuen von Arbeitsentgelt durch den Arbeitgeber,5.0,5.0,1.0,100.0
+2022,StGB  ,StGB § 266 a Abs. 4 Vorenthalten von Beiträgen durch den Arbeitgeber in besonders schweren Fällen,37.0,33.0,0.8918918918918919,89.1891891891892
+2022,StGB  ,StGB § 266 b Missbrauch von Scheck- und Kreditkarten ,9.0,5.0,0.5555555555555556,55.55555555555556
+2022,StGB  ,StGB § 267 Abs. 1 Urkundenfälschung ,26807.0,23866.0,0.890289849666132,89.0289849666132
+2022,StGB  ,StGB § 267 Abs. 3 und 4 Schwerwiegende Fälle der Urkundenfälschung ,310.0,275.0,0.8870967741935484,88.70967741935483
+2022,StGB  ,StGB § 268 Fälschung technischer Aufzeichnungen ,93.0,78.0,0.8387096774193549,83.87096774193549
+2022,StGB  ,StGB § 269 Fälschung beweiserheblicher Daten ,1638.0,1363.0,0.8321123321123322,83.21123321123322
+2022,StGB  ,StGB § 271 Mittelbare Falschbeurkundung ,180.0,128.0,0.7111111111111111,71.11111111111111
+2022,StGB  ,StGB § 273 Verändern von amtlichen Ausweisen ,114.0,101.0,0.8859649122807017,88.59649122807018
+2022,StGB  ,"StGB § 274 Urkundenunterdrückung, Veränderung einer Grenzbezeichnung",100.0,77.0,0.77,77.0
+2022,StGB  ,StGB § 275 Vorbereitung d. Fälschung v. amtl. Ausweisen Vorber. der Herst. v. unricht. Impfausweisen,237.0,228.0,0.9620253164556962,96.20253164556962
+2022,StGB  ,StGB § 276 Verschaffen von falschen amtlichen Ausweisen,882.0,814.0,0.9229024943310657,92.29024943310658
+2022,StGB  ,StGB § 276 a i.V.m. § 275 Vorbereitung der Fälschung von aufenthaltsrechtlichen oder Fahrzeugpapieren,2.0,2.0,1.0,100.0
+2022,StGB  ,StGB § 276 a i.V.m. § 276 Verschaffen von falschen aufenthaltsrechtlichen oder Fahrzeugpapieren,10.0,7.0,0.7,70.0
+2022,StGB  ,StGB § 281 Missbrauch von Ausweispapieren ,770.0,694.0,0.9012987012987013,90.12987012987013
+2022,StGB  ,StGB § 283 Bankrott ,886.0,691.0,0.7799097065462754,77.99097065462755
+2022,StGB  ,StGB § 283 a Besonders schwerer Fall des Bankrotts ,1.0,1.0,1.0,100.0
+2022,StGB  ,StGB § 283 b Verletzung der Buchführungspflicht ,177.0,138.0,0.7796610169491526,77.96610169491525
+2022,StGB  ,StGB § 283 c Gläubigerbegünstigung ,8.0,3.0,0.375,37.5
+2022,StGB  ,StGB § 283 d Schuldnerbegünstigung ,9.0,3.0,0.3333333333333333,33.33333333333333
+2022,StGB  ,"StGB § 284 Abs. 1 und 4, § 287 Unerlaubte Veranstaltung eines Glücksspiels, einer Lotterie oder einer Ausspielung",124.0,78.0,0.6290322580645161,62.903225806451616
+2022,StGB  ,StGB § 284 Abs. 3 Unerlaubte Veranstaltung e. gewerbsmäßigen oder bandenmäßigen Glücksspiels,76.0,49.0,0.6447368421052632,64.47368421052632
+2022,StGB  ,StGB § 285 Beteiligung am unerlaubten Glücksspiel ,195.0,149.0,0.764102564102564,76.41025641025641
+2022,StGB  ,StGB § 291 Abs. 1 Satz 1 Nr. 1 Mietwucher ,21.0,5.0,0.23809523809523808,23.809523809523807
+2022,StGB  ,StGB § 291 Abs. 1 Satz 1 Nr. 2 Kreditwucher ,1.0,1.0,1.0,100.0
+2022,StGB  ,StGB § 291 Abs. 1 Satz 1 Nrn. 3 und 4 Sonstiger Wucher ,20.0,11.0,0.55,55.00000000000001
+2022,StGB  ,StGB § 291 Abs. 2 Besonders schwere Fälle des Wuchers ,16.0,9.0,0.5625,56.25
+2022,StGB  ,StGB § 292 Jagdwilderei ,34.0,20.0,0.5882352941176471,58.82352941176471
+2022,StGB  ,StGB § 293 Fischwilderei ,353.0,316.0,0.8951841359773371,89.51841359773371
+2022,StGB  ,StGB § 298 Wettbewerbsbeschränkende Absprachen bei Ausschreibungen,6.0,3.0,0.5,50.0
+2022,StGB  ,StGB § 299 Bestechlichkeit und Bestechung im geschäftlichen Verkehr,30.0,18.0,0.6,60.0
+2022,StGB  ,StGB § 300 i.V.m. § 299 Besonders schwere Fälle der Bestechlichkeit und Bestechung im geschäftlichen Verkehr,14.0,9.0,0.6428571428571429,64.28571428571429
+2022,StGB  ,"StGB § 300 i.V.m. § 299 a, 299 b Besonders schwere Fälle der Bestechlichkeit und Bestechung im Gesundheitswesen",2.0,2.0,1.0,100.0
+2022,StGB  ,StGB § 303 Abs. 1 Sachbeschädigung ,12806.0,9246.0,0.7220053100109324,72.20053100109324
+2022,StGB  ,StGB § 303 Abs. 2 Sachbeschädigung ,1027.0,658.0,0.6407010710808179,64.07010710808179
+2022,StGB  ,StGB § 303 a Datenveränderung ,37.0,21.0,0.5675675675675675,56.75675675675676
+2022,StGB  ,StGB § 303 b Computersabotage ,22.0,11.0,0.5,50.0
+2022,StGB  ,StGB § 304 Abs. 1 Gemeinschädliche Sachbeschädigung ,744.0,444.0,0.5967741935483871,59.67741935483871
+2022,StGB  ,StGB § 304 Abs. 2 Gemeinschädliche Sachbeschädigung ,125.0,77.0,0.616,61.6
+2022,StGB  ,StGB § 305 Zerstoerung von Bauwerken ,7.0,3.0,0.42857142857142855,42.857142857142854
+2022,StGB  ,StGB § 305 a Zerstoerung wichtiger Arbeitsmittel ,18.0,14.0,0.7777777777777778,77.77777777777779
+2022,StGB  ,StGB § 306 Brandstiftung ,431.0,317.0,0.7354988399071926,73.54988399071925
+2022,StGB  ,StGB § 306 a Schwere Brandstiftung ,376.0,221.0,0.5877659574468085,58.77659574468085
+2022,StGB  ,StGB § 306 b Besonders schwere Brandstiftung ,21.0,13.0,0.6190476190476191,61.904761904761905
+2022,StGB  ,StGB § 306 c Brandstiftung mit Todesfolge ,14.0,9.0,0.6428571428571429,64.28571428571429
+2022,StGB  ,StGB § 306 d Fahrlässige Brandstiftung ,472.0,326.0,0.690677966101695,69.0677966101695
+2022,StGB  ,StGB § 306 f Herbeiführen einer Brandgefahr ,23.0,16.0,0.6956521739130435,69.56521739130434
+2022,StGB  ,"StGB § 315 Gefährliche Eingriffe in den Bahn-, Schiffs- und Luftverkehr",307.0,213.0,0.6938110749185668,69.38110749185668
+2022,StGB  ,"StGB § 315 a Gefährdung des Bahn-, Schiffs- und Luftverkehrs",30.0,22.0,0.7333333333333333,73.33333333333333
+2022,StGB  ,StGB § 315 b Gefährliche Eingriffe in den Straßenverkehr,1038.0,570.0,0.5491329479768786,54.91329479768786
+2022,StGB  ,StGB § 315 c Abs. 1 Nr. 1 a Straßenverkehrs- gefährdung infolge Trunkenheit mit Verkehrs- unfall,9616.0,9093.0,0.9456114808652246,94.56114808652246
+2022,StGB  ,StGB § 315 c Abs. 1 Nr. 1 a Straßenverkehrs- gefährdung infolge Trunkenheit ohne Verkehrsunfall,1680.0,1334.0,0.794047619047619,79.4047619047619
+2022,StGB  ,StGB § 315 c Abs. 1 Nr. 1 b Straßenverkehrs- gefährdung infolge geistiger oder koerperl. Mängel mit Verkehrsunfall,981.0,774.0,0.7889908256880734,78.89908256880734
+2022,StGB  ,StGB § 315 c Abs. 1 Nr. 1 b Straßenverkehrs- gefährdung infolge geistiger oder koerperl. Mängel ohne Verkehrsunfall,141.0,86.0,0.6099290780141844,60.99290780141844
+2022,StGB  ,StGB § 315 c Abs. 1 Nr. 2 a Nichtbeachten der Vorfahrt mit Verkehrsunfall,145.0,102.0,0.7034482758620689,70.34482758620689
+2022,StGB  ,StGB § 315 c Abs. 1 Nr. 2 a Nichtbeachten der Vorfahrt ohne Verkehrsunfall,143.0,90.0,0.6293706293706294,62.93706293706294
+2022,StGB  ,StGB § 315 c Abs. 1 Nr. 2 b Falsches Überholen mit Verkehrsunfall ,386.0,284.0,0.7357512953367875,73.57512953367875
+2022,StGB  ,StGB § 315 c Abs. 1 Nr. 2 b Falsches Überholen ohne Verkehrsunfall ,480.0,312.0,0.65,65.0
+2022,StGB  ,StGB § 315 c Abs. 1 Nr. 2 c Falsches Fahren an Fußgängerüberwegen mit Verkehrsunfall,5.0,2.0,0.4,40.0
+2022,StGB  ,StGB § 315 c Abs. 1 Nr. 2 c Falsches Fahren an Fußgängerüberwegen ohne Verkehrsunfall,29.0,14.0,0.4827586206896552,48.275862068965516
+2022,StGB  ,StGB § 315 c Abs. 1 Nr. 2 d Zu schnelles Fahren an unübersichtlichen Stellen etc. mit Verkehrsunfall,53.0,37.0,0.6981132075471698,69.81132075471697
+2022,StGB  ,StGB § 315 c Abs. 1 Nr. 2 d Zu schnelles Fahren an unübersichtlichen Stellen etc. ohne Verkehrsunfall,64.0,49.0,0.765625,76.5625
+2022,StGB  ,StGB § 315 c Abs. 1 Nr. 2 e Nichteinhalten der rechten Fahrbahnseite mit Verkehrsunfall,8.0,7.0,0.875,87.5
+2022,StGB  ,StGB § 315 c Abs. 1 Nr. 2 e Nichteinhalten der rechten Fahrbahnseite ohne Verkehrsunfall,8.0,5.0,0.625,62.5
+2022,StGB  ,"StGB § 315 c Abs. 1 Nr. 2 f Verbotenes Wenden, Rückwärtsfahren oder ... mit Verkehrsunfall",23.0,21.0,0.9130434782608695,91.30434782608695
+2022,StGB  ,"StGB § 315 c Abs. 1 Nr. 2 f Verbotenes Wenden, Rückwärtsfahren oder ... ohne Verkehrsunfall",19.0,17.0,0.8947368421052632,89.47368421052632
+2022,StGB  ,StGB § 315 c Abs. 1 Nr. 2 g Nichtkenntlich- machen haltender oder liegengebl. Fahrzeuge mit Verkehrsunfall,9.0,6.0,0.6666666666666666,66.66666666666666
+2022,StGB  ,StGB § 315 c Abs. 1 Nr. 2 g Nichtkenntlich- machen haltender oder liegengebl. Fahrzeuge ohne Verkehrsunfall,2.0,2.0,1.0,100.0
+2022,StGB  ,StGB § 315 d Abs. 1 Nr. 1 Verbotene Kraftfahrzeugrennen mit Verkehrsunfall,14.0,7.0,0.5,50.0
+2022,StGB  ,StGB § 315 d Abs. 1 Nr. 1 Verbotene Kraftfahrzeugrennen ohne Verkehrsunfall,277.0,177.0,0.6389891696750902,63.898916967509024
+2022,StGB  ,StGB § 315 d Abs. 1 Nr. 2 Verbotene Kraftfahrzeugrennen mit Verkehrsunfall,13.0,6.0,0.46153846153846156,46.15384615384615
+2022,StGB  ,StGB § 315 d Abs. 1 Nr. 2 Verbotene Kraftfahrzeugrennen ohne Verkehrsunfall,384.0,236.0,0.6145833333333334,61.458333333333336
+2022,StGB  ,StGB § 315 d Abs. 1 Nr. 3 Verbotene Kraftfahrzeugrennen mit Verkehrsunfall,54.0,51.0,0.9444444444444444,94.44444444444444
+2022,StGB  ,StGB § 315 d Abs. 1 Nr. 3 Verbotene Kraftfahrzeugrennen ohne Verkehrsunfall,675.0,534.0,0.7911111111111111,79.11111111111111
+2022,StGB  ,"StGB § 315 d Abs. 2, auch i.V.m. Abs. 4 Verbotene Kraftfahrzeugrennen mit Verkehrsunfall",101.0,85.0,0.8415841584158416,84.15841584158416
+2022,StGB  ,"StGB § 315 d Abs. 2, auch i.V.m. Abs. 4 Verbotene Kraftfahrzeugrennen ohne Verkehrsunfall",127.0,92.0,0.7244094488188977,72.44094488188976
+2022,StGB  ,StGB § 315 d Abs. 5 Verbotene Kraftfahrzeugrennen mit Verkehrsunfall,8.0,6.0,0.75,75.0
+2022,StGB  ,StGB § 316 Trunkenheit im Verkehr mit Verkehrsunfall ,7436.0,7135.0,0.9595212479827865,95.95212479827865
+2022,StGB  ,StGB § 316 Trunkenheit im Verkehr ohne Verkehrsunfall ,50604.0,48599.0,0.9603786261955577,96.03786261955577
+2022,StGB  ,StGB § 316 a Räuberischer Angriff auf Kraftfahrer ,58.0,51.0,0.8793103448275862,87.93103448275862
+2022,StGB  ,StGB § 323 a Vollrausch in Verbindung mit Verkehrsunfall,215.0,212.0,0.986046511627907,98.6046511627907
+2022,StGB  ,"StGB § 323 a Vollrausch, ohne Verkehrsunfall ",706.0,675.0,0.9560906515580736,95.60906515580736
+2022,StGB  ,StGB § 323 b Gefährdung einer Entziehungskur ,6.0,4.0,0.6666666666666666,66.66666666666666
+2022,StGB  ,StGB § 323 c Abs. 1 Unterlassene Hilfeleistung ,131.0,64.0,0.48854961832061067,48.854961832061065
+2022,StGB  ,StGB § 323 c Abs. 2 Behinderung. v. hilfeleistenden Pers. ,8.0,3.0,0.375,37.5
+2022,StGB  ,StGB § 324 Abs. 3 Gewässerverunreinigung - fahrlässig ,62.0,50.0,0.8064516129032258,80.64516129032258
+2022,StGB  ,StGB § 324 a Abs. 3 Bodenverunreinigung - fahrlässig ,19.0,18.0,0.9473684210526315,94.73684210526315
+2022,StGB  ,"StGB § 324 a, ohne Abs. 3 Bodenverunreinigung - vorsätzlich ",38.0,26.0,0.6842105263157895,68.42105263157895
+2022,StGB  ,"StGB § 324, ohne Abs. 3 Gewässerverunreinigung - vorsätzlich ",80.0,56.0,0.7,70.0
+2022,StGB  ,StGB § 325 Abs. 1 Luftverunreinigung - vorsätzlich ,3.0,2.0,0.6666666666666666,66.66666666666666
+2022,StGB  ,StGB § 326 Abs. 1 Unerlaubter Umgang mit Abfällen - vorsätzlich,780.0,615.0,0.7884615384615384,78.84615384615384
+2022,StGB  ,StGB § 326 Abs. 2 Grenzüberschreitende Verbringung von Abfällen - vorsätzlich,3.0,2.0,0.6666666666666666,66.66666666666666
+2022,StGB  ,StGB § 326 Abs. 5 Nr. 1 Unerl. Umgang mit Abfällen und grenzüberschr. Verbringung von Abfällen - fahrlässig,121.0,88.0,0.7272727272727273,72.72727272727273
+2022,StGB  ,StGB § 327 Abs. 1 Unerlaubtes Betreiben von kerntechnischen Anlagen - vorsätzlich,5.0,2.0,0.4,40.0
+2022,StGB  ,StGB § 327 Abs. 2 Unerlaubtes Betreiben anderer Anlagen - vorsätzlich,69.0,41.0,0.5942028985507246,59.42028985507246
+2022,StGB  ,StGB § 327 Abs. 2 und 3 Nr. 2 Unerlaubtes Betreiben anderer Anlagen - fahrlässig,6.0,3.0,0.5,50.0
+2022,StGB  ,StGB § 328 Abs. 1 bis 3 Unerlaubter Umgang mit radioaktiven und anderen gefährlichen Stoffen und Gütern - vorsätzlich,11.0,5.0,0.45454545454545453,45.45454545454545
+2022,StGB  ,StGB § 329 Abs. 4 Schädigung von Natura2000-Gebieten - vorsätzlich,4.0,1.0,0.25,25.0
+2022,StGB  ,StGB § 330 Besonders schwerer Fall einer Umweltstraftat,14.0,9.0,0.6428571428571429,64.28571428571429
+2022,StGB  ,StGB § 331 Vorteilsannahme ,10.0,5.0,0.5,50.0
+2022,StGB  ,StGB § 332 Bestechlichkeit ,36.0,20.0,0.5555555555555556,55.55555555555556
+2022,StGB  ,StGB § 333 Vorteilsgewährung ,22.0,8.0,0.36363636363636365,36.36363636363637
+2022,StGB  ,StGB § 334 Bestechung ,130.0,102.0,0.7846153846153846,78.46153846153847
+2022,StGB  ,StGB § 335 Besonders schwere Fälle der Bestechlichkeit und Bestechung,14.0,14.0,1.0,100.0
+2022,StGB  ,StGB § 339 Rechtsbeugung ,3.0,1.0,0.3333333333333333,33.33333333333333
+2022,StGB  ,StGB § 340 Koerperverletzung im Amt ,59.0,14.0,0.23728813559322035,23.728813559322035
+2022,StGB  ,StGB § 343 Aussageerpressung ,1.0,1.0,1.0,100.0
+2022,StGB  ,StGB § 348 Falschbeurkundung im Amt ,48.0,19.0,0.3958333333333333,39.58333333333333
+2022,StGB  ,StGB § 353 b Verletzung des Dienstgeheimnisses und einer besonderen Geheimhaltungspflicht,26.0,20.0,0.7692307692307693,76.92307692307693
+2022,StGB  ,StGB § 353 d Verbotene Mitteilungen über Gerichtsverhandlungen,12.0,9.0,0.75,75.0
+2022,StGB  ,StGB § 356 Parteiverrat ,21.0,7.0,0.3333333333333333,33.33333333333333
+2022,StGB  ,StGB § 86 Verbreiten von Propagandamitteln verfassungs- widriger und terroristischer Organisationen,868.0,700.0,0.8064516129032258,80.64516129032258
+2022,StGB  ,StGB § 86 a Verwenden von Kennzeichen verfassungs- widriger und terroristischer Organisationen,1744.0,1315.0,0.7540137614678899,75.40137614678899
+2022,StGB  ,StGB § 89 a Vorbereitung einer schweren staatsgefährdenden Gewalttat,9.0,8.0,0.8888888888888888,88.88888888888889
+2022,StGB  ,StGB § 89 c Terrorismusfinanzierung ,6.0,6.0,1.0,100.0
+2022,StGB  ,StGB § 90 a Verunglimpfung des Staates und seiner Symbole,13.0,5.0,0.38461538461538464,38.46153846153847
+2022,StGB  ,StGB § 91 Anleitung zur Begehung einer schweren staatsgefährdenden Gewalttat,1.0,1.0,1.0,100.0
+2022,StGB  ,StGB § 99 Geheimdienstliche Agententätigkeit,5.0,5.0,1.0,100.0
+2022,StGB  ,"StGB §§ 102, 104 Straftaten gegen ausländische Staaten ",1.0,1.0,1.0,100.0
+2022,StGB  ,"StGB §§ 105, 106 Noetigung von Verfassungsorganen ",6.0,5.0,0.8333333333333334,83.33333333333334
+2022,StGB  ,StGB §§ 107 bis 108 b Wahlvergehen ,9.0,4.0,0.4444444444444444,44.44444444444444
+2022,StGB  ,"StGB §§ 123, 124 Hausfriedensbruch ",4663.0,3399.0,0.7289298734720138,72.89298734720137
+2022,StGB  ,"StGB §§ 142, 315 b bis d,316 sowie 222,229, §§ 323 a i.V.m. Verkehrsunfall, StVG §§ 21, §§ 22,22 a,22 b Straftaten im Straßenverkehr",185490.0,164153.0,0.8849695401369346,88.49695401369347
+2022,StGB  ,"StGB §§ 146 bis 149 Geld-, Wertzeichen- und Wertpapierfälschung ",516.0,361.0,0.6996124031007752,69.96124031007753
+2022,StGB  ,"StGB §§ 166, 167 Religions- und Weltanschauungs- delikte",18.0,13.0,0.7222222222222222,72.22222222222221
+2022,StGB  ,"StGB §§ 167 a, 168 Stoerung einer Bestattungsfeier, Stoerung der Totenruhe",23.0,19.0,0.8260869565217391,82.6086956521739
+2022,StGB  ,"StGB §§ 212, 213 Totschlag ",450.0,286.0,0.6355555555555555,63.55555555555556
+2022,StGB  ,"StGB §§ 257, 258 und 258 a Begünstigung und Strafvereitelung Strafvereitelung im Amt",1060.0,795.0,0.75,75.0
+2022,StGB  ,"StGB §§ 277, 278 und 279 Andere Straftaten der Urkundenfälschung ",2207.0,1904.0,0.8627095604893521,86.2709560489352
+2022,StGB  ,"StGB §§ 288, 289 Vereiteln der Zwangsvollstreckung, Pfandkehr ",113.0,64.0,0.5663716814159292,56.63716814159292
+2022,StGB  ,"StGB §§ 290, 297 Andere Straftaten des strafbaren Eigennutzes",1.0,1.0,1.0,100.0
+2022,StGB  ,"StGB §§ 307, 308 Herbeiführen einer Explosion ",246.0,188.0,0.7642276422764228,76.42276422764228
+2022,StGB  ,"StGB §§ 309, 310, 313, 314, 318 und 319 Andere gemeingefährliche Straftaten ",34.0,15.0,0.4411764705882353,44.11764705882353
+2022,StGB  ,"StGB §§ 316 b, 317 Stoerung oeffentlicher Betriebe und von Telekommunikationsanlagen",53.0,30.0,0.5660377358490566,56.60377358490566
+2022,StGB  ,"StGB §§ 344, 345 Verfolgung Unschuldiger, Vollstreckung gegen Unschuldige",3.0,1.0,0.3333333333333333,33.33333333333333
+2022,StGB  ,"StGB §§ 352, 353 Gebühren- und Abgabenüberhebung, Leistungskürzung",4.0,2.0,0.5,50.0
+2022,StGB  ,StGB §§ 81 bis 83 Hochverrat ,1.0,1.0,1.0,100.0
+2022,StGB  ,"StGB §§ 94, 97 a Landesverrat und Verrat illegaler Geheimnisse",1.0,1.0,1.0,100.0
+2022,StGB  ,"StGB §§ 95, 97 Offenbaren und Preisgabe von Staatsgeheimnissen",5.0,2.0,0.4,40.0
+2022,StGB  ,"StGB §§ 96, 97 b Andere Straftaten wg. Verrats von Staatsge- heimnissen bzw. zum Schutz von Staatsgeh.",4.0,3.0,0.75,75.0
+2022,StGB  ,Straftaten im Straßenverkehr in Trunkenheit mit Verkehrsunfall ,23962.0,22865.0,0.9542191803689175,95.42191803689175
+2022,StGB  ,Straftaten im Straßenverkehr in Trunkenheit ohne Verkehrsunfall ,52284.0,49933.0,0.955034044832071,95.5034044832071
+2022,StGB  ,Straftaten im Straßenverkehr nach dem StGB in Trunkenheit zusammen,76246.0,72798.0,0.9547779555648821,95.4777955564882
+2022,StGB  ,Straftaten im Straßenverkehr nach dem StGB insgesamt Summe 7001 bis 7041,124131.0,109030.0,0.8783462632219188,87.83462632219188
+2022,StGB  ,Straftaten im Straßenverkehr nach dem StGB und StVG ohne Trunkenheit zusammen,109244.0,91355.0,0.8362472996228626,83.62472996228625
+2022,StGB  ,Straftaten im Straßenverkehr ohne Trunkenheit mit Verkehrsunfall ,46550.0,35888.0,0.7709559613319011,77.09559613319011
+2022,StGB  ,Straftaten im Straßenverkehr ohne Trunkenheit ohne Verkehrsunfall ,62694.0,55467.0,0.8847258110824002,88.47258110824002
+2022,StGB  ,Trunkenheit im Verkehr nach § 316 StGB insgesamt ,58040.0,55734.0,0.9602687801516195,96.02687801516196
+2022,StGB  ,Unerlaubtes Entfernen vom Unfallort insgesamt (§ 142 StGB) ,36491.0,28207.0,0.7729851196185361,77.2985119618536
+2022,StGB  ,Verbotene Kraftfahrzeugrennen nach § 315 d StGB insgesamt ,1654.0,1194.0,0.7218863361547763,72.18863361547763
+2022,StGB  ,Verbotene Kraftfahrzeugrennen nach § 315 d StGB mit Verkehrsunfall ,190.0,155.0,0.8157894736842105,81.57894736842105
+2022,StGB  ,Verbotene Kraftfahrzeugrennen nach § 315 d StGB ohne Verkehrsunfall ,1464.0,1039.0,0.7096994535519126,70.96994535519126
+2022,StGBoV  ,Straftaten ohne Straftaten im Straßenverkehr nach dem StGB insgesamt Summe 1012 bis 1686,475914.0,370989.0,0.7795294948246952,77.95294948246952
+2022,StVG  ,Führen eines Kraftfahrzeuges ohne Fahrerlaubnis oder trotz Fahrverbots insgesamt (§ 21 Abs. 1 Nr. 1 StVG),46747.0,42539.0,0.9099835283547607,90.99835283547607
+2022,StVG  ,StVG § 21 Abs. 1 Nr. 1 Führen eines Kraftfahrzeuges ohne Fahrerlaubnis oder trotz Fahrverbots mit Verkehrsunfall,2053.0,1840.0,0.8962493911349245,89.62493911349245
+2022,StVG  ,StVG § 21 Abs. 1 Nr. 1 Führen eines Kraftfahrzeuges ohne Fahrerlaubnis oder trotz Fahrverbots ohne Verkehrsunfall,44694.0,40699.0,0.910614400143196,91.0614400143196
+2022,StVG  ,StVG § 21 Abs. 1 Nr. 2 Anordnen od. Zulassen des Führens eines Kraftfahrzeuges ohne Fahrerlaubnis oder trotz Fahrverbots,2895.0,2190.0,0.7564766839378239,75.64766839378238
+2022,StVG  ,StVG § 21 Abs. 2 Sonstiges unerlaubtes Führen oder Anordnen oder Zulassen des unerlaubten Führens eines Kraftfahrzeuges,10559.0,9433.0,0.8933611137418316,89.33611137418316
+2022,StVG  ,StVG § 22 Abs. 1 Nr. 1 Vortäuschen der Kennzeichnung nicht zugelassener Kraftfahrzeuge,787.0,672.0,0.8538754764930114,85.38754764930114
+2022,StVG  ,StVG § 22 Abs. 1 Nr. 2 Verfälschen der zugelassenen Kennzeichnung ,190.0,148.0,0.7789473684210526,77.89473684210526
+2022,StVG  ,StVG § 22 Abs. 1 Nr. 3 Unterdrücken des amtlich angebrachten Kennzeichens,61.0,44.0,0.7213114754098361,72.1311475409836
+2022,StVG  ,"StVG § 22 Abs. 2 Gebrauchmachen von Kraft- fahrzeugen o. Kfz-Anhängern mit gefälschten, verfälschten oder unterdrückten Kennzeichen",88.0,74.0,0.8409090909090909,84.0909090909091
+2022,StVG  ,"StVG § 22 a Missbräuchliches Herstellen, Vertreiben oder Ausgeben von Kennzeichen",10.0,6.0,0.6,60.0
+2022,StVG  ,StVG § 22 b Missbrauch von Wegstreckenzählern und Geschwindigkeitsbegrenzern,22.0,17.0,0.7727272727272727,77.27272727272727
+2022,StVG  ,Straftaten nach dem StVG insgesamt Summe 8001 bis 8010 ,61359.0,55123.0,0.8983686174807282,89.83686174807282
+2022,Straftat  ,Straftaten außerhalb des Strafgesetzbuches (StGB) ,191045.0,167355.0,0.8759978015650763,87.59978015650763
+2022,TKG  ,Telekommunikationsgesetz TKG ,6.0,4.0,0.6666666666666666,66.66666666666666
+2022,TabakerzG  ,Tabakerzeugnisgesetz TabakerzG ,3.0,2.0,0.6666666666666666,66.66666666666666
+2022,TierGesG  ,Tiergesundheitsgesetz TierGesG ,15.0,14.0,0.9333333333333333,93.33333333333333
+2022,TierNebG  ,Tierische Nebenprodukte-Beseitigungsgesetz TierNebG ,1.0,1.0,1.0,100.0
+2022,TierSchG  ,Tierschutzgesetz TierSchG ,1258.0,966.0,0.7678855325914149,76.7885532591415
+2022,UWG  ,Gesetz gegen den unlauteren Wettbewerb UWG ,20.0,8.0,0.4,40.0
+2022,UrhG  ,Urheberrechtsgesetz UrhG ,68.0,45.0,0.6617647058823529,66.17647058823529
+2022,VStGB  ,Voelkerstrafgesetzbuch insgesamt VStGB Summe 0001 bis 0036,16.0,15.0,0.9375,93.75
+2022,VStGB  ,Voelkerstrafgesetzbuch § 13 VStGB ,9.0,9.0,1.0,100.0
+2022,VStGB  ,Voelkerstrafgesetzbuch § 6 VStGB ,5.0,4.0,0.8,80.0
+2022,VStGB  ,Voelkerstrafgesetzbuch § 8 VStGB ,2.0,2.0,1.0,100.0
+2022,VereinsG  ,Vereinsgesetz VereinsG ,91.0,40.0,0.43956043956043955,43.956043956043956
+2022,VersammlG  ,Versammlungsgesetz VersammlG ,438.0,282.0,0.6438356164383562,64.38356164383562
+2022,WStG  ,Straftaten nach dem Wehrstrafgesetz insg. WStG Summe 2001 bis 2099,139.0,108.0,0.7769784172661871,77.6978417266187
+2022,WStG  ,WStG § 15 Eigenmächtige Abwesenheit ,64.0,51.0,0.796875,79.6875
+2022,WStG  ,WStG § 16 Fahnenflucht ,3.0,2.0,0.6666666666666666,66.66666666666666
+2022,WStG  ,WStG § 18 Dienstentziehung durch Täuschung ,9.0,8.0,0.8888888888888888,88.88888888888889
+2022,WStG  ,WStG § 19 Ungehorsam ,2.0,1.0,0.5,50.0
+2022,WStG  ,WStG § 20 Gehorsamsverweigerung ,41.0,33.0,0.8048780487804879,80.48780487804879
+2022,WStG  ,WStG § 21 Leichtfertiges Nichtbefolgen eines Befehls,1.0,1.0,1.0,100.0
+2022,WStG  ,WStG § 23 Bedrohung eines Vorgesetzten ,1.0,1.0,1.0,100.0
+2022,WStG  ,WStG § 25 Tätlicher Angriff gegen einen Vorgesetzten,2.0,1.0,0.5,50.0
+2022,WStG  ,WStG § 30 Misshandlung ,6.0,3.0,0.5,50.0
+2022,WStG  ,WStG § 31 Entwürdigende Behandlung ,7.0,4.0,0.5714285714285714,57.14285714285714
+2022,WStG  ,WStG § 32 Missbrauch der Befehlsbefugnis zu unzulässigen Zwecken,2.0,2.0,1.0,100.0
+2022,WStG  ,WStG § 44 Wachverfehlung ,1.0,1.0,1.0,100.0
+2022,WaffG  ,Waffengesetz WaffG ,8459.0,7068.0,0.8355597588367419,83.5559758836742
+2022,WeinG  ,Weingesetz WeinG ,19.0,14.0,0.7368421052631579,73.68421052631578
+2022,WpHG  ,Wertpapierhandelsgesetz WpHG ,15.0,8.0,0.5333333333333333,53.333333333333336
+2022,ZAG  ,Zahlungsdiensteaufsichtsgesetz ZAG ,42.0,31.0,0.7380952380952381,73.80952380952381
+2023,AMG  ,"Arzneimittelgesetz §§ 95, 96 AMG ",276.0,204.0,0.7391304347826086,73.91304347826086
+2023,AO  ,Abgabenordnung insgesamt AO Summe 4690 bis 4696,11681.0,10197.0,0.8729560825271809,87.2956082527181
+2023,AO  ,Abgabenordnung § 370 Abs. 1 AO ,10861.0,9479.0,0.8727557315164349,87.2755731516435
+2023,AO  ,Abgabenordnung § 370 Abs. 3 AO ,544.0,472.0,0.8676470588235294,86.76470588235294
+2023,AO  ,Abgabenordnung § 372 Abs. 2 AO ,27.0,20.0,0.7407407407407407,74.07407407407408
+2023,AO  ,Abgabenordnung § 373 Abs. 1 AO ,20.0,16.0,0.8,80.0
+2023,AO  ,Abgabenordnung § 374 Abs. 1 AO ,97.0,84.0,0.865979381443299,86.5979381443299
+2023,AO  ,"Abgabenordnung,§ 374 Abs. 2 AO ",132.0,126.0,0.9545454545454546,95.45454545454545
+2023,AWG  ,Außenwirtschaftsgesetz AWG ,52.0,32.0,0.6153846153846154,61.53846153846154
+2023,AbfVerbrG  ,Abfallverbringungsgesetz § 18 a illegale Verbringung gefährlicher Abfälle AbfVerbrG,17.0,12.0,0.7058823529411765,70.58823529411765
+2023,AbfVerbrG  ,Abfallverbringungsgesetz § 18 b illegale Verbringung nicht gefährl. Abfälle AbfVerbrG,4.0,3.0,0.75,75.0
+2023,And BuG  ,Straftaten nach anderen Bundes- und Landesgesetzen (außer StGB und StVG) ,128698.0,111317.0,0.8649473962299337,86.49473962299336
+2023,AnitiDopG  ,Anti-Doping-Gesetz § 4 AntiDopG ,624.0,563.0,0.9022435897435898,90.22435897435898
+2023,ArbSchG  ,Arbeitsschutzgesetz ArbSchG ,2.0,2.0,1.0,100.0
+2023,ArbZG  ,Arbeitszeitgesetz ArbZG ,1.0,1.0,1.0,100.0
+2023,AsylG  ,Asylgesetz insgesamt AsylG Summe 4052 bis 4054,84.0,71.0,0.8452380952380952,84.52380952380952
+2023,AsylG  ,Asylgesetz § 85 AsylG ,83.0,70.0,0.8433734939759037,84.33734939759037
+2023,AsylG  ,Asylgesetz § 84 AsylG ,1.0,1.0,1.0,100.0
+2023,AufenthG  ,Aufenthaltsgesetz insgesamt AufenthG Summe 4060 bis 4070,11377.0,9997.0,0.8787026456886701,87.870264568867
+2023,AufenthG  ,Aufenthaltsgesetz § 95 AufenthG ,10071.0,8794.0,0.8732002780260153,87.32002780260153
+2023,AufenthG  ,Aufenthaltsgesetz § 96 Einschleusen von Ausländern ,1229.0,1131.0,0.9202603742880391,92.0260374288039
+2023,AufenthG  ,"Aufenthaltsgesetz § 97 Einschleusen mit Todesfolge, gewerbs- und bandenmäßiges Einschleusen",77.0,72.0,0.935064935064935,93.5064935064935
+2023,AusgStG  ,Ausgangsstoffgesetz AusgStG ,9.0,5.0,0.5555555555555556,55.55555555555556
+2023,AuslPflVG  ,Gesetz über die Haftpflichtversicherung für ausländische Kraftfahrzeuge und Kraftfahr- zeuganhänger AuslPflVG,404.0,387.0,0.9579207920792079,95.79207920792079
+2023,AÜG  ,"Arbeitnehmerüberlassungsgesetz §§ 15, 15 a AÜG ",4.0,4.0,1.0,100.0
+2023,BApO  ,Bundes-Apothekerordnung BApO ,12.0,12.0,1.0,100.0
+2023,BDSG  ,Bundesdatenschutzgesetz BDSG ,21.0,16.0,0.7619047619047619,76.19047619047619
+2023,BJagdG  ,Bundesjagdgesetz BJagdG ,6.0,4.0,0.6666666666666666,66.66666666666666
+2023,BNatSchG  ,Bundesnaturschutzgesetz BNatSchG ,69.0,46.0,0.6666666666666666,66.66666666666666
+2023,BetrVG  ,Betriebsverfassungsgesetz BetrVG ,5.0,3.0,0.6,60.0
+2023,BtMG  ,"BtMG § 29 Abs. 1 Nr. 1 Unerl. Anbauen, Herst., Handeltr. mit, Ein- oder Ausführen etc. von Betäubungsmitteln",18434.0,14635.0,0.7939134208527721,79.3913420852772
+2023,BtMG  ,BtMG § 29 Abs. 1 Nr. 3 Unerlaubter Besitz von Betäubungsmitteln ,34146.0,30064.0,0.8804545188309026,88.04545188309027
+2023,BtMG  ,"BtMG § 29 Abs. 1 Nrn. 2, 5 ff. Andere vorsätzliche Straftaten nach dem Betäubungsmittelgesetz",256.0,218.0,0.8515625,85.15625
+2023,BtMG  ,BtMG § 29 Abs. 3 Nr. 1 Andere gewerbsmäßig begangene Straftaten nach dem Betäubungsmittelgesetz,1055.0,869.0,0.8236966824644549,82.3696682464455
+2023,BtMG  ,BtMG § 29 Abs. 3 Nr. 2 Gefährdung der Gesundheit mehrerer Menschen durch Betäubungsmittel,12.0,10.0,0.8333333333333334,83.33333333333334
+2023,BtMG  ,"BtMG § 29 a Abs. 1 Nr. 1 Unerlaubtes Abgeben, etc. von Betäubungsmitteln zum unmittelbaren Verbrauch d. Erw. an Kinder o. Jugendliche",917.0,766.0,0.8353326063249727,83.53326063249727
+2023,BtMG  ,"BtMG § 29 a Abs. 1 Nr. 2 Unerlaubtes Handeltreiben mit,Herstellen, etc. von Betäubungsmitteln in nicht geringer Menge",9229.0,8605.0,0.9323870408494962,93.23870408494962
+2023,BtMG  ,"BtMG § 30 Abs. 1 Nr. 1 Unerlaubtes Anbauen, Herstellen von, Handeltreiben mit Betäubungs- mitteln als Mitglied einer Bande",57.0,46.0,0.8070175438596491,80.7017543859649
+2023,BtMG  ,"BtMG § 30 Abs. 1 Nr. 2 Gewerbsmäßige Abgabe, etc. zum unmittelbaren Verbrauch von Betäubungsm.d. Erw. an Kinder o. Jugendliche",54.0,51.0,0.9444444444444444,94.44444444444444
+2023,BtMG  ,"BtMG § 30 Abs. 1 Nr. 3 Unerlaubtes Abgeben, Verabreichen, Überlassen zum unmittelbaren Verbrauch von Betäubungsm. mit Todesfolge",5.0,5.0,1.0,100.0
+2023,BtMG  ,BtMG § 30 Abs. 1 Nr. 4 Unerlaubte Einfuhr von Betäubungsmitteln in nicht geringer Menge,928.0,862.0,0.9288793103448276,92.88793103448276
+2023,BtMG  ,"BtMG § 30 a Abs. 1 Unerl. Handeltreiben mit., Anbauen, etc. von Betäubungsmitteln in nicht geringer Menge als Mitglied einer Bande",567.0,540.0,0.9523809523809523,95.23809523809523
+2023,BtMG  ,"BtMG § 30 a Abs. 2 Nr. 1 Bestimmung von Kin- dern oder Jugendlichen d. Erwachsene mit Betäubungsm. unerl. Handel zu treiben, etc.",56.0,53.0,0.9464285714285714,94.64285714285714
+2023,BtMG  ,"BtMG § 30 a Abs. 2 Nr. 2 Unerl. Handeltr., ... von Betäubungsm. in nicht ger. Menge u. Mitf.e.Schusswaffe o.sonst.Gegst., die ...",965.0,933.0,0.966839378238342,96.6839378238342
+2023,BtMG  ,"Straftaten nach dem Betäubungsmittel- gesetz insgesamt, BtMG Summe 3001 bis 3015",66683.0,57659.0,0.8646731550770062,86.46731550770062
+2023,BtMG  ,BtMG § 29 Abs. 4 Fahrlässige Straftaten nach dem Betäubungsmittelgesetz,2.0,2.0,1.0,100.0
+2023,ChemG  ,Chemikaliengesetz ChemG ,57.0,36.0,0.631578947368421,63.1578947368421
+2023,DesignG  ,Designgesetz DesignG ,5.0,3.0,0.6,60.0
+2023,FreizügGEU  ,Gesetz über die allgemeine Freizügigkeit von Unionsbürgern FreizügG/EU,199.0,169.0,0.8492462311557789,84.92462311557789
+2023,GeschGehG  ,Gesetz zum Schutz von Geschäftsgeheimnissen GeschGehG,23.0,10.0,0.43478260869565216,43.47826086956522
+2023,GewO  ,Gewerbeordnung GewO ,66.0,58.0,0.8787878787878788,87.87878787878788
+2023,GewSchG  ,Gewaltschutzgesetz GewSchG ,791.0,584.0,0.7383059418457648,73.83059418457648
+2023,GmbHG  ,GmbH-Gesetz insgesamt GmbHG Summe 4313 und 4314,79.0,58.0,0.7341772151898734,73.41772151898735
+2023,GmbHG  ,"GmbH-Gesetz, andere Strafvorschriften (§§ 82, 84, 86) GmbHG ",79.0,58.0,0.7341772151898734,73.41772151898735
+2023,GÜG  ,Grundstoffüberwachungsgesetz GÜG ,2.0,2.0,1.0,100.0
+2023,HGB  ,Handelsgesetzbuch insgesamt HGB Summe 4330 bis 4345,6.0,2.0,0.3333333333333333,33.33333333333333
+2023,HGB  ,Handelsgesetzbuch § 331 (auch i.V.m § 340m Abs. 1 oder § 341m Abs. 1) HGB,6.0,2.0,0.3333333333333333,33.33333333333333
+2023,HWG  ,Heilmittelwerbegesetz § 14 HWG ,2.0,1.0,0.5,50.0
+2023,HeilprG  ,Heilpraktikergesetz HeilprG ,7.0,6.0,0.8571428571428571,85.71428571428571
+2023,HundVerbrEinfG  ,Hundeverbringungs- und -einfuhr- beschränkungsgesetz HundVerbrEinfG,32.0,28.0,0.875,87.5
+2023,IfSG  ,Infektionsschutzgesetz IfSG ,285.0,215.0,0.7543859649122807,75.43859649122807
+2023,InsO  ,Insolvenzordnung InsO ,1257.0,933.0,0.7422434367541766,74.22434367541766
+2023,JArbSchG  ,Jugendarbeitsschutzgesetz JArbSchG ,9.0,9.0,1.0,100.0
+2023,JuSchG  ,Jugendschutzgesetz JuSchG ,7.0,6.0,0.8571428571428571,85.71428571428571
+2023,KUG  ,Kunsturheberrechtsgesetz KUG ,210.0,148.0,0.7047619047619048,70.47619047619048
+2023,KWG  ,Kreditwesengesetz KWG ,17.0,11.0,0.6470588235294118,64.70588235294117
+2023,KrWaffKontrG  ,Kriegswaffenkontrollgesetz KrWaffKontrG ,61.0,56.0,0.9180327868852459,91.80327868852459
+2023,LFBG  ,Lebensmittel- und Futtermittel- gesetzbuch insgesamt LFGB Summe 4404 und 4406,708.0,595.0,0.8403954802259888,84.03954802259888
+2023,Landesg  ,Straftaten nach Landesgesetzen LANDESG ,230.0,184.0,0.8,80.0
+2023,LuftSiG  ,Luftsicherheitsgesetz LuftSiG ,2.0,2.0,1.0,100.0
+2023,LuftVG  ,Luftverkehrsgesetz insgesamt LuftVG Summe 4410 bis 4417,11.0,6.0,0.5454545454545454,54.54545454545454
+2023,LuftVG  ,Luftverkehrsgesetz § 62 LuftVG ,7.0,6.0,0.8571428571428571,85.71428571428571
+2023,MarkenG  ,Markengesetz MarkenG ,298.0,237.0,0.7953020134228188,79.53020134228188
+2023,NpSG  ,Neue-psychoaktive-Stoffe-Gesetz NpSG ,111.0,74.0,0.6666666666666666,66.66666666666666
+2023,PflVG  ,Pflichtversicherungsgesetz PflVG ,20612.0,18649.0,0.9047642150203765,90.47642150203765
+2023,PflschG  ,Pflanzenschutzgesetz PflSchG ,2.0,1.0,0.5,50.0
+2023,SchwarzarbG  ,Schwarzarbeitsbekämpfungsgesetz SchwarzArbG ,17.0,7.0,0.4117647058823529,41.17647058823529
+2023,SprengG  ,Sprengstoffgesetz SprengG ,921.0,766.0,0.8317046688382194,83.17046688382193
+2023,StAG  ,Staatsangehörigkeitsgesetz StAG ,136.0,114.0,0.8382352941176471,83.82352941176471
+2023,StGB  ,Gefährdung des Straßenverkehrs nach § 315 c StGB insgesamt ,14272.0,12657.0,0.8868413677130045,88.68413677130044
+2023,StGB  ,Gefährdung des Straßenverkehrs nach § 315 c StGB mit Verkehrsunfall ,11750.0,10791.0,0.9183829787234042,91.83829787234042
+2023,StGB  ,Gefährdung des Straßenverkehrs nach § 315 c StGB ohne Verkehrsunfall ,2522.0,1866.0,0.7398889770023791,73.98889770023791
+2023,StGB  ,Menschenraub StGB § 234 ,5.0,5.0,1.0,100.0
+2023,StGB  ,"StGB 1. Abschnitt, §§ 80 a bis 92 b Friedensverrat, Hochverrat und Gefährdung des demokratischen Rechtsstaates",2851.0,2244.0,0.7870922483339179,78.70922483339179
+2023,StGB  ,"StGB 10. Abschnitt, §§ 164 und 165 Falsche Verdächtigung ",3601.0,2537.0,0.704526520410997,70.4526520410997
+2023,StGB  ,"StGB 11. Abschnitt, §§ 166 bis 168 Straftaten, welche sich auf Religion und Weltanschauung beziehen",46.0,31.0,0.6739130434782609,67.3913043478261
+2023,StGB  ,"StGB 12. Abschnitt, §§ 169 bis 173 Straftaten gegen den Personenstand, die Ehe und die Familie",927.0,525.0,0.5663430420711975,56.63430420711975
+2023,StGB  ,"StGB 13. Abschnitt, §§ 174 bis 184 l Straftaten gegen die sexuelle Selbstbestimmung",15031.0,11273.0,0.7499833677067395,74.99833677067394
+2023,StGB  ,"StGB 14. Abschnitt, §§ 185 bis 200 Beleidigung ",30658.0,24643.0,0.8038032487442103,80.38032487442102
+2023,StGB  ,"StGB 16. Abschnitt, §§ 211 bis 222 (o.V.) Straftaten gegen das Leben (o.V.) ",1059.0,682.0,0.6440037771482531,64.40037771482531
+2023,StGB  ,"StGB 19. Abschnitt, §§ 242 bis 248 c Diebstahl und Unterschlagung ",126758.0,104405.0,0.8236561006011455,82.36561006011455
+2023,StGB  ,"StGB 2. Abschnitt, §§ 93 bis 101 a Landesverrat und Gefährdung der äußeren Sicherheit",12.0,9.0,0.75,75.0
+2023,StGB  ,"StGB 20. Abschnitt, §§ 249 bis 256, 316a Raub und Erpressung, räuberischer Angriff auf Kraftfahrer ",8638.0,6201.0,0.7178745079879602,71.78745079879602
+2023,StGB  ,"StGB 21. Abschnitt, §§ 257 bis 262 Begünstigung und Hehlerei ",5599.0,4377.0,0.7817467404893731,78.1746740489373
+2023,StGB  ,"StGB 22. Abschnitt, §§ 263 bis 266 b Betrug und Untreue ",110931.0,90939.0,0.8197798631581794,81.97798631581794
+2023,StGB  ,"StGB 23. Abschnitt, §§ 267 bis 282 Urkundenfälschung ",29231.0,25063.0,0.8574116520132736,85.74116520132736
+2023,StGB  ,"StGB 24. Abschnitt, §§ 283 bis 283 d Insolvenzstraftaten ",1016.0,802.0,0.7893700787401575,78.93700787401575
+2023,StGB  ,"StGB 25. Abschnitt, §§ 284 bis 297 Strafbarer Eigennutz ",1146.0,840.0,0.7329842931937173,73.29842931937172
+2023,StGB  ,"StGB 26. Abschnitt, §§ 298 bis 301 Straftaten gegen den Wettbewerb ",77.0,31.0,0.4025974025974026,40.25974025974026
+2023,StGB  ,"StGB 27. Abschnitt, §§ 303 bis 305 a Sachbeschädigung ",14124.0,9990.0,0.7073067119796091,70.73067119796092
+2023,StGB  ,"StGB 28. Abschnitt, §§ 306 bis 323c, ohne §§ 315 b bis d, ohne §§ 316,316 a und ohne § 323 a i.V.m. Verkehrsunfall Gemeingefährliche Straftaten",2829.0,2130.0,0.7529162248144221,75.2916224814422
+2023,StGB  ,"StGB 29. Abschnitt, §§ 324 bis 330 a Straftaten gegen die Umwelt ",1086.0,797.0,0.7338858195211786,73.38858195211786
+2023,StGB  ,"StGB 3. Abschnitt, §§ 102 bis 104 a Straftaten gegen ausländische Staaten ",3.0,2.0,0.6666666666666666,66.66666666666666
+2023,StGB  ,"StGB 30. Abschnitt, §§ 331 bis 358 Straftaten im Amt ",507.0,319.0,0.6291913214990138,62.91913214990138
+2023,StGB  ,"StGB 4. Abschnitt, §§ 105 bis 108 e Straftaten gegen Verfassungsorgane sowie bei Wahlen und Abstimmungen",20.0,9.0,0.45,45.0
+2023,StGB  ,"StGB 6. Abschnitt, §§ 111 bis 121 Widerstand gegen die Staatsgewalt ",16937.0,14038.0,0.828836275609612,82.8836275609612
+2023,StGB  ,"StGB 8. Abschnitt, §§ 146 bis 152 c Geld- und Wertzeichenfälschung ",511.0,347.0,0.6790606653620352,67.90606653620353
+2023,StGB  ,"StGB 9. Abschnitt, §§ 153 bis 162 Falsche uneidliche Aussage und Meineid ",3159.0,2188.0,0.6926242481798037,69.26242481798037
+2023,StGB  ,StGB § 100 a Landesverräterische Fälschung,2.0,1.0,0.5,50.0
+2023,StGB  ,StGB § 113 Widerstand gegen Vollstreckungsbeamte ,6883.0,5658.0,0.8220252796745605,82.20252796745605
+2023,StGB  ,StGB § 114 Tätl. Angriff auf Vollstreckungsbeamte ,9353.0,7935.0,0.8483908906233294,84.83908906233295
+2023,StGB  ,"StGB § 115 Abs.1,2 i.V.m. §§ 113, 114 Widerstand gg. o. tätl. Angriff auf Pers., die Vollstreckungsbeamten gleichstehen",261.0,123.0,0.47126436781609193,47.12643678160919
+2023,StGB  ,"StGB § 115 Abs.3 i.V.m. §§ 113, 114 Widerstand gg.o.tätl. Angriff a. Hilfeleis. von Feuerwehr, Katast.-schutz o. Rettungsd.",217.0,169.0,0.7788018433179723,77.88018433179722
+2023,StGB  ,StGB § 120 Gefangenenbefreiung ,39.0,17.0,0.4358974358974359,43.58974358974359
+2023,StGB  ,StGB § 121 Gefangenenmeuterei ,14.0,14.0,1.0,100.0
+2023,StGB  ,StGB § 125 Landfriedensbruch ,138.0,69.0,0.5,50.0
+2023,StGB  ,StGB § 125 a Besonders schwerer Fall des Landfriedensbruchs,53.0,35.0,0.660377358490566,66.0377358490566
+2023,StGB  ,StGB § 126 a Gefährdendes Verbreiten personenbezogener Daten,6.0,6.0,1.0,100.0
+2023,StGB  ,StGB § 128 Bildung bewaffneter Gruppen ,1.0,1.0,1.0,100.0
+2023,StGB  ,StGB § 129 Bildung krimineller Vereinigungen ,23.0,17.0,0.7391304347826086,73.91304347826086
+2023,StGB  ,StGB § 129 a Bildung terroristischer Vereinigungen ,27.0,27.0,1.0,100.0
+2023,StGB  ,StGB § 129 b i.V.m. § 129 a Bildung terroristischer Vereinigungen im Ausland,14.0,14.0,1.0,100.0
+2023,StGB  ,StGB § 130 Abs. 1 Volksverhetzung durch Aufstachelung zum Hass oder vergleichbare Äußerungen,843.0,619.0,0.734282325029656,73.4282325029656
+2023,StGB  ,StGB § 130 Abs. 2 Volksverhetzung durch Verbreiten volksverhetzender Inhalte ,191.0,139.0,0.7277486910994765,72.77486910994764
+2023,StGB  ,"StGB § 130 Abs. 4 Volksverhetzung durch Billigung, Verherrlichung o. Rechtfertigung der nat.soz. Gewalt- und Willkürherrschaft",4.0,4.0,1.0,100.0
+2023,StGB  ,StGB § 130 a Anleitung zu Straftaten ,1.0,1.0,1.0,100.0
+2023,StGB  ,StGB § 131 Gewaltdarstellung ,27.0,16.0,0.5925925925925926,59.25925925925925
+2023,StGB  ,StGB § 132 Amtsanmaßung ,115.0,80.0,0.6956521739130435,69.56521739130434
+2023,StGB  ,"StGB § 132 a Missbrauch von Titeln, Berufsbezeich- nungen und Abzeichen",111.0,78.0,0.7027027027027027,70.27027027027027
+2023,StGB  ,StGB § 133 Verwahrungsbruch ,33.0,29.0,0.8787878787878788,87.87878787878788
+2023,StGB  ,"StGB § 136 Verstrickungsbruch, Siegelbruch ",102.0,80.0,0.7843137254901961,78.43137254901961
+2023,StGB  ,StGB § 138 Nichtanzeige geplanter Straftaten ,56.0,48.0,0.8571428571428571,85.71428571428571
+2023,StGB  ,StGB § 140 Belohnung und Billigung von Straftaten ,216.0,171.0,0.7916666666666666,79.16666666666666
+2023,StGB  ,StGB § 142 Abs. 1 Unerl. Entf. vom Unfallort vor Feststellung d. Unfallbeteiligung in Trunkenheit,4767.0,4579.0,0.960562198447661,96.0562198447661
+2023,StGB  ,StGB § 142 Abs. 1 Unerl. Entf. vom Unfallort vor Feststellung d. Unfallbeteiligung insgesamt,37705.0,29268.0,0.7762365733987535,77.62365733987535
+2023,StGB  ,StGB § 142 Abs. 1 Unerl. Entf. vom Unfallort vor Feststellung d. Unfallbeteiligung ohne Trunkenheit bzw. Trunkenheit nicht bekannt,32938.0,24689.0,0.7495597789786872,74.95597789786872
+2023,StGB  ,StGB § 142 Abs. 2 Entf. vom Unfallort ohne nachträgl. Meldung d. Unfallbeteiligung in Trunkenheit,4.0,4.0,1.0,100.0
+2023,StGB  ,StGB § 142 Abs. 2 Entf. vom Unfallort ohne nachträgl. Meldung d. Unfallbeteiligung insgesamt,150.0,116.0,0.7733333333333333,77.33333333333333
+2023,StGB  ,StGB § 142 Abs. 2 Entf. vom Unfallort ohne nachträgl. Meldung d. Unfallbeteiligung ohne Trunkenheit bzw. Trunkenheit nicht bekannt,146.0,112.0,0.7671232876712328,76.71232876712328
+2023,StGB  ,StGB § 145 Missbrauch von Notrufen und Beeinträchtigung von Unfallverhütungs- und Nothilfemitteln,824.0,624.0,0.7572815533980582,75.72815533980582
+2023,StGB  ,StGB § 145 a Verstoß gegen Weisungen während der Führungsaufsicht,980.0,746.0,0.7612244897959184,76.12244897959184
+2023,StGB  ,StGB § 145 d Vortäuschen einer Straftat ,1331.0,986.0,0.7407963936889557,74.07963936889557
+2023,StGB  ,StGB § 152 b Fälschung von Zahlungskarten mit Garantiefunktion ,18.0,17.0,0.9444444444444444,94.44444444444444
+2023,StGB  ,"StGB § 152 i.V.m. §§ 146-149 Geld-, Wert- zeichen und -papierfälschung von Geld,Wert- zeichen u. -papieren e. fremden Währungsgeb.",4.0,1.0,0.25,25.0
+2023,StGB  ,StGB § 153 Falsche uneidliche Aussage ,2088.0,1401.0,0.6709770114942529,67.09770114942529
+2023,StGB  ,StGB § 154 Meineid ,49.0,32.0,0.6530612244897959,65.3061224489796
+2023,StGB  ,StGB § 156 Falsche Versicherung an Eides Statt ,977.0,725.0,0.7420675537359263,74.20675537359263
+2023,StGB  ,StGB § 160 Verleitung zur Falschaussage ,5.0,1.0,0.2,20.0
+2023,StGB  ,"StGB § 161 Fahrlässiger Falscheid, fahrlässige falsche Versicherung an Eides Statt",40.0,29.0,0.725,72.5
+2023,StGB  ,StGB § 164 Falsche Verdächtigung ,3601.0,2537.0,0.704526520410997,70.4526520410997
+2023,StGB  ,StGB § 170 Abs. 1 Verletzung der Unterhaltspflicht ,841.0,463.0,0.5505350772889417,55.05350772889417
+2023,StGB  ,StGB § 170 Abs. 2 Verletzung der Unterhaltspflicht gegenüber einer Schwangeren,5.0,4.0,0.8,80.0
+2023,StGB  ,StGB § 171 Verletzung der Fürsorge- oder Erziehungspflicht,75.0,53.0,0.7066666666666667,70.66666666666667
+2023,StGB  ,StGB § 172 Doppelehe doppelte Lebenspartnerschaft,1.0,1.0,1.0,100.0
+2023,StGB  ,StGB § 173 Beischlaf zwischen Verwandten ,5.0,4.0,0.8,80.0
+2023,StGB  ,StGB § 174 Sexueller Missbrauch von Schutzbefohlenen ,84.0,67.0,0.7976190476190477,79.76190476190477
+2023,StGB  ,"StGB § 174 c Abs. 1 Sexueller Missbrauch unter Ausnutzung eines Beratungs-, Behandlungs- oder Betreuungsverhältnisses",23.0,14.0,0.6086956521739131,60.86956521739131
+2023,StGB  ,StGB § 176 Sexueller Missbrauch von Kindern ,1185.0,842.0,0.7105485232067511,71.05485232067511
+2023,StGB  ,StGB § 176 b Vorbereitung des sexuellen Missbrauchs von Kindern,59.0,47.0,0.7966101694915254,79.66101694915254
+2023,StGB  ,StGB § 176 c Schwerer sexueller Missbrauch von Kindern ,647.0,559.0,0.8639876352395672,86.39876352395672
+2023,StGB  ,StGB § 176 d Sexueller Missbrauch von Kindern mit Todesfolge,2.0,1.0,0.5,50.0
+2023,StGB  ,StGB § 177 Abs. 1 Sexuelle Handlungen gegen den erkennbaren Willen,620.0,283.0,0.45645161290322583,45.645161290322584
+2023,StGB  ,"StGB § 177 Abs. 2 Nr. 1, Abs. 4 Sexuelle Handlungen unt. Ausnutzen der Unfähigkeit z.Willensbildung od.-äußerung",107.0,61.0,0.5700934579439252,57.009345794392516
+2023,StGB  ,"StGB § 177 Abs. 2 Nr. 2,3,4,5 Sex.Handlungen unt.Ausnutzung and.Einschränk. d. Fähigkeit z.Willensbild.od.-betätigung",122.0,89.0,0.7295081967213115,72.95081967213115
+2023,StGB  ,"StGB § 177 Abs. 5 Sex. Handlungen unt. Anwendung v. Gewalt, Drohung od. Ausnutzen einer schutzl. Lage",580.0,389.0,0.6706896551724137,67.06896551724138
+2023,StGB  ,StGB § 177 Abs. 6 Nr. 1 Vergewaltigung ,1061.0,688.0,0.648444863336475,64.8444863336475
+2023,StGB  ,"StGB § 177 Abs. 6 Nr. 2, Abs. 7,8 Gemeinschaftlich begangener od. anderer schwerer sexueller Übergriff",148.0,104.0,0.7027027027027027,70.27027027027027
+2023,StGB  ,StGB § 181 a Zuhälterei ,14.0,11.0,0.7857142857142857,78.57142857142857
+2023,StGB  ,"StGB § 182 Abs. 1, 2 Sexueller Missbrauch von Jugendlichen unter Ausnutzung einer Zwangslage oder gegen Entgelt",75.0,58.0,0.7733333333333333,77.33333333333333
+2023,StGB  ,StGB § 182 Abs. 3 Sexueller Missbrauch von Jugendlichen unter Ausnutzung fehlender Fähigkeit zur sexuellen Selbstbestimmung,14.0,11.0,0.7857142857142857,78.57142857142857
+2023,StGB  ,StGB § 183 Exhibitionistische Handlungen ,814.0,648.0,0.7960687960687961,79.60687960687962
+2023,StGB  ,"StGB § 184 Verbreitung ""einfacher"" pornographischer Inhalte",555.0,423.0,0.7621621621621621,76.21621621621621
+2023,StGB  ,StGB § 184 a Verbreitung gewalt- oder tierpornographischer Inhalte,28.0,19.0,0.6785714285714286,67.85714285714286
+2023,StGB  ,"StGB § 184 b Verbreitung, Erwerb und Besitz kinderpornographischer Inhalte",4939.0,4008.0,0.8115003037052034,81.15003037052034
+2023,StGB  ,"StGB § 184 c Verbreitung, Erwerb und Besitz jugendpornographischer Inhalte",481.0,345.0,0.7172557172557172,71.72557172557173
+2023,StGB  ,"StGB § 184 e i.V.m. §§ 184 b, 184 c Veranstaltung und Besuch kinder- und jugendpornogr. Darbietungen",4.0,3.0,0.75,75.0
+2023,StGB  ,StGB § 184 f Ausübung der verbotenen Prostitution ,123.0,112.0,0.9105691056910569,91.05691056910568
+2023,StGB  ,StGB § 184 i Sexuelle Belästigung ,2608.0,1919.0,0.7358128834355828,73.58128834355828
+2023,StGB  ,StGB § 184 j Straftaten aus Gruppen ,3.0,1.0,0.3333333333333333,33.33333333333333
+2023,StGB  ,StGB § 184 k Verletzung des Intimbereichs durch Bildaufnahmen,49.0,39.0,0.7959183673469388,79.59183673469387
+2023,StGB  ,"StGB § 184 l Inverkehrbringen, Erwerb und Besitz von Sexpuppen mit kindlichem Erscheinungsbild",4.0,4.0,1.0,100.0
+2023,StGB  ,StGB § 185 Beleidigung ,29435.0,23830.0,0.8095804314591473,80.95804314591473
+2023,StGB  ,StGB § 186 Üble Nachrede ,457.0,277.0,0.6061269146608315,60.61269146608315
+2023,StGB  ,StGB § 187 Verleumdung ,469.0,281.0,0.5991471215351812,59.914712153518124
+2023,StGB  ,"StGB § 188 Gegen Personen des politischen Lebens gerich- tete Beleidigung,üble Nachrede u. Verleumdung",232.0,206.0,0.8879310344827587,88.79310344827587
+2023,StGB  ,StGB § 189 Verunglimpfung des Andenkens Verstorbener ,19.0,15.0,0.7894736842105263,78.94736842105263
+2023,StGB  ,StGB § 192 a Verhetzende Beleidigung ,46.0,34.0,0.7391304347826086,73.91304347826086
+2023,StGB  ,StGB § 201 Verletzung der Vertraulichkeit des Wortes ,419.0,298.0,0.711217183770883,71.1217183770883
+2023,StGB  ,StGB § 202 Verletzung des Briefgeheimnisses ,21.0,12.0,0.5714285714285714,57.14285714285714
+2023,StGB  ,StGB § 202 a Ausspähen von Daten ,69.0,42.0,0.6086956521739131,60.86956521739131
+2023,StGB  ,StGB § 202 b Abfangen von Daten ,5.0,2.0,0.4,40.0
+2023,StGB  ,StGB § 202 c Vorbereiten des Ausspähens und Abfangens von Daten,3.0,1.0,0.3333333333333333,33.33333333333333
+2023,StGB  ,StGB § 202 d Datenhehlerei ,8.0,8.0,1.0,100.0
+2023,StGB  ,StGB § 203 Verletzung von Privatgeheimnissen ,14.0,7.0,0.5,50.0
+2023,StGB  ,StGB § 204 Verwertung fremder Geheimnisse ,2.0,1.0,0.5,50.0
+2023,StGB  ,StGB § 206 Verletzung des Post- oder Fernmeldegeheimnisses,364.0,327.0,0.8983516483516484,89.83516483516483
+2023,StGB  ,StGB § 211 Mord ,139.0,110.0,0.7913669064748201,79.13669064748201
+2023,StGB  ,"StGB § 211 i.V.m. §§ 22, 23 Versuchter Mord ",121.0,87.0,0.71900826446281,71.900826446281
+2023,StGB  ,StGB § 218 Schwangerschaftsabbruch ,12.0,6.0,0.5,50.0
+2023,StGB  ,StGB § 221 Aussetzung ,14.0,11.0,0.7857142857142857,78.57142857142857
+2023,StGB  ,StGB § 225 Misshandlung von Schutzbefohlenen ,179.0,76.0,0.4245810055865922,42.45810055865922
+2023,StGB  ,StGB § 231 Beteiligung an einer Schlägerei ,4.0,2.0,0.5,50.0
+2023,StGB  ,StGB § 232 Menschenhandel ,8.0,2.0,0.25,25.0
+2023,StGB  ,StGB § 232 a Abs. 1 bis 5 Zwangsprostitution ,42.0,25.0,0.5952380952380952,59.523809523809526
+2023,StGB  ,StGB § 232 b Zwangsarbeit ,27.0,21.0,0.7777777777777778,77.77777777777779
+2023,StGB  ,StGB § 233 Ausbeutung der Arbeitskraft ,5.0,3.0,0.6,60.0
+2023,StGB  ,StGB § 235 Entziehung Minderjähriger ,117.0,71.0,0.6068376068376068,60.68376068376068
+2023,StGB  ,StGB § 236 Kinderhandel ,5.0,4.0,0.8,80.0
+2023,StGB  ,StGB § 238 Nachstellung ,1028.0,726.0,0.7062256809338522,70.62256809338521
+2023,StGB  ,StGB § 239 Freiheitsberaubung ,375.0,226.0,0.6026666666666667,60.266666666666666
+2023,StGB  ,StGB § 239 a Erpresserischer Menschenraub ,117.0,96.0,0.8205128205128205,82.05128205128204
+2023,StGB  ,StGB § 239 b Geiselnahme ,29.0,21.0,0.7241379310344828,72.41379310344827
+2023,StGB  ,StGB § 241 Bedrohung ,9621.0,7081.0,0.7359941793992308,73.59941793992309
+2023,StGB  ,StGB § 242 Diebstahl ,97797.0,81291.0,0.8312218166201417,83.12218166201417
+2023,StGB  ,StGB § 243 Abs. 1 Satz 2 Nr. 1 Einbruchdiebstahl ,7077.0,5357.0,0.7569591634873534,75.69591634873534
+2023,StGB  ,StGB § 243 Abs. 1 Satz 2 Nrn. 2 bis 7 Diebstahl in anderen besonders schweren Fällen,8980.0,7567.0,0.8426503340757239,84.26503340757239
+2023,StGB  ,StGB § 244 Abs. 1 Nr. 1 Diebstahl mit Waffen ,4523.0,3823.0,0.8452354631881495,84.52354631881495
+2023,StGB  ,StGB § 244 Abs. 1 Nr. 2 Bandendiebstahl ,161.0,86.0,0.5341614906832298,53.41614906832298
+2023,StGB  ,StGB § 244 Abs. 1 Nr. 3 Wohnungseinbruchdiebstahl ,595.0,390.0,0.6554621848739496,65.54621848739495
+2023,StGB  ,StGB § 244 Abs. 4 Privatwohnungseinbruchdiebstahl ,1488.0,1268.0,0.8521505376344086,85.21505376344086
+2023,StGB  ,StGB § 244 a Schwerer Bandendiebstahl ,569.0,484.0,0.8506151142355008,85.06151142355009
+2023,StGB  ,StGB § 246 Unterschlagung ,4867.0,3597.0,0.739058968563797,73.9058968563797
+2023,StGB  ,StGB § 248 b Unbefugter Gebrauch eines Fahrzeugs ,339.0,250.0,0.7374631268436578,73.74631268436578
+2023,StGB  ,StGB § 248 c Entziehung elektrischer Energie ,362.0,292.0,0.8066298342541437,80.66298342541437
+2023,StGB  ,StGB § 249 Raub ,2112.0,1341.0,0.6349431818181818,63.49431818181818
+2023,StGB  ,StGB § 250 Schwerer Raub ,1236.0,985.0,0.7969255663430421,79.69255663430421
+2023,StGB  ,StGB § 251 Raub mit Todesfolge ,6.0,6.0,1.0,100.0
+2023,StGB  ,StGB § 252 Räuberischer Diebstahl ,1563.0,1211.0,0.7747920665387076,77.47920665387076
+2023,StGB  ,StGB § 253 Abs. 1 Erpressung ,819.0,489.0,0.5970695970695971,59.70695970695971
+2023,StGB  ,StGB § 253 Abs. 4 Besonders schwerer Fall der Erpressung ,27.0,19.0,0.7037037037037037,70.37037037037037
+2023,StGB  ,StGB § 255 Räuberische Erpressung ,2820.0,2110.0,0.74822695035461,74.822695035461
+2023,StGB  ,StGB § 259 Hehlerei ,1635.0,1291.0,0.7896024464831805,78.96024464831804
+2023,StGB  ,StGB § 260 Abs. 1 Nr. 1 Gewerbsmäßige Hehlerei ,326.0,239.0,0.7331288343558282,73.31288343558282
+2023,StGB  ,StGB § 260 Abs. 1 Nr. 2 Bandenhehlerei ,5.0,4.0,0.8,80.0
+2023,StGB  ,StGB § 260 a Gewerbsmäßige Bandenhehlerei ,38.0,26.0,0.6842105263157895,68.42105263157895
+2023,StGB  ,StGB § 261 Abs. 1 Geldwäsche ,1060.0,789.0,0.7443396226415094,74.43396226415095
+2023,StGB  ,StGB § 261 Abs. 2 Geldwäsche ,107.0,46.0,0.42990654205607476,42.99065420560748
+2023,StGB  ,StGB § 261 Abs. 4 Geldwäsche durch Verpflichtete ,29.0,24.0,0.8275862068965517,82.75862068965517
+2023,StGB  ,StGB § 261 Abs. 5 Besonders schwere Fälle der Geldwäsche ,167.0,142.0,0.8502994011976048,85.02994011976048
+2023,StGB  ,StGB § 261 Abs. 6 Leichtfertige Geldwäsche ,1245.0,1084.0,0.8706827309236947,87.06827309236948
+2023,StGB  ,StGB § 261 Abs. 7 i.V.m. § 261 Abs. 1 bis 6 Geldwäsche ,14.0,12.0,0.8571428571428571,85.71428571428571
+2023,StGB  ,StGB § 261 Abs. 9 i.V.m. § 261 Abs. 1 bis 6 Geldwäsche ,1.0,1.0,1.0,100.0
+2023,StGB  ,StGB § 263 Abs. 1 Betrug ,65946.0,52925.0,0.8025505716798593,80.25505716798594
+2023,StGB  ,StGB § 263 Abs. 3 und 5 Schwerwiegende Fälle des Betruges ,6730.0,5566.0,0.8270430906389301,82.704309063893
+2023,StGB  ,StGB § 263 a Computerbetrug ,3180.0,2479.0,0.779559748427673,77.95597484276729
+2023,StGB  ,StGB § 264 Subventionsbetrug ,1641.0,1189.0,0.7245581962218159,72.4558196221816
+2023,StGB  ,StGB § 265 Versicherungsmissbrauch ,77.0,57.0,0.7402597402597403,74.02597402597402
+2023,StGB  ,StGB § 265 a Erschleichen von Leistungen ,27947.0,24436.0,0.8743693419687265,87.43693419687266
+2023,StGB  ,StGB § 265 b Kreditbetrug ,4.0,3.0,0.75,75.0
+2023,StGB  ,StGB § 266 Untreue ,917.0,575.0,0.6270447110141767,62.70447110141767
+2023,StGB  ,StGB § 266 a Abs. 1 Vorenthalten von Arbeitnehmerbeiträgen durch den Arbeitgeber,4388.0,3624.0,0.8258887876025525,82.58887876025524
+2023,StGB  ,StGB § 266 a Abs. 2 Vorenthalten von Arbeitgeberbeiträgen durch den Arbeitgeber,31.0,29.0,0.9354838709677419,93.54838709677419
+2023,StGB  ,StGB § 266 a Abs. 3 Veruntreuen von Arbeitsentgelt durch den Arbeitgeber,1.0,1.0,1.0,100.0
+2023,StGB  ,StGB § 266 a Abs. 4 Vorenthalten von Beiträgen durch den Arbeitgeber in besonders schweren Fällen,53.0,50.0,0.9433962264150944,94.33962264150944
+2023,StGB  ,StGB § 266 b Missbrauch von Scheck- und Kreditkarten ,8.0,5.0,0.625,62.5
+2023,StGB  ,StGB § 267 Abs. 1 Urkundenfälschung ,23434.0,20278.0,0.8653238883673295,86.53238883673295
+2023,StGB  ,StGB § 267 Abs. 3 und 4 Schwerwiegende Fälle der Urkundenfälschung ,267.0,230.0,0.8614232209737828,86.14232209737828
+2023,StGB  ,StGB § 268 Fälschung technischer Aufzeichnungen ,89.0,76.0,0.8539325842696629,85.39325842696628
+2023,StGB  ,StGB § 269 Fälschung beweiserheblicher Daten ,1688.0,1424.0,0.8436018957345972,84.36018957345972
+2023,StGB  ,StGB § 271 Mittelbare Falschbeurkundung ,186.0,133.0,0.7150537634408602,71.50537634408603
+2023,StGB  ,StGB § 273 Verändern von amtlichen Ausweisen ,100.0,82.0,0.82,82.0
+2023,StGB  ,"StGB § 274 Urkundenunterdrückung, Veränderung einer Grenzbezeichnung",134.0,111.0,0.8283582089552238,82.83582089552239
+2023,StGB  ,StGB § 275 Vorbereitung d. Fälschung v. amtl. Ausweisen Vorber. der Herst. v. unricht. Impfausweisen,194.0,168.0,0.865979381443299,86.5979381443299
+2023,StGB  ,StGB § 276 Verschaffen von falschen amtlichen Ausweisen,1032.0,944.0,0.9147286821705426,91.47286821705426
+2023,StGB  ,StGB § 276 a i.V.m. § 275 Vorbereitung der Fälschung von aufenthaltsrechtlichen oder Fahrzeugpapieren,1.0,1.0,1.0,100.0
+2023,StGB  ,StGB § 276 a i.V.m. § 276 Verschaffen von falschen aufenthaltsrechtlichen oder Fahrzeugpapieren,18.0,16.0,0.8888888888888888,88.88888888888889
+2023,StGB  ,StGB § 281 Missbrauch von Ausweispapieren ,812.0,717.0,0.8830049261083743,88.30049261083744
+2023,StGB  ,StGB § 283 Bankrott ,840.0,664.0,0.7904761904761904,79.04761904761905
+2023,StGB  ,StGB § 283 a Besonders schwerer Fall des Bankrotts ,9.0,8.0,0.8888888888888888,88.88888888888889
+2023,StGB  ,StGB § 283 b Verletzung der Buchführungspflicht ,147.0,123.0,0.8367346938775511,83.6734693877551
+2023,StGB  ,StGB § 283 d Schuldnerbegünstigung ,15.0,7.0,0.4666666666666667,46.666666666666664
+2023,StGB  ,"StGB § 284 Abs. 1 und 4, § 287 Unerlaubte Veranstaltung eines Glücksspiels, einer Lotterie oder einer Ausspielung",189.0,116.0,0.6137566137566137,61.37566137566137
+2023,StGB  ,StGB § 284 Abs. 3 Unerlaubte Veranstaltung e. gewerbsmäßigen oder bandenmäßigen Glücksspiels,166.0,125.0,0.7530120481927711,75.30120481927712
+2023,StGB  ,StGB § 285 Beteiligung am unerlaubten Glücksspiel ,201.0,140.0,0.6965174129353234,69.65174129353234
+2023,StGB  ,StGB § 291 Abs. 1 Satz 1 Nr. 1 Mietwucher ,32.0,12.0,0.375,37.5
+2023,StGB  ,StGB § 291 Abs. 1 Satz 1 Nrn. 3 und 4 Sonstiger Wucher ,30.0,17.0,0.5666666666666667,56.666666666666664
+2023,StGB  ,StGB § 291 Abs. 2 Besonders schwere Fälle des Wuchers ,13.0,4.0,0.3076923076923077,30.76923076923077
+2023,StGB  ,StGB § 292 Jagdwilderei ,26.0,16.0,0.6153846153846154,61.53846153846154
+2023,StGB  ,StGB § 293 Fischwilderei ,364.0,330.0,0.9065934065934066,90.65934065934066
+2023,StGB  ,StGB § 298 Wettbewerbsbeschränkende Absprachen bei Ausschreibungen,21.0,6.0,0.2857142857142857,28.57142857142857
+2023,StGB  ,StGB § 299 Bestechlichkeit und Bestechung im geschäftlichen Verkehr,29.0,9.0,0.3103448275862069,31.03448275862069
+2023,StGB  ,StGB § 299 a Bestechlichkeit im Gesundheitswesen ,11.0,2.0,0.18181818181818182,18.181818181818183
+2023,StGB  ,StGB § 300 i.V.m. § 299 Besonders schwere Fälle der Bestechlichkeit und Bestechung im geschäftlichen Verkehr,14.0,14.0,1.0,100.0
+2023,StGB  ,StGB § 303 Abs. 1 Sachbeschädigung ,12175.0,8783.0,0.7213963039014374,72.13963039014374
+2023,StGB  ,StGB § 303 Abs. 2 Sachbeschädigung ,1059.0,652.0,0.615675165250236,61.5675165250236
+2023,StGB  ,StGB § 303 a Datenveränderung ,26.0,19.0,0.7307692307692307,73.07692307692307
+2023,StGB  ,StGB § 303 b Computersabotage ,8.0,4.0,0.5,50.0
+2023,StGB  ,StGB § 304 Abs. 1 Gemeinschädliche Sachbeschädigung ,705.0,440.0,0.624113475177305,62.4113475177305
+2023,StGB  ,StGB § 304 Abs. 2 Gemeinschädliche Sachbeschädigung ,123.0,72.0,0.5853658536585366,58.536585365853654
+2023,StGB  ,StGB § 306 Brandstiftung ,424.0,302.0,0.7122641509433962,71.22641509433963
+2023,StGB  ,StGB § 306 a Schwere Brandstiftung ,392.0,234.0,0.5969387755102041,59.693877551020414
+2023,StGB  ,StGB § 306 b Besonders schwere Brandstiftung ,22.0,16.0,0.7272727272727273,72.72727272727273
+2023,StGB  ,StGB § 306 c Brandstiftung mit Todesfolge ,18.0,16.0,0.8888888888888888,88.88888888888889
+2023,StGB  ,StGB § 306 d Fahrlässige Brandstiftung ,468.0,326.0,0.6965811965811965,69.65811965811966
+2023,StGB  ,StGB § 306 f Herbeiführen einer Brandgefahr ,30.0,18.0,0.6,60.0
+2023,StGB  ,"StGB § 315 Gefährliche Eingriffe in den Bahn-, Schiffs- und Luftverkehr",300.0,226.0,0.7533333333333333,75.33333333333333
+2023,StGB  ,"StGB § 315 a Gefährdung des Bahn-, Schiffs- und Luftverkehrs",55.0,41.0,0.7454545454545455,74.54545454545455
+2023,StGB  ,StGB § 315 b Gefährliche Eingriffe in den Straßenverkehr,946.0,487.0,0.514799154334038,51.479915433403804
+2023,StGB  ,StGB § 315 d Abs. 1 Nr. 1 Verbotene Kraftfahrzeugrennen mit Verkehrsunfall,21.0,12.0,0.5714285714285714,57.14285714285714
+2023,StGB  ,StGB § 315 d Abs. 1 Nr. 1 Verbotene Kraftfahrzeugrennen ohne Verkehrsunfall,209.0,137.0,0.6555023923444976,65.55023923444976
+2023,StGB  ,StGB § 315 d Abs. 1 Nr. 2 Verbotene Kraftfahrzeugrennen mit Verkehrsunfall,20.0,8.0,0.4,40.0
+2023,StGB  ,StGB § 315 d Abs. 1 Nr. 2 Verbotene Kraftfahrzeugrennen ohne Verkehrsunfall,253.0,151.0,0.5968379446640316,59.683794466403164
+2023,StGB  ,StGB § 315 d Abs. 1 Nr. 3 Verbotene Kraftfahrzeugrennen mit Verkehrsunfall,69.0,58.0,0.8405797101449275,84.05797101449275
+2023,StGB  ,StGB § 315 d Abs. 1 Nr. 3 Verbotene Kraftfahrzeugrennen ohne Verkehrsunfall,664.0,532.0,0.8012048192771084,80.12048192771084
+2023,StGB  ,"StGB § 315 d Abs. 2, auch i.V.m. Abs. 4 Verbotene Kraftfahrzeugrennen mit Verkehrsunfall",122.0,98.0,0.8032786885245902,80.32786885245902
+2023,StGB  ,"StGB § 315 d Abs. 2, auch i.V.m. Abs. 4 Verbotene Kraftfahrzeugrennen ohne Verkehrsunfall",114.0,85.0,0.7456140350877193,74.56140350877193
+2023,StGB  ,StGB § 315 d Abs. 5 Verbotene Kraftfahrzeugrennen mit Verkehrsunfall,19.0,17.0,0.8947368421052632,89.47368421052632
+2023,StGB  ,StGB § 315 d Abs. 5 Verbotene Kraftfahrzeugrennen ohne Verkehrsunfall,16.0,12.0,0.75,75.0
+2023,StGB  ,StGB § 316 Trunkenheit im Verkehr mit Verkehrsunfall ,7471.0,7092.0,0.9492705126489092,94.92705126489092
+2023,StGB  ,StGB § 316 Trunkenheit im Verkehr ohne Verkehrsunfall ,50850.0,48780.0,0.95929203539823,95.929203539823
+2023,StGB  ,StGB § 316 a Räuberischer Angriff auf Kraftfahrer ,55.0,40.0,0.7272727272727273,72.72727272727273
+2023,StGB  ,StGB § 323 a Vollrausch in Verbindung mit Verkehrsunfall,194.0,188.0,0.9690721649484536,96.90721649484536
+2023,StGB  ,"StGB § 323 a Vollrausch, ohne Verkehrsunfall ",675.0,646.0,0.957037037037037,95.7037037037037
+2023,StGB  ,StGB § 323 b Gefährdung einer Entziehungskur ,7.0,5.0,0.7142857142857143,71.42857142857143
+2023,StGB  ,StGB § 323 c Abs. 1 Unterlassene Hilfeleistung ,137.0,71.0,0.5182481751824818,51.82481751824818
+2023,StGB  ,StGB § 323 c Abs. 2 Behinderung. v. hilfeleistenden Pers. ,13.0,9.0,0.6923076923076923,69.23076923076923
+2023,StGB  ,StGB § 324 Abs. 3 Gewässerverunreinigung - fahrlässig ,48.0,36.0,0.75,75.0
+2023,StGB  ,StGB § 324 a Abs. 3 Bodenverunreinigung - fahrlässig ,12.0,7.0,0.5833333333333334,58.333333333333336
+2023,StGB  ,"StGB § 324 a, ohne Abs. 3 Bodenverunreinigung - vorsätzlich ",32.0,29.0,0.90625,90.625
+2023,StGB  ,"StGB § 324, ohne Abs. 3 Gewässerverunreinigung - vorsätzlich ",71.0,45.0,0.6338028169014085,63.38028169014085
+2023,StGB  ,StGB § 325 Abs. 1 Luftverunreinigung - vorsätzlich ,3.0,2.0,0.6666666666666666,66.66666666666666
+2023,StGB  ,StGB § 326 Abs. 1 Unerlaubter Umgang mit Abfällen - vorsätzlich,695.0,529.0,0.7611510791366907,76.11510791366906
+2023,StGB  ,StGB § 326 Abs. 2 Grenzüberschreitende Verbringung von Abfällen - vorsätzlich,4.0,3.0,0.75,75.0
+2023,StGB  ,StGB § 326 Abs. 5 Nr. 1 Unerl. Umgang mit Abfällen und grenzüberschr. Verbringung von Abfällen - fahrlässig,118.0,87.0,0.7372881355932204,73.72881355932203
+2023,StGB  ,StGB § 327 Abs. 1 Unerlaubtes Betreiben von kerntechnischen Anlagen - vorsätzlich,8.0,2.0,0.25,25.0
+2023,StGB  ,StGB § 327 Abs. 2 Unerlaubtes Betreiben anderer Anlagen - vorsätzlich,65.0,38.0,0.5846153846153846,58.46153846153847
+2023,StGB  ,StGB § 327 Abs. 2 und 3 Nr. 2 Unerlaubtes Betreiben anderer Anlagen - fahrlässig,9.0,8.0,0.8888888888888888,88.88888888888889
+2023,StGB  ,StGB § 328 Abs. 1 bis 3 Unerlaubter Umgang mit radioaktiven und anderen gefährlichen Stoffen und Gütern - vorsätzlich,2.0,2.0,1.0,100.0
+2023,StGB  ,StGB § 329 Abs. 1 bis 3 Gefährdung schutzbedürftiger Gebiete - vorsätzlich,7.0,2.0,0.2857142857142857,28.57142857142857
+2023,StGB  ,StGB § 329 Abs. 4 Schädigung von Natura2000-Gebieten - vorsätzlich,2.0,2.0,1.0,100.0
+2023,StGB  ,StGB § 330 Besonders schwerer Fall einer Umweltstraftat,2.0,2.0,1.0,100.0
+2023,StGB  ,StGB § 331 Vorteilsannahme ,11.0,8.0,0.7272727272727273,72.72727272727273
+2023,StGB  ,StGB § 332 Bestechlichkeit ,40.0,18.0,0.45,45.0
+2023,StGB  ,StGB § 333 Vorteilsgewährung ,15.0,12.0,0.8,80.0
+2023,StGB  ,StGB § 334 Bestechung ,199.0,162.0,0.8140703517587939,81.4070351758794
+2023,StGB  ,StGB § 335 Besonders schwere Fälle der Bestechlichkeit und Bestechung,21.0,14.0,0.6666666666666666,66.66666666666666
+2023,StGB  ,StGB § 339 Rechtsbeugung ,6.0,4.0,0.6666666666666666,66.66666666666666
+2023,StGB  ,StGB § 348 Falschbeurkundung im Amt ,39.0,17.0,0.4358974358974359,43.58974358974359
+2023,StGB  ,StGB § 353 b Verletzung des Dienstgeheimnisses und einer besonderen Geheimhaltungspflicht,60.0,46.0,0.7666666666666667,76.66666666666667
+2023,StGB  ,StGB § 353 d Verbotene Mitteilungen über Gerichtsverhandlungen,13.0,7.0,0.5384615384615384,53.84615384615385
+2023,StGB  ,StGB § 356 Parteiverrat ,15.0,7.0,0.4666666666666667,46.666666666666664
+2023,StGB  ,StGB § 85 Verstoß gegen ein Vereinigungsverbot,11.0,11.0,1.0,100.0
+2023,StGB  ,StGB § 86 Verbreiten von Propagandamitteln verfassungs- widriger und terroristischer Organisationen,839.0,687.0,0.8188319427890346,81.88319427890346
+2023,StGB  ,StGB § 86 a Verwenden von Kennzeichen verfassungs- widriger und terroristischer Organisationen,1969.0,1529.0,0.776536312849162,77.6536312849162
+2023,StGB  ,StGB § 89 a Vorbereitung einer schweren staatsgefährdenden Gewalttat,17.0,5.0,0.29411764705882354,29.411764705882355
+2023,StGB  ,StGB § 89 c Terrorismusfinanzierung ,1.0,1.0,1.0,100.0
+2023,StGB  ,StGB § 90 a Verunglimpfung des Staates und seiner Symbole,8.0,5.0,0.625,62.5
+2023,StGB  ,StGB § 99 Geheimdienstliche Agententätigkeit,2.0,2.0,1.0,100.0
+2023,StGB  ,"StGB §§ 102, 104 Straftaten gegen ausländische Staaten ",3.0,2.0,0.6666666666666666,66.66666666666666
+2023,StGB  ,StGB §§ 107 bis 108 b Wahlvergehen ,7.0,2.0,0.2857142857142857,28.57142857142857
+2023,StGB  ,"StGB §§ 123, 124 Hausfriedensbruch ",4383.0,3218.0,0.7342003194159251,73.42003194159251
+2023,StGB  ,"StGB §§ 142, 315 b bis d,316 sowie 222,229, §§ 323 a i.V.m. Verkehrsunfall, StVG §§ 21, §§ 22,22 a,22 b Straftaten im Straßenverkehr",187744.0,165934.0,0.8838311743650928,88.38311743650928
+2023,StGB  ,"StGB §§ 146 bis 149 Geld-, Wertzeichen- und Wertpapierfälschung ",489.0,329.0,0.6728016359918201,67.280163599182
+2023,StGB  ,"StGB §§ 166, 167 Religions- und Weltanschauungs- delikte",19.0,13.0,0.6842105263157895,68.42105263157895
+2023,StGB  ,"StGB §§ 212, 213 Totschlag ",521.0,321.0,0.6161228406909789,61.61228406909789
+2023,StGB  ,"StGB §§ 257, 258 und 258 a Begünstigung und Strafvereitelung Strafvereitelung im Amt",972.0,719.0,0.7397119341563786,73.97119341563786
+2023,StGB  ,"StGB §§ 277, 278 und 279 Andere Straftaten der Urkundenfälschung ",1276.0,883.0,0.6920062695924765,69.20062695924764
+2023,StGB  ,"StGB §§ 288, 289 Vereiteln der Zwangsvollstreckung, Pfandkehr ",125.0,80.0,0.64,64.0
+2023,StGB  ,"StGB §§ 307, 308 Herbeiführen einer Explosion ",218.0,176.0,0.8073394495412844,80.73394495412845
+2023,StGB  ,"StGB §§ 309, 310, 313, 314, 318 und 319 Andere gemeingefährliche Straftaten ",22.0,14.0,0.6363636363636364,63.63636363636363
+2023,StGB  ,"StGB §§ 344, 345 Verfolgung Unschuldiger, Vollstreckung gegen Unschuldige",6.0,3.0,0.5,50.0
+2023,StGB  ,StGB §§ 81 bis 83 Hochverrat ,2.0,2.0,1.0,100.0
+2023,StGB  ,"StGB §§ 94, 97 a Landesverrat und Verrat illegaler Geheimnisse",1.0,1.0,1.0,100.0
+2023,StGB  ,"StGB §§ 95, 97 Offenbaren und Preisgabe von Staatsgeheimnissen",6.0,4.0,0.6666666666666666,66.66666666666666
+2023,StGB  ,"StGB §§ 96, 97 b Andere Straftaten wg. Verrats von Staatsge- heimnissen bzw. zum Schutz von Staatsgeh.",1.0,1.0,1.0,100.0
+2023,StGB  ,Straftaten im Straßenverkehr in Trunkenheit mit Verkehrsunfall ,24846.0,23613.0,0.9503743057232552,95.03743057232552
+2023,StGB  ,Straftaten im Straßenverkehr in Trunkenheit ohne Verkehrsunfall ,52540.0,50139.0,0.9543014845831748,95.43014845831748
+2023,StGB  ,Straftaten im Straßenverkehr nach dem StGB in Trunkenheit zusammen,77386.0,73752.0,0.9530406016592149,95.30406016592148
+2023,StGB  ,Straftaten im Straßenverkehr nach dem StGB insgesamt Summe 7001 bis 7041,126459.0,110946.0,0.8773278295732213,87.73278295732213
+2023,StGB  ,Straftaten im Straßenverkehr nach dem StGB und StVG ohne Trunkenheit zusammen,110358.0,92182.0,0.8352996611029558,83.52996611029559
+2023,StGB  ,Straftaten im Straßenverkehr ohne Trunkenheit mit Verkehrsunfall ,48174.0,37171.0,0.77159878772782,77.159878772782
+2023,StGB  ,Straftaten im Straßenverkehr ohne Trunkenheit ohne Verkehrsunfall ,62184.0,55011.0,0.884648784253184,88.4648784253184
+2023,StGB  ,Trunkenheit im Verkehr nach § 316 StGB insgesamt ,58321.0,55872.0,0.9580082646045164,95.80082646045163
+2023,StGB  ,Unerlaubtes Entfernen vom Unfallort insgesamt (§ 142 StGB) ,37855.0,29384.0,0.7762250693435477,77.62250693435477
+2023,StGB  ,Verbotene Kraftfahrzeugrennen nach § 315 d StGB insgesamt ,1507.0,1110.0,0.7365627073656271,73.65627073656272
+2023,StGB  ,Verbotene Kraftfahrzeugrennen nach § 315 d StGB mit Verkehrsunfall ,251.0,193.0,0.7689243027888446,76.89243027888446
+2023,StGB  ,Verbotene Kraftfahrzeugrennen nach § 315 d StGB ohne Verkehrsunfall ,1256.0,917.0,0.7300955414012739,73.00955414012739
+2023,StGB  ,Fahrlässige Körperverl. im Straßenverkehr insgesamt (§ 229 StGB) ,12820.0,10772.0,0.8402496099843993,84.02496099843994
+2023,StGB  ,Fahrlässige Tötung im Straßenverkehr insgesamt (§ 222 StGB) ,544.0,476.0,0.875,87.5
+2023,StGB  ,"StGB 15. Abschnitt, §§ 201 bis 206 Verletzung des persönlichen Lebens- und Geheimbereichs",1427.0,1098.0,0.7694463910301331,76.94463910301332
+2023,StGB  ,"StGB 17. Abschnitt, §§ 223 bis 231 (o.V.) Straftaten gegen die körperliche Unversehrtheit (o.V.)",79719.0,52297.0,0.6560167588655151,65.60167588655152
+2023,StGB  ,"StGB 18. Abschnitt, §§ 232 bis 241 a Straftaten gegen die persönliche Freiheit",19881.0,14278.0,0.7181731301242392,71.81731301242392
+2023,StGB  ,"StGB 7. Abschnitt, §§ 123 bis 145 d, ohne § 142 Straftaten gegen die öffentliche Ordnung (o.V.) ",10184.0,7555.0,0.7418499607227023,74.18499607227022
+2023,StGB  ,StGB § 106 b Störung der Tätigkeit eines Gesetzgebungsorgans,2.0,2.0,1.0,100.0
+2023,StGB  ,StGB § 111 Öffentliche Aufforderung zu Straftaten ,170.0,122.0,0.7176470588235294,71.76470588235294
+2023,StGB  ,StGB § 126 Störung des öffentlichen Friedens durch Androhung von Straftaten,267.0,190.0,0.7116104868913857,71.16104868913857
+2023,StGB  ,StGB § 129 b i.V.m. § 129 Bildung krimineller Vereinigungen im Ausland,6.0,6.0,1.0,100.0
+2023,StGB  ,"StGB § 130 Abs. 3 Volksverhetzung durch Billigung, Leugnung oder Verharmlosung des nationalsozialistischen Völkermordes",424.0,351.0,0.8278301886792453,82.78301886792453
+2023,StGB  ,"StGB § 174 a Sexueller Missbrauch von Gefangenen, behördlich Verwahrten oder Kranken u. Hilfsbedürftigen in Einrichtungen",10.0,5.0,0.5,50.0
+2023,StGB  ,StGB § 176 a Sexueller Missbrauch von Kindern ohne Körperkontakt mit dem Kind,446.0,330.0,0.7399103139013453,73.99103139013454
+2023,StGB  ,StGB § 180 Förderung sexueller Handlungen Minderjähriger,10.0,7.0,0.7,70.0
+2023,StGB  ,StGB § 180 a Ausbeutung von Prostituierten ,3.0,3.0,1.0,100.0
+2023,StGB  ,StGB § 183 a Erregung öffentlichen Ärgernisses ,209.0,183.0,0.8755980861244019,87.5598086124402
+2023,StGB  ,StGB § 201 a Verletzung des höchstpers. Lebensbereichs und von Persönlichkeitsrechten d. Bildaufn.,522.0,400.0,0.7662835249042146,76.62835249042146
+2023,StGB  ,StGB § 216 Tötung auf Verlangen ,4.0,3.0,0.75,75.0
+2023,StGB  ,StGB § 222 Fahrlässige Tötung im Straßenverkehr in Trunkenheit ,65.0,63.0,0.9692307692307692,96.92307692307692
+2023,StGB  ,StGB § 222 Fahrlässige Tötung im Straßenverkehr ohne Trunkenheit ,479.0,413.0,0.8622129436325678,86.22129436325679
+2023,StGB  ,"StGB § 222 Fahrlässige Tötung, außer im Straßenverkehr ",248.0,144.0,0.5806451612903226,58.06451612903226
+2023,StGB  ,StGB § 223 Körperverletzung ,44312.0,32033.0,0.7228967322621411,72.28967322621412
+2023,StGB  ,"StGB § 224 Abs. 1 Nr. 1 Gefährliche Körperverletzung, Vergiftung ",491.0,223.0,0.45417515274949083,45.41751527494908
+2023,StGB  ,StGB § 224 Abs. 1 Nrn. 2 bis 5 Gefährliche Körperverletzung ,30516.0,17062.0,0.5591165290339494,55.91165290339494
+2023,StGB  ,StGB § 226 Abs. 1 Schwere Körperverletzung ,89.0,69.0,0.7752808988764045,77.52808988764045
+2023,StGB  ,StGB § 226 Abs. 2 Absichtliche oder wissentliche schwere Körperverletzung,14.0,13.0,0.9285714285714286,92.85714285714286
+2023,StGB  ,StGB § 227 Körperverletzung mit Todesfolge ,46.0,35.0,0.7608695652173914,76.08695652173914
+2023,StGB  ,StGB § 229 Fahrlässige Körperverletzung im Straßenverkehr in Trunkenheit ,2352.0,2270.0,0.9651360544217688,96.51360544217688
+2023,StGB  ,StGB § 229 Fahrlässige Körperverletzung im Straßenverkehr ohne Trunkenheit ,10468.0,8502.0,0.8121895299961789,81.21895299961788
+2023,StGB  ,"StGB § 229 Fahrlässige Körperverletzung, außer im Straßenverkehr",4068.0,2784.0,0.6843657817109144,68.43657817109144
+2023,StGB  ,StGB § 237 Abs. 1 Zwangsheirat - Nötigung zur Eingehung der Ehe,4.0,3.0,0.75,75.0
+2023,StGB  ,StGB § 240 Abs. 1 Nötigung ,8455.0,5970.0,0.7060910703725606,70.60910703725605
+2023,StGB  ,StGB § 240 Abs. 4 Nr. 1 Nötigung einer Schwangeren zum Schwangerschaftsabbruch,26.0,19.0,0.7307692307692307,73.07692307692307
+2023,StGB  ,StGB § 241 a Politische Verdächtigung ,8.0,5.0,0.625,62.5
+2023,StGB  ,StGB § 305 Zerstörung von Bauwerken ,8.0,4.0,0.5,50.0
+2023,StGB  ,StGB § 305 a Zerstörung wichtiger Arbeitsmittel ,20.0,16.0,0.8,80.0
+2023,StGB  ,StGB § 315 c Abs. 1 Nr. 1 a auch i.V.m. Abs.3 Straßenverkehrsgefährdung infolge Trunkenheit mit Verkehrsunfall,9993.0,9417.0,0.9423596517562294,94.23596517562294
+2023,StGB  ,StGB § 315 c Abs. 1 Nr. 1 a auch i.V.m. Abs.3 Straßenverkehrsgefährdung infolge Trunkenheit ohne Verkehrsunfall,1690.0,1359.0,0.8041420118343195,80.41420118343196
+2023,StGB  ,StGB § 315 c Abs. 1 Nr. 1 b auch i.V.m. Abs.3 Straßenverkehrsgefährdung infolge geistiger oder körperl. Mängel mit Verkehrsunfall,1072.0,822.0,0.7667910447761194,76.67910447761194
+2023,StGB  ,StGB § 315 c Abs. 1 Nr. 1 b auch i.V.m. Abs.3 Straßenverkehrsgefährdung infolge geistiger oder körperl. Mängel ohne Verkehrsunfall,161.0,79.0,0.4906832298136646,49.06832298136646
+2023,StGB  ,StGB § 315 c Abs. 1 Nr. 2 a auch i.V.m. Abs.3 Nichtbeachten der Vorfahrt mit Verkehrsunfall,156.0,124.0,0.7948717948717948,79.48717948717949
+2023,StGB  ,StGB § 315 c Abs. 1 Nr. 2 a auch i.V.m. Abs.3 Nichtbeachten der Vorfahrt ohne Verkehrsunfall,134.0,80.0,0.5970149253731343,59.70149253731343
+2023,StGB  ,StGB § 315 c Abs. 1 Nr. 2 b auch i.V.m. Abs.3 Falsches Überholen mit Verkehrsunfall,426.0,353.0,0.8286384976525821,82.86384976525821
+2023,StGB  ,StGB § 315 c Abs. 1 Nr. 2 b auch i.V.m. Abs.3 Falsches Überholen ohne Verkehrsunfall,423.0,272.0,0.6430260047281324,64.30260047281324
+2023,StGB  ,StGB § 315 c Abs. 1 Nr. 2 c auch i.V.m. Abs.3 Falsches Fahren an Fußgängerüberwegen mit Verkehrsunfall,6.0,4.0,0.6666666666666666,66.66666666666666
+2023,StGB  ,StGB § 315 c Abs. 1 Nr. 2 c auch i.V.m. Abs.3 Falsches Fahren an Fußgängerüberwegen ohne Verkehrsunfall,26.0,8.0,0.3076923076923077,30.76923076923077
+2023,StGB  ,StGB § 315 c Abs. 1 Nr. 2 d auch i.V.m. Abs.3 Zu schnelles Fahren an unübersichtlichen Stellen etc. mit Verkehrsunfall,62.0,44.0,0.7096774193548387,70.96774193548387
+2023,StGB  ,StGB § 315 c Abs. 1 Nr. 2 d auch i.V.m. Abs.3 Zu schnelles Fahren an unübersichtlichen Stellen etc. ohne Verkehrsunfall,53.0,42.0,0.7924528301886793,79.24528301886792
+2023,StGB  ,StGB § 315 c Abs. 1 Nr. 2 e auch i.V.m. Abs.3 Nichteinhalten der rechten Fahrbahnseite mit Verkehrsunfall,6.0,6.0,1.0,100.0
+2023,StGB  ,StGB § 315 c Abs. 1 Nr. 2 e auch i.V.m. Abs.3 Nichteinhalten der rechten Fahrbahnseite ohne Verkehrsunfall,8.0,4.0,0.5,50.0
+2023,StGB  ,"StGB § 315 c Abs. 1 Nr. 2 f auch i.V.m. Abs.3 Verbotenes Wenden, Rückwärtsfahren o. Fahren entgegen d. Fahrtrichtung mit Verkehrsunfall",22.0,17.0,0.7727272727272727,77.27272727272727
+2023,StGB  ,"StGB § 315 c Abs. 1 Nr. 2 f auch i.V.m. Abs.3 Verbotenes Wenden, Rückwärtsfahren o. Fahren entgegen d. Fahrtrichtung ohne Verkehrsunfall",25.0,21.0,0.84,84.0
+2023,StGB  ,StGB § 315 c Abs. 1 Nr. 2 g auch i.V.m. Abs.3 Nichtkenntlichmachen haltender oder liegen- gebliebener Fahrzeuge mit Verkehrsunfall,7.0,4.0,0.5714285714285714,57.14285714285714
+2023,StGB  ,StGB § 315 c Abs. 1 Nr. 2 g auch i.V.m. Abs.3 Nichtkenntlichmachen haltender oder liegen- gebliebener Fahrzeuge ohne Verkehrsunfall,2.0,1.0,0.5,50.0
+2023,StGB  ,StGB § 316 c Angriffe auf den Luft- und Seeverkehr ,1.0,1.0,1.0,100.0
+2023,StGB  ,StGB § 325 Abs. 2 Freisetzen von Schadstoffen in die Luft beim Betrieb einer Anlage - vorsätzlich,2.0,2.0,1.0,100.0
+2023,StGB  ,StGB § 328 Abs. 5 Unerlaubter Umgang mit radioaktiven und anderen gefährlichen Stoffen und Gütern - fahrlässig,2.0,1.0,0.5,50.0
+2023,StGB  ,StGB § 340 Körperverletzung im Amt ,79.0,20.0,0.25316455696202533,25.31645569620253
+2023,StGB  ,StGB § 357 i.V.m. § 331ff. Verleitung eines Untergebenen zu einer Straftat,1.0,1.0,1.0,100.0
+2023,StGB  ,StGB § 87 Agententätigkeit zu Sabotagezwecken,1.0,1.0,1.0,100.0
+2023,StGB  ,StGB § 89 Verfassungsfeindliche Einwirkung auf Bundeswehr und öffentliche Sicherheitsorgane,3.0,3.0,1.0,100.0
+2023,StGB  ,"StGB §§ 105, 106 Nötigung von Verfassungsorganen ",11.0,5.0,0.45454545454545453,45.45454545454545
+2023,StGB  ,"StGB §§ 167 a, 168 Störung einer Bestattungsfeier, Störung der Totenruhe",27.0,18.0,0.6666666666666666,66.66666666666666
+2023,StGB  ,"StGB §§ 316 b, 317 Störung öffentlicher Betriebe und von Telekommunikationsanlagen",47.0,29.0,0.6170212765957447,61.702127659574465
+2023,StGBoV  ,Straftaten ohne Straftaten im Straßenverkehr nach dem StGB insgesamt Summe 1012 bis 1690,487968.0,379650.0,0.778022329333071,77.8022329333071
+2023,StVG  ,Führen eines Kraftfahrzeuges ohne Fahrerlaubnis oder trotz Fahrverbots insgesamt (§ 21 Abs. 1 Nr. 1 StVG),46731.0,42320.0,0.9056086965825683,90.56086965825682
+2023,StVG  ,StVG § 21 Abs. 1 Nr. 1 Führen eines Kraftfahrzeuges ohne Fahrerlaubnis oder trotz Fahrverbots mit Verkehrsunfall,2135.0,1888.0,0.8843091334894614,88.43091334894613
+2023,StVG  ,StVG § 21 Abs. 1 Nr. 1 Führen eines Kraftfahrzeuges ohne Fahrerlaubnis oder trotz Fahrverbots ohne Verkehrsunfall,44596.0,40432.0,0.9066283971656651,90.66283971656651
+2023,StVG  ,StVG § 21 Abs. 1 Nr. 2 Anordnen od. Zulassen des Führens eines Kraftfahrzeuges ohne Fahrerlaubnis oder trotz Fahrverbots,2749.0,2099.0,0.7635503819570753,76.35503819570752
+2023,StVG  ,StVG § 21 Abs. 2 Sonstiges unerlaubtes Führen oder Anordnen oder Zulassen des unerlaubten Führens eines Kraftfahrzeuges,10681.0,9611.0,0.8998221140342665,89.98221140342665
+2023,StVG  ,StVG § 22 Abs. 1 Nr. 1 Vortäuschen der Kennzeichnung nicht zugelassener Kraftfahrzeuge,801.0,693.0,0.8651685393258427,86.51685393258427
+2023,StVG  ,StVG § 22 Abs. 1 Nr. 2 Verfälschen der zugelassenen Kennzeichnung ,153.0,137.0,0.8954248366013072,89.54248366013073
+2023,StVG  ,StVG § 22 Abs. 1 Nr. 3 Unterdrücken des amtlich angebrachten Kennzeichens,65.0,53.0,0.8153846153846154,81.53846153846153
+2023,StVG  ,"StVG § 22 Abs. 2 Gebrauchmachen von Kraft- fahrzeugen o. Kfz-Anhängern mit gefälschten, verfälschten oder unterdrückten Kennzeichen",89.0,64.0,0.7191011235955056,71.91011235955057
+2023,StVG  ,"StVG § 22 a Missbräuchliches Herstellen, Vertreiben oder Ausgeben von Kennzeichen",4.0,2.0,0.5,50.0
+2023,StVG  ,StVG § 22 b Missbrauch von Wegstreckenzählern und Geschwindigkeitsbegrenzern,12.0,9.0,0.75,75.0
+2023,StVG  ,Straftaten nach dem StVG insgesamt Summe 8001 bis 8010 ,61285.0,54988.0,0.8972505507057191,89.72505507057191
+2023,Straftat  ,Straftaten außerhalb des Strafgesetzbuches (StGB) ,189983.0,166305.0,0.8753677960659638,87.53677960659638
+2023,TKG  ,Telekommunikationsgesetz TKG ,1.0,1.0,1.0,100.0
+2023,TabakerzG  ,Tabakerzeugnisgesetz TabakerzG ,28.0,24.0,0.8571428571428571,85.71428571428571
+2023,TierGesG  ,Tiergesundheitsgesetz TierGesG ,18.0,16.0,0.8888888888888888,88.88888888888889
+2023,TierNebG  ,Tierische Nebenprodukte-Beseitigungsgesetz TierNebG ,4.0,2.0,0.5,50.0
+2023,TierSchG  ,Tierschutzgesetz TierSchG ,1342.0,999.0,0.7444113263785395,74.44113263785394
+2023,UWG  ,Gesetz gegen den unlauteren Wettbewerb UWG ,15.0,6.0,0.4,40.0
+2023,UrhG  ,Urheberrechtsgesetz UrhG ,102.0,79.0,0.7745098039215687,77.45098039215686
+2023,VAG  ,Versicherungsaufsichtsgesetz (§ 331) VAG ,6.0,1.0,0.16666666666666666,16.666666666666664
+2023,VStGB  ,Völkerstrafgesetzbuch insgesamt VStGB Summe 0001 bis 0036,19.0,18.0,0.9473684210526315,94.73684210526315
+2023,VStGB  ,Völkerstrafgesetzbuch § 13 VStGB ,8.0,8.0,1.0,100.0
+2023,VStGB  ,Völkerstrafgesetzbuch § 6 VStGB ,8.0,7.0,0.875,87.5
+2023,VStGB  ,Völkerstrafgesetzbuch § 7 VStGB ,1.0,1.0,1.0,100.0
+2023,VStGB  ,Völkerstrafgesetzbuch § 8 VStGB ,1.0,1.0,1.0,100.0
+2023,VStGB  ,Völkerstrafgesetzbuch § 9 VStGB ,1.0,1.0,1.0,100.0
+2023,VereinsG  ,Vereinsgesetz VereinsG ,54.0,37.0,0.6851851851851852,68.51851851851852
+2023,VersammlG  ,Versammlungsgesetz VersammlG ,497.0,292.0,0.5875251509054326,58.752515090543255
+2023,WStG  ,Straftaten nach dem Wehrstrafgesetz insg. WStG Summe 2001 bis 2099,151.0,111.0,0.7350993377483444,73.50993377483444
+2023,WStG  ,WStG § 15 Eigenmächtige Abwesenheit ,71.0,62.0,0.8732394366197183,87.32394366197182
+2023,WStG  ,WStG § 16 Fahnenflucht ,4.0,4.0,1.0,100.0
+2023,WStG  ,WStG § 18 Dienstentziehung durch Täuschung ,6.0,4.0,0.6666666666666666,66.66666666666666
+2023,WStG  ,WStG § 19 Ungehorsam ,2.0,1.0,0.5,50.0
+2023,WStG  ,WStG § 20 Gehorsamsverweigerung ,51.0,31.0,0.6078431372549019,60.78431372549019
+2023,WStG  ,WStG § 25 Tätlicher Angriff gegen einen Vorgesetzten,1.0,1.0,1.0,100.0
+2023,WStG  ,WStG § 30 Misshandlung ,4.0,2.0,0.5,50.0
+2023,WStG  ,WStG § 31 Entwürdigende Behandlung ,1.0,1.0,1.0,100.0
+2023,WStG  ,WStG § 32 Missbrauch der Befehlsbefugnis zu unzulässigen Zwecken,4.0,3.0,0.75,75.0
+2023,WStG  ,WStG § 17 Selbstverstümmelung ,1.0,1.0,1.0,100.0
+2023,WStG  ,WStG § 35 Unterdrücken von Beschwerden ,1.0,1.0,1.0,100.0
+2023,WaffG  ,Waffengesetz WaffG ,8897.0,7502.0,0.8432055749128919,84.3205574912892
+2023,WeinG  ,Weingesetz WeinG ,11.0,2.0,0.18181818181818182,18.181818181818183
+2023,WpHG  ,Wertpapierhandelsgesetz WpHG ,6.0,2.0,0.3333333333333333,33.33333333333333
+2023,ZAG  ,Zahlungsdiensteaufsichtsgesetz ZAG ,10.0,10.0,1.0,100.0
+2023,Übrige  ,Sonstiges Bundesgesetz SONSTBUN ,3.0,1.0,0.3333333333333333,33.33333333333333
+2023,BKAG  ,Bundeskriminalamtgesetz BKAG ,1.0,1.0,1.0,100.0
+2023,FoVG  ,Forstvermehrungsgutgesetz FoVG ,1.0,1.0,1.0,100.0
+2023,IntBestG  ,Gesetz zur Bekämpfung internationaler Bestechung IntBestG,1.0,1.0,1.0,100.0
+2023,KAGB  ,Kapitalanlagegesetzbuch KAGB ,9.0,7.0,0.7777777777777778,77.77777777777779
+2023,MPDG  ,Medizinprodukterecht- Durchführungsgesetz MPDG,11.0,6.0,0.5454545454545454,54.54545454545454
+2023,TAMG  ,Tierarzneimittelgesetz TAMG ,3.0,3.0,1.0,100.0
+2023,TTDSG  ,Telekommunikation-Telemedien- Datenschutz-Gesetz TTDSG,1.0,1.0,1.0,100.0
+2023,ZHG  ,Gesetz über die Ausübung der Zahnheilkunde ZHG ,1.0,1.0,1.0,100.0
+2023,ÖLG  ,Öko-Landbaugesetz ÖLG ,5.0,5.0,1.0,100.0
+2024,AMG  ,"Arzneimittelgesetz §§ 95, 96 AMG ",373.0,289.0,0.774798927613941,77.4798927613941
+2024,AO  ,Abgabenordnung insgesamt AO Summe 4690 bis 4696,10287.0,8876.0,0.8628365898707107,86.28365898707106
+2024,AO  ,Abgabenordnung § 370 Abs. 1 AO ,9414.0,8109.0,0.861376673040153,86.1376673040153
+2024,AO  ,Abgabenordnung § 370 Abs. 3 AO ,576.0,505.0,0.8767361111111112,87.67361111111111
+2024,AO  ,Abgabenordnung § 372 Abs. 2 AO ,21.0,18.0,0.8571428571428571,85.71428571428571
+2024,AO  ,Abgabenordnung § 373 Abs. 1 AO ,21.0,18.0,0.8571428571428571,85.71428571428571
+2024,AO  ,Abgabenordnung § 373 Abs. 2 AO ,2.0,2.0,1.0,100.0
+2024,AO  ,Abgabenordnung § 374 Abs. 1 AO ,120.0,102.0,0.85,85.0
+2024,AO  ,"Abgabenordnung,§ 374 Abs. 2 AO ",133.0,122.0,0.9172932330827067,91.72932330827066
+2024,AWG  ,Außenwirtschaftsgesetz AWG ,116.0,75.0,0.646551724137931,64.65517241379311
+2024,AbfVerbrG  ,Abfallverbringungsgesetz § 18 a illegale Verbringung gefährlicher Abfälle AbfVerbrG,13.0,8.0,0.6153846153846154,61.53846153846154
+2024,AbfVerbrG  ,Abfallverbringungsgesetz § 18 b illegale Verbringung nicht gefährl. Abfälle AbfVerbrG,6.0,4.0,0.6666666666666666,66.66666666666666
+2024,And BuG  ,Straftaten nach anderen Bundes- und Landesgesetzen (außer StGB und StVG) ,113061.0,95164.0,0.8417049203527299,84.17049203527299
+2024,AnitiDopG  ,Anti-Doping-Gesetz § 4 AntiDopG ,768.0,721.0,0.9388020833333334,93.88020833333334
+2024,ArbSchG  ,Arbeitsschutzgesetz ArbSchG ,1.0,1.0,1.0,100.0
+2024,AsylG  ,Asylgesetz insgesamt AsylG Summe 4052 bis 4054,98.0,81.0,0.826530612244898,82.6530612244898
+2024,AsylG  ,Asylgesetz § 85 AsylG ,97.0,80.0,0.8247422680412371,82.4742268041237
+2024,AsylG  ,Asylgesetz § 84 AsylG ,1.0,1.0,1.0,100.0
+2024,AufenthG  ,Aufenthaltsgesetz insgesamt AufenthG Summe 4060 bis 4070,10970.0,9645.0,0.8792160437556974,87.92160437556974
+2024,AufenthG  ,Aufenthaltsgesetz § 95 AufenthG ,9456.0,8257.0,0.8732021996615905,87.32021996615906
+2024,AufenthG  ,Aufenthaltsgesetz § 96 Einschleusen von Ausländern ,1424.0,1302.0,0.9143258426966292,91.43258426966293
+2024,AufenthG  ,"Aufenthaltsgesetz § 97 Einschleusen mit Todesfolge, gewerbs- und bandenmäßiges Einschleusen",90.0,86.0,0.9555555555555556,95.55555555555556
+2024,AusgStG  ,Ausgangsstoffgesetz AusgStG ,10.0,6.0,0.6,60.0
+2024,AuslPflVG  ,Gesetz über die Haftpflichtversicherung für ausländische Kraftfahrzeuge und Kraftfahr- zeuganhänger AuslPflVG,409.0,385.0,0.941320293398533,94.13202933985329
+2024,AÜG  ,"Arbeitnehmerüberlassungsgesetz §§ 15, 15 a AÜG ",4.0,4.0,1.0,100.0
+2024,BApO  ,Bundes-Apothekerordnung BApO ,13.0,12.0,0.9230769230769231,92.3076923076923
+2024,BDSG  ,Bundesdatenschutzgesetz BDSG ,15.0,10.0,0.6666666666666666,66.66666666666666
+2024,BJagdG  ,Bundesjagdgesetz BJagdG ,6.0,4.0,0.6666666666666666,66.66666666666666
+2024,BNatSchG  ,Bundesnaturschutzgesetz BNatSchG ,55.0,33.0,0.6,60.0
+2024,BauFordSiG  ,Bauforderungssicherungsgesetz BauFordSiG ,2.0,2.0,1.0,100.0
+2024,BtMG  ,"BtMG § 29 Abs. 1 Nr. 1 Unerl. Anbauen, Herst., Handeltr. mit, Ein- oder Ausführen etc. von Betäubungsmitteln",13017.0,9326.0,0.7164477222094184,71.64477222094185
+2024,BtMG  ,BtMG § 29 Abs. 1 Nr. 3 Unerlaubter Besitz von Betäubungsmitteln ,22079.0,18165.0,0.8227274785995743,82.27274785995743
+2024,BtMG  ,"BtMG § 29 Abs. 1 Nrn. 2, 5 ff. Andere vorsätzliche Straftaten nach dem Betäubungsmittelgesetz",173.0,128.0,0.7398843930635838,73.98843930635837
+2024,BtMG  ,BtMG § 29 Abs. 3 Nr. 1 Andere gewerbsmäßig begangene Straftaten nach dem Betäubungsmittelgesetz,977.0,768.0,0.7860798362333674,78.60798362333674
+2024,BtMG  ,BtMG § 29 Abs. 3 Nr. 2 Gefährdung der Gesundheit mehrerer Menschen durch Betäubungsmittel,9.0,8.0,0.8888888888888888,88.88888888888889
+2024,BtMG  ,"BtMG § 29 a Abs. 1 Nr. 1 Unerlaubtes Abgeben, etc. von Betäubungsmitteln zum unmittelbaren Verbrauch d. Erw. an Kinder o. Jugendliche",705.0,517.0,0.7333333333333333,73.33333333333333
+2024,BtMG  ,"BtMG § 29 a Abs. 1 Nr. 2 Unerlaubtes Handeltreiben mit,Herstellen, etc. von Betäubungsmitteln in nicht geringer Menge",6518.0,5723.0,0.8780300705737957,87.80300705737957
+2024,BtMG  ,"BtMG § 30 Abs. 1 Nr. 1 Unerlaubtes Anbauen, Herstellen von, Handeltreiben mit Betäubungs- mitteln als Mitglied einer Bande",66.0,52.0,0.7878787878787878,78.78787878787878
+2024,BtMG  ,"BtMG § 30 Abs. 1 Nr. 2 Gewerbsmäßige Abgabe, etc. zum unmittelbaren Verbrauch von Betäubungsm.d. Erw. an Kinder o. Jugendliche",36.0,34.0,0.9444444444444444,94.44444444444444
+2024,BtMG  ,"BtMG § 30 Abs. 1 Nr. 3 Unerlaubtes Abgeben, Verabreichen, Überlassen zum unmittelbaren Verbrauch von Betäubungsm. mit Todesfolge",4.0,2.0,0.5,50.0
+2024,BtMG  ,BtMG § 30 Abs. 1 Nr. 4 Unerlaubte Einfuhr von Betäubungsmitteln in nicht geringer Menge,756.0,646.0,0.8544973544973545,85.44973544973546
+2024,BtMG  ,"BtMG § 30 a Abs. 1 Unerl. Handeltreiben mit., Anbauen, etc. von Betäubungsmitteln in nicht geringer Menge als Mitglied einer Bande",413.0,380.0,0.9200968523002422,92.00968523002422
+2024,BtMG  ,"BtMG § 30 a Abs. 2 Nr. 1 Bestimmung von Kin- dern oder Jugendlichen d. Erwachsene mit Betäubungsm. unerl. Handel zu treiben, etc.",22.0,18.0,0.8181818181818182,81.81818181818183
+2024,BtMG  ,"BtMG § 30 a Abs. 2 Nr. 2 Unerl. Handeltr., ... von Betäubungsm. in nicht ger. Menge u. Mitf.e.Schusswaffe o.sonst.Gegst., die ...",709.0,665.0,0.9379407616361072,93.79407616361071
+2024,BtMG  ,"Straftaten nach dem Betäubungsmittel- gesetz insgesamt, BtMG Summe 3001 bis 3015",45484.0,36432.0,0.8009849617447894,80.09849617447894
+2024,ChemG  ,Chemikaliengesetz ChemG ,31.0,17.0,0.5483870967741935,54.83870967741935
+2024,DesignG  ,Designgesetz DesignG ,7.0,5.0,0.7142857142857143,71.42857142857143
+2024,FreizügGEU  ,Gesetz über die allgemeine Freizügigkeit von Unionsbürgern FreizügG/EU,144.0,119.0,0.8263888888888888,82.63888888888889
+2024,GeschGehG  ,Gesetz zum Schutz von Geschäftsgeheimnissen GeschGehG,32.0,10.0,0.3125,31.25
+2024,GewO  ,Gewerbeordnung GewO ,79.0,73.0,0.9240506329113924,92.40506329113924
+2024,GewSchG  ,Gewaltschutzgesetz GewSchG ,797.0,622.0,0.7804265997490589,78.04265997490589
+2024,GmbHG  ,GmbH-Gesetz insgesamt GmbHG Summe 4313 und 4314,82.0,61.0,0.7439024390243902,74.39024390243902
+2024,GmbHG  ,"GmbH-Gesetz, andere Strafvorschriften (§§ 82, 84, 86) GmbHG ",82.0,61.0,0.7439024390243902,74.39024390243902
+2024,GÜG  ,Grundstoffüberwachungsgesetz GÜG ,2.0,2.0,1.0,100.0
+2024,HGB  ,Handelsgesetzbuch insgesamt HGB Summe 4330 bis 4345,5.0,2.0,0.4,40.0
+2024,HGB  ,Handelsgesetzbuch § 331 (auch i.V.m § 340m Abs. 1 oder § 341m Abs. 1) HGB,5.0,2.0,0.4,40.0
+2024,HeilprG  ,Heilpraktikergesetz HeilprG ,9.0,7.0,0.7777777777777778,77.77777777777779
+2024,HundVerbrEinfG  ,Hundeverbringungs- und -einfuhr- beschränkungsgesetz HundVerbrEinfG,22.0,19.0,0.8636363636363636,86.36363636363636
+2024,IfSG  ,Infektionsschutzgesetz IfSG ,112.0,70.0,0.625,62.5
+2024,InsO  ,Insolvenzordnung InsO ,1326.0,1025.0,0.773001508295626,77.3001508295626
+2024,JArbSchG  ,Jugendarbeitsschutzgesetz JArbSchG ,118.0,118.0,1.0,100.0
+2024,JuSchG  ,Jugendschutzgesetz JuSchG ,5.0,5.0,1.0,100.0
+2024,KUG  ,Kunsturheberrechtsgesetz KUG ,242.0,168.0,0.6942148760330579,69.42148760330579
+2024,KWG  ,Kreditwesengesetz KWG ,21.0,8.0,0.38095238095238093,38.095238095238095
+2024,KrWaffKontrG  ,Kriegswaffenkontrollgesetz KrWaffKontrG ,49.0,42.0,0.8571428571428571,85.71428571428571
+2024,LFBG  ,Lebensmittel- und Futtermittel- gesetzbuch insgesamt LFGB Summe 4404 und 4406,898.0,771.0,0.8585746102449888,85.85746102449889
+2024,Landesg  ,Straftaten nach Landesgesetzen LANDESG ,304.0,225.0,0.7401315789473685,74.01315789473685
+2024,LuftVG  ,Luftverkehrsgesetz insgesamt LuftVG Summe 4410 bis 4417,12.0,7.0,0.5833333333333334,58.333333333333336
+2024,LuftVG  ,Luftverkehrsgesetz § 62 LuftVG ,11.0,7.0,0.6363636363636364,63.63636363636363
+2024,MarkenG  ,Markengesetz MarkenG ,385.0,292.0,0.7584415584415585,75.84415584415585
+2024,NpSG  ,Neue-psychoaktive-Stoffe-Gesetz NpSG ,95.0,69.0,0.7263157894736842,72.63157894736842
+2024,PassG  ,Passgesetz PassG ,5.0,4.0,0.8,80.0
+2024,PflVG  ,Pflichtversicherungsgesetz PflVG ,22478.0,20249.0,0.9008363733428241,90.0836373342824
+2024,SchwarzarbG  ,Schwarzarbeitsbekämpfungsgesetz SchwarzArbG ,9.0,5.0,0.5555555555555556,55.55555555555556
+2024,SprengG  ,Sprengstoffgesetz SprengG ,1020.0,840.0,0.8235294117647058,82.35294117647058
+2024,StAG  ,Staatsangehörigkeitsgesetz StAG ,214.0,174.0,0.8130841121495327,81.30841121495327
+2024,StGB  ,Gefährdung des Straßenverkehrs nach § 315 c StGB insgesamt ,14335.0,12702.0,0.8860830136030694,88.60830136030694
+2024,StGB  ,Gefährdung des Straßenverkehrs nach § 315 c StGB mit Verkehrsunfall ,11818.0,10822.0,0.9157217803350821,91.57217803350821
+2024,StGB  ,Gefährdung des Straßenverkehrs nach § 315 c StGB ohne Verkehrsunfall ,2517.0,1880.0,0.7469209376241558,74.69209376241558
+2024,StGB  ,"StGB 1. Abschnitt, §§ 80 a bis 92 b Friedensverrat, Hochverrat und Gefährdung des demokratischen Rechtsstaates",3597.0,2859.0,0.7948290241868223,79.48290241868223
+2024,StGB  ,"StGB 10. Abschnitt, §§ 164 und 165 Falsche Verdächtigung ",3513.0,2491.0,0.7090805579276971,70.90805579276972
+2024,StGB  ,"StGB 11. Abschnitt, §§ 166 bis 168 Straftaten, welche sich auf Religion und Weltanschauung beziehen",35.0,28.0,0.8,80.0
+2024,StGB  ,"StGB 12. Abschnitt, §§ 169 bis 173 Straftaten gegen den Personenstand, die Ehe und die Familie",814.0,483.0,0.5933660933660934,59.336609336609335
+2024,StGB  ,"StGB 13. Abschnitt, §§ 174 bis 184 l Straftaten gegen die sexuelle Selbstbestimmung",16194.0,12171.0,0.7515746572804742,75.15746572804743
+2024,StGB  ,"StGB 14. Abschnitt, §§ 185 bis 200 Beleidigung ",30482.0,24393.0,0.8002427662226888,80.02427662226887
+2024,StGB  ,"StGB 16. Abschnitt, §§ 211 bis 222 (o.V.) Straftaten gegen das Leben (o.V.) ",1109.0,744.0,0.6708746618575293,67.08746618575293
+2024,StGB  ,"StGB 19. Abschnitt, §§ 242 bis 248 c Diebstahl und Unterschlagung ",126022.0,103563.0,0.8217850851438637,82.17850851438638
+2024,StGB  ,"StGB 2. Abschnitt, §§ 93 bis 101 a Landesverrat und Gefährdung der äußeren Sicherheit",3.0,3.0,1.0,100.0
+2024,StGB  ,"StGB 20. Abschnitt, §§ 249 bis 256, 316a Raub und Erpressung, räuberischer Angriff auf Kraftfahrer ",9299.0,6594.0,0.7091085062909991,70.91085062909991
+2024,StGB  ,"StGB 21. Abschnitt, §§ 257 bis 262 Begünstigung und Hehlerei ",6950.0,5498.0,0.7910791366906474,79.10791366906474
+2024,StGB  ,"StGB 22. Abschnitt, §§ 263 bis 266 b Betrug und Untreue ",105530.0,86641.0,0.8210082441012034,82.10082441012034
+2024,StGB  ,"StGB 23. Abschnitt, §§ 267 bis 282 Urkundenfälschung ",26004.0,21807.0,0.8386017535763729,83.86017535763729
+2024,StGB  ,"StGB 24. Abschnitt, §§ 283 bis 283 d Insolvenzstraftaten ",1186.0,960.0,0.8094435075885329,80.94435075885329
+2024,StGB  ,"StGB 25. Abschnitt, §§ 284 bis 297 Strafbarer Eigennutz ",1148.0,834.0,0.7264808362369338,72.64808362369338
+2024,StGB  ,"StGB 26. Abschnitt, §§ 298 bis 301 Straftaten gegen den Wettbewerb ",63.0,38.0,0.6031746031746031,60.317460317460316
+2024,StGB  ,"StGB 27. Abschnitt, §§ 303 bis 305 a Sachbeschädigung ",13212.0,9394.0,0.7110202845897668,71.10202845897669
+2024,StGB  ,"StGB 28. Abschnitt, §§ 306 bis 323c, ohne §§ 315 b bis d, ohne §§ 316,316 a und ohne § 323 a i.V.m. Verkehrsunfall Gemeingefährliche Straftaten",2712.0,2011.0,0.741519174041298,74.15191740412979
+2024,StGB  ,"StGB 29. Abschnitt, §§ 324 bis 330 a Straftaten gegen die Umwelt ",1008.0,737.0,0.7311507936507936,73.11507936507937
+2024,StGB  ,"StGB 3. Abschnitt, §§ 102 bis 104 a Straftaten gegen ausländische Staaten ",7.0,4.0,0.5714285714285714,57.14285714285714
+2024,StGB  ,"StGB 30. Abschnitt, §§ 331 bis 358 Straftaten im Amt ",503.0,340.0,0.6759443339960238,67.59443339960238
+2024,StGB  ,"StGB 4. Abschnitt, §§ 105 bis 108 e Straftaten gegen Verfassungsorgane sowie bei Wahlen und Abstimmungen",10.0,6.0,0.6,60.0
+2024,StGB  ,"StGB 6. Abschnitt, §§ 111 bis 121 Widerstand gegen die Staatsgewalt ",16716.0,13847.0,0.8283680306293372,82.83680306293371
+2024,StGB  ,"StGB 8. Abschnitt, §§ 146 bis 152 c Geld- und Wertzeichenfälschung ",495.0,377.0,0.7616161616161616,76.16161616161617
+2024,StGB  ,"StGB 9. Abschnitt, §§ 153 bis 162 Falsche uneidliche Aussage und Meineid ",2781.0,1901.0,0.6835670622078389,68.35670622078389
+2024,StGB  ,StGB § 113 Widerstand gegen Vollstreckungsbeamte ,6853.0,5640.0,0.8229972274916095,82.29972274916095
+2024,StGB  ,StGB § 114 Tätl. Angriff auf Vollstreckungsbeamte ,9252.0,7784.0,0.8413316039775184,84.13316039775184
+2024,StGB  ,"StGB § 115 Abs.1,2 i.V.m. §§ 113, 114 Widerstand gg. o. tätl. Angriff auf Pers., die Vollstreckungsbeamten gleichstehen",230.0,120.0,0.5217391304347826,52.17391304347826
+2024,StGB  ,"StGB § 115 Abs.3 i.V.m. §§ 113, 114 Widerstand gg.o.tätl. Angriff a. Hilfeleis. von Feuerwehr, Katast.-schutz o. Rettungsd.",208.0,174.0,0.8365384615384616,83.65384615384616
+2024,StGB  ,StGB § 120 Gefangenenbefreiung ,25.0,10.0,0.4,40.0
+2024,StGB  ,StGB § 121 Gefangenenmeuterei ,9.0,4.0,0.4444444444444444,44.44444444444444
+2024,StGB  ,StGB § 125 Landfriedensbruch ,195.0,121.0,0.6205128205128205,62.05128205128205
+2024,StGB  ,StGB § 125 a Besonders schwerer Fall des Landfriedensbruchs,67.0,51.0,0.7611940298507462,76.11940298507463
+2024,StGB  ,StGB § 126 a Gefährdendes Verbreiten personenbezogener Daten,10.0,8.0,0.8,80.0
+2024,StGB  ,StGB § 127 Betreiben krimineller Handelsplattformen im Internet,4.0,4.0,1.0,100.0
+2024,StGB  ,StGB § 128 Bildung bewaffneter Gruppen ,3.0,3.0,1.0,100.0
+2024,StGB  ,StGB § 129 Bildung krimineller Vereinigungen ,20.0,17.0,0.85,85.0
+2024,StGB  ,StGB § 129 a Bildung terroristischer Vereinigungen ,26.0,26.0,1.0,100.0
+2024,StGB  ,StGB § 129 b i.V.m. § 129 a Bildung terroristischer Vereinigungen im Ausland,5.0,5.0,1.0,100.0
+2024,StGB  ,StGB § 130 Abs. 1 Volksverhetzung durch Aufstachelung zum Hass oder vergleichbare Äußerungen,1202.0,926.0,0.7703826955074875,77.03826955074875
+2024,StGB  ,StGB § 130 Abs. 2 Volksverhetzung durch Verbreiten volksverhetzender Inhalte ,340.0,291.0,0.8558823529411764,85.58823529411764
+2024,StGB  ,"StGB § 130 Abs. 4 Volksverhetzung durch Billigung, Verherrlichung o. Rechtfertigung der nat.soz. Gewalt- und Willkürherrschaft",11.0,10.0,0.9090909090909091,90.9090909090909
+2024,StGB  ,StGB § 131 Gewaltdarstellung ,29.0,17.0,0.5862068965517241,58.620689655172406
+2024,StGB  ,StGB § 132 Amtsanmaßung ,118.0,83.0,0.7033898305084746,70.33898305084746
+2024,StGB  ,"StGB § 132 a Missbrauch von Titeln, Berufsbezeich- nungen und Abzeichen",99.0,70.0,0.7070707070707071,70.70707070707071
+2024,StGB  ,StGB § 133 Verwahrungsbruch ,41.0,27.0,0.6585365853658537,65.85365853658537
+2024,StGB  ,"StGB § 136 Verstrickungsbruch, Siegelbruch ",113.0,98.0,0.8672566371681416,86.72566371681415
+2024,StGB  ,StGB § 138 Nichtanzeige geplanter Straftaten ,46.0,39.0,0.8478260869565217,84.78260869565217
+2024,StGB  ,StGB § 140 Belohnung und Billigung von Straftaten ,283.0,242.0,0.8551236749116607,85.51236749116607
+2024,StGB  ,StGB § 142 Abs. 1 Unerl. Entf. vom Unfallort vor Feststellung d. Unfallbeteiligung in Trunkenheit,4479.0,4307.0,0.9615985711096227,96.15985711096226
+2024,StGB  ,StGB § 142 Abs. 1 Unerl. Entf. vom Unfallort vor Feststellung d. Unfallbeteiligung insgesamt,37596.0,28969.0,0.7705340993722737,77.05340993722737
+2024,StGB  ,StGB § 142 Abs. 1 Unerl. Entf. vom Unfallort vor Feststellung d. Unfallbeteiligung ohne Trunkenheit bzw. Trunkenheit nicht bekannt,33117.0,24662.0,0.74469305794607,74.469305794607
+2024,StGB  ,StGB § 142 Abs. 2 Entf. vom Unfallort ohne nachträgl. Meldung d. Unfallbeteiligung in Trunkenheit,4.0,4.0,1.0,100.0
+2024,StGB  ,StGB § 142 Abs. 2 Entf. vom Unfallort ohne nachträgl. Meldung d. Unfallbeteiligung insgesamt,136.0,110.0,0.8088235294117647,80.88235294117648
+2024,StGB  ,StGB § 142 Abs. 2 Entf. vom Unfallort ohne nachträgl. Meldung d. Unfallbeteiligung ohne Trunkenheit bzw. Trunkenheit nicht bekannt,132.0,106.0,0.803030303030303,80.3030303030303
+2024,StGB  ,StGB § 145 Missbrauch von Notrufen und Beeinträchtigung von Unfallverhütungs- und Nothilfemitteln,829.0,634.0,0.7647768395657418,76.47768395657418
+2024,StGB  ,StGB § 145 a Verstoß gegen Weisungen während der Führungsaufsicht,990.0,733.0,0.7404040404040404,74.04040404040404
+2024,StGB  ,StGB § 145 c Verstoß gegen das Berufsverbot ,2.0,2.0,1.0,100.0
+2024,StGB  ,StGB § 145 d Vortäuschen einer Straftat ,1239.0,931.0,0.751412429378531,75.14124293785311
+2024,StGB  ,StGB § 152 b Fälschung von Zahlungskarten mit Garantiefunktion ,19.0,17.0,0.8947368421052632,89.47368421052632
+2024,StGB  ,"StGB § 152 i.V.m. §§ 146-149 Geld-, Wert- zeichen und -papierfälschung von Geld,Wert- zeichen u. -papieren e. fremden Währungsgeb.",5.0,3.0,0.6,60.0
+2024,StGB  ,StGB § 153 Falsche uneidliche Aussage ,1869.0,1228.0,0.657035848047084,65.7035848047084
+2024,StGB  ,StGB § 154 Meineid ,34.0,22.0,0.6470588235294118,64.70588235294117
+2024,StGB  ,StGB § 156 Falsche Versicherung an Eides Statt ,836.0,617.0,0.7380382775119617,73.80382775119617
+2024,StGB  ,StGB § 160 Verleitung zur Falschaussage ,4.0,4.0,1.0,100.0
+2024,StGB  ,"StGB § 161 Fahrlässiger Falscheid, fahrlässige falsche Versicherung an Eides Statt",38.0,30.0,0.7894736842105263,78.94736842105263
+2024,StGB  ,StGB § 164 Falsche Verdächtigung ,3513.0,2491.0,0.7090805579276971,70.90805579276972
+2024,StGB  ,StGB § 169 Personenstandsfälschung ,3.0,3.0,1.0,100.0
+2024,StGB  ,StGB § 170 Abs. 1 Verletzung der Unterhaltspflicht ,745.0,435.0,0.5838926174496645,58.38926174496645
+2024,StGB  ,StGB § 170 Abs. 2 Verletzung der Unterhaltspflicht gegenüber einer Schwangeren,5.0,4.0,0.8,80.0
+2024,StGB  ,StGB § 171 Verletzung der Fürsorge- oder Erziehungspflicht,51.0,33.0,0.6470588235294118,64.70588235294117
+2024,StGB  ,StGB § 172 Doppelehe doppelte Lebenspartnerschaft,5.0,4.0,0.8,80.0
+2024,StGB  ,StGB § 173 Beischlaf zwischen Verwandten ,5.0,4.0,0.8,80.0
+2024,StGB  ,StGB § 174 Sexueller Missbrauch von Schutzbefohlenen ,82.0,61.0,0.7439024390243902,74.39024390243902
+2024,StGB  ,StGB § 174 b Sexueller Missbrauch unter Ausnutzung einer Amtsstellung,1.0,1.0,1.0,100.0
+2024,StGB  ,"StGB § 174 c Abs. 1 Sexueller Missbrauch unter Ausnutzung eines Beratungs-, Behandlungs- oder Betreuungsverhältnisses",26.0,21.0,0.8076923076923077,80.76923076923077
+2024,StGB  ,StGB § 176 Sexueller Missbrauch von Kindern ,1169.0,870.0,0.7442258340461934,74.42258340461933
+2024,StGB  ,StGB § 176 b Vorbereitung des sexuellen Missbrauchs von Kindern,45.0,37.0,0.8222222222222222,82.22222222222221
+2024,StGB  ,StGB § 176 c Schwerer sexueller Missbrauch von Kindern ,663.0,568.0,0.8567119155354449,85.67119155354449
+2024,StGB  ,StGB § 176 d Sexueller Missbrauch von Kindern mit Todesfolge,1.0,1.0,1.0,100.0
+2024,StGB  ,StGB § 177 Abs. 1 Sexuelle Handlungen gegen den erkennbaren Willen,664.0,331.0,0.49849397590361444,49.84939759036144
+2024,StGB  ,"StGB § 177 Abs. 2 Nr. 1, Abs. 4 Sexuelle Handlungen unt. Ausnutzen der Unfähigkeit z.Willensbildung od.-äußerung",116.0,61.0,0.5258620689655172,52.58620689655172
+2024,StGB  ,"StGB § 177 Abs. 2 Nr. 2,3,4,5 Sex.Handlungen unt.Ausnutzung and.Einschränk. d. Fähigkeit z.Willensbild.od.-betätigung",123.0,95.0,0.7723577235772358,77.23577235772358
+2024,StGB  ,"StGB § 177 Abs. 5 Sex. Handlungen unt. Anwendung v. Gewalt, Drohung od. Ausnutzen einer schutzl. Lage",550.0,361.0,0.6563636363636364,65.63636363636364
+2024,StGB  ,StGB § 177 Abs. 6 Nr. 1 Vergewaltigung ,1083.0,691.0,0.6380424746075716,63.80424746075716
+2024,StGB  ,"StGB § 177 Abs. 6 Nr. 2, Abs. 7,8 Gemeinschaftlich begangener od. anderer schwerer sexueller Übergriff",158.0,132.0,0.8354430379746836,83.54430379746836
+2024,StGB  ,StGB § 181 a Zuhälterei ,15.0,11.0,0.7333333333333333,73.33333333333333
+2024,StGB  ,"StGB § 182 Abs. 1, 2 Sexueller Missbrauch von Jugendlichen unter Ausnutzung einer Zwangslage oder gegen Entgelt",61.0,43.0,0.7049180327868853,70.49180327868852
+2024,StGB  ,StGB § 182 Abs. 3 Sexueller Missbrauch von Jugendlichen unter Ausnutzung fehlender Fähigkeit zur sexuellen Selbstbestimmung,14.0,9.0,0.6428571428571429,64.28571428571429
+2024,StGB  ,StGB § 183 Exhibitionistische Handlungen ,865.0,708.0,0.8184971098265896,81.84971098265896
+2024,StGB  ,"StGB § 184 Verbreitung ""einfacher"" pornographischer Inhalte",549.0,430.0,0.7832422586520947,78.32422586520947
+2024,StGB  ,StGB § 184 a Verbreitung gewalt- oder tierpornographischer Inhalte,12.0,7.0,0.5833333333333334,58.333333333333336
+2024,StGB  ,"StGB § 184 b Verbreitung, Erwerb und Besitz kinderpornographischer Inhalte",5682.0,4562.0,0.8028863076381556,80.28863076381556
+2024,StGB  ,"StGB § 184 c Verbreitung, Erwerb und Besitz jugendpornographischer Inhalte",560.0,375.0,0.6696428571428571,66.96428571428571
+2024,StGB  ,StGB § 184 f Ausübung der verbotenen Prostitution ,93.0,83.0,0.8924731182795699,89.24731182795699
+2024,StGB  ,StGB § 184 g Jugendgefährdende Prostitution ,5.0,5.0,1.0,100.0
+2024,StGB  ,StGB § 184 i Sexuelle Belästigung ,2828.0,2048.0,0.7241867043847242,72.41867043847242
+2024,StGB  ,StGB § 184 j Straftaten aus Gruppen ,2.0,2.0,1.0,100.0
+2024,StGB  ,StGB § 184 k Verletzung des Intimbereichs durch Bildaufnahmen,63.0,53.0,0.8412698412698413,84.12698412698413
+2024,StGB  ,"StGB § 184 l Inverkehrbringen, Erwerb und Besitz von Sexpuppen mit kindlichem Erscheinungsbild",2.0,2.0,1.0,100.0
+2024,StGB  ,StGB § 185 Beleidigung ,29038.0,23398.0,0.805771747365521,80.57717473655211
+2024,StGB  ,StGB § 186 Üble Nachrede ,467.0,303.0,0.6488222698072805,64.88222698072805
+2024,StGB  ,StGB § 187 Verleumdung ,481.0,296.0,0.6153846153846154,61.53846153846154
+2024,StGB  ,"StGB § 188 Gegen Personen des politischen Lebens gerich- tete Beleidigung,üble Nachrede u. Verleumdung",405.0,332.0,0.8197530864197531,81.9753086419753
+2024,StGB  ,StGB § 189 Verunglimpfung des Andenkens Verstorbener ,22.0,15.0,0.6818181818181818,68.18181818181817
+2024,StGB  ,StGB § 192 a Verhetzende Beleidigung ,69.0,49.0,0.7101449275362319,71.01449275362319
+2024,StGB  ,StGB § 201 Verletzung der Vertraulichkeit des Wortes ,417.0,288.0,0.6906474820143885,69.06474820143885
+2024,StGB  ,StGB § 202 Verletzung des Briefgeheimnisses ,22.0,13.0,0.5909090909090909,59.09090909090909
+2024,StGB  ,StGB § 202 a Ausspähen von Daten ,70.0,35.0,0.5,50.0
+2024,StGB  ,StGB § 202 b Abfangen von Daten ,4.0,3.0,0.75,75.0
+2024,StGB  ,StGB § 202 c Vorbereiten des Ausspähens und Abfangens von Daten,1.0,1.0,1.0,100.0
+2024,StGB  ,StGB § 202 d Datenhehlerei ,8.0,6.0,0.75,75.0
+2024,StGB  ,StGB § 203 Verletzung von Privatgeheimnissen ,19.0,7.0,0.3684210526315789,36.84210526315789
+2024,StGB  ,StGB § 206 Verletzung des Post- oder Fernmeldegeheimnisses,337.0,308.0,0.913946587537092,91.3946587537092
+2024,StGB  ,StGB § 211 Mord ,167.0,149.0,0.8922155688622755,89.22155688622755
+2024,StGB  ,"StGB § 211 i.V.m. §§ 22, 23 Versuchter Mord ",141.0,105.0,0.7446808510638298,74.46808510638297
+2024,StGB  ,StGB § 218 Schwangerschaftsabbruch ,9.0,3.0,0.3333333333333333,33.33333333333333
+2024,StGB  ,StGB § 221 Aussetzung ,8.0,7.0,0.875,87.5
+2024,StGB  ,StGB § 225 Misshandlung von Schutzbefohlenen ,185.0,86.0,0.4648648648648649,46.48648648648649
+2024,StGB  ,StGB § 231 Beteiligung an einer Schlägerei ,4.0,3.0,0.75,75.0
+2024,StGB  ,StGB § 232 Menschenhandel ,10.0,8.0,0.8,80.0
+2024,StGB  ,StGB § 232 a Abs. 1 bis 5 Zwangsprostitution ,57.0,44.0,0.7719298245614035,77.19298245614034
+2024,StGB  ,StGB § 232 b Zwangsarbeit ,15.0,11.0,0.7333333333333333,73.33333333333333
+2024,StGB  ,StGB § 233 Ausbeutung der Arbeitskraft ,2.0,1.0,0.5,50.0
+2024,StGB  ,StGB § 235 Entziehung Minderjähriger ,134.0,91.0,0.6791044776119403,67.91044776119402
+2024,StGB  ,StGB § 236 Kinderhandel ,4.0,4.0,1.0,100.0
+2024,StGB  ,StGB § 238 Nachstellung ,1139.0,770.0,0.6760316066725197,67.60316066725197
+2024,StGB  ,StGB § 239 Freiheitsberaubung ,346.0,182.0,0.5260115606936416,52.601156069364166
+2024,StGB  ,StGB § 239 a Erpresserischer Menschenraub ,167.0,137.0,0.8203592814371258,82.03592814371258
+2024,StGB  ,StGB § 239 b Geiselnahme ,35.0,32.0,0.9142857142857143,91.42857142857143
+2024,StGB  ,StGB § 241 Bedrohung ,10362.0,7535.0,0.727176220806794,72.7176220806794
+2024,StGB  ,StGB § 242 Diebstahl ,95630.0,79380.0,0.8300742444839485,83.00742444839486
+2024,StGB  ,StGB § 243 Abs. 1 Satz 2 Nr. 1 Einbruchdiebstahl ,7156.0,5407.0,0.7555897149245389,75.55897149245389
+2024,StGB  ,StGB § 243 Abs. 1 Satz 2 Nrn. 2 bis 7 Diebstahl in anderen besonders schweren Fällen,9688.0,8019.0,0.8277250206440958,82.77250206440958
+2024,StGB  ,StGB § 244 Abs. 1 Nr. 1 Diebstahl mit Waffen ,5007.0,4212.0,0.8412222887956861,84.12222887956861
+2024,StGB  ,StGB § 244 Abs. 1 Nr. 2 Bandendiebstahl ,207.0,96.0,0.463768115942029,46.3768115942029
+2024,StGB  ,StGB § 244 Abs. 1 Nr. 3 Wohnungseinbruchdiebstahl ,547.0,383.0,0.70018281535649,70.018281535649
+2024,StGB  ,StGB § 244 Abs. 4 Privatwohnungseinbruchdiebstahl ,1562.0,1330.0,0.8514724711907811,85.1472471190781
+2024,StGB  ,StGB § 244 a Schwerer Bandendiebstahl ,602.0,532.0,0.8837209302325582,88.37209302325581
+2024,StGB  ,StGB § 246 Unterschlagung ,5016.0,3724.0,0.7424242424242424,74.24242424242425
+2024,StGB  ,StGB § 248 b Unbefugter Gebrauch eines Fahrzeugs ,321.0,239.0,0.7445482866043613,74.45482866043614
+2024,StGB  ,StGB § 248 c Entziehung elektrischer Energie ,286.0,241.0,0.8426573426573427,84.26573426573427
+2024,StGB  ,StGB § 249 Raub ,2271.0,1456.0,0.6411272567151035,64.11272567151035
+2024,StGB  ,StGB § 250 Schwerer Raub ,1286.0,943.0,0.7332814930015552,73.32814930015552
+2024,StGB  ,StGB § 251 Raub mit Todesfolge ,9.0,9.0,1.0,100.0
+2024,StGB  ,StGB § 252 Räuberischer Diebstahl ,1832.0,1409.0,0.7691048034934498,76.91048034934498
+2024,StGB  ,StGB § 253 Abs. 1 Erpressung ,812.0,492.0,0.6059113300492611,60.591133004926114
+2024,StGB  ,StGB § 253 Abs. 4 Besonders schwerer Fall der Erpressung ,37.0,24.0,0.6486486486486487,64.86486486486487
+2024,StGB  ,StGB § 255 Räuberische Erpressung ,3008.0,2231.0,0.741688829787234,74.1688829787234
+2024,StGB  ,StGB § 259 Hehlerei ,1765.0,1361.0,0.7711048158640227,77.11048158640227
+2024,StGB  ,StGB § 260 Abs. 1 Nr. 1 Gewerbsmäßige Hehlerei ,322.0,262.0,0.8136645962732919,81.36645962732919
+2024,StGB  ,StGB § 260 Abs. 1 Nr. 2 Bandenhehlerei ,5.0,4.0,0.8,80.0
+2024,StGB  ,StGB § 260 a Gewerbsmäßige Bandenhehlerei ,35.0,20.0,0.5714285714285714,57.14285714285714
+2024,StGB  ,StGB § 261 Abs. 1 Geldwäsche ,1832.0,1386.0,0.7565502183406113,75.65502183406113
+2024,StGB  ,StGB § 261 Abs. 2 Geldwäsche ,81.0,36.0,0.4444444444444444,44.44444444444444
+2024,StGB  ,StGB § 261 Abs. 4 Geldwäsche durch Verpflichtete ,37.0,35.0,0.9459459459459459,94.5945945945946
+2024,StGB  ,StGB § 261 Abs. 5 Besonders schwere Fälle der Geldwäsche ,198.0,177.0,0.8939393939393939,89.39393939393939
+2024,StGB  ,StGB § 261 Abs. 6 Leichtfertige Geldwäsche ,1725.0,1515.0,0.8782608695652174,87.82608695652175
+2024,StGB  ,StGB § 261 Abs. 7 i.V.m. § 261 Abs. 1 bis 6 Geldwäsche ,6.0,4.0,0.6666666666666666,66.66666666666666
+2024,StGB  ,StGB § 261 Abs. 9 i.V.m. § 261 Abs. 1 bis 6 Geldwäsche ,4.0,4.0,1.0,100.0
+2024,StGB  ,StGB § 263 Abs. 1 Betrug ,62117.0,49866.0,0.8027754076983756,80.27754076983756
+2024,StGB  ,StGB § 263 Abs. 3 und 5 Schwerwiegende Fälle des Betruges ,6536.0,5460.0,0.8353733170134638,83.53733170134639
+2024,StGB  ,StGB § 263 a Computerbetrug ,3175.0,2384.0,0.7508661417322835,75.08661417322836
+2024,StGB  ,StGB § 264 Subventionsbetrug ,1281.0,893.0,0.697111631537861,69.7111631537861
+2024,StGB  ,StGB § 264 a Kapitalanlagebetrug ,6.0,2.0,0.3333333333333333,33.33333333333333
+2024,StGB  ,StGB § 265 Versicherungsmissbrauch ,72.0,58.0,0.8055555555555556,80.55555555555556
+2024,StGB  ,StGB § 265 a Erschleichen von Leistungen ,26707.0,23451.0,0.8780843973490097,87.80843973490097
+2024,StGB  ,StGB § 265 b Kreditbetrug ,6.0,4.0,0.6666666666666666,66.66666666666666
+2024,StGB  ,StGB § 266 Untreue ,763.0,455.0,0.5963302752293578,59.63302752293578
+2024,StGB  ,StGB § 266 a Abs. 1 Vorenthalten von Arbeitnehmerbeiträgen durch den Arbeitgeber,4752.0,3971.0,0.8356481481481481,83.56481481481481
+2024,StGB  ,StGB § 266 a Abs. 2 Vorenthalten von Arbeitgeberbeiträgen durch den Arbeitgeber,32.0,28.0,0.875,87.5
+2024,StGB  ,StGB § 266 a Abs. 3 Veruntreuen von Arbeitsentgelt durch den Arbeitgeber,8.0,4.0,0.5,50.0
+2024,StGB  ,StGB § 266 a Abs. 4 Vorenthalten von Beiträgen durch den Arbeitgeber in besonders schweren Fällen,67.0,62.0,0.9253731343283582,92.53731343283582
+2024,StGB  ,StGB § 266 b Missbrauch von Scheck- und Kreditkarten ,8.0,3.0,0.375,37.5
+2024,StGB  ,StGB § 267 Abs. 1 Urkundenfälschung ,20149.0,17288.0,0.8580078415802274,85.80078415802274
+2024,StGB  ,StGB § 267 Abs. 3 und 4 Schwerwiegende Fälle der Urkundenfälschung ,290.0,236.0,0.8137931034482758,81.37931034482759
+2024,StGB  ,StGB § 268 Fälschung technischer Aufzeichnungen ,63.0,57.0,0.9047619047619048,90.47619047619048
+2024,StGB  ,StGB § 269 Fälschung beweiserheblicher Daten ,1590.0,1314.0,0.8264150943396227,82.64150943396227
+2024,StGB  ,StGB § 271 Mittelbare Falschbeurkundung ,174.0,127.0,0.7298850574712644,72.98850574712644
+2024,StGB  ,StGB § 273 Verändern von amtlichen Ausweisen ,129.0,114.0,0.8837209302325582,88.37209302325581
+2024,StGB  ,"StGB § 274 Urkundenunterdrückung, Veränderung einer Grenzbezeichnung",194.0,149.0,0.7680412371134021,76.80412371134021
+2024,StGB  ,StGB § 275 Vorbereitung d. Fälschung v. amtl. Ausweisen Vorber. der Herst. v. unricht. Impfausweisen,93.0,71.0,0.7634408602150538,76.34408602150538
+2024,StGB  ,StGB § 276 Verschaffen von falschen amtlichen Ausweisen,1065.0,962.0,0.9032863849765258,90.32863849765258
+2024,StGB  ,StGB § 276 a i.V.m. § 276 Verschaffen von falschen aufenthaltsrechtlichen oder Fahrzeugpapieren,14.0,14.0,1.0,100.0
+2024,StGB  ,StGB § 281 Missbrauch von Ausweispapieren ,921.0,825.0,0.8957654723127035,89.57654723127035
+2024,StGB  ,StGB § 283 Bankrott ,943.0,757.0,0.8027571580063627,80.27571580063628
+2024,StGB  ,StGB § 283 a Besonders schwerer Fall des Bankrotts ,3.0,2.0,0.6666666666666666,66.66666666666666
+2024,StGB  ,StGB § 283 b Verletzung der Buchführungspflicht ,221.0,191.0,0.8642533936651584,86.42533936651584
+2024,StGB  ,StGB § 283 c Gläubigerbegünstigung ,5.0,5.0,1.0,100.0
+2024,StGB  ,StGB § 283 d Schuldnerbegünstigung ,14.0,5.0,0.35714285714285715,35.714285714285715
+2024,StGB  ,"StGB § 284 Abs. 1 und 4, § 287 Unerlaubte Veranstaltung eines Glücksspiels, einer Lotterie oder einer Ausspielung",229.0,139.0,0.6069868995633187,60.698689956331876
+2024,StGB  ,StGB § 284 Abs. 3 Unerlaubte Veranstaltung e. gewerbsmäßigen oder bandenmäßigen Glücksspiels,155.0,113.0,0.7290322580645161,72.90322580645162
+2024,StGB  ,StGB § 285 Beteiligung am unerlaubten Glücksspiel ,189.0,122.0,0.6455026455026455,64.55026455026454
+2024,StGB  ,StGB § 291 Abs. 1 Satz 1 Nr. 1 Mietwucher ,10.0,1.0,0.1,10.0
+2024,StGB  ,StGB § 291 Abs. 1 Satz 1 Nrn. 3 und 4 Sonstiger Wucher ,20.0,8.0,0.4,40.0
+2024,StGB  ,StGB § 291 Abs. 2 Besonders schwere Fälle des Wuchers ,9.0,3.0,0.3333333333333333,33.33333333333333
+2024,StGB  ,StGB § 292 Jagdwilderei ,25.0,18.0,0.72,72.0
+2024,StGB  ,StGB § 293 Fischwilderei ,334.0,298.0,0.8922155688622755,89.22155688622755
+2024,StGB  ,StGB § 298 Wettbewerbsbeschränkende Absprachen bei Ausschreibungen,6.0,3.0,0.5,50.0
+2024,StGB  ,StGB § 299 Bestechlichkeit und Bestechung im geschäftlichen Verkehr,14.0,8.0,0.5714285714285714,57.14285714285714
+2024,StGB  ,StGB § 300 i.V.m. § 299 Besonders schwere Fälle der Bestechlichkeit und Bestechung im geschäftlichen Verkehr,30.0,26.0,0.8666666666666667,86.66666666666667
+2024,StGB  ,"StGB § 300 i.V.m. § 299 a, 299 b Besonders schwere Fälle der Bestechlichkeit und Bestechung im Gesundheitswesen",1.0,1.0,1.0,100.0
+2024,StGB  ,StGB § 303 Abs. 1 Sachbeschädigung ,11501.0,8348.0,0.7258499260933832,72.58499260933831
+2024,StGB  ,StGB § 303 Abs. 2 Sachbeschädigung ,958.0,580.0,0.605427974947808,60.5427974947808
+2024,StGB  ,StGB § 303 a Datenveränderung ,35.0,20.0,0.5714285714285714,57.14285714285714
+2024,StGB  ,StGB § 303 b Computersabotage ,11.0,5.0,0.45454545454545453,45.45454545454545
+2024,StGB  ,StGB § 304 Abs. 1 Gemeinschädliche Sachbeschädigung ,578.0,363.0,0.6280276816608996,62.80276816608996
+2024,StGB  ,StGB § 304 Abs. 2 Gemeinschädliche Sachbeschädigung ,98.0,57.0,0.5816326530612245,58.16326530612245
+2024,StGB  ,StGB § 306 Brandstiftung ,392.0,280.0,0.7142857142857143,71.42857142857143
+2024,StGB  ,StGB § 306 a Schwere Brandstiftung ,386.0,224.0,0.5803108808290155,58.03108808290155
+2024,StGB  ,StGB § 306 b Besonders schwere Brandstiftung ,23.0,16.0,0.6956521739130435,69.56521739130434
+2024,StGB  ,StGB § 306 c Brandstiftung mit Todesfolge ,11.0,8.0,0.7272727272727273,72.72727272727273
+2024,StGB  ,StGB § 306 d Fahrlässige Brandstiftung ,440.0,300.0,0.6818181818181818,68.18181818181817
+2024,StGB  ,StGB § 306 f Herbeiführen einer Brandgefahr ,8.0,7.0,0.875,87.5
+2024,StGB  ,"StGB § 315 Gefährliche Eingriffe in den Bahn-, Schiffs- und Luftverkehr",288.0,226.0,0.7847222222222222,78.47222222222221
+2024,StGB  ,"StGB § 315 a Gefährdung des Bahn-, Schiffs- und Luftverkehrs",36.0,19.0,0.5277777777777778,52.77777777777778
+2024,StGB  ,StGB § 315 b Gefährliche Eingriffe in den Straßenverkehr,967.0,505.0,0.5222337125129266,52.22337125129266
+2024,StGB  ,StGB § 315 d Abs. 1 Nr. 1 Verbotene Kraftfahrzeugrennen mit Verkehrsunfall,13.0,9.0,0.6923076923076923,69.23076923076923
+2024,StGB  ,StGB § 315 d Abs. 1 Nr. 1 Verbotene Kraftfahrzeugrennen ohne Verkehrsunfall,239.0,165.0,0.6903765690376569,69.0376569037657
+2024,StGB  ,StGB § 315 d Abs. 1 Nr. 2 Verbotene Kraftfahrzeugrennen mit Verkehrsunfall,19.0,7.0,0.3684210526315789,36.84210526315789
+2024,StGB  ,StGB § 315 d Abs. 1 Nr. 2 Verbotene Kraftfahrzeugrennen ohne Verkehrsunfall,252.0,156.0,0.6190476190476191,61.904761904761905
+2024,StGB  ,StGB § 315 d Abs. 1 Nr. 3 Verbotene Kraftfahrzeugrennen mit Verkehrsunfall,81.0,67.0,0.8271604938271605,82.71604938271605
+2024,StGB  ,StGB § 315 d Abs. 1 Nr. 3 Verbotene Kraftfahrzeugrennen ohne Verkehrsunfall,712.0,578.0,0.8117977528089888,81.17977528089888
+2024,StGB  ,"StGB § 315 d Abs. 2, auch i.V.m. Abs. 4 Verbotene Kraftfahrzeugrennen mit Verkehrsunfall",131.0,118.0,0.9007633587786259,90.07633587786259
+2024,StGB  ,"StGB § 315 d Abs. 2, auch i.V.m. Abs. 4 Verbotene Kraftfahrzeugrennen ohne Verkehrsunfall",134.0,107.0,0.7985074626865671,79.8507462686567
+2024,StGB  ,StGB § 315 d Abs. 5 Verbotene Kraftfahrzeugrennen mit Verkehrsunfall,16.0,13.0,0.8125,81.25
+2024,StGB  ,StGB § 315 d Abs. 5 Verbotene Kraftfahrzeugrennen ohne Verkehrsunfall,50.0,34.0,0.68,68.0
+2024,StGB  ,StGB § 316 Trunkenheit im Verkehr mit Verkehrsunfall ,7162.0,6809.0,0.9507120915945266,95.07120915945266
+2024,StGB  ,StGB § 316 Trunkenheit im Verkehr ohne Verkehrsunfall ,47105.0,45189.0,0.9593249124296784,95.93249124296784
+2024,StGB  ,StGB § 316 a Räuberischer Angriff auf Kraftfahrer ,44.0,30.0,0.6818181818181818,68.18181818181817
+2024,StGB  ,StGB § 323 a Vollrausch in Verbindung mit Verkehrsunfall,172.0,165.0,0.9593023255813954,95.93023255813954
+2024,StGB  ,"StGB § 323 a Vollrausch, ohne Verkehrsunfall ",653.0,619.0,0.9479326186830015,94.79326186830015
+2024,StGB  ,StGB § 323 b Gefährdung einer Entziehungskur ,6.0,5.0,0.8333333333333334,83.33333333333334
+2024,StGB  ,StGB § 323 c Abs. 1 Unterlassene Hilfeleistung ,128.0,59.0,0.4609375,46.09375
+2024,StGB  ,StGB § 323 c Abs. 2 Behinderung. v. hilfeleistenden Pers. ,15.0,9.0,0.6,60.0
+2024,StGB  ,StGB § 324 Abs. 3 Gewässerverunreinigung - fahrlässig ,48.0,32.0,0.6666666666666666,66.66666666666666
+2024,StGB  ,StGB § 324 a Abs. 3 Bodenverunreinigung - fahrlässig ,21.0,17.0,0.8095238095238095,80.95238095238095
+2024,StGB  ,"StGB § 324 a, ohne Abs. 3 Bodenverunreinigung - vorsätzlich ",38.0,19.0,0.5,50.0
+2024,StGB  ,"StGB § 324, ohne Abs. 3 Gewässerverunreinigung - vorsätzlich ",86.0,58.0,0.6744186046511628,67.44186046511628
+2024,StGB  ,StGB § 325 Abs. 1 Luftverunreinigung - vorsätzlich ,2.0,2.0,1.0,100.0
+2024,StGB  ,StGB § 326 Abs. 1 Unerlaubter Umgang mit Abfällen - vorsätzlich,634.0,491.0,0.7744479495268138,77.44479495268138
+2024,StGB  ,StGB § 326 Abs. 2 Grenzüberschreitende Verbringung von Abfällen - vorsätzlich,5.0,2.0,0.4,40.0
+2024,StGB  ,StGB § 326 Abs. 5 Nr. 1 Unerl. Umgang mit Abfällen und grenzüberschr. Verbringung von Abfällen - fahrlässig,81.0,66.0,0.8148148148148148,81.48148148148148
+2024,StGB  ,StGB § 327 Abs. 2 Unerlaubtes Betreiben anderer Anlagen - vorsätzlich,65.0,33.0,0.5076923076923077,50.76923076923077
+2024,StGB  ,StGB § 327 Abs. 2 und 3 Nr. 2 Unerlaubtes Betreiben anderer Anlagen - fahrlässig,10.0,8.0,0.8,80.0
+2024,StGB  ,StGB § 328 Abs. 1 bis 3 Unerlaubter Umgang mit radioaktiven und anderen gefährlichen Stoffen und Gütern - vorsätzlich,1.0,1.0,1.0,100.0
+2024,StGB  ,StGB § 329 Abs. 4 Schädigung von Natura2000-Gebieten - vorsätzlich,4.0,3.0,0.75,75.0
+2024,StGB  ,StGB § 330 Besonders schwerer Fall einer Umweltstraftat,8.0,2.0,0.25,25.0
+2024,StGB  ,StGB § 331 Vorteilsannahme ,7.0,6.0,0.8571428571428571,85.71428571428571
+2024,StGB  ,StGB § 332 Bestechlichkeit ,25.0,14.0,0.56,56.00000000000001
+2024,StGB  ,StGB § 333 Vorteilsgewährung ,26.0,23.0,0.8846153846153846,88.46153846153845
+2024,StGB  ,StGB § 334 Bestechung ,209.0,180.0,0.861244019138756,86.1244019138756
+2024,StGB  ,StGB § 335 Besonders schwere Fälle der Bestechlichkeit und Bestechung,18.0,17.0,0.9444444444444444,94.44444444444444
+2024,StGB  ,StGB § 339 Rechtsbeugung ,10.0,9.0,0.9,90.0
+2024,StGB  ,StGB § 348 Falschbeurkundung im Amt ,44.0,12.0,0.2727272727272727,27.27272727272727
+2024,StGB  ,StGB § 353 b Verletzung des Dienstgeheimnisses und einer besonderen Geheimhaltungspflicht,56.0,40.0,0.7142857142857143,71.42857142857143
+2024,StGB  ,StGB § 353 d Verbotene Mitteilungen über Gerichtsverhandlungen,15.0,9.0,0.6,60.0
+2024,StGB  ,StGB § 356 Parteiverrat ,24.0,6.0,0.25,25.0
+2024,StGB  ,StGB § 85 Verstoß gegen ein Vereinigungsverbot,7.0,4.0,0.5714285714285714,57.14285714285714
+2024,StGB  ,StGB § 86 Verbreiten von Propagandamitteln verfassungs- widriger und terroristischer Organisationen,1047.0,880.0,0.8404966571155683,84.04966571155683
+2024,StGB  ,StGB § 86 a Verwenden von Kennzeichen verfassungs- widriger und terroristischer Organisationen,2524.0,1962.0,0.777337559429477,77.7337559429477
+2024,StGB  ,StGB § 89 a Vorbereitung einer schweren staatsgefährdenden Gewalttat,6.0,5.0,0.8333333333333334,83.33333333333334
+2024,StGB  ,StGB § 89 c Terrorismusfinanzierung ,1.0,1.0,1.0,100.0
+2024,StGB  ,StGB § 90 a Verunglimpfung des Staates und seiner Symbole,5.0,2.0,0.4,40.0
+2024,StGB  ,StGB § 91 Anleitung zur Begehung einer schweren staatsgefährdenden Gewalttat,2.0,2.0,1.0,100.0
+2024,StGB  ,StGB § 99 Geheimdienstliche Agententätigkeit,1.0,1.0,1.0,100.0
+2024,StGB  ,"StGB §§ 102, 104 Straftaten gegen ausländische Staaten ",7.0,4.0,0.5714285714285714,57.14285714285714
+2024,StGB  ,StGB §§ 107 bis 108 b Wahlvergehen ,8.0,5.0,0.625,62.5
+2024,StGB  ,"StGB §§ 123, 124 Hausfriedensbruch ",4312.0,3241.0,0.7516233766233766,75.16233766233766
+2024,StGB  ,"StGB §§ 142, 315 b bis d,316 sowie 222,229, §§ 323 a i.V.m. Verkehrsunfall, StVG §§ 21, §§ 22,22 a,22 b Straftaten im Straßenverkehr",184437.0,162384.0,0.8804307161795084,88.04307161795084
+2024,StGB  ,"StGB §§ 146 bis 149 Geld-, Wertzeichen- und Wertpapierfälschung ",469.0,356.0,0.7590618336886994,75.90618336886993
+2024,StGB  ,"StGB §§ 166, 167 Religions- und Weltanschauungs- delikte",20.0,18.0,0.9,90.0
+2024,StGB  ,"StGB §§ 212, 213 Totschlag ",503.0,313.0,0.6222664015904572,62.22664015904572
+2024,StGB  ,"StGB §§ 257, 258 und 258 a Begünstigung und Strafvereitelung Strafvereitelung im Amt",940.0,694.0,0.7382978723404255,73.82978723404256
+2024,StGB  ,"StGB §§ 277, 278 und 279 Andere Straftaten der Urkundenfälschung ",1322.0,650.0,0.491679273827534,49.167927382753405
+2024,StGB  ,"StGB §§ 288, 289 Vereiteln der Zwangsvollstreckung, Pfandkehr ",177.0,132.0,0.7457627118644068,74.57627118644068
+2024,StGB  ,"StGB §§ 307, 308 Herbeiführen einer Explosion ",254.0,194.0,0.7637795275590551,76.37795275590551
+2024,StGB  ,"StGB §§ 309, 310, 313, 314, 318 und 319 Andere gemeingefährliche Straftaten ",18.0,11.0,0.6111111111111112,61.111111111111114
+2024,StGB  ,"StGB §§ 344, 345 Verfolgung Unschuldiger, Vollstreckung gegen Unschuldige",5.0,3.0,0.6,60.0
+2024,StGB  ,"StGB §§ 352, 353 Gebühren- und Abgabenüberhebung, Leistungskürzung",7.0,3.0,0.42857142857142855,42.857142857142854
+2024,StGB  ,StGB §§ 81 bis 83 Hochverrat ,2.0,1.0,0.5,50.0
+2024,StGB  ,"StGB §§ 90, 90 b, 90 c Andere Straftaten der Gefährdung des demokratischen Rechtsstaates",1.0,1.0,1.0,100.0
+2024,StGB  ,"StGB §§ 95, 97 Offenbaren und Preisgabe von Staatsgeheimnissen",2.0,2.0,1.0,100.0
+2024,StGB  ,Straftaten im Straßenverkehr in Trunkenheit mit Verkehrsunfall ,24180.0,22952.0,0.9492142266335815,94.92142266335814
+2024,StGB  ,Straftaten im Straßenverkehr in Trunkenheit ohne Verkehrsunfall ,48813.0,46578.0,0.9542130170241534,95.42130170241533
+2024,StGB  ,Straftaten im Straßenverkehr nach dem StGB in Trunkenheit zusammen,72993.0,69530.0,0.9525570945159125,95.25570945159126
+2024,StGB  ,Straftaten im Straßenverkehr nach dem StGB insgesamt Summe 7001 bis 7041,122747.0,107177.0,0.873153722697907,87.3153722697907
+2024,StGB  ,Straftaten im Straßenverkehr nach dem StGB und StVG ohne Trunkenheit zusammen,111444.0,92854.0,0.8331897634686479,83.31897634686479
+2024,StGB  ,Straftaten im Straßenverkehr ohne Trunkenheit mit Verkehrsunfall ,48732.0,37497.0,0.7694533366165969,76.94533366165969
+2024,StGB  ,Straftaten im Straßenverkehr ohne Trunkenheit ohne Verkehrsunfall ,62712.0,55357.0,0.882717821150657,88.2717821150657
+2024,StGB  ,Trunkenheit im Verkehr nach § 316 StGB insgesamt ,54267.0,51998.0,0.9581882175170914,95.81882175170914
+2024,StGB  ,Unerlaubtes Entfernen vom Unfallort insgesamt (§ 142 StGB) ,37732.0,29079.0,0.7706721085550726,77.06721085550726
+2024,StGB  ,Verbotene Kraftfahrzeugrennen nach § 315 d StGB insgesamt ,1647.0,1254.0,0.761384335154827,76.13843351548269
+2024,StGB  ,Verbotene Kraftfahrzeugrennen nach § 315 d StGB mit Verkehrsunfall ,260.0,214.0,0.823076923076923,82.3076923076923
+2024,StGB  ,Verbotene Kraftfahrzeugrennen nach § 315 d StGB ohne Verkehrsunfall ,1387.0,1040.0,0.7498197548666186,74.98197548666185
+2024,StGB  ,Fahrlässige Körperverl. im Straßenverkehr insgesamt (§ 229 StGB) ,13089.0,11009.0,0.8410879364351745,84.10879364351746
+2024,StGB  ,Fahrlässige Tötung im Straßenverkehr insgesamt (§ 222 StGB) ,538.0,465.0,0.8643122676579925,86.43122676579925
+2024,StGB  ,"StGB 15. Abschnitt, §§ 201 bis 206 Verletzung des persönlichen Lebens- und Geheimbereichs",1435.0,1082.0,0.7540069686411149,75.4006968641115
+2024,StGB  ,"StGB 17. Abschnitt, §§ 223 bis 231 (o.V.) Straftaten gegen die körperliche Unversehrtheit (o.V.)",81372.0,52633.0,0.6468195448065673,64.68195448065673
+2024,StGB  ,"StGB 18. Abschnitt, §§ 232 bis 241 a Straftaten gegen die persönliche Freiheit",20968.0,14801.0,0.7058851583365128,70.58851583365127
+2024,StGB  ,"StGB 7. Abschnitt, §§ 123 bis 145 d, ohne § 142 Straftaten gegen die öffentliche Ordnung (o.V.) ",10944.0,8327.0,0.7608735380116959,76.08735380116958
+2024,StGB  ,StGB § 111 Öffentliche Aufforderung zu Straftaten ,139.0,115.0,0.8273381294964028,82.73381294964028
+2024,StGB  ,StGB § 126 Störung des öffentlichen Friedens durch Androhung von Straftaten,279.0,201.0,0.7204301075268817,72.04301075268818
+2024,StGB  ,"StGB § 130 Abs. 3 Volksverhetzung durch Billigung, Leugnung oder Verharmlosung des nationalsozialistischen Völkermordes",675.0,543.0,0.8044444444444444,80.44444444444444
+2024,StGB  ,"StGB § 174 a Sexueller Missbrauch von Gefangenen, behördlich Verwahrten oder Kranken u. Hilfsbedürftigen in Einrichtungen",6.0,2.0,0.3333333333333333,33.33333333333333
+2024,StGB  ,StGB § 176 a Sexueller Missbrauch von Kindern ohne Körperkontakt mit dem Kind,485.0,377.0,0.777319587628866,77.7319587628866
+2024,StGB  ,"StGB § 178 Sexueller Übergriff, sexuelle Nötigung und Vergewaltigung mit Todesfolge",3.0,3.0,1.0,100.0
+2024,StGB  ,StGB § 180 Förderung sexueller Handlungen Minderjähriger,6.0,2.0,0.3333333333333333,33.33333333333333
+2024,StGB  ,StGB § 180 a Ausbeutung von Prostituierten ,2.0,1.0,0.5,50.0
+2024,StGB  ,StGB § 183 a Erregung öffentlichen Ärgernisses ,255.0,216.0,0.8470588235294118,84.70588235294117
+2024,StGB  ,StGB § 201 a Verletzung des höchstpers. Lebensbereichs und von Persönlichkeitsrechten d. Bildaufn.,557.0,421.0,0.755834829443447,75.58348294434471
+2024,StGB  ,StGB § 216 Tötung auf Verlangen ,2.0,1.0,0.5,50.0
+2024,StGB  ,StGB § 222 Fahrlässige Tötung im Straßenverkehr in Trunkenheit ,45.0,45.0,1.0,100.0
+2024,StGB  ,StGB § 222 Fahrlässige Tötung im Straßenverkehr ohne Trunkenheit ,493.0,420.0,0.8519269776876268,85.19269776876268
+2024,StGB  ,"StGB § 222 Fahrlässige Tötung, außer im Straßenverkehr ",279.0,166.0,0.5949820788530465,59.49820788530465
+2024,StGB  ,StGB § 223 Körperverletzung ,45141.0,32003.0,0.7089563811169447,70.89563811169447
+2024,StGB  ,"StGB § 224 Abs. 1 Nr. 1 Gefährliche Körperverletzung, Vergiftung ",575.0,232.0,0.40347826086956523,40.34782608695652
+2024,StGB  ,StGB § 224 Abs. 1 Nrn. 2 bis 5 Gefährliche Körperverletzung ,31182.0,17349.0,0.5563786800076967,55.63786800076967
+2024,StGB  ,StGB § 226 Abs. 1 Schwere Körperverletzung ,81.0,62.0,0.7654320987654321,76.5432098765432
+2024,StGB  ,StGB § 226 Abs. 2 Absichtliche oder wissentliche schwere Körperverletzung,7.0,5.0,0.7142857142857143,71.42857142857143
+2024,StGB  ,StGB § 227 Körperverletzung mit Todesfolge ,43.0,33.0,0.7674418604651163,76.74418604651163
+2024,StGB  ,StGB § 229 Fahrlässige Körperverletzung im Straßenverkehr in Trunkenheit ,2379.0,2269.0,0.9537620849096259,95.37620849096258
+2024,StGB  ,StGB § 229 Fahrlässige Körperverletzung im Straßenverkehr ohne Trunkenheit ,10710.0,8740.0,0.8160597572362278,81.60597572362278
+2024,StGB  ,"StGB § 229 Fahrlässige Körperverletzung, außer im Straßenverkehr",4154.0,2860.0,0.6884930187770824,68.84930187770823
+2024,StGB  ,StGB § 237 Abs. 1 Zwangsheirat - Nötigung zur Eingehung der Ehe,4.0,1.0,0.25,25.0
+2024,StGB  ,StGB § 240 Abs. 1 Nötigung ,8642.0,5961.0,0.689770886368896,68.9770886368896
+2024,StGB  ,StGB § 240 Abs. 4 Nr. 1 Nötigung einer Schwangeren zum Schwangerschaftsabbruch,17.0,8.0,0.47058823529411764,47.05882352941176
+2024,StGB  ,StGB § 240 Abs. 4 Nr. 2 Nötigung unter Missbrauch der Befugnisse oder der Stellung als Amtsträger,10.0,3.0,0.3,30.0
+2024,StGB  ,StGB § 241 a Politische Verdächtigung ,20.0,11.0,0.55,55.00000000000001
+2024,StGB  ,StGB § 305 Zerstörung von Bauwerken ,6.0,4.0,0.6666666666666666,66.66666666666666
+2024,StGB  ,StGB § 305 a Zerstörung wichtiger Arbeitsmittel ,25.0,17.0,0.68,68.0
+2024,StGB  ,StGB § 315 c Abs. 1 Nr. 1 a auch i.V.m. Abs.3 Straßenverkehrsgefährdung infolge Trunkenheit mit Verkehrsunfall,9939.0,9353.0,0.9410403461112788,94.10403461112789
+2024,StGB  ,StGB § 315 c Abs. 1 Nr. 1 a auch i.V.m. Abs.3 Straßenverkehrsgefährdung infolge Trunkenheit ohne Verkehrsunfall,1708.0,1389.0,0.813231850117096,81.3231850117096
+2024,StGB  ,StGB § 315 c Abs. 1 Nr. 1 b auch i.V.m. Abs.3 Straßenverkehrsgefährdung infolge geistiger oder körperl. Mängel mit Verkehrsunfall,1183.0,923.0,0.7802197802197802,78.02197802197803
+2024,StGB  ,StGB § 315 c Abs. 1 Nr. 1 b auch i.V.m. Abs.3 Straßenverkehrsgefährdung infolge geistiger oder körperl. Mängel ohne Verkehrsunfall,139.0,68.0,0.4892086330935252,48.92086330935252
+2024,StGB  ,StGB § 315 c Abs. 1 Nr. 2 a auch i.V.m. Abs.3 Nichtbeachten der Vorfahrt mit Verkehrsunfall,117.0,82.0,0.7008547008547008,70.08547008547008
+2024,StGB  ,StGB § 315 c Abs. 1 Nr. 2 a auch i.V.m. Abs.3 Nichtbeachten der Vorfahrt ohne Verkehrsunfall,145.0,88.0,0.6068965517241379,60.689655172413794
+2024,StGB  ,StGB § 315 c Abs. 1 Nr. 2 b auch i.V.m. Abs.3 Falsches Überholen mit Verkehrsunfall,454.0,368.0,0.8105726872246696,81.05726872246696
+2024,StGB  ,StGB § 315 c Abs. 1 Nr. 2 b auch i.V.m. Abs.3 Falsches Überholen ohne Verkehrsunfall,407.0,256.0,0.628992628992629,62.8992628992629
+2024,StGB  ,StGB § 315 c Abs. 1 Nr. 2 c auch i.V.m. Abs.3 Falsches Fahren an Fußgängerüberwegen mit Verkehrsunfall,10.0,3.0,0.3,30.0
+2024,StGB  ,StGB § 315 c Abs. 1 Nr. 2 c auch i.V.m. Abs.3 Falsches Fahren an Fußgängerüberwegen ohne Verkehrsunfall,27.0,15.0,0.5555555555555556,55.55555555555556
+2024,StGB  ,StGB § 315 c Abs. 1 Nr. 2 d auch i.V.m. Abs.3 Zu schnelles Fahren an unübersichtlichen Stellen etc. mit Verkehrsunfall,59.0,46.0,0.7796610169491526,77.96610169491525
+2024,StGB  ,StGB § 315 c Abs. 1 Nr. 2 d auch i.V.m. Abs.3 Zu schnelles Fahren an unübersichtlichen Stellen etc. ohne Verkehrsunfall,59.0,41.0,0.6949152542372882,69.49152542372882
+2024,StGB  ,StGB § 315 c Abs. 1 Nr. 2 e auch i.V.m. Abs.3 Nichteinhalten der rechten Fahrbahnseite mit Verkehrsunfall,12.0,8.0,0.6666666666666666,66.66666666666666
+2024,StGB  ,StGB § 315 c Abs. 1 Nr. 2 e auch i.V.m. Abs.3 Nichteinhalten der rechten Fahrbahnseite ohne Verkehrsunfall,9.0,5.0,0.5555555555555556,55.55555555555556
+2024,StGB  ,"StGB § 315 c Abs. 1 Nr. 2 f auch i.V.m. Abs.3 Verbotenes Wenden, Rückwärtsfahren o. Fahren entgegen d. Fahrtrichtung mit Verkehrsunfall",40.0,37.0,0.925,92.5
+2024,StGB  ,"StGB § 315 c Abs. 1 Nr. 2 f auch i.V.m. Abs.3 Verbotenes Wenden, Rückwärtsfahren o. Fahren entgegen d. Fahrtrichtung ohne Verkehrsunfall",22.0,18.0,0.8181818181818182,81.81818181818183
+2024,StGB  ,StGB § 315 c Abs. 1 Nr. 2 g auch i.V.m. Abs.3 Nichtkenntlichmachen haltender oder liegen- gebliebener Fahrzeuge mit Verkehrsunfall,4.0,2.0,0.5,50.0
+2024,StGB  ,StGB § 325 Abs. 2 Freisetzen von Schadstoffen in die Luft beim Betrieb einer Anlage - vorsätzlich,3.0,3.0,1.0,100.0
+2024,StGB  ,StGB § 340 Körperverletzung im Amt ,55.0,17.0,0.3090909090909091,30.909090909090907
+2024,StGB  ,"StGB §§ 105, 106 Nötigung von Verfassungsorganen ",2.0,1.0,0.5,50.0
+2024,StGB  ,"StGB §§ 167 a, 168 Störung einer Bestattungsfeier, Störung der Totenruhe",15.0,10.0,0.6666666666666666,66.66666666666666
+2024,StGB  ,"StGB §§ 316 b, 317 Störung öffentlicher Betriebe und von Telekommunikationsanlagen",52.0,34.0,0.6538461538461539,65.38461538461539
+2024,StGB  ,"StGB § 130 Abs. 5 Volksverhetzung durch Billigung, Leugnung oder gröbliche Verharmlosung von Völkermorden, Verbrechen gegen die Menschlichkeit und Kriegsverbrechen",3.0,3.0,1.0,100.0
+2024,StGB  ,StGB § 134 Verletzung amtlicher Bekanntmachungen ,1.0,1.0,1.0,100.0
+2024,StGB  ,"StGB § 152 a Fälschung von Zahlungskarten, Schecks, Wechseln und anderen körperlichen unbaren Zahlungsinstrumenten",2.0,1.0,0.5,50.0
+2024,StGB  ,StGB § 176 e Verbreitung und Besitz von Anleitungen zu sexuellem Missbrauch von Kindern,2.0,2.0,1.0,100.0
+2024,StGB  ,StGB § 234 Menschenraub ,3.0,2.0,0.6666666666666666,66.66666666666666
+2024,StGB  ,StGB § 355 Verletzung des Steuergeheimnisses ,2.0,1.0,0.5,50.0
+2024,StGB  ,StGB § 80 a Aufstacheln zum Verbrechen der Aggression,2.0,1.0,0.5,50.0
+2024,StGBoV  ,Straftaten ohne Straftaten im Straßenverkehr nach dem StGB insgesamt Summe 1012 bis 1690,484112.0,374567.0,0.7737197177512641,77.37197177512641
+2024,StVG  ,Führen eines Kraftfahrzeuges ohne Fahrerlaubnis oder trotz Fahrverbots insgesamt (§ 21 Abs. 1 Nr. 1 StVG),46948.0,42445.0,0.9040853710488199,90.40853710488199
+2024,StVG  ,StVG § 21 Abs. 1 Nr. 1 Führen eines Kraftfahrzeuges ohne Fahrerlaubnis oder trotz Fahrverbots mit Verkehrsunfall,2141.0,1886.0,0.8808967772069126,88.08967772069126
+2024,StVG  ,StVG § 21 Abs. 1 Nr. 1 Führen eines Kraftfahrzeuges ohne Fahrerlaubnis oder trotz Fahrverbots ohne Verkehrsunfall,44807.0,40559.0,0.905193384962171,90.5193384962171
+2024,StVG  ,StVG § 21 Abs. 1 Nr. 2 Anordnen od. Zulassen des Führens eines Kraftfahrzeuges ohne Fahrerlaubnis oder trotz Fahrverbots,2793.0,2082.0,0.7454350161117078,74.54350161117078
+2024,StVG  ,StVG § 21 Abs. 2 Sonstiges unerlaubtes Führen oder Anordnen oder Zulassen des unerlaubten Führens eines Kraftfahrzeuges,10873.0,9759.0,0.8975443759771912,89.75443759771912
+2024,StVG  ,StVG § 22 Abs. 1 Nr. 1 Vortäuschen der Kennzeichnung nicht zugelassener Kraftfahrzeuge,711.0,613.0,0.8621659634317862,86.21659634317862
+2024,StVG  ,StVG § 22 Abs. 1 Nr. 2 Verfälschen der zugelassenen Kennzeichnung ,175.0,156.0,0.8914285714285715,89.14285714285714
+2024,StVG  ,StVG § 22 Abs. 1 Nr. 3 Unterdrücken des amtlich angebrachten Kennzeichens,77.0,56.0,0.7272727272727273,72.72727272727273
+2024,StVG  ,"StVG § 22 Abs. 2 Gebrauchmachen von Kraft- fahrzeugen o. Kfz-Anhängern mit gefälschten, verfälschten oder unterdrückten Kennzeichen",95.0,84.0,0.8842105263157894,88.42105263157895
+2024,StVG  ,"StVG § 22 a Missbräuchliches Herstellen, Vertreiben oder Ausgeben von Kennzeichen",8.0,5.0,0.625,62.5
+2024,StVG  ,StVG § 22 b Missbrauch von Wegstreckenzählern und Geschwindigkeitsbegrenzern,10.0,7.0,0.7,70.0
+2024,StVG  ,Straftaten nach dem StVG insgesamt Summe 8001 bis 8010 ,61690.0,55207.0,0.8949100340411736,89.49100340411736
+2024,Straftat  ,Straftaten außerhalb des Strafgesetzbuches (StGB) ,174751.0,150371.0,0.8604872075124034,86.04872075124034
+2024,TKG  ,Telekommunikationsgesetz TKG ,3.0,2.0,0.6666666666666666,66.66666666666666
+2024,TabakerzG  ,Tabakerzeugnisgesetz TabakerzG ,62.0,50.0,0.8064516129032258,80.64516129032258
+2024,TierGesG  ,Tiergesundheitsgesetz TierGesG ,10.0,9.0,0.9,90.0
+2024,TierSchG  ,Tierschutzgesetz TierSchG ,1489.0,1156.0,0.7763599731363331,77.63599731363331
+2024,UWG  ,Gesetz gegen den unlauteren Wettbewerb UWG ,17.0,3.0,0.17647058823529413,17.647058823529413
+2024,UrhG  ,Urheberrechtsgesetz UrhG ,92.0,64.0,0.6956521739130435,69.56521739130434
+2024,VStGB  ,Völkerstrafgesetzbuch insgesamt VStGB Summe 0001 bis 0036,9.0,7.0,0.7777777777777778,77.77777777777779
+2024,VStGB  ,Völkerstrafgesetzbuch § 13 VStGB ,5.0,3.0,0.6,60.0
+2024,VStGB  ,Völkerstrafgesetzbuch § 6 VStGB ,1.0,1.0,1.0,100.0
+2024,VStGB  ,Völkerstrafgesetzbuch § 7 VStGB ,2.0,2.0,1.0,100.0
+2024,VStGB  ,Völkerstrafgesetzbuch §§ 14 und 15 VStGB ,1.0,1.0,1.0,100.0
+2024,VereinsG  ,Vereinsgesetz VereinsG ,52.0,34.0,0.6538461538461539,65.38461538461539
+2024,VersammlG  ,Versammlungsgesetz VersammlG ,424.0,268.0,0.6320754716981132,63.20754716981132
+2024,WStG  ,Straftaten nach dem Wehrstrafgesetz insg. WStG Summe 2001 bis 2099,107.0,70.0,0.6542056074766355,65.42056074766354
+2024,WStG  ,WStG § 15 Eigenmächtige Abwesenheit ,51.0,38.0,0.7450980392156863,74.50980392156863
+2024,WStG  ,WStG § 16 Fahnenflucht ,1.0,1.0,1.0,100.0
+2024,WStG  ,WStG § 18 Dienstentziehung durch Täuschung ,5.0,3.0,0.6,60.0
+2024,WStG  ,WStG § 20 Gehorsamsverweigerung ,31.0,16.0,0.5161290322580645,51.61290322580645
+2024,WStG  ,WStG § 30 Misshandlung ,7.0,3.0,0.42857142857142855,42.857142857142854
+2024,WStG  ,WStG § 31 Entwürdigende Behandlung ,3.0,3.0,1.0,100.0
+2024,WStG  ,WStG § 44 Wachverfehlung ,3.0,3.0,1.0,100.0
+2024,WStG  ,WStG § 35 Unterdrücken von Beschwerden ,1.0,1.0,1.0,100.0
+2024,WStG  ,WStG § 41 Mangelhafte Dienstaufsicht ,3.0,2.0,0.6666666666666666,66.66666666666666
+2024,WaffG  ,Waffengesetz WaffG ,9176.0,7665.0,0.8353312990409765,83.53312990409765
+2024,WeinG  ,Weingesetz WeinG ,6.0,5.0,0.8333333333333334,83.33333333333334
+2024,WpHG  ,Wertpapierhandelsgesetz WpHG ,13.0,4.0,0.3076923076923077,30.76923076923077
+2024,ZAG  ,Zahlungsdiensteaufsichtsgesetz ZAG ,32.0,27.0,0.84375,84.375
+2024,Übrige  ,Sonstiges Bundesgesetz SONSTBUN ,4411.0,4194.0,0.9508048061664022,95.08048061664022
+2024,MPDG  ,Medizinprodukterecht- Durchführungsgesetz MPDG,6.0,3.0,0.5,50.0
+2024,TAMG  ,Tierarzneimittelgesetz TAMG ,5.0,1.0,0.2,20.0
+2024,TTDSG  ,Telekommunikation-Telemedien- Datenschutz-Gesetz TTDSG,3.0,1.0,0.3333333333333333,33.33333333333333
+2024,ÖLG  ,Öko-Landbaugesetz ÖLG ,4.0,3.0,0.75,75.0
+2024,AktG  ,Aktiengesetz insgesamt AktG Summe 4010 bis 4020,1.0,1.0,1.0,100.0
+2024,AktG  ,"Aktiengesetz, andere Strafvorschriften §§ 399, 401, 402, 403, 404 a AktG ",1.0,1.0,1.0,100.0
