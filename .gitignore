@@ -201,6 +201,9 @@ cython_debug/
 .cursorignore
 .cursorindexingignore
 
+# Local source workbooks downloaded outside the repo.
+src/bund-*.xlsx
+
 # Marimo
 marimo/_static/
 marimo/_lsp/
