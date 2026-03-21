@@ -24,9 +24,12 @@ It reads these sheets from each workbook:
   Contains decision type (`Art_d_Entscheidung`) by article.
 - `csv-24311-47`
   Contains citizenship (`Staatsangehoerigkeit`) for `Verurteilte` by article.
+- `csv-24311-03`
+  Contains yearly totals for `Abgeurteilte` and `Verurteilte` for all crimes in Germany.
 
 The loader writes these CSV files into `src/`:
 
 - `src/by_article.csv` from `csv-24311-05`
 - `src/decision_type.csv` from `csv-24311-07`
 - `src/citizenship.csv` from `csv-24311-47`
+- `src/year_totals.csv` from `csv-24311-03`
