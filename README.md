@@ -22,6 +22,8 @@ It reads these sheets from each workbook:
   Contains counts by article (`Art_der_Straftat`) for both `Abgeurteilte` and `Verurteilte`.
 - `csv-24311-07`
   Contains decision type (`Art_d_Entscheidung`) by article.
+- `csv-24311-09`
+  Contains sanction type for convicted persons by article.
 - `csv-24311-47`
   Contains citizenship (`Staatsangehoerigkeit`) for `Verurteilte` by article.
 - `csv-24311-03`
@@ -31,6 +33,7 @@ The loader writes these CSV files into `src/`:
 
 - `src/by_article.csv` from `csv-24311-05`
 - `src/decision_type.csv` from `csv-24311-07`
+- `src/sanction_type.csv` from `csv-24311-09`
 - `src/citizenship.csv` from `csv-24311-47`
 - `src/year_totals.csv` from `csv-24311-03`
 
