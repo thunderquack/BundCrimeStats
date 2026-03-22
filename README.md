@@ -15,7 +15,11 @@ StGBoV
 - Abgeurteilte: 484 112
 - Verurteilte: 374 567
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 40.68%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 14 451 (2.99%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 68 368 (14.12%)
@@ -33,7 +37,11 @@ StGB
 - Abgeurteilte: 184 437
 - Verurteilte: 162 384
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 38.95%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 2 846 (1.54%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 16 516 (8.95%)
@@ -51,7 +59,11 @@ StGB
 - Abgeurteilte: 126 022
 - Verurteilte: 103 563
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 53.00%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 2 053 (1.63%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 12 784 (10.14%)
@@ -69,7 +81,11 @@ StGB
 - Abgeurteilte: 122 747
 - Verurteilte: 107 177
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 31.50%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 2 003 (1.63%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 12 066 (9.83%)
@@ -87,7 +103,11 @@ StGB
 - Abgeurteilte: 111 444
 - Verurteilte: 92 854
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 45.05%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 2 438 (2.19%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 13 962 (12.53%)
@@ -105,7 +125,11 @@ StGB
 - Abgeurteilte: 105 530
 - Verurteilte: 86 641
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 36.56%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 2 439 (2.31%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 13 778 (13.06%)
@@ -123,7 +147,11 @@ StGB
 - Abgeurteilte: 95 630
 - Verurteilte: 79 380
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 52.74%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 1 125 (1.18%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 8 953 (9.36%)
@@ -141,7 +169,11 @@ StGB
 - Abgeurteilte: 81 372
 - Verurteilte: 52 633
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 38.04%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 4 307 (5.29%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 17 102 (21.02%)
@@ -159,7 +191,11 @@ StGB
 - Abgeurteilte: 72 993
 - Verurteilte: 69 530
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 30.81%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 408 (0.56%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 2 554 (3.50%)
@@ -177,7 +213,11 @@ StGB
 - Abgeurteilte: 62 712
 - Verurteilte: 55 357
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 52.80%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 1 011 (1.61%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 5 014 (8.00%)
@@ -195,7 +235,11 @@ StGB
 - Abgeurteilte: 62 117
 - Verurteilte: 49 866
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 33.32%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 1 781 (2.87%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 9 257 (14.90%)
@@ -213,7 +257,11 @@ StGB
 - Abgeurteilte: 54 267
 - Verurteilte: 51 998
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 31.25%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 277 (0.51%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 1 602 (2.95%)
@@ -231,7 +279,11 @@ StGB
 - Abgeurteilte: 48 813
 - Verurteilte: 46 578
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 32.33%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 266 (0.54%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 1 582 (3.24%)
@@ -249,7 +301,11 @@ StGB
 - Abgeurteilte: 48 732
 - Verurteilte: 37 497
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 33.62%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 1 427 (2.93%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 8 948 (18.36%)
@@ -267,7 +323,11 @@ StGB
 - Abgeurteilte: 47 105
 - Verurteilte: 45 189
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 32.30%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 224 (0.48%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 1 343 (2.85%)
@@ -285,7 +345,11 @@ StGB
 - Abgeurteilte: 45 141
 - Verurteilte: 32 003
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 37.49%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 1 842 (4.08%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 8 336 (18.47%)
@@ -303,7 +367,11 @@ StGB
 - Abgeurteilte: 37 732
 - Verurteilte: 29 079
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 33.48%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 1 213 (3.21%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 6 805 (18.04%)
@@ -321,7 +389,11 @@ StGB
 - Abgeurteilte: 37 596
 - Verurteilte: 28 969
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 33.48%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 1 210 (3.22%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 6 786 (18.05%)
@@ -339,7 +411,11 @@ StGB
 - Abgeurteilte: 33 117
 - Verurteilte: 24 662
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 33.56%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 1 188 (3.59%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 6 656 (20.10%)
@@ -357,7 +433,11 @@ StGB
 - Abgeurteilte: 31 182
 - Verurteilte: 17 349
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 41.16%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 2 257 (7.24%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 7 456 (23.91%)
@@ -375,7 +455,11 @@ StGB
 - Abgeurteilte: 30 482
 - Verurteilte: 24 393
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 24.22%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 620 (2.03%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 4 514 (14.81%)
@@ -393,7 +477,11 @@ StGB
 - Abgeurteilte: 29 038
 - Verurteilte: 23 398
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 24.71%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 558 (1.92%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 4 164 (14.34%)
@@ -411,7 +499,11 @@ StGB
 - Abgeurteilte: 26 707
 - Verurteilte: 23 451
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 45.58%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 108 (0.40%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 1 983 (7.43%)
@@ -429,7 +521,11 @@ StGB
 - Abgeurteilte: 26 004
 - Verurteilte: 21 807
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 56.43%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 580 (2.23%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 3 189 (12.26%)
@@ -447,7 +543,11 @@ StGB
 - Abgeurteilte: 24 180
 - Verurteilte: 22 952
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 27.73%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 142 (0.59%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 972 (4.02%)
@@ -465,7 +565,11 @@ StGB
 - Abgeurteilte: 20 968
 - Verurteilte: 14 801
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 32.90%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 795 (3.79%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 4 343 (20.71%)
@@ -483,7 +587,11 @@ StGB
 - Abgeurteilte: 20 149
 - Verurteilte: 17 288
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 56.26%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 405 (2.01%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 2 118 (10.51%)
@@ -501,7 +609,11 @@ StGB
 - Abgeurteilte: 16 716
 - Verurteilte: 13 847
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 33.89%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 229 (1.37%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 2 076 (12.42%)
@@ -519,7 +631,11 @@ StGB
 - Abgeurteilte: 16 194
 - Verurteilte: 12 171
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 28.48%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 1 112 (6.87%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 1 667 (10.29%)
@@ -537,7 +653,11 @@ StGB
 - Abgeurteilte: 14 335
 - Verurteilte: 12 702
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 29.03%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 198 (1.38%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 1 302 (9.08%)
@@ -555,7 +675,11 @@ StGB
 - Abgeurteilte: 13 212
 - Verurteilte: 9 394
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 29.33%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 359 (2.72%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 1 927 (14.59%)
@@ -573,7 +697,11 @@ StGB
 - Abgeurteilte: 13 089
 - Verurteilte: 11 009
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 30.65%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 140 (1.07%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 1 781 (13.61%)
@@ -591,7 +719,11 @@ StGB
 - Abgeurteilte: 11 818
 - Verurteilte: 10 822
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 28.23%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 108 (0.91%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 835 (7.07%)
@@ -609,7 +741,11 @@ StGB
 - Abgeurteilte: 11 501
 - Verurteilte: 8 348
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 30.69%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 311 (2.70%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 1 708 (14.85%)
@@ -627,7 +763,11 @@ StGB
 - Abgeurteilte: 10 944
 - Verurteilte: 8 327
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 27.38%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 273 (2.49%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 1 722 (15.73%)
@@ -645,7 +785,11 @@ StGB
 - Abgeurteilte: 10 710
 - Verurteilte: 8 740
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 31.21%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 133 (1.24%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 1 695 (15.83%)
@@ -663,7 +807,11 @@ StGB
 - Abgeurteilte: 10 362
 - Verurteilte: 7 535
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 36.48%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 334 (3.22%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 1 891 (18.25%)
@@ -681,7 +829,11 @@ StGB
 - Abgeurteilte: 9 939
 - Verurteilte: 9 353
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 27.58%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 60 (0.60%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 491 (4.94%)
@@ -699,7 +851,11 @@ StGB
 - Abgeurteilte: 9 688
 - Verurteilte: 8 019
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 61.89%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 198 (2.04%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 1 037 (10.70%)
@@ -717,7 +873,11 @@ StGB
 - Abgeurteilte: 9 299
 - Verurteilte: 6 594
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 42.30%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 563 (6.05%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 937 (10.08%)
@@ -735,7 +895,11 @@ StGB
 - Abgeurteilte: 9 252
 - Verurteilte: 7 784
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 35.02%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 123 (1.33%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 1 023 (11.06%)
@@ -753,7 +917,11 @@ StGB
 - Abgeurteilte: 8 642
 - Verurteilte: 5 961
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 28.84%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 364 (4.21%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 1 948 (22.54%)
@@ -771,7 +939,11 @@ StGB
 - Abgeurteilte: 7 162
 - Verurteilte: 6 809
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 24.32%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 53 (0.74%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 259 (3.62%)
@@ -789,7 +961,11 @@ StGB
 - Abgeurteilte: 7 156
 - Verurteilte: 5 407
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 48.16%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 263 (3.68%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 1 137 (15.89%)
@@ -807,7 +983,11 @@ StGB
 - Abgeurteilte: 6 950
 - Verurteilte: 5 498
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 44.67%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 239 (3.44%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 899 (12.94%)
@@ -825,7 +1005,11 @@ StGB
 - Abgeurteilte: 6 853
 - Verurteilte: 5 640
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 33.17%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 80 (1.17%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 912 (13.31%)
@@ -843,7 +1027,11 @@ StGB
 - Abgeurteilte: 6 536
 - Verurteilte: 5 460
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 27.53%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 245 (3.75%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 743 (11.37%)
@@ -861,7 +1049,11 @@ StGB
 - Abgeurteilte: 5 682
 - Verurteilte: 4 562
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 15.23%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 158 (2.78%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 453 (7.97%)
@@ -879,7 +1071,11 @@ StGB
 - Abgeurteilte: 5 016
 - Verurteilte: 3 724
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 35.74%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 252 (5.02%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 833 (16.61%)
@@ -897,7 +1093,11 @@ StGB
 - Abgeurteilte: 5 007
 - Verurteilte: 4 212
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 58.14%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 59 (1.18%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 429 (8.57%)
@@ -915,7 +1115,11 @@ StGB
 - Abgeurteilte: 4 752
 - Verurteilte: 3 971
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 42.51%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 39 (0.82%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 734 (15.45%)
@@ -933,7 +1137,11 @@ StGB
 - Abgeurteilte: 4 479
 - Verurteilte: 4 307
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 33.04%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 22 (0.49%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 130 (2.90%)
@@ -951,7 +1159,11 @@ StGB
 - Abgeurteilte: 4 312
 - Verurteilte: 3 241
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 43.10%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 59 (1.37%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 728 (16.88%)
@@ -969,7 +1181,11 @@ StGB
 - Abgeurteilte: 4 154
 - Verurteilte: 2 860
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 25.77%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 107 (2.58%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 1 030 (24.80%)
@@ -987,7 +1203,11 @@ StGB
 - Abgeurteilte: 3 597
 - Verurteilte: 2 859
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 10.39%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 94 (2.61%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 356 (9.90%)
@@ -1005,7 +1225,11 @@ StGB
 - Abgeurteilte: 3 513
 - Verurteilte: 2 491
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 34.00%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 188 (5.35%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 622 (17.71%)
@@ -1023,7 +1247,11 @@ StGB
 - Abgeurteilte: 3 513
 - Verurteilte: 2 491
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 34.00%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 188 (5.35%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 622 (17.71%)
@@ -1041,7 +1269,11 @@ StGB
 - Abgeurteilte: 3 175
 - Verurteilte: 2 384
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 30.87%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 152 (4.79%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 454 (14.30%)
@@ -1059,7 +1291,11 @@ StGB
 - Abgeurteilte: 3 008
 - Verurteilte: 2 231
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 35.32%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 173 (5.75%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 163 (5.42%)
@@ -1077,7 +1313,11 @@ StGB
 - Abgeurteilte: 2 828
 - Verurteilte: 2 048
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 51.81%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 155 (5.48%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 533 (18.85%)
@@ -1095,7 +1335,11 @@ StGB
 - Abgeurteilte: 2 781
 - Verurteilte: 1 901
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 29.20%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 155 (5.57%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 603 (21.68%)
@@ -1113,7 +1357,11 @@ StGB
 - Abgeurteilte: 2 712
 - Verurteilte: 2 011
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 27.55%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 130 (4.79%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 294 (10.84%)
@@ -1131,7 +1379,11 @@ StGB
 - Abgeurteilte: 2 524
 - Verurteilte: 1 962
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 10.50%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 68 (2.69%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 276 (10.94%)
@@ -1149,7 +1401,11 @@ StGB
 - Abgeurteilte: 2 517
 - Verurteilte: 1 880
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 33.67%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 90 (3.58%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 467 (18.55%)
@@ -1167,7 +1423,11 @@ StGB
 - Abgeurteilte: 2 379
 - Verurteilte: 2 269
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 28.47%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 7 (0.29%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 86 (3.61%)
@@ -1185,7 +1445,11 @@ StGB
 - Abgeurteilte: 2 271
 - Verurteilte: 1 456
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 48.35%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 184 (8.10%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 232 (10.22%)
@@ -1203,7 +1467,11 @@ StGB
 - Abgeurteilte: 1 869
 - Verurteilte: 1 228
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 30.46%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 114 (6.10%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 408 (21.83%)
@@ -1221,7 +1489,11 @@ StGB
 - Abgeurteilte: 1 832
 - Verurteilte: 1 409
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 47.84%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 52 (2.84%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 229 (12.50%)
@@ -1239,7 +1511,11 @@ StGB
 - Abgeurteilte: 1 832
 - Verurteilte: 1 386
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 45.45%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 70 (3.82%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 267 (14.57%)
@@ -1257,7 +1533,11 @@ StGB
 - Abgeurteilte: 1 765
 - Verurteilte: 1 361
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 53.64%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 61 (3.46%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 260 (14.73%)
@@ -1275,7 +1555,11 @@ StGB
 - Abgeurteilte: 1 725
 - Verurteilte: 1 515
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 39.34%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 33 (1.91%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 113 (6.55%)
@@ -1293,7 +1577,11 @@ StGB
 - Abgeurteilte: 1 708
 - Verurteilte: 1 389
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 33.33%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 42 (2.46%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 239 (13.99%)
@@ -1311,7 +1599,11 @@ StGB
 - Abgeurteilte: 1 647
 - Verurteilte: 1 254
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 29.82%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 71 (4.31%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 213 (12.93%)
@@ -1329,7 +1621,11 @@ StGB
 - Abgeurteilte: 1 590
 - Verurteilte: 1 314
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 36.38%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 59 (3.71%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 191 (12.01%)
@@ -1347,7 +1643,11 @@ StGB
 - Abgeurteilte: 1 562
 - Verurteilte: 1 330
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 61.50%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 76 (4.87%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 113 (7.23%)
@@ -1365,7 +1665,11 @@ StGB
 - Abgeurteilte: 1 435
 - Verurteilte: 1 082
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 34.01%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 60 (4.18%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 222 (15.47%)
@@ -1383,7 +1687,11 @@ StGB
 - Abgeurteilte: 1 387
 - Verurteilte: 1 040
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 29.71%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 61 (4.40%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 193 (13.91%)
@@ -1401,7 +1709,11 @@ StGB
 - Abgeurteilte: 1 322
 - Verurteilte: 650
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 14.77%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 65 (4.92%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 599 (45.31%)
@@ -1419,7 +1731,11 @@ StGB
 - Abgeurteilte: 1 286
 - Verurteilte: 943
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 45.60%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 96 (7.47%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 97 (7.54%)
@@ -1437,7 +1753,11 @@ StGB
 - Abgeurteilte: 1 281
 - Verurteilte: 893
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 33.48%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 49 (3.83%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 337 (26.31%)
@@ -1455,7 +1775,11 @@ StGB
 - Abgeurteilte: 1 239
 - Verurteilte: 931
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 27.28%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 46 (3.71%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 180 (14.53%)
@@ -1473,7 +1797,11 @@ StGB
 - Abgeurteilte: 1 202
 - Verurteilte: 926
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 7.45%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 42 (3.49%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 187 (15.56%)
@@ -1491,7 +1819,11 @@ StGB
 - Abgeurteilte: 1 186
 - Verurteilte: 960
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 28.54%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 11 (0.93%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 213 (17.96%)
@@ -1509,7 +1841,11 @@ StGB
 - Abgeurteilte: 1 183
 - Verurteilte: 923
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 30.23%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 27 (2.28%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 225 (19.02%)
@@ -1527,7 +1863,11 @@ StGB
 - Abgeurteilte: 1 169
 - Verurteilte: 870
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 18.16%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 88 (7.53%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 69 (5.90%)
@@ -1545,7 +1885,11 @@ StGB
 - Abgeurteilte: 1 148
 - Verurteilte: 834
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 50.36%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 48 (4.18%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 255 (22.21%)
@@ -1563,7 +1907,11 @@ StGB
 - Abgeurteilte: 1 139
 - Verurteilte: 770
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 23.64%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 41 (3.60%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 306 (26.87%)
@@ -1581,7 +1929,11 @@ StGB
 - Abgeurteilte: 1 109
 - Verurteilte: 744
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 42.07%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 67 (6.04%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 122 (11.00%)
@@ -1599,7 +1951,11 @@ StGB
 - Abgeurteilte: 1 083
 - Verurteilte: 691
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 38.06%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 239 (22.07%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 45 (4.16%)
@@ -1617,7 +1973,11 @@ StGB
 - Abgeurteilte: 1 065
 - Verurteilte: 962
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 88.36%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 9 (0.85%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 89 (8.36%)
@@ -1635,7 +1995,11 @@ StGB
 - Abgeurteilte: 1 047
 - Verurteilte: 880
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 9.66%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 25 (2.39%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 73 (6.97%)
@@ -1653,7 +2017,11 @@ StGB
 - Abgeurteilte: 1 008
 - Verurteilte: 737
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 37.45%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 26 (2.58%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 240 (23.81%)
@@ -1671,7 +2039,11 @@ StGB
 - Abgeurteilte: 990
 - Verurteilte: 733
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 19.10%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 17 (1.72%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 239 (24.14%)
@@ -1689,7 +2061,11 @@ StGB
 - Abgeurteilte: 967
 - Verurteilte: 505
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 33.47%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 90 (9.31%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 303 (31.33%)
@@ -1707,7 +2083,11 @@ StGB
 - Abgeurteilte: 958
 - Verurteilte: 580
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 13.79%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 16 (1.67%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 126 (13.15%)
@@ -1725,7 +2105,11 @@ StGB
 - Abgeurteilte: 943
 - Verurteilte: 757
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 29.19%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 6 (0.64%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 178 (18.88%)
@@ -1743,7 +2127,11 @@ StGB
 - Abgeurteilte: 940
 - Verurteilte: 694
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 32.28%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 46 (4.89%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 152 (16.17%)
@@ -1761,7 +2149,11 @@ StGB
 - Abgeurteilte: 921
 - Verurteilte: 825
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 85.45%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 10 (1.09%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 60 (6.51%)
@@ -1779,7 +2171,11 @@ StGB
 - Abgeurteilte: 865
 - Verurteilte: 708
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 41.38%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 36 (4.16%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 109 (12.60%)
@@ -1797,7 +2193,11 @@ StGB
 - Abgeurteilte: 836
 - Verurteilte: 617
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 26.42%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 36 (4.31%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 180 (21.53%)
@@ -1815,7 +2215,11 @@ StGB
 - Abgeurteilte: 829
 - Verurteilte: 634
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 28.08%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 20 (2.41%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 125 (15.08%)
@@ -1833,7 +2237,11 @@ StGB
 - Abgeurteilte: 814
 - Verurteilte: 483
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 21.74%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 20 (2.46%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 309 (37.96%)
@@ -1851,7 +2259,11 @@ StGB
 - Abgeurteilte: 812
 - Verurteilte: 492
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 34.55%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 55 (6.77%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 204 (25.12%)
@@ -1869,7 +2281,11 @@ StGB
 - Abgeurteilte: 763
 - Verurteilte: 455
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 15.16%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 60 (7.86%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 245 (32.11%)
@@ -1887,7 +2303,11 @@ StGB
 - Abgeurteilte: 745
 - Verurteilte: 435
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 20.00%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 16 (2.15%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 293 (39.33%)
@@ -1905,7 +2325,11 @@ StGB
 - Abgeurteilte: 712
 - Verurteilte: 578
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 26.30%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 24 (3.37%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 68 (9.55%)
@@ -1923,7 +2347,11 @@ StGB
 - Abgeurteilte: 675
 - Verurteilte: 543
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 4.60%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 32 (4.74%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 48 (7.11%)
@@ -1941,7 +2369,11 @@ StGB
 - Abgeurteilte: 664
 - Verurteilte: 331
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 43.20%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 157 (23.64%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 110 (16.57%)
@@ -1959,7 +2391,11 @@ StGB
 - Abgeurteilte: 663
 - Verurteilte: 568
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 14.44%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 43 (6.49%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 19 (2.87%)
@@ -1977,7 +2413,11 @@ StGB
 - Abgeurteilte: 653
 - Verurteilte: 619
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 25.53%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 4 (0.61%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 25 (3.83%)
@@ -1995,7 +2435,11 @@ StGB
 - Abgeurteilte: 634
 - Verurteilte: 491
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 41.55%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 12 (1.89%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 126 (19.87%)
@@ -2013,7 +2457,11 @@ StGB
 - Abgeurteilte: 602
 - Verurteilte: 532
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 81.77%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 15 (2.49%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 41 (6.81%)
@@ -2031,7 +2479,11 @@ StGB
 - Abgeurteilte: 578
 - Verurteilte: 363
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 26.17%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 23 (3.98%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 59 (10.21%)
@@ -2049,7 +2501,11 @@ StGB
 - Abgeurteilte: 575
 - Verurteilte: 232
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 39.22%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 58 (10.09%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 210 (36.52%)
@@ -2067,7 +2523,11 @@ StGB
 - Abgeurteilte: 560
 - Verurteilte: 375
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 25.33%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 12 (2.14%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 53 (9.46%)
@@ -2085,7 +2545,11 @@ StGB
 - Abgeurteilte: 557
 - Verurteilte: 421
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 24.23%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 23 (4.13%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 63 (11.31%)
@@ -2103,7 +2567,11 @@ StGB
 - Abgeurteilte: 550
 - Verurteilte: 361
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 50.42%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 101 (18.36%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 47 (8.55%)
@@ -2121,7 +2589,11 @@ StGB
 - Abgeurteilte: 549
 - Verurteilte: 430
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 21.16%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 10 (1.82%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 75 (13.66%)
@@ -2139,7 +2611,11 @@ StGB
 - Abgeurteilte: 547
 - Verurteilte: 383
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 56.92%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 43 (7.86%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 98 (17.92%)
@@ -2157,7 +2633,11 @@ StGB
 - Abgeurteilte: 538
 - Verurteilte: 465
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 27.10%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 14 (2.60%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 54 (10.04%)
@@ -2175,7 +2655,11 @@ StGB
 - Abgeurteilte: 503
 - Verurteilte: 340
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 28.53%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 41 (8.15%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 120 (23.86%)
@@ -2193,7 +2677,11 @@ StGB
 - Abgeurteilte: 503
 - Verurteilte: 313
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 46.96%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 33 (6.56%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 22 (4.37%)
@@ -2211,7 +2699,11 @@ StGB
 - Abgeurteilte: 495
 - Verurteilte: 377
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 39.52%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 38 (7.68%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 44 (8.89%)
@@ -2229,7 +2721,11 @@ StGB
 - Abgeurteilte: 493
 - Verurteilte: 420
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 26.19%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 14 (2.84%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 54 (10.95%)
@@ -2247,7 +2743,11 @@ StGB
 - Abgeurteilte: 485
 - Verurteilte: 377
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 17.77%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 22 (4.54%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 31 (6.39%)
@@ -2265,7 +2765,11 @@ StGB
 - Abgeurteilte: 481
 - Verurteilte: 296
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 16.55%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 20 (4.16%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 143 (29.73%)
@@ -2283,7 +2787,11 @@ StGB
 - Abgeurteilte: 469
 - Verurteilte: 356
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 36.80%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 38 (8.10%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 40 (8.53%)
@@ -2301,7 +2809,11 @@ StGB
 - Abgeurteilte: 467
 - Verurteilte: 303
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 18.15%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 23 (4.93%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 131 (28.05%)
@@ -2319,7 +2831,11 @@ StGB
 - Abgeurteilte: 454
 - Verurteilte: 368
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 36.41%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 14 (3.08%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 72 (15.86%)
@@ -2337,7 +2853,11 @@ StGB
 - Abgeurteilte: 440
 - Verurteilte: 300
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 29.00%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 24 (5.45%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 94 (21.36%)
@@ -2355,7 +2875,11 @@ StGB
 - Abgeurteilte: 417
 - Verurteilte: 288
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 29.17%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 17 (4.08%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 97 (23.26%)
@@ -2373,7 +2897,11 @@ StGB
 - Abgeurteilte: 407
 - Verurteilte: 256
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 39.45%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 25 (6.14%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 113 (27.76%)
@@ -2391,7 +2919,11 @@ StGB
 - Abgeurteilte: 405
 - Verurteilte: 332
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 5.42%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 13 (3.21%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 59 (14.57%)
@@ -2409,7 +2941,11 @@ StGB
 - Abgeurteilte: 392
 - Verurteilte: 280
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 11.07%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 34 (8.67%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 14 (3.57%)
@@ -2427,7 +2963,11 @@ StGB
 - Abgeurteilte: 386
 - Verurteilte: 224
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 33.04%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 32 (8.29%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 16 (4.15%)
@@ -2445,7 +2985,11 @@ StGB
 - Abgeurteilte: 346
 - Verurteilte: 182
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 35.16%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 27 (7.80%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 125 (36.13%)
@@ -2463,7 +3007,11 @@ StGB
 - Abgeurteilte: 340
 - Verurteilte: 291
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 2.41%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 3 (0.88%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 19 (5.59%)
@@ -2481,7 +3029,11 @@ StGB
 - Abgeurteilte: 337
 - Verurteilte: 308
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 56.17%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 8 (2.37%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 19 (5.64%)
@@ -2499,7 +3051,11 @@ StGB
 - Abgeurteilte: 334
 - Verurteilte: 298
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 53.69%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 3 (0.90%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 27 (8.08%)
@@ -2517,7 +3073,11 @@ StGB
 - Abgeurteilte: 322
 - Verurteilte: 262
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 54.20%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 12 (3.73%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 46 (14.29%)
@@ -2535,7 +3095,11 @@ StGB
 - Abgeurteilte: 321
 - Verurteilte: 239
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 31.38%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 4 (1.25%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 28 (8.72%)
@@ -2553,7 +3117,11 @@ StGB
 - Abgeurteilte: 290
 - Verurteilte: 236
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 47.88%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 12 (4.14%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 39 (13.45%)
@@ -2571,7 +3139,11 @@ StGB
 - Abgeurteilte: 288
 - Verurteilte: 226
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 33.63%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 6 (2.08%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 47 (16.32%)
@@ -2589,7 +3161,11 @@ StGB
 - Abgeurteilte: 286
 - Verurteilte: 241
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 19.50%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 8 (2.80%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 37 (12.94%)
@@ -2607,7 +3183,11 @@ StGB
 - Abgeurteilte: 283
 - Verurteilte: 242
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 8.26%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 9 (3.18%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 28 (9.89%)
@@ -2625,7 +3205,11 @@ StGB
 - Abgeurteilte: 279
 - Verurteilte: 201
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 19.90%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 8 (2.87%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 34 (12.19%)
@@ -2643,7 +3227,11 @@ StGB
 - Abgeurteilte: 279
 - Verurteilte: 166
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 26.51%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 24 (8.60%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 87 (31.18%)
@@ -2661,7 +3249,11 @@ StGB
 - Abgeurteilte: 260
 - Verurteilte: 214
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 30.37%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 10 (3.85%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 20 (7.69%)
@@ -2679,7 +3271,11 @@ StGB
 - Abgeurteilte: 255
 - Verurteilte: 216
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 40.28%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 8 (3.14%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 29 (11.37%)
@@ -2697,7 +3293,11 @@ StGB
 - Abgeurteilte: 254
 - Verurteilte: 194
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 44.85%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 12 (4.72%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 15 (5.91%)
@@ -2715,7 +3315,11 @@ StGB
 - Abgeurteilte: 252
 - Verurteilte: 156
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 32.69%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 18 (7.14%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 60 (23.81%)
@@ -2733,7 +3337,11 @@ StGB
 - Abgeurteilte: 239
 - Verurteilte: 165
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 36.97%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 13 (5.44%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 40 (16.74%)
@@ -2751,7 +3359,11 @@ StGB
 - Abgeurteilte: 230
 - Verurteilte: 120
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 25.83%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 13 (5.65%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 87 (37.83%)
@@ -2769,7 +3381,11 @@ StGB
 - Abgeurteilte: 229
 - Verurteilte: 139
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 60.43%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 19 (8.30%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 69 (30.13%)
@@ -2787,7 +3403,11 @@ StGB
 - Abgeurteilte: 221
 - Verurteilte: 191
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 24.61%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 1 (0.45%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 29 (13.12%)
@@ -2805,7 +3425,11 @@ StGB
 - Abgeurteilte: 209
 - Verurteilte: 180
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 42.78%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 5 (2.39%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 24 (11.48%)
@@ -2823,7 +3447,11 @@ StGB
 - Abgeurteilte: 208
 - Verurteilte: 174
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 27.01%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 3 (1.44%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 27 (12.98%)
@@ -2841,7 +3469,11 @@ StGB
 - Abgeurteilte: 207
 - Verurteilte: 96
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 86.46%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 10 (4.83%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 78 (37.68%)
@@ -2859,7 +3491,11 @@ StGB
 - Abgeurteilte: 198
 - Verurteilte: 177
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 48.59%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 2 (1.01%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 12 (6.06%)
@@ -2877,7 +3513,11 @@ StGB
 - Abgeurteilte: 195
 - Verurteilte: 121
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 14.05%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 12 (6.15%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 53 (27.18%)
@@ -2895,7 +3535,11 @@ StGB
 - Abgeurteilte: 194
 - Verurteilte: 149
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 41.61%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 4 (2.06%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 24 (12.37%)
@@ -2913,7 +3557,11 @@ StGB
 - Abgeurteilte: 189
 - Verurteilte: 122
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 49.18%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 9 (4.76%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 58 (30.69%)
@@ -2931,7 +3579,11 @@ StGB
 - Abgeurteilte: 185
 - Verurteilte: 86
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 25.58%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 37 (20.00%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 59 (31.89%)
@@ -2949,7 +3601,11 @@ StGB
 - Abgeurteilte: 177
 - Verurteilte: 132
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 25.00%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 3 (1.69%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 41 (23.16%)
@@ -2967,7 +3623,11 @@ StGB
 - Abgeurteilte: 174
 - Verurteilte: 127
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 75.59%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 9 (5.17%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 36 (20.69%)
@@ -2985,7 +3645,11 @@ StGB
 - Abgeurteilte: 172
 - Verurteilte: 165
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 26.06%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 6 (3.49%)
@@ -3003,7 +3667,11 @@ StGB
 - Abgeurteilte: 167
 - Verurteilte: 149
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 48.32%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 2 (1.20%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 3 (1.80%)
@@ -3021,7 +3689,11 @@ StGB
 - Abgeurteilte: 167
 - Verurteilte: 137
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 35.77%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 12 (7.19%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 12 (7.19%)
@@ -3039,7 +3711,11 @@ StGB
 - Abgeurteilte: 158
 - Verurteilte: 132
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 51.52%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 14 (8.86%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 8 (5.06%)
@@ -3057,7 +3733,11 @@ StGB
 - Abgeurteilte: 155
 - Verurteilte: 113
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 67.26%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 4 (2.58%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 37 (23.87%)
@@ -3075,7 +3755,11 @@ StGB
 - Abgeurteilte: 145
 - Verurteilte: 88
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 28.41%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 10 (6.90%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 38 (26.21%)
@@ -3093,7 +3777,11 @@ StGB
 - Abgeurteilte: 141
 - Verurteilte: 105
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 44.76%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 5 (3.55%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 6 (4.26%)
@@ -3111,7 +3799,11 @@ StGB
 - Abgeurteilte: 139
 - Verurteilte: 115
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 9.57%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 5 (3.60%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 14 (10.07%)
@@ -3129,7 +3821,11 @@ StGB
 - Abgeurteilte: 139
 - Verurteilte: 68
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 17.65%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 7 (5.04%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 53 (38.13%)
@@ -3147,7 +3843,11 @@ StGB
 - Abgeurteilte: 136
 - Verurteilte: 110
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 33.64%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 3 (2.21%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 19 (13.97%)
@@ -3165,7 +3865,11 @@ StGB
 - Abgeurteilte: 134
 - Verurteilte: 91
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 52.75%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 4 (2.99%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 36 (26.87%)
@@ -3183,7 +3887,11 @@ StGB
 - Abgeurteilte: 134
 - Verurteilte: 107
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 32.71%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 4 (2.99%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 13 (9.70%)
@@ -3201,7 +3909,11 @@ StGB
 - Abgeurteilte: 132
 - Verurteilte: 106
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 33.96%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 3 (2.27%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 19 (14.39%)
@@ -3219,7 +3931,11 @@ StGB
 - Abgeurteilte: 131
 - Verurteilte: 118
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 36.44%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 1 (0.76%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 6 (4.58%)
@@ -3237,7 +3953,11 @@ StGB
 - Abgeurteilte: 129
 - Verurteilte: 114
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 92.98%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 2 (1.55%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 11 (8.53%)
@@ -3255,7 +3975,11 @@ StGB
 - Abgeurteilte: 128
 - Verurteilte: 59
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 28.81%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 11 (8.59%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 46 (35.94%)
@@ -3273,7 +3997,11 @@ StGB
 - Abgeurteilte: 123
 - Verurteilte: 95
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 42.11%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 18 (14.63%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 9 (7.32%)
@@ -3291,7 +4019,11 @@ StGB
 - Abgeurteilte: 118
 - Verurteilte: 83
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 10.84%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 10 (8.47%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 17 (14.41%)
@@ -3309,7 +4041,11 @@ StGB
 - Abgeurteilte: 117
 - Verurteilte: 82
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 36.59%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 2 (1.71%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 29 (24.79%)
@@ -3327,7 +4063,11 @@ StGB
 - Abgeurteilte: 116
 - Verurteilte: 61
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 26.23%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 20 (17.24%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 23 (19.83%)
@@ -3345,7 +4085,11 @@ StGB
 - Abgeurteilte: 113
 - Verurteilte: 98
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 35.71%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 2 (1.77%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 13 (11.50%)
@@ -3363,7 +4107,11 @@ StGB
 - Abgeurteilte: 99
 - Verurteilte: 70
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 14.29%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 6 (6.06%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 22 (22.22%)
@@ -3381,7 +4129,11 @@ StGB
 - Abgeurteilte: 98
 - Verurteilte: 57
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 15.79%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 5 (5.10%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 11 (11.22%)
@@ -3399,7 +4151,11 @@ StGB
 - Abgeurteilte: 93
 - Verurteilte: 83
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 85.54%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 9 (9.68%)
@@ -3417,7 +4173,11 @@ StGB
 - Abgeurteilte: 93
 - Verurteilte: 71
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 33.80%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 5 (5.38%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 16 (17.20%)
@@ -3435,7 +4195,11 @@ StGB
 - Abgeurteilte: 86
 - Verurteilte: 58
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 27.59%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 5 (5.81%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 23 (26.74%)
@@ -3453,7 +4217,11 @@ StGB
 - Abgeurteilte: 82
 - Verurteilte: 61
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 11.48%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 12 (14.63%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 9 (10.98%)
@@ -3471,7 +4239,11 @@ StGB
 - Abgeurteilte: 81
 - Verurteilte: 62
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 33.87%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 3 (3.70%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 7 (8.64%)
@@ -3489,7 +4261,11 @@ StGB
 - Abgeurteilte: 81
 - Verurteilte: 36
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 36.11%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 6 (7.41%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 38 (46.91%)
@@ -3507,7 +4283,11 @@ StGB
 - Abgeurteilte: 81
 - Verurteilte: 67
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 19.40%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 5 (6.17%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 2 (2.47%)
@@ -3525,7 +4305,11 @@ StGB
 - Abgeurteilte: 81
 - Verurteilte: 66
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 42.42%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 2 (2.47%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 13 (16.05%)
@@ -3543,7 +4327,11 @@ StGB
 - Abgeurteilte: 72
 - Verurteilte: 58
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 46.55%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 3 (4.17%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 6 (8.33%)
@@ -3561,7 +4349,11 @@ StGB
 - Abgeurteilte: 70
 - Verurteilte: 35
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 17.14%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 8 (11.43%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 23 (32.86%)
@@ -3579,7 +4371,11 @@ StGB
 - Abgeurteilte: 69
 - Verurteilte: 49
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 2.04%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 5 (7.25%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 12 (17.39%)
@@ -3597,7 +4393,11 @@ StGB
 - Abgeurteilte: 67
 - Verurteilte: 51
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 52.94%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 3 (4.48%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 5 (7.46%)
@@ -3615,7 +4415,11 @@ StGB
 - Abgeurteilte: 67
 - Verurteilte: 62
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 59.68%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 5 (7.46%)
@@ -3633,7 +4437,11 @@ StGB
 - Abgeurteilte: 65
 - Verurteilte: 33
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 12.12%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 1 (1.54%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 31 (47.69%)
@@ -3651,7 +4459,11 @@ StGB
 - Abgeurteilte: 63
 - Verurteilte: 38
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 26.32%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 1 (1.59%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 24 (38.10%)
@@ -3669,7 +4481,11 @@ StGB
 - Abgeurteilte: 63
 - Verurteilte: 53
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 32.08%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 7 (11.11%)
@@ -3687,7 +4503,11 @@ StGB
 - Abgeurteilte: 63
 - Verurteilte: 57
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 63.16%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 6 (9.52%)
@@ -3705,7 +4525,11 @@ StGB
 - Abgeurteilte: 61
 - Verurteilte: 43
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 23.26%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 6 (9.84%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 10 (16.39%)
@@ -3723,7 +4547,11 @@ StGB
 - Abgeurteilte: 59
 - Verurteilte: 46
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 32.61%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 3 (5.08%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 6 (10.17%)
@@ -3741,7 +4569,11 @@ StGB
 - Abgeurteilte: 59
 - Verurteilte: 41
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 41.46%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 2 (3.39%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 9 (15.25%)
@@ -3759,7 +4591,11 @@ StGB
 - Abgeurteilte: 57
 - Verurteilte: 44
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 54.55%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 6 (10.53%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 5 (8.77%)
@@ -3777,7 +4613,11 @@ StGB
 - Abgeurteilte: 56
 - Verurteilte: 40
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 0.00%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 6 (10.71%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 10 (17.86%)
@@ -3795,7 +4635,11 @@ StGB
 - Abgeurteilte: 55
 - Verurteilte: 17
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 0.00%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 10 (18.18%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 28 (50.91%)
@@ -3813,7 +4657,11 @@ StGB
 - Abgeurteilte: 52
 - Verurteilte: 34
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 23.53%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 2 (3.85%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 10 (19.23%)
@@ -3831,7 +4679,11 @@ StGB
 - Abgeurteilte: 51
 - Verurteilte: 33
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 36.36%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 4 (7.84%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 14 (27.45%)
@@ -3849,7 +4701,11 @@ StGB
 - Abgeurteilte: 50
 - Verurteilte: 34
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 29.41%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 2 (4.00%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 12 (24.00%)
@@ -3867,7 +4723,11 @@ StGB
 - Abgeurteilte: 48
 - Verurteilte: 32
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 28.12%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 1 (2.08%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 15 (31.25%)
@@ -3885,7 +4745,11 @@ StGB
 - Abgeurteilte: 46
 - Verurteilte: 39
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 7.69%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 1 (2.17%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 5 (10.87%)
@@ -3903,7 +4767,11 @@ StGB
 - Abgeurteilte: 45
 - Verurteilte: 37
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 8.11%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 1 (2.22%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 3 (6.67%)
@@ -3921,7 +4789,11 @@ StGB
 - Abgeurteilte: 45
 - Verurteilte: 45
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 35.56%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 0 (0.00%)
@@ -3939,7 +4811,11 @@ StGB
 - Abgeurteilte: 44
 - Verurteilte: 30
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 23.33%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 1 (2.27%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 4 (9.09%)
@@ -3957,7 +4833,11 @@ StGB
 - Abgeurteilte: 44
 - Verurteilte: 12
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 25.00%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 7 (15.91%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 25 (56.82%)
@@ -3975,7 +4855,11 @@ StGB
 - Abgeurteilte: 43
 - Verurteilte: 33
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 33.33%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 2 (4.65%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 3 (6.98%)
@@ -3993,7 +4877,11 @@ StGB
 - Abgeurteilte: 41
 - Verurteilte: 27
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 22.22%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 1 (2.44%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 11 (26.83%)
@@ -4011,7 +4899,11 @@ StGB
 - Abgeurteilte: 40
 - Verurteilte: 37
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 37.84%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 1 (2.50%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 1 (2.50%)
@@ -4029,7 +4921,11 @@ StGB
 - Abgeurteilte: 38
 - Verurteilte: 30
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 33.33%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 1 (2.63%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 7 (18.42%)
@@ -4047,7 +4943,11 @@ StGB
 - Abgeurteilte: 38
 - Verurteilte: 19
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 36.84%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 5 (13.16%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 14 (36.84%)
@@ -4065,7 +4965,11 @@ StGB
 - Abgeurteilte: 37
 - Verurteilte: 24
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 50.00%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 2 (5.41%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 8 (21.62%)
@@ -4083,7 +4987,11 @@ StGB
 - Abgeurteilte: 37
 - Verurteilte: 35
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 28.57%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 2 (5.41%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 0 (0.00%)
@@ -4101,7 +5009,11 @@ StGB
 - Abgeurteilte: 36
 - Verurteilte: 19
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 26.32%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 3 (8.33%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 14 (38.89%)
@@ -4119,7 +5031,11 @@ StGB
 - Abgeurteilte: 35
 - Verurteilte: 28
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 17.86%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 1 (2.86%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 5 (14.29%)
@@ -4137,7 +5053,11 @@ StGB
 - Abgeurteilte: 35
 - Verurteilte: 32
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 37.50%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 1 (2.86%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 1 (2.86%)
@@ -4155,7 +5075,11 @@ StGB
 - Abgeurteilte: 35
 - Verurteilte: 20
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 75.00%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 7 (20.00%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 8 (22.86%)
@@ -4173,7 +5097,11 @@ StGB
 - Abgeurteilte: 35
 - Verurteilte: 20
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 25.00%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 11 (31.43%)
@@ -4191,7 +5119,11 @@ StGB
 - Abgeurteilte: 34
 - Verurteilte: 22
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 22.73%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 4 (11.76%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 8 (23.53%)
@@ -4209,7 +5141,11 @@ StGB
 - Abgeurteilte: 32
 - Verurteilte: 28
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 46.43%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 4 (12.50%)
@@ -4227,7 +5163,11 @@ StGB
 - Abgeurteilte: 30
 - Verurteilte: 26
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 34.62%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 4 (13.33%)
@@ -4245,7 +5185,11 @@ StGB
 - Abgeurteilte: 29
 - Verurteilte: 17
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 35.29%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 1 (3.45%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 4 (13.79%)
@@ -4263,7 +5207,11 @@ StGB
 - Abgeurteilte: 27
 - Verurteilte: 15
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 33.33%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 3 (11.11%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 7 (25.93%)
@@ -4281,7 +5229,11 @@ StGB
 - Abgeurteilte: 26
 - Verurteilte: 26
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 69.23%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 0 (0.00%)
@@ -4299,7 +5251,11 @@ StGB
 - Abgeurteilte: 26
 - Verurteilte: 21
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 14.29%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 3 (11.54%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 2 (7.69%)
@@ -4317,7 +5273,11 @@ StGB
 - Abgeurteilte: 26
 - Verurteilte: 23
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 39.13%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 1 (3.85%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 2 (7.69%)
@@ -4335,7 +5295,11 @@ StGB
 - Abgeurteilte: 25
 - Verurteilte: 10
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 40.00%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 3 (12.00%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 10 (40.00%)
@@ -4353,7 +5317,11 @@ StGB
 - Abgeurteilte: 25
 - Verurteilte: 18
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 11.11%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 2 (8.00%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 5 (20.00%)
@@ -4371,7 +5339,11 @@ StGB
 - Abgeurteilte: 25
 - Verurteilte: 17
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 17.65%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 1 (4.00%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 7 (28.00%)
@@ -4389,7 +5361,11 @@ StGB
 - Abgeurteilte: 25
 - Verurteilte: 14
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 0.00%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 4 (16.00%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 7 (28.00%)
@@ -4407,7 +5383,11 @@ StGB
 - Abgeurteilte: 24
 - Verurteilte: 6
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 0.00%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 4 (16.67%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 14 (58.33%)
@@ -4425,7 +5405,11 @@ StGB
 - Abgeurteilte: 23
 - Verurteilte: 16
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 25.00%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 2 (8.70%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 0 (0.00%)
@@ -4443,7 +5427,11 @@ StGB
 - Abgeurteilte: 22
 - Verurteilte: 15
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 13.33%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 1 (4.55%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 5 (22.73%)
@@ -4461,7 +5449,11 @@ StGB
 - Abgeurteilte: 22
 - Verurteilte: 13
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 15.38%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 1 (4.55%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 8 (36.36%)
@@ -4479,7 +5471,11 @@ StGB
 - Abgeurteilte: 22
 - Verurteilte: 18
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 44.44%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 1 (4.55%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 3 (13.64%)
@@ -4497,7 +5493,11 @@ StGB
 - Abgeurteilte: 21
 - Verurteilte: 17
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 29.41%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 4 (19.05%)
@@ -4515,7 +5515,11 @@ StGB
 - Abgeurteilte: 20
 - Verurteilte: 17
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 64.71%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 2 (10.00%)
@@ -4533,7 +5537,11 @@ StGB
 - Abgeurteilte: 20
 - Verurteilte: 11
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 36.36%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 1 (5.00%)
@@ -4551,7 +5559,11 @@ StGB
 - Abgeurteilte: 20
 - Verurteilte: 8
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 37.50%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 6 (30.00%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 6 (30.00%)
@@ -4569,7 +5581,11 @@ StGB
 - Abgeurteilte: 20
 - Verurteilte: 18
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 22.22%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 1 (5.00%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 1 (5.00%)
@@ -4587,7 +5603,11 @@ StGB
 - Abgeurteilte: 19
 - Verurteilte: 17
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 100.00%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 2 (10.53%)
@@ -4605,7 +5625,11 @@ StGB
 - Abgeurteilte: 19
 - Verurteilte: 7
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 0.00%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 3 (15.79%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 9 (47.37%)
@@ -4623,7 +5647,11 @@ StGB
 - Abgeurteilte: 19
 - Verurteilte: 7
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 57.14%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 1 (5.26%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 9 (47.37%)
@@ -4641,7 +5669,11 @@ StGB
 - Abgeurteilte: 18
 - Verurteilte: 17
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 23.53%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 1 (5.56%)
@@ -4659,7 +5691,11 @@ StGB
 - Abgeurteilte: 18
 - Verurteilte: 11
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 27.27%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 5 (27.78%)
@@ -4677,7 +5713,11 @@ StGB
 - Abgeurteilte: 17
 - Verurteilte: 8
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 50.00%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 9 (52.94%)
@@ -4695,7 +5735,11 @@ StGB
 - Abgeurteilte: 16
 - Verurteilte: 13
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 23.08%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 2 (12.50%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 0 (0.00%)
@@ -4713,7 +5757,11 @@ StGB
 - Abgeurteilte: 15
 - Verurteilte: 11
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 54.55%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 3 (20.00%)
@@ -4731,7 +5779,11 @@ StGB
 - Abgeurteilte: 15
 - Verurteilte: 11
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 45.45%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 1 (6.67%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 1 (6.67%)
@@ -4749,7 +5801,11 @@ StGB
 - Abgeurteilte: 15
 - Verurteilte: 9
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 11.11%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 6 (40.00%)
@@ -4767,7 +5823,11 @@ StGB
 - Abgeurteilte: 15
 - Verurteilte: 9
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 22.22%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 5 (33.33%)
@@ -4785,7 +5845,11 @@ StGB
 - Abgeurteilte: 15
 - Verurteilte: 10
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 10.00%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 4 (26.67%)
@@ -4803,7 +5867,11 @@ StGB
 - Abgeurteilte: 14
 - Verurteilte: 9
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 22.22%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 2 (14.29%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 3 (21.43%)
@@ -4821,7 +5889,11 @@ StGB
 - Abgeurteilte: 14
 - Verurteilte: 14
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 100.00%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 0 (0.00%)
@@ -4839,7 +5911,11 @@ StGB
 - Abgeurteilte: 14
 - Verurteilte: 5
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 40.00%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 4 (28.57%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 5 (35.71%)
@@ -4857,7 +5933,11 @@ StGB
 - Abgeurteilte: 14
 - Verurteilte: 8
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 0.00%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 1 (7.14%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 5 (35.71%)
@@ -4875,7 +5955,11 @@ StGB
 - Abgeurteilte: 13
 - Verurteilte: 9
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 22.22%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 1 (7.69%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 3 (23.08%)
@@ -4893,7 +5977,11 @@ StGB
 - Abgeurteilte: 12
 - Verurteilte: 7
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 28.57%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 3 (25.00%)
@@ -4911,7 +5999,11 @@ StGB
 - Abgeurteilte: 12
 - Verurteilte: 8
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 37.50%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 4 (33.33%)
@@ -4929,7 +6021,11 @@ StGB
 - Abgeurteilte: 11
 - Verurteilte: 10
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 0.00%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 1 (9.09%)
@@ -4947,7 +6043,11 @@ StGB
 - Abgeurteilte: 11
 - Verurteilte: 5
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 20.00%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 3 (27.27%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 3 (27.27%)
@@ -4965,7 +6065,11 @@ StGB
 - Abgeurteilte: 11
 - Verurteilte: 8
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 25.00%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 0 (0.00%)
@@ -4983,7 +6087,11 @@ StGB
 - Abgeurteilte: 10
 - Verurteilte: 6
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 16.67%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 2 (20.00%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 1 (10.00%)
@@ -5001,7 +6109,11 @@ StGB
 - Abgeurteilte: 10
 - Verurteilte: 8
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 0.00%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 1 (10.00%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 1 (10.00%)
@@ -5019,7 +6131,11 @@ StGB
 - Abgeurteilte: 10
 - Verurteilte: 8
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 50.00%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 1 (10.00%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 1 (10.00%)
@@ -5037,7 +6153,11 @@ StGB
 - Abgeurteilte: 10
 - Verurteilte: 3
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 33.33%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 2 (20.00%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 4 (40.00%)
@@ -5055,7 +6175,11 @@ StGB
 - Abgeurteilte: 10
 - Verurteilte: 1
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 0.00%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 1 (10.00%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 7 (70.00%)
@@ -5073,7 +6197,11 @@ StGB
 - Abgeurteilte: 10
 - Verurteilte: 3
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 0.00%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 1 (10.00%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 5 (50.00%)
@@ -5091,7 +6219,11 @@ StGB
 - Abgeurteilte: 10
 - Verurteilte: 8
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 0.00%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 2 (20.00%)
@@ -5109,7 +6241,11 @@ StGB
 - Abgeurteilte: 10
 - Verurteilte: 9
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 22.22%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 1 (10.00%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 0 (0.00%)
@@ -5127,7 +6263,11 @@ StGB
 - Abgeurteilte: 9
 - Verurteilte: 4
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 75.00%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 2 (22.22%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 3 (33.33%)
@@ -5145,7 +6285,11 @@ StGB
 - Abgeurteilte: 9
 - Verurteilte: 3
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 33.33%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 2 (22.22%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 4 (44.44%)
@@ -5163,7 +6307,11 @@ StGB
 - Abgeurteilte: 9
 - Verurteilte: 9
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 44.44%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 0 (0.00%)
@@ -5181,7 +6329,11 @@ StGB
 - Abgeurteilte: 9
 - Verurteilte: 3
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 66.67%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 1 (11.11%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 5 (55.56%)
@@ -5199,7 +6351,11 @@ StGB
 - Abgeurteilte: 9
 - Verurteilte: 5
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 40.00%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 4 (44.44%)
@@ -5217,7 +6373,11 @@ StGB
 - Abgeurteilte: 8
 - Verurteilte: 6
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 16.67%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 2 (25.00%)
@@ -5235,7 +6395,11 @@ StGB
 - Abgeurteilte: 8
 - Verurteilte: 7
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 28.57%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 1 (12.50%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 0 (0.00%)
@@ -5253,7 +6417,11 @@ StGB
 - Abgeurteilte: 8
 - Verurteilte: 4
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 25.00%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 4 (50.00%)
@@ -5271,7 +6439,11 @@ StGB
 - Abgeurteilte: 8
 - Verurteilte: 3
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 66.67%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 2 (25.00%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 3 (37.50%)
@@ -5289,7 +6461,11 @@ StGB
 - Abgeurteilte: 8
 - Verurteilte: 7
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 14.29%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 0 (0.00%)
@@ -5307,7 +6483,11 @@ StGB
 - Abgeurteilte: 8
 - Verurteilte: 2
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 0.00%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 6 (75.00%)
@@ -5325,7 +6505,11 @@ StGB
 - Abgeurteilte: 8
 - Verurteilte: 5
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 20.00%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 2 (25.00%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 1 (12.50%)
@@ -5343,7 +6527,11 @@ StGB
 - Abgeurteilte: 7
 - Verurteilte: 4
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 75.00%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 0 (0.00%)
@@ -5361,7 +6549,11 @@ StGB
 - Abgeurteilte: 7
 - Verurteilte: 5
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 20.00%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 1 (14.29%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 0 (0.00%)
@@ -5379,7 +6571,11 @@ StGB
 - Abgeurteilte: 7
 - Verurteilte: 6
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 0.00%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 1 (14.29%)
@@ -5397,7 +6593,11 @@ StGB
 - Abgeurteilte: 7
 - Verurteilte: 4
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 50.00%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 1 (14.29%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 1 (14.29%)
@@ -5415,7 +6615,11 @@ StGB
 - Abgeurteilte: 7
 - Verurteilte: 4
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 75.00%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 0 (0.00%)
@@ -5433,7 +6637,11 @@ StGB
 - Abgeurteilte: 7
 - Verurteilte: 3
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 0.00%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 1 (14.29%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 2 (28.57%)
@@ -5451,7 +6659,11 @@ StGB
 - Abgeurteilte: 6
 - Verurteilte: 2
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 0.00%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 2 (33.33%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 2 (33.33%)
@@ -5469,7 +6681,11 @@ StGB
 - Abgeurteilte: 6
 - Verurteilte: 2
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 50.00%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 3 (50.00%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 1 (16.67%)
@@ -5487,7 +6703,11 @@ StGB
 - Abgeurteilte: 6
 - Verurteilte: 4
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 75.00%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 2 (33.33%)
@@ -5505,7 +6725,11 @@ StGB
 - Abgeurteilte: 6
 - Verurteilte: 2
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 50.00%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 1 (16.67%)
@@ -5523,7 +6747,11 @@ StGB
 - Abgeurteilte: 6
 - Verurteilte: 4
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 25.00%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 2 (33.33%)
@@ -5541,7 +6769,11 @@ StGB
 - Abgeurteilte: 6
 - Verurteilte: 3
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 33.33%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 3 (50.00%)
@@ -5559,7 +6791,11 @@ StGB
 - Abgeurteilte: 6
 - Verurteilte: 4
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 0.00%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 2 (33.33%)
@@ -5577,7 +6813,11 @@ StGB
 - Abgeurteilte: 6
 - Verurteilte: 5
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 0.00%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 1 (16.67%)
@@ -5595,7 +6835,11 @@ StGB
 - Abgeurteilte: 6
 - Verurteilte: 5
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 40.00%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 1 (16.67%)
@@ -5613,7 +6857,11 @@ StGB
 - Abgeurteilte: 5
 - Verurteilte: 5
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 60.00%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 0 (0.00%)
@@ -5631,7 +6879,11 @@ StGB
 - Abgeurteilte: 5
 - Verurteilte: 3
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 33.33%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 1 (20.00%)
@@ -5649,7 +6901,11 @@ StGB
 - Abgeurteilte: 5
 - Verurteilte: 4
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 50.00%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 1 (20.00%)
@@ -5667,7 +6923,11 @@ StGB
 - Abgeurteilte: 5
 - Verurteilte: 4
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 25.00%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 1 (20.00%)
@@ -5685,7 +6945,11 @@ StGB
 - Abgeurteilte: 5
 - Verurteilte: 4
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 25.00%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 0 (0.00%)
@@ -5703,7 +6967,11 @@ StGB
 - Abgeurteilte: 5
 - Verurteilte: 5
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 0.00%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 0 (0.00%)
@@ -5721,7 +6989,11 @@ StGB
 - Abgeurteilte: 5
 - Verurteilte: 4
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 75.00%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 1 (20.00%)
@@ -5739,7 +7011,11 @@ StGB
 - Abgeurteilte: 5
 - Verurteilte: 5
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 40.00%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 0 (0.00%)
@@ -5757,7 +7033,11 @@ StGB
 - Abgeurteilte: 5
 - Verurteilte: 2
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 0.00%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 3 (60.00%)
@@ -5775,7 +7055,11 @@ StGB
 - Abgeurteilte: 5
 - Verurteilte: 2
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 0.00%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 3 (60.00%)
@@ -5793,7 +7077,11 @@ StGB
 - Abgeurteilte: 5
 - Verurteilte: 3
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 0.00%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 2 (40.00%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 0 (0.00%)
@@ -5811,7 +7099,11 @@ StGB
 - Abgeurteilte: 4
 - Verurteilte: 4
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 50.00%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 0 (0.00%)
@@ -5829,7 +7121,11 @@ StGB
 - Abgeurteilte: 4
 - Verurteilte: 4
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 25.00%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 0 (0.00%)
@@ -5847,7 +7143,11 @@ StGB
 - Abgeurteilte: 4
 - Verurteilte: 4
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 75.00%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 0 (0.00%)
@@ -5865,7 +7165,11 @@ StGB
 - Abgeurteilte: 4
 - Verurteilte: 3
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 0.00%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 1 (25.00%)
@@ -5883,7 +7187,11 @@ StGB
 - Abgeurteilte: 4
 - Verurteilte: 3
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 0.00%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 1 (25.00%)
@@ -5901,7 +7209,11 @@ StGB
 - Abgeurteilte: 4
 - Verurteilte: 4
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 75.00%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 0 (0.00%)
@@ -5919,7 +7231,11 @@ StGB
 - Abgeurteilte: 4
 - Verurteilte: 1
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 100.00%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 2 (50.00%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 1 (25.00%)
@@ -5937,7 +7253,11 @@ StGB
 - Abgeurteilte: 4
 - Verurteilte: 4
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 100.00%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 0 (0.00%)
@@ -5955,7 +7275,11 @@ StGB
 - Abgeurteilte: 4
 - Verurteilte: 2
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 0.00%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 2 (50.00%)
@@ -5973,7 +7297,11 @@ StGB
 - Abgeurteilte: 4
 - Verurteilte: 3
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 0.00%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 1 (25.00%)
@@ -5991,7 +7319,11 @@ StGB
 - Abgeurteilte: 3
 - Verurteilte: 3
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 66.67%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 0 (0.00%)
@@ -6009,7 +7341,11 @@ StGB
 - Abgeurteilte: 3
 - Verurteilte: 3
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 66.67%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 0 (0.00%)
@@ -6027,7 +7363,11 @@ StGB
 - Abgeurteilte: 3
 - Verurteilte: 3
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 0.00%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 0 (0.00%)
@@ -6045,7 +7385,11 @@ StGB
 - Abgeurteilte: 3
 - Verurteilte: 3
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 66.67%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 0 (0.00%)
@@ -6063,7 +7407,11 @@ StGB
 - Abgeurteilte: 3
 - Verurteilte: 3
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 33.33%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 0 (0.00%)
@@ -6081,7 +7429,11 @@ StGB
 - Abgeurteilte: 3
 - Verurteilte: 2
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 0.00%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 1 (33.33%)
@@ -6099,7 +7451,11 @@ StGB
 - Abgeurteilte: 3
 - Verurteilte: 2
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 100.00%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 1 (33.33%)
@@ -6117,7 +7473,11 @@ StGB
 - Abgeurteilte: 3
 - Verurteilte: 3
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 100.00%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 0 (0.00%)
@@ -6135,7 +7495,11 @@ StGB
 - Abgeurteilte: 2
 - Verurteilte: 2
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 0.00%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 0 (0.00%)
@@ -6153,7 +7517,11 @@ StGB
 - Abgeurteilte: 2
 - Verurteilte: 1
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 0.00%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 1 (50.00%)
@@ -6171,7 +7539,11 @@ StGB
 - Abgeurteilte: 2
 - Verurteilte: 2
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 0.00%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 0 (0.00%)
@@ -6189,7 +7561,11 @@ StGB
 - Abgeurteilte: 2
 - Verurteilte: 1
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 0.00%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 1 (50.00%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 0 (0.00%)
@@ -6207,7 +7583,11 @@ StGB
 - Abgeurteilte: 2
 - Verurteilte: 2
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 100.00%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 0 (0.00%)
@@ -6225,7 +7605,11 @@ StGB
 - Abgeurteilte: 2
 - Verurteilte: 2
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 0.00%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 0 (0.00%)
@@ -6243,7 +7627,11 @@ StGB
 - Abgeurteilte: 2
 - Verurteilte: 1
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 0.00%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 0 (0.00%)
@@ -6261,7 +7649,11 @@ StGB
 - Abgeurteilte: 2
 - Verurteilte: 1
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 0.00%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 0 (0.00%)
@@ -6279,7 +7671,11 @@ StGB
 - Abgeurteilte: 2
 - Verurteilte: 2
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 0.00%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 0 (0.00%)
@@ -6297,7 +7693,11 @@ StGB
 - Abgeurteilte: 2
 - Verurteilte: 1
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 0.00%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 1 (50.00%)
@@ -6315,7 +7715,11 @@ StGB
 - Abgeurteilte: 2
 - Verurteilte: 1
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 0.00%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 1 (50.00%)
@@ -6333,7 +7737,11 @@ StGB
 - Abgeurteilte: 2
 - Verurteilte: 2
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 50.00%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 0 (0.00%)
@@ -6351,7 +7759,11 @@ StGB
 - Abgeurteilte: 2
 - Verurteilte: 1
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 0.00%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 0 (0.00%)
@@ -6369,7 +7781,11 @@ StGB
 - Abgeurteilte: 2
 - Verurteilte: 1
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 0.00%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 1 (50.00%)
@@ -6387,7 +7803,11 @@ StGB
 - Abgeurteilte: 2
 - Verurteilte: 2
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 100.00%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 0 (0.00%)
@@ -6405,7 +7825,11 @@ StGB
 - Abgeurteilte: 1
 - Verurteilte: 1
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 100.00%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 0 (0.00%)
@@ -6423,7 +7847,11 @@ StGB
 - Abgeurteilte: 1
 - Verurteilte: 1
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 0.00%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 0 (0.00%)
@@ -6441,7 +7869,11 @@ StGB
 - Abgeurteilte: 1
 - Verurteilte: 1
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 0.00%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 0 (0.00%)
@@ -6459,7 +7891,11 @@ StGB
 - Abgeurteilte: 1
 - Verurteilte: 1
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 0.00%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 0 (0.00%)
@@ -6477,7 +7913,11 @@ StGB
 - Abgeurteilte: 1
 - Verurteilte: 1
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 0.00%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 0 (0.00%)
@@ -6495,7 +7935,11 @@ StGB
 - Abgeurteilte: 1
 - Verurteilte: 1
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 0.00%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 0 (0.00%)
@@ -6513,7 +7957,11 @@ StGB
 - Abgeurteilte: 1
 - Verurteilte: 1
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 100.00%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 0 (0.00%)
@@ -6531,7 +7979,11 @@ StGB
 - Abgeurteilte: 1
 - Verurteilte: 1
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 0.00%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 0 (0.00%)
@@ -6549,7 +8001,11 @@ StGB
 - Abgeurteilte: 1
 - Verurteilte: 1
 
+---
+
 - ![](readme_assets/swatches/foreigners.svg) Иностранцы: 0.00%
+
+---
 
 - ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
 - ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 0 (0.00%)
