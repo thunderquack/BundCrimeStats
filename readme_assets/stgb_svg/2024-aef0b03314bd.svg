@@ -1,0 +1,18 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='420' height='220' viewBox='0 0 420 220' role='img' aria-label='StGB chart'>
+  <rect width='420' height='220' rx='18' fill='#fffdf8'/>
+  <circle cx='110' cy='92' r='70' fill='#ffffff'/>
+  <circle cx='310' cy='92' r='70' fill='#ffffff'/>
+  <path d='M 110 92 L 110.0000 30.0000 A 62 62 0 0 1 118.9718 30.6526 Z' fill='#2e8b57' />
+  <path d='M 110 92 L 118.9718 30.6526 A 62 62 0 0 1 160.9864 56.7242 Z' fill='#9fd8b3' />
+  <path d='M 110 92 L 160.9864 56.7242 A 62 62 0 0 1 164.8057 63.0114 Z' fill='#8b1e3f' />
+  <path d='M 110 92 L 164.8057 63.0114 A 62 62 0 0 1 171.9912 90.9572 Z' fill='#d66a7c' />
+  <path d='M 110 92 L 171.9912 90.9572 A 62 62 0 1 1 90.4149 33.1746 Z' fill='#e9a3b0' />
+  <path d='M 110 92 L 90.4149 33.1746 A 62 62 0 0 1 110.0000 30.0000 Z' fill='#b9d6ea' />
+  <path d='M 310 92 L 310.0000 30.0000 A 62 62 0 0 1 356.3429 133.1866 Z' fill='#3b82f6' />
+  <path d='M 310 92 L 356.3429 133.1866 A 62 62 0 1 1 310.0000 30.0000 Z' fill='#d9d9d9' />
+  <circle cx='110' cy='92' r='30' fill='#fffdf8'/>
+  <circle cx='310' cy='92' r='30' fill='#fffdf8'/>
+  <text x='110' y='184' text-anchor='middle' font-family='Georgia, serif' font-size='15' fill='#6e6a62'>Исходы суда</text>
+  <text x='310' y='176' text-anchor='middle' font-family='Georgia, serif' font-size='15' fill='#6e6a62'>Иностранцы</text>
+  <text x='310' y='194' text-anchor='middle' font-family='Georgia, serif' font-size='15' fill='#6e6a62'>(36.56%)</text>
+</svg>
