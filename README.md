@@ -14,13 +14,15 @@ StGBoV
 
 - Abgeurteilte: 484 112
 - Verurteilte: 374 567
-- Иностранцы: 40.68%
-- Оправдан: 14 451
-- Дело прекращено: 68 368
-- Лишение свободы: 19 457
-- Условный срок: 44 296
-- Денежный штраф: 278 884
-- Остальные: 58 656
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 40.68%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 14 451 (2.99%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 68 368 (14.12%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 19 457 (4.02%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 44 296 (9.15%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 278 884 (57.61%)
+- ![](readme_assets/swatches/other.svg) Остальные: 58 656 (12.12%)
 
 ### StGB §§ 142, 315 b bis d,316 sowie 222,229, §§ 323 a i.V.m. Verkehrsunfall, StVG §§ 21, §§ 22,22 a,22 b Straftaten im Straßenverkehr
 
@@ -30,13 +32,15 @@ StGB
 
 - Abgeurteilte: 184 437
 - Verurteilte: 162 384
-- Иностранцы: 38.95%
-- Оправдан: 2 846
-- Дело прекращено: 16 516
-- Лишение свободы: 1 261
-- Условный срок: 5 908
-- Денежный штраф: 151 595
-- Остальные: 6 311
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 38.95%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 2 846 (1.54%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 16 516 (8.95%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 1 261 (0.68%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 5 908 (3.20%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 151 595 (82.19%)
+- ![](readme_assets/swatches/other.svg) Остальные: 6 311 (3.42%)
 
 ### StGB 19. Abschnitt, §§ 242 bis 248 c Diebstahl und Unterschlagung
 
@@ -46,13 +50,15 @@ StGB
 
 - Abgeurteilte: 126 022
 - Verurteilte: 103 563
-- Иностранцы: 53.00%
-- Оправдан: 2 053
-- Дело прекращено: 12 784
-- Лишение свободы: 7 938
-- Условный срок: 11 288
-- Денежный штраф: 75 659
-- Остальные: 16 300
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 53.00%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 2 053 (1.63%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 12 784 (10.14%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 7 938 (6.30%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 11 288 (8.96%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 75 659 (60.04%)
+- ![](readme_assets/swatches/other.svg) Остальные: 16 300 (12.93%)
 
 ### Straftaten im Straßenverkehr nach dem StGB insgesamt Summe 7001 bis 7041
 
@@ -62,13 +68,15 @@ StGB
 
 - Abgeurteilte: 122 747
 - Verurteilte: 107 177
-- Иностранцы: 31.50%
-- Оправдан: 2 003
-- Дело прекращено: 12 066
-- Лишение свободы: 555
-- Условный срок: 2 598
-- Денежный штраф: 101 507
-- Остальные: 4 018
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 31.50%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 2 003 (1.63%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 12 066 (9.83%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 555 (0.45%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 2 598 (2.12%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 101 507 (82.70%)
+- ![](readme_assets/swatches/other.svg) Остальные: 4 018 (3.27%)
 
 ### Straftaten im Straßenverkehr nach dem StGB und StVG ohne Trunkenheit zusammen
 
@@ -78,13 +86,15 @@ StGB
 
 - Abgeurteilte: 111 444
 - Verurteilte: 92 854
-- Иностранцы: 45.05%
-- Оправдан: 2 438
-- Дело прекращено: 13 962
-- Лишение свободы: 876
-- Условный срок: 3 939
-- Денежный штраф: 85 735
-- Остальные: 4 494
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 45.05%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 2 438 (2.19%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 13 962 (12.53%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 876 (0.79%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 3 939 (3.53%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 85 735 (76.93%)
+- ![](readme_assets/swatches/other.svg) Остальные: 4 494 (4.03%)
 
 ### StGB 22. Abschnitt, §§ 263 bis 266 b Betrug und Untreue
 
@@ -94,13 +104,15 @@ StGB
 
 - Abgeurteilte: 105 530
 - Verurteilte: 86 641
-- Иностранцы: 36.56%
-- Оправдан: 2 439
-- Дело прекращено: 13 778
-- Лишение свободы: 1 994
-- Условный срок: 7 889
-- Денежный штраф: 74 032
-- Остальные: 5 398
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 36.56%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 2 439 (2.31%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 13 778 (13.06%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 1 994 (1.89%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 7 889 (7.48%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 74 032 (70.15%)
+- ![](readme_assets/swatches/other.svg) Остальные: 5 398 (5.12%)
 
 ### StGB § 242 Diebstahl
 
@@ -110,13 +122,15 @@ StGB
 
 - Abgeurteilte: 95 630
 - Verurteilte: 79 380
-- Иностранцы: 52.74%
-- Оправдан: 1 125
-- Дело прекращено: 8 953
-- Лишение свободы: 2 744
-- Условный срок: 4 280
-- Денежный штраф: 66 486
-- Остальные: 12 042
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 52.74%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 1 125 (1.18%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 8 953 (9.36%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 2 744 (2.87%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 4 280 (4.48%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 66 486 (69.52%)
+- ![](readme_assets/swatches/other.svg) Остальные: 12 042 (12.59%)
 
 ### StGB 17. Abschnitt, §§ 223 bis 231 (o.V.) Straftaten gegen die körperliche Unversehrtheit (o.V.)
 
@@ -126,13 +140,15 @@ StGB
 
 - Abgeurteilte: 81 372
 - Verurteilte: 52 633
-- Иностранцы: 38.04%
-- Оправдан: 4 307
-- Дело прекращено: 17 102
-- Лишение свободы: 2 763
-- Условный срок: 9 665
-- Денежный штраф: 30 844
-- Остальные: 16 691
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 38.04%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 4 307 (5.29%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 17 102 (21.02%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 2 763 (3.40%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 9 665 (11.88%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 30 844 (37.90%)
+- ![](readme_assets/swatches/other.svg) Остальные: 16 691 (20.51%)
 
 ### Straftaten im Straßenverkehr nach dem StGB in Trunkenheit zusammen
 
@@ -142,13 +158,15 @@ StGB
 
 - Abgeurteilte: 72 993
 - Verurteilte: 69 530
-- Иностранцы: 30.81%
-- Оправдан: 408
-- Дело прекращено: 2 554
-- Лишение свободы: 385
-- Условный срок: 1 969
-- Денежный штраф: 65 860
-- Остальные: 1 817
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 30.81%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 408 (0.56%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 2 554 (3.50%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 385 (0.53%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 1 969 (2.70%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 65 860 (90.23%)
+- ![](readme_assets/swatches/other.svg) Остальные: 1 817 (2.49%)
 
 ### Straftaten im Straßenverkehr ohne Trunkenheit ohne Verkehrsunfall
 
@@ -158,13 +176,15 @@ StGB
 
 - Abgeurteilte: 62 712
 - Verurteilte: 55 357
-- Иностранцы: 52.80%
-- Оправдан: 1 011
-- Дело прекращено: 5 014
-- Лишение свободы: 772
-- Условный срок: 3 422
-- Денежный штраф: 49 821
-- Остальные: 2 672
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 52.80%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 1 011 (1.61%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 5 014 (8.00%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 772 (1.23%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 3 422 (5.46%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 49 821 (79.44%)
+- ![](readme_assets/swatches/other.svg) Остальные: 2 672 (4.26%)
 
 ### StGB § 263 Abs. 1 Betrug
 
@@ -174,13 +194,15 @@ StGB
 
 - Abgeurteilte: 62 117
 - Verurteilte: 49 866
-- Иностранцы: 33.32%
-- Оправдан: 1 781
-- Дело прекращено: 9 257
-- Лишение свободы: 598
-- Условный срок: 2 647
-- Денежный штраф: 45 442
-- Остальные: 2 392
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 33.32%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 1 781 (2.87%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 9 257 (14.90%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 598 (0.96%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 2 647 (4.26%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 45 442 (73.16%)
+- ![](readme_assets/swatches/other.svg) Остальные: 2 392 (3.85%)
 
 ### Trunkenheit im Verkehr nach § 316 StGB insgesamt
 
@@ -190,13 +212,15 @@ StGB
 
 - Abgeurteilte: 54 267
 - Verurteilte: 51 998
-- Иностранцы: 31.25%
-- Оправдан: 277
-- Дело прекращено: 1 602
-- Лишение свободы: 272
-- Условный срок: 1 351
-- Денежный штраф: 49 530
-- Остальные: 1 235
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 31.25%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 277 (0.51%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 1 602 (2.95%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 272 (0.50%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 1 351 (2.49%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 49 530 (91.27%)
+- ![](readme_assets/swatches/other.svg) Остальные: 1 235 (2.28%)
 
 ### Straftaten im Straßenverkehr in Trunkenheit ohne Verkehrsunfall
 
@@ -206,13 +230,15 @@ StGB
 
 - Abgeurteilte: 48 813
 - Verurteilte: 46 578
-- Иностранцы: 32.33%
-- Оправдан: 266
-- Дело прекращено: 1 582
-- Лишение свободы: 260
-- Условный срок: 1 278
-- Денежный штраф: 44 242
-- Остальные: 1 185
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 32.33%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 266 (0.54%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 1 582 (3.24%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 260 (0.53%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 1 278 (2.62%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 44 242 (90.64%)
+- ![](readme_assets/swatches/other.svg) Остальные: 1 185 (2.43%)
 
 ### Straftaten im Straßenverkehr ohne Trunkenheit mit Verkehrsunfall
 
@@ -222,13 +248,15 @@ StGB
 
 - Abgeurteilte: 48 732
 - Verurteilte: 37 497
-- Иностранцы: 33.62%
-- Оправдан: 1 427
-- Дело прекращено: 8 948
-- Лишение свободы: 104
-- Условный срок: 517
-- Денежный штраф: 35 914
-- Остальные: 1 822
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 33.62%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 1 427 (2.93%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 8 948 (18.36%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 104 (0.21%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 517 (1.06%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 35 914 (73.70%)
+- ![](readme_assets/swatches/other.svg) Остальные: 1 822 (3.74%)
 
 ### StGB § 316 Trunkenheit im Verkehr ohne Verkehrsunfall
 
@@ -238,13 +266,15 @@ StGB
 
 - Abgeurteilte: 47 105
 - Verurteilte: 45 189
-- Иностранцы: 32.30%
-- Оправдан: 224
-- Дело прекращено: 1 343
-- Лишение свободы: 245
-- Условный срок: 1 206
-- Денежный штраф: 43 011
-- Остальные: 1 076
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 32.30%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 224 (0.48%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 1 343 (2.85%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 245 (0.52%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 1 206 (2.56%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 43 011 (91.31%)
+- ![](readme_assets/swatches/other.svg) Остальные: 1 076 (2.28%)
 
 ### StGB § 223 Körperverletzung
 
@@ -254,13 +284,15 @@ StGB
 
 - Abgeurteilte: 45 141
 - Verurteilte: 32 003
-- Иностранцы: 37.49%
-- Оправдан: 1 842
-- Дело прекращено: 8 336
-- Лишение свободы: 1 005
-- Условный срок: 2 687
-- Денежный штраф: 24 410
-- Остальные: 6 861
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 37.49%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 1 842 (4.08%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 8 336 (18.47%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 1 005 (2.23%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 2 687 (5.95%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 24 410 (54.08%)
+- ![](readme_assets/swatches/other.svg) Остальные: 6 861 (15.20%)
 
 ### Unerlaubtes Entfernen vom Unfallort insgesamt (§ 142 StGB)
 
@@ -270,13 +302,15 @@ StGB
 
 - Abgeurteilte: 37 732
 - Verurteilte: 29 079
-- Иностранцы: 33.48%
-- Оправдан: 1 213
-- Дело прекращено: 6 805
-- Лишение свободы: 69
-- Условный срок: 370
-- Денежный штраф: 27 906
-- Остальные: 1 369
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 33.48%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 1 213 (3.21%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 6 805 (18.04%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 69 (0.18%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 370 (0.98%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 27 906 (73.96%)
+- ![](readme_assets/swatches/other.svg) Остальные: 1 369 (3.63%)
 
 ### StGB § 142 Abs. 1 Unerl. Entf. vom Unfallort vor Feststellung d. Unfallbeteiligung insgesamt
 
@@ -286,13 +320,15 @@ StGB
 
 - Abgeurteilte: 37 596
 - Verurteilte: 28 969
-- Иностранцы: 33.48%
-- Оправдан: 1 210
-- Дело прекращено: 6 786
-- Лишение свободы: 67
-- Условный срок: 369
-- Денежный штраф: 27 801
-- Остальные: 1 363
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 33.48%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 1 210 (3.22%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 6 786 (18.05%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 67 (0.18%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 369 (0.98%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 27 801 (73.95%)
+- ![](readme_assets/swatches/other.svg) Остальные: 1 363 (3.63%)
 
 ### StGB § 142 Abs. 1 Unerl. Entf. vom Unfallort vor Feststellung d. Unfallbeteiligung ohne Trunkenheit bzw. Trunkenheit nicht bekannt
 
@@ -302,13 +338,15 @@ StGB
 
 - Abgeurteilte: 33 117
 - Verurteilte: 24 662
-- Иностранцы: 33.56%
-- Оправдан: 1 188
-- Дело прекращено: 6 656
-- Лишение свободы: 36
-- Условный срок: 183
-- Денежный штраф: 23 822
-- Остальные: 1 232
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 33.56%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 1 188 (3.59%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 6 656 (20.10%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 36 (0.11%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 183 (0.55%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 23 822 (71.93%)
+- ![](readme_assets/swatches/other.svg) Остальные: 1 232 (3.72%)
 
 ### StGB § 224 Abs. 1 Nrn. 2 bis 5 Gefährliche Körperverletzung
 
@@ -318,13 +356,15 @@ StGB
 
 - Abgeurteilte: 31 182
 - Verurteilte: 17 349
-- Иностранцы: 41.16%
-- Оправдан: 2 257
-- Дело прекращено: 7 456
-- Лишение свободы: 1 650
-- Условный срок: 6 706
-- Денежный штраф: 3 760
-- Остальные: 9 353
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 41.16%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 2 257 (7.24%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 7 456 (23.91%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 1 650 (5.29%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 6 706 (21.51%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 3 760 (12.06%)
+- ![](readme_assets/swatches/other.svg) Остальные: 9 353 (29.99%)
 
 ### StGB 14. Abschnitt, §§ 185 bis 200 Beleidigung
 
@@ -334,13 +374,15 @@ StGB
 
 - Abgeurteilte: 30 482
 - Verurteilte: 24 393
-- Иностранцы: 24.22%
-- Оправдан: 620
-- Дело прекращено: 4 514
-- Лишение свободы: 287
-- Условный срок: 571
-- Денежный штраф: 22 596
-- Остальные: 1 894
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 24.22%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 620 (2.03%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 4 514 (14.81%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 287 (0.94%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 571 (1.87%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 22 596 (74.13%)
+- ![](readme_assets/swatches/other.svg) Остальные: 1 894 (6.21%)
 
 ### StGB § 185 Beleidigung
 
@@ -350,13 +392,15 @@ StGB
 
 - Abgeurteilte: 29 038
 - Verurteilte: 23 398
-- Иностранцы: 24.71%
-- Оправдан: 558
-- Дело прекращено: 4 164
-- Лишение свободы: 280
-- Условный срок: 549
-- Денежный штраф: 21 650
-- Остальные: 1 837
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 24.71%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 558 (1.92%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 4 164 (14.34%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 280 (0.96%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 549 (1.89%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 21 650 (74.56%)
+- ![](readme_assets/swatches/other.svg) Остальные: 1 837 (6.33%)
 
 ### StGB § 265 a Erschleichen von Leistungen
 
@@ -366,13 +410,15 @@ StGB
 
 - Abgeurteilte: 26 707
 - Verurteilte: 23 451
-- Иностранцы: 45.58%
-- Оправдан: 108
-- Дело прекращено: 1 983
-- Лишение свободы: 159
-- Условный срок: 535
-- Денежный штраф: 21 881
-- Остальные: 2 041
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 45.58%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 108 (0.40%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 1 983 (7.43%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 159 (0.60%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 535 (2.00%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 21 881 (81.93%)
+- ![](readme_assets/swatches/other.svg) Остальные: 2 041 (7.64%)
 
 ### StGB 23. Abschnitt, §§ 267 bis 282 Urkundenfälschung
 
@@ -382,13 +428,15 @@ StGB
 
 - Abgeurteilte: 26 004
 - Verurteilte: 21 807
-- Иностранцы: 56.43%
-- Оправдан: 580
-- Дело прекращено: 3 189
-- Лишение свободы: 480
-- Условный срок: 1 665
-- Денежный штраф: 19 095
-- Остальные: 995
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 56.43%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 580 (2.23%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 3 189 (12.26%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 480 (1.85%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 1 665 (6.40%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 19 095 (73.43%)
+- ![](readme_assets/swatches/other.svg) Остальные: 995 (3.83%)
 
 ### Straftaten im Straßenverkehr in Trunkenheit mit Verkehrsunfall
 
@@ -398,13 +446,15 @@ StGB
 
 - Abgeurteilte: 24 180
 - Verurteilte: 22 952
-- Иностранцы: 27.73%
-- Оправдан: 142
-- Дело прекращено: 972
-- Лишение свободы: 125
-- Условный срок: 691
-- Денежный штраф: 21 618
-- Остальные: 632
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 27.73%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 142 (0.59%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 972 (4.02%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 125 (0.52%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 691 (2.86%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 21 618 (89.40%)
+- ![](readme_assets/swatches/other.svg) Остальные: 632 (2.61%)
 
 ### StGB 18. Abschnitt, §§ 232 bis 241 a Straftaten gegen die persönliche Freiheit
 
@@ -414,13 +464,15 @@ StGB
 
 - Abgeurteilte: 20 968
 - Verurteilte: 14 801
-- Иностранцы: 32.90%
-- Оправдан: 795
-- Дело прекращено: 4 343
-- Лишение свободы: 397
-- Условный срок: 820
-- Денежный штраф: 12 715
-- Остальные: 1 898
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 32.90%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 795 (3.79%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 4 343 (20.71%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 397 (1.89%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 820 (3.91%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 12 715 (60.64%)
+- ![](readme_assets/swatches/other.svg) Остальные: 1 898 (9.05%)
 
 ### StGB § 267 Abs. 1 Urkundenfälschung
 
@@ -430,13 +482,15 @@ StGB
 
 - Abgeurteilte: 20 149
 - Verurteilte: 17 288
-- Иностранцы: 56.26%
-- Оправдан: 405
-- Дело прекращено: 2 118
-- Лишение свободы: 392
-- Условный срок: 1 292
-- Денежный штраф: 15 144
-- Остальные: 798
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 56.26%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 405 (2.01%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 2 118 (10.51%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 392 (1.95%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 1 292 (6.41%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 15 144 (75.16%)
+- ![](readme_assets/swatches/other.svg) Остальные: 798 (3.96%)
 
 ### StGB 6. Abschnitt, §§ 111 bis 121 Widerstand gegen die Staatsgewalt
 
@@ -446,13 +500,15 @@ StGB
 
 - Abgeurteilte: 16 716
 - Verurteilte: 13 847
-- Иностранцы: 33.89%
-- Оправдан: 229
-- Дело прекращено: 2 076
-- Лишение свободы: 916
-- Условный срок: 2 952
-- Денежный штраф: 8 918
-- Остальные: 1 625
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 33.89%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 229 (1.37%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 2 076 (12.42%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 916 (5.48%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 2 952 (17.66%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 8 918 (53.35%)
+- ![](readme_assets/swatches/other.svg) Остальные: 1 625 (9.72%)
 
 ### StGB 13. Abschnitt, §§ 174 bis 184 l Straftaten gegen die sexuelle Selbstbestimmung
 
@@ -462,13 +518,15 @@ StGB
 
 - Abgeurteilte: 16 194
 - Verurteilte: 12 171
-- Иностранцы: 28.48%
-- Оправдан: 1 112
-- Дело прекращено: 1 667
-- Лишение свободы: 1 431
-- Условный срок: 4 822
-- Денежный штраф: 4 270
-- Остальные: 2 892
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 28.48%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 1 112 (6.87%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 1 667 (10.29%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 1 431 (8.84%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 4 822 (29.78%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 4 270 (26.37%)
+- ![](readme_assets/swatches/other.svg) Остальные: 2 892 (17.86%)
 
 ### Gefährdung des Straßenverkehrs nach § 315 c StGB insgesamt
 
@@ -478,13 +536,15 @@ StGB
 
 - Abgeurteilte: 14 335
 - Verurteilte: 12 702
-- Иностранцы: 29.03%
-- Оправдан: 198
-- Дело прекращено: 1 302
-- Лишение свободы: 53
-- Условный срок: 311
-- Денежный штраф: 11 985
-- Остальные: 486
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 29.03%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 198 (1.38%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 1 302 (9.08%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 53 (0.37%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 311 (2.17%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 11 985 (83.61%)
+- ![](readme_assets/swatches/other.svg) Остальные: 486 (3.39%)
 
 ### StGB 27. Abschnitt, §§ 303 bis 305 a Sachbeschädigung
 
@@ -494,13 +554,15 @@ StGB
 
 - Abgeurteilte: 13 212
 - Verurteilte: 9 394
-- Иностранцы: 29.33%
-- Оправдан: 359
-- Дело прекращено: 1 927
-- Лишение свободы: 136
-- Условный срок: 308
-- Денежный штраф: 7 940
-- Остальные: 2 542
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 29.33%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 359 (2.72%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 1 927 (14.59%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 136 (1.03%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 308 (2.33%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 7 940 (60.10%)
+- ![](readme_assets/swatches/other.svg) Остальные: 2 542 (19.24%)
 
 ### Fahrlässige Körperverl. im Straßenverkehr insgesamt (§ 229 StGB)
 
@@ -510,13 +572,15 @@ StGB
 
 - Abgeurteilte: 13 089
 - Verurteilte: 11 009
-- Иностранцы: 30.65%
-- Оправдан: 140
-- Дело прекращено: 1 781
-- Лишение свободы: 34
-- Условный срок: 188
-- Денежный штраф: 10 534
-- Остальные: 412
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 30.65%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 140 (1.07%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 1 781 (13.61%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 34 (0.26%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 188 (1.44%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 10 534 (80.48%)
+- ![](readme_assets/swatches/other.svg) Остальные: 412 (3.15%)
 
 ### Gefährdung des Straßenverkehrs nach § 315 c StGB mit Verkehrsunfall
 
@@ -526,13 +590,15 @@ StGB
 
 - Abgeurteilte: 11 818
 - Verurteilte: 10 822
-- Иностранцы: 28.23%
-- Оправдан: 108
-- Дело прекращено: 835
-- Лишение свободы: 33
-- Условный срок: 213
-- Денежный штраф: 10 335
-- Остальные: 294
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 28.23%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 108 (0.91%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 835 (7.07%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 33 (0.28%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 213 (1.80%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 10 335 (87.45%)
+- ![](readme_assets/swatches/other.svg) Остальные: 294 (2.49%)
 
 ### StGB § 303 Abs. 1 Sachbeschädigung
 
@@ -542,13 +608,15 @@ StGB
 
 - Abgeurteilte: 11 501
 - Verurteilte: 8 348
-- Иностранцы: 30.69%
-- Оправдан: 311
-- Дело прекращено: 1 708
-- Лишение свободы: 125
-- Условный срок: 278
-- Денежный штраф: 7 173
-- Остальные: 1 906
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 30.69%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 311 (2.70%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 1 708 (14.85%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 125 (1.09%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 278 (2.42%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 7 173 (62.37%)
+- ![](readme_assets/swatches/other.svg) Остальные: 1 906 (16.57%)
 
 ### StGB 7. Abschnitt, §§ 123 bis 145 d, ohne § 142 Straftaten gegen die öffentliche Ordnung (o.V.)
 
@@ -558,13 +626,15 @@ StGB
 
 - Abgeurteilte: 10 944
 - Verurteilte: 8 327
-- Иностранцы: 27.38%
-- Оправдан: 273
-- Дело прекращено: 1 722
-- Лишение свободы: 274
-- Условный срок: 470
-- Денежный штраф: 7 149
-- Остальные: 1 056
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 27.38%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 273 (2.49%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 1 722 (15.73%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 274 (2.50%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 470 (4.29%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 7 149 (65.32%)
+- ![](readme_assets/swatches/other.svg) Остальные: 1 056 (9.65%)
 
 ### StGB § 229 Fahrlässige Körperverletzung im Straßenverkehr ohne Trunkenheit
 
@@ -574,13 +644,15 @@ StGB
 
 - Abgeurteilte: 10 710
 - Verurteilte: 8 740
-- Иностранцы: 31.21%
-- Оправдан: 133
-- Дело прекращено: 1 695
-- Лишение свободы: 18
-- Условный срок: 72
-- Денежный штраф: 8 485
-- Остальные: 307
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 31.21%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 133 (1.24%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 1 695 (15.83%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 18 (0.17%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 72 (0.67%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 8 485 (79.23%)
+- ![](readme_assets/swatches/other.svg) Остальные: 307 (2.87%)
 
 ### StGB § 241 Bedrohung
 
@@ -590,13 +662,15 @@ StGB
 
 - Abgeurteilte: 10 362
 - Verurteilte: 7 535
-- Иностранцы: 36.48%
-- Оправдан: 334
-- Дело прекращено: 1 891
-- Лишение свободы: 129
-- Условный срок: 345
-- Денежный штраф: 6 627
-- Остальные: 1 036
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 36.48%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 334 (3.22%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 1 891 (18.25%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 129 (1.24%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 345 (3.33%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 6 627 (63.95%)
+- ![](readme_assets/swatches/other.svg) Остальные: 1 036 (10.00%)
 
 ### StGB § 315 c Abs. 1 Nr. 1 a auch i.V.m. Abs.3 Straßenverkehrsgefährdung infolge Trunkenheit mit Verkehrsunfall
 
@@ -606,13 +680,15 @@ StGB
 
 - Abgeurteilte: 9 939
 - Verurteilte: 9 353
-- Иностранцы: 27.58%
-- Оправдан: 60
-- Дело прекращено: 491
-- Лишение свободы: 31
-- Условный срок: 203
-- Денежный штраф: 8 926
-- Остальные: 228
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 27.58%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 60 (0.60%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 491 (4.94%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 31 (0.31%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 203 (2.04%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 8 926 (89.81%)
+- ![](readme_assets/swatches/other.svg) Остальные: 228 (2.29%)
 
 ### StGB § 243 Abs. 1 Satz 2 Nrn. 2 bis 7 Diebstahl in anderen besonders schweren Fällen
 
@@ -622,13 +698,15 @@ StGB
 
 - Abgeurteilte: 9 688
 - Verurteilte: 8 019
-- Иностранцы: 61.89%
-- Оправдан: 198
-- Дело прекращено: 1 037
-- Лишение свободы: 1 825
-- Условный срок: 2 606
-- Денежный штраф: 2 773
-- Остальные: 1 249
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 61.89%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 198 (2.04%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 1 037 (10.70%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 1 825 (18.84%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 2 606 (26.90%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 2 773 (28.62%)
+- ![](readme_assets/swatches/other.svg) Остальные: 1 249 (12.89%)
 
 ### StGB 20. Abschnitt, §§ 249 bis 256, 316a Raub und Erpressung, räuberischer Angriff auf Kraftfahrer
 
@@ -638,13 +716,15 @@ StGB
 
 - Abgeurteilte: 9 299
 - Verurteilte: 6 594
-- Иностранцы: 42.30%
-- Оправдан: 563
-- Дело прекращено: 937
-- Лишение свободы: 1 637
-- Условный срок: 1 545
-- Денежный штраф: 443
-- Остальные: 4 174
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 42.30%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 563 (6.05%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 937 (10.08%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 1 637 (17.60%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 1 545 (16.61%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 443 (4.76%)
+- ![](readme_assets/swatches/other.svg) Остальные: 4 174 (44.89%)
 
 ### StGB § 114 Tätl. Angriff auf Vollstreckungsbeamte
 
@@ -654,13 +734,15 @@ StGB
 
 - Abgeurteilte: 9 252
 - Verurteilte: 7 784
-- Иностранцы: 35.02%
-- Оправдан: 123
-- Дело прекращено: 1 023
-- Лишение свободы: 683
-- Условный срок: 2 189
-- Денежный штраф: 4 274
-- Остальные: 960
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 35.02%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 123 (1.33%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 1 023 (11.06%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 683 (7.38%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 2 189 (23.66%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 4 274 (46.20%)
+- ![](readme_assets/swatches/other.svg) Остальные: 960 (10.38%)
 
 ### StGB § 240 Abs. 1 Nötigung
 
@@ -670,13 +752,15 @@ StGB
 
 - Abgeurteilte: 8 642
 - Verurteilte: 5 961
-- Иностранцы: 28.84%
-- Оправдан: 364
-- Дело прекращено: 1 948
-- Лишение свободы: 94
-- Условный срок: 236
-- Денежный штраф: 5 296
-- Остальные: 704
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 28.84%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 364 (4.21%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 1 948 (22.54%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 94 (1.09%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 236 (2.73%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 5 296 (61.28%)
+- ![](readme_assets/swatches/other.svg) Остальные: 704 (8.15%)
 
 ### StGB § 316 Trunkenheit im Verkehr mit Verkehrsunfall
 
@@ -686,13 +770,15 @@ StGB
 
 - Abgeurteilte: 7 162
 - Verurteilte: 6 809
-- Иностранцы: 24.32%
-- Оправдан: 53
-- Дело прекращено: 259
-- Лишение свободы: 27
-- Условный срок: 145
-- Денежный штраф: 6 519
-- Остальные: 159
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 24.32%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 53 (0.74%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 259 (3.62%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 27 (0.38%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 145 (2.02%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 6 519 (91.02%)
+- ![](readme_assets/swatches/other.svg) Остальные: 159 (2.22%)
 
 ### StGB § 243 Abs. 1 Satz 2 Nr. 1 Einbruchdiebstahl
 
@@ -702,13 +788,15 @@ StGB
 
 - Abgeurteilte: 7 156
 - Verurteilte: 5 407
-- Иностранцы: 48.16%
-- Оправдан: 263
-- Дело прекращено: 1 137
-- Лишение свободы: 1 389
-- Условный срок: 1 766
-- Денежный штраф: 1 397
-- Остальные: 1 204
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 48.16%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 263 (3.68%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 1 137 (15.89%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 1 389 (19.41%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 1 766 (24.68%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 1 397 (19.52%)
+- ![](readme_assets/swatches/other.svg) Остальные: 1 204 (16.83%)
 
 ### StGB 21. Abschnitt, §§ 257 bis 262 Begünstigung und Hehlerei
 
@@ -718,13 +806,15 @@ StGB
 
 - Abgeurteilte: 6 950
 - Verurteilte: 5 498
-- Иностранцы: 44.67%
-- Оправдан: 239
-- Дело прекращено: 899
-- Лишение свободы: 178
-- Условный срок: 721
-- Денежный штраф: 3 934
-- Остальные: 979
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 44.67%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 239 (3.44%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 899 (12.94%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 178 (2.56%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 721 (10.37%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 3 934 (56.60%)
+- ![](readme_assets/swatches/other.svg) Остальные: 979 (14.09%)
 
 ### StGB § 113 Widerstand gegen Vollstreckungsbeamte
 
@@ -734,13 +824,15 @@ StGB
 
 - Abgeurteilte: 6 853
 - Verurteilte: 5 640
-- Иностранцы: 33.17%
-- Оправдан: 80
-- Дело прекращено: 912
-- Лишение свободы: 208
-- Условный срок: 700
-- Денежный штраф: 4 343
-- Остальные: 610
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 33.17%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 80 (1.17%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 912 (13.31%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 208 (3.04%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 700 (10.21%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 4 343 (63.37%)
+- ![](readme_assets/swatches/other.svg) Остальные: 610 (8.90%)
 
 ### StGB § 263 Abs. 3 und 5 Schwerwiegende Fälle des Betruges
 
@@ -750,13 +842,15 @@ StGB
 
 - Abgeurteilte: 6 536
 - Verurteilte: 5 460
-- Иностранцы: 27.53%
-- Оправдан: 245
-- Дело прекращено: 743
-- Лишение свободы: 1 082
-- Условный срок: 3 637
-- Денежный штраф: 377
-- Остальные: 452
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 27.53%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 245 (3.75%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 743 (11.37%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 1 082 (16.55%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 3 637 (55.65%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 377 (5.77%)
+- ![](readme_assets/swatches/other.svg) Остальные: 452 (6.92%)
 
 ### StGB § 184 b Verbreitung, Erwerb und Besitz kinderpornographischer Inhalte
 
@@ -766,13 +860,15 @@ StGB
 
 - Abgeurteilte: 5 682
 - Verurteilte: 4 562
-- Иностранцы: 15.23%
-- Оправдан: 158
-- Дело прекращено: 453
-- Лишение свободы: 268
-- Условный срок: 2 883
-- Денежный штраф: 645
-- Остальные: 1 275
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 15.23%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 158 (2.78%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 453 (7.97%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 268 (4.72%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 2 883 (50.74%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 645 (11.35%)
+- ![](readme_assets/swatches/other.svg) Остальные: 1 275 (22.44%)
 
 ### StGB § 246 Unterschlagung
 
@@ -782,13 +878,15 @@ StGB
 
 - Abgeurteilte: 5 016
 - Verurteilte: 3 724
-- Иностранцы: 35.74%
-- Оправдан: 252
-- Дело прекращено: 833
-- Лишение свободы: 60
-- Условный срок: 278
-- Денежный штраф: 3 165
-- Остальные: 428
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 35.74%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 252 (5.02%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 833 (16.61%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 60 (1.20%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 278 (5.54%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 3 165 (63.10%)
+- ![](readme_assets/swatches/other.svg) Остальные: 428 (8.53%)
 
 ### StGB § 244 Abs. 1 Nr. 1 Diebstahl mit Waffen
 
@@ -798,13 +896,15 @@ StGB
 
 - Abgeurteilte: 5 007
 - Verurteilte: 4 212
-- Иностранцы: 58.14%
-- Оправдан: 59
-- Дело прекращено: 429
-- Лишение свободы: 899
-- Условный срок: 1 400
-- Денежный штраф: 1 371
-- Остальные: 849
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 58.14%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 59 (1.18%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 429 (8.57%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 899 (17.95%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 1 400 (27.96%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 1 371 (27.38%)
+- ![](readme_assets/swatches/other.svg) Остальные: 849 (16.96%)
 
 ### StGB § 266 a Abs. 1 Vorenthalten von Arbeitnehmerbeiträgen durch den Arbeitgeber
 
@@ -814,13 +914,15 @@ StGB
 
 - Abgeurteilte: 4 752
 - Verurteilte: 3 971
-- Иностранцы: 42.51%
-- Оправдан: 39
-- Дело прекращено: 734
-- Лишение свободы: 25
-- Условный срок: 400
-- Денежный штраф: 3 542
-- Остальные: 12
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 42.51%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 39 (0.82%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 734 (15.45%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 25 (0.53%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 400 (8.42%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 3 542 (74.54%)
+- ![](readme_assets/swatches/other.svg) Остальные: 12 (0.25%)
 
 ### StGB § 142 Abs. 1 Unerl. Entf. vom Unfallort vor Feststellung d. Unfallbeteiligung in Trunkenheit
 
@@ -830,13 +932,15 @@ StGB
 
 - Abgeurteilte: 4 479
 - Verurteilte: 4 307
-- Иностранцы: 33.04%
-- Оправдан: 22
-- Дело прекращено: 130
-- Лишение свободы: 31
-- Условный срок: 186
-- Денежный штраф: 3 979
-- Остальные: 131
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 33.04%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 22 (0.49%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 130 (2.90%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 31 (0.69%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 186 (4.15%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 3 979 (88.84%)
+- ![](readme_assets/swatches/other.svg) Остальные: 131 (2.92%)
 
 ### StGB §§ 123, 124 Hausfriedensbruch
 
@@ -846,13 +950,15 @@ StGB
 
 - Abgeurteilte: 4 312
 - Verurteilte: 3 241
-- Иностранцы: 43.10%
-- Оправдан: 59
-- Дело прекращено: 728
-- Лишение свободы: 36
-- Условный срок: 35
-- Денежный штраф: 3 022
-- Остальные: 432
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 43.10%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 59 (1.37%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 728 (16.88%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 36 (0.83%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 35 (0.81%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 3 022 (70.08%)
+- ![](readme_assets/swatches/other.svg) Остальные: 432 (10.02%)
 
 ### StGB § 229 Fahrlässige Körperverletzung, außer im Straßenverkehr
 
@@ -862,13 +968,15 @@ StGB
 
 - Abgeurteilte: 4 154
 - Verurteilte: 2 860
-- Иностранцы: 25.77%
-- Оправдан: 107
-- Дело прекращено: 1 030
-- Лишение свободы: 19
-- Условный срок: 87
-- Денежный штраф: 2 597
-- Остальные: 314
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 25.77%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 107 (2.58%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 1 030 (24.80%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 19 (0.46%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 87 (2.09%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 2 597 (62.52%)
+- ![](readme_assets/swatches/other.svg) Остальные: 314 (7.56%)
 
 ### StGB 1. Abschnitt, §§ 80 a bis 92 b Friedensverrat, Hochverrat und Gefährdung des demokratischen Rechtsstaates
 
@@ -878,13 +986,15 @@ StGB
 
 - Abgeurteilte: 3 597
 - Verurteilte: 2 859
-- Иностранцы: 10.39%
-- Оправдан: 94
-- Дело прекращено: 356
-- Лишение свободы: 51
-- Условный срок: 97
-- Денежный штраф: 2 545
-- Остальные: 454
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 10.39%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 94 (2.61%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 356 (9.90%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 51 (1.42%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 97 (2.70%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 2 545 (70.75%)
+- ![](readme_assets/swatches/other.svg) Остальные: 454 (12.62%)
 
 ### StGB 10. Abschnitt, §§ 164 und 165 Falsche Verdächtigung
 
@@ -894,13 +1004,15 @@ StGB
 
 - Abgeurteilte: 3 513
 - Verurteilte: 2 491
-- Иностранцы: 34.00%
-- Оправдан: 188
-- Дело прекращено: 622
-- Лишение свободы: 37
-- Условный срок: 112
-- Денежный штраф: 2 186
-- Остальные: 368
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 34.00%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 188 (5.35%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 622 (17.71%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 37 (1.05%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 112 (3.19%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 2 186 (62.23%)
+- ![](readme_assets/swatches/other.svg) Остальные: 368 (10.48%)
 
 ### StGB § 164 Falsche Verdächtigung
 
@@ -910,13 +1022,15 @@ StGB
 
 - Abgeurteilte: 3 513
 - Verurteilte: 2 491
-- Иностранцы: 34.00%
-- Оправдан: 188
-- Дело прекращено: 622
-- Лишение свободы: 37
-- Условный срок: 112
-- Денежный штраф: 2 186
-- Остальные: 368
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 34.00%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 188 (5.35%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 622 (17.71%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 37 (1.05%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 112 (3.19%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 2 186 (62.23%)
+- ![](readme_assets/swatches/other.svg) Остальные: 368 (10.48%)
 
 ### StGB § 263 a Computerbetrug
 
@@ -926,13 +1040,15 @@ StGB
 
 - Abgeurteilte: 3 175
 - Verurteilte: 2 384
-- Иностранцы: 30.87%
-- Оправдан: 152
-- Дело прекращено: 454
-- Лишение свободы: 83
-- Условный срок: 328
-- Денежный штраф: 1 707
-- Остальные: 451
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 30.87%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 152 (4.79%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 454 (14.30%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 83 (2.61%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 328 (10.33%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 1 707 (53.76%)
+- ![](readme_assets/swatches/other.svg) Остальные: 451 (14.20%)
 
 ### StGB § 255 Räuberische Erpressung
 
@@ -942,13 +1058,15 @@ StGB
 
 - Abgeurteilte: 3 008
 - Verurteilte: 2 231
-- Иностранцы: 35.32%
-- Оправдан: 173
-- Дело прекращено: 163
-- Лишение свободы: 437
-- Условный срок: 403
-- Денежный штраф: 39
-- Остальные: 1 793
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 35.32%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 173 (5.75%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 163 (5.42%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 437 (14.53%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 403 (13.40%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 39 (1.30%)
+- ![](readme_assets/swatches/other.svg) Остальные: 1 793 (59.61%)
 
 ### StGB § 184 i Sexuelle Belästigung
 
@@ -958,13 +1076,15 @@ StGB
 
 - Abgeurteilte: 2 828
 - Verurteilte: 2 048
-- Иностранцы: 51.81%
-- Оправдан: 155
-- Дело прекращено: 533
-- Лишение свободы: 21
-- Условный срок: 82
-- Денежный штраф: 1 833
-- Остальные: 204
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 51.81%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 155 (5.48%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 533 (18.85%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 21 (0.74%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 82 (2.90%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 1 833 (64.82%)
+- ![](readme_assets/swatches/other.svg) Остальные: 204 (7.21%)
 
 ### StGB 9. Abschnitt, §§ 153 bis 162 Falsche uneidliche Aussage und Meineid
 
@@ -974,13 +1094,15 @@ StGB
 
 - Abgeurteilte: 2 781
 - Verurteilte: 1 901
-- Иностранцы: 29.20%
-- Оправдан: 155
-- Дело прекращено: 603
-- Лишение свободы: 26
-- Условный срок: 234
-- Денежный штраф: 1 487
-- Остальные: 276
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 29.20%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 155 (5.57%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 603 (21.68%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 26 (0.93%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 234 (8.41%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 1 487 (53.47%)
+- ![](readme_assets/swatches/other.svg) Остальные: 276 (9.92%)
 
 ### StGB 28. Abschnitt, §§ 306 bis 323c, ohne §§ 315 b bis d, ohne §§ 316,316 a und ohne § 323 a i.V.m. Verkehrsunfall Gemeingefährliche Straftaten
 
@@ -990,13 +1112,15 @@ StGB
 
 - Abgeurteilte: 2 712
 - Verurteilte: 2 011
-- Иностранцы: 27.55%
-- Оправдан: 130
-- Дело прекращено: 294
-- Лишение свободы: 336
-- Условный срок: 397
-- Денежный штраф: 977
-- Остальные: 578
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 27.55%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 130 (4.79%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 294 (10.84%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 336 (12.39%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 397 (14.64%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 977 (36.03%)
+- ![](readme_assets/swatches/other.svg) Остальные: 578 (21.31%)
 
 ### StGB § 86 a Verwenden von Kennzeichen verfassungs- widriger und terroristischer Organisationen
 
@@ -1006,13 +1130,15 @@ StGB
 
 - Abgeurteilte: 2 524
 - Verurteilte: 1 962
-- Иностранцы: 10.50%
-- Оправдан: 68
-- Дело прекращено: 276
-- Лишение свободы: 33
-- Условный срок: 68
-- Денежный штраф: 1 752
-- Остальные: 327
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 10.50%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 68 (2.69%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 276 (10.94%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 33 (1.31%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 68 (2.69%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 1 752 (69.41%)
+- ![](readme_assets/swatches/other.svg) Остальные: 327 (12.96%)
 
 ### Gefährdung des Straßenverkehrs nach § 315 c StGB ohne Verkehrsunfall
 
@@ -1022,13 +1148,15 @@ StGB
 
 - Abgeurteilte: 2 517
 - Verurteilte: 1 880
-- Иностранцы: 33.67%
-- Оправдан: 90
-- Дело прекращено: 467
-- Лишение свободы: 20
-- Условный срок: 98
-- Денежный штраф: 1 650
-- Остальные: 192
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 33.67%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 90 (3.58%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 467 (18.55%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 20 (0.79%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 98 (3.89%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 1 650 (65.55%)
+- ![](readme_assets/swatches/other.svg) Остальные: 192 (7.63%)
 
 ### StGB § 229 Fahrlässige Körperverletzung im Straßenverkehr in Trunkenheit
 
@@ -1038,13 +1166,15 @@ StGB
 
 - Abgeurteilte: 2 379
 - Verurteilte: 2 269
-- Иностранцы: 28.47%
-- Оправдан: 7
-- Дело прекращено: 86
-- Лишение свободы: 16
-- Условный срок: 116
-- Денежный штраф: 2 049
-- Остальные: 105
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 28.47%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 7 (0.29%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 86 (3.61%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 16 (0.67%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 116 (4.88%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 2 049 (86.13%)
+- ![](readme_assets/swatches/other.svg) Остальные: 105 (4.41%)
 
 ### StGB § 249 Raub
 
@@ -1054,13 +1184,15 @@ StGB
 
 - Abgeurteilte: 2 271
 - Verurteilte: 1 456
-- Иностранцы: 48.35%
-- Оправдан: 184
-- Дело прекращено: 232
-- Лишение свободы: 289
-- Условный срок: 373
-- Денежный штраф: 23
-- Остальные: 1 170
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 48.35%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 184 (8.10%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 232 (10.22%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 289 (12.73%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 373 (16.42%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 23 (1.01%)
+- ![](readme_assets/swatches/other.svg) Остальные: 1 170 (51.52%)
 
 ### StGB § 153 Falsche uneidliche Aussage
 
@@ -1070,13 +1202,15 @@ StGB
 
 - Abgeurteilte: 1 869
 - Verurteilte: 1 228
-- Иностранцы: 30.46%
-- Оправдан: 114
-- Дело прекращено: 408
-- Лишение свободы: 22
-- Условный срок: 191
-- Денежный штраф: 865
-- Остальные: 269
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 30.46%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 114 (6.10%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 408 (21.83%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 22 (1.18%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 191 (10.22%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 865 (46.28%)
+- ![](readme_assets/swatches/other.svg) Остальные: 269 (14.39%)
 
 ### StGB § 252 Räuberischer Diebstahl
 
@@ -1086,13 +1220,15 @@ StGB
 
 - Abgeurteilte: 1 832
 - Verurteilte: 1 409
-- Иностранцы: 47.84%
-- Оправдан: 52
-- Дело прекращено: 229
-- Лишение свободы: 535
-- Условный срок: 572
-- Денежный штраф: 32
-- Остальные: 412
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 47.84%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 52 (2.84%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 229 (12.50%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 535 (29.20%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 572 (31.22%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 32 (1.75%)
+- ![](readme_assets/swatches/other.svg) Остальные: 412 (22.49%)
 
 ### StGB § 261 Abs. 1 Geldwäsche
 
@@ -1102,13 +1238,15 @@ StGB
 
 - Abgeurteilte: 1 832
 - Verurteilte: 1 386
-- Иностранцы: 45.45%
-- Оправдан: 70
-- Дело прекращено: 267
-- Лишение свободы: 8
-- Условный срок: 126
-- Денежный штраф: 1 055
-- Остальные: 306
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 45.45%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 70 (3.82%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 267 (14.57%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 8 (0.44%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 126 (6.88%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 1 055 (57.59%)
+- ![](readme_assets/swatches/other.svg) Остальные: 306 (16.70%)
 
 ### StGB § 259 Hehlerei
 
@@ -1118,13 +1256,15 @@ StGB
 
 - Abgeurteilte: 1 765
 - Verurteilte: 1 361
-- Иностранцы: 53.64%
-- Оправдан: 61
-- Дело прекращено: 260
-- Лишение свободы: 65
-- Условный срок: 206
-- Денежный штраф: 950
-- Остальные: 223
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 53.64%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 61 (3.46%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 260 (14.73%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 65 (3.68%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 206 (11.67%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 950 (53.82%)
+- ![](readme_assets/swatches/other.svg) Остальные: 223 (12.63%)
 
 ### StGB § 261 Abs. 6 Leichtfertige Geldwäsche
 
@@ -1134,13 +1274,15 @@ StGB
 
 - Abgeurteilte: 1 725
 - Verurteilte: 1 515
-- Иностранцы: 39.34%
-- Оправдан: 33
-- Дело прекращено: 113
-- Лишение свободы: 4
-- Условный срок: 76
-- Денежный штраф: 1 236
-- Остальные: 263
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 39.34%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 33 (1.91%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 113 (6.55%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 4 (0.23%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 76 (4.41%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 1 236 (71.65%)
+- ![](readme_assets/swatches/other.svg) Остальные: 263 (15.25%)
 
 ### StGB § 315 c Abs. 1 Nr. 1 a auch i.V.m. Abs.3 Straßenverkehrsgefährdung infolge Trunkenheit ohne Verkehrsunfall
 
@@ -1150,13 +1292,15 @@ StGB
 
 - Abgeurteilte: 1 708
 - Verurteilte: 1 389
-- Иностранцы: 33.33%
-- Оправдан: 42
-- Дело прекращено: 239
-- Лишение свободы: 15
-- Условный срок: 72
-- Денежный штраф: 1 231
-- Остальные: 109
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 33.33%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 42 (2.46%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 239 (13.99%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 15 (0.88%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 72 (4.22%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 1 231 (72.07%)
+- ![](readme_assets/swatches/other.svg) Остальные: 109 (6.38%)
 
 ### Verbotene Kraftfahrzeugrennen nach § 315 d StGB insgesamt
 
@@ -1166,13 +1310,15 @@ StGB
 
 - Abgeurteilte: 1 647
 - Verurteilte: 1 254
-- Иностранцы: 29.82%
-- Оправдан: 71
-- Дело прекращено: 213
-- Лишение свободы: 58
-- Условный срок: 123
-- Денежный штраф: 808
-- Остальные: 374
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 29.82%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 71 (4.31%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 213 (12.93%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 58 (3.52%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 123 (7.47%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 808 (49.06%)
+- ![](readme_assets/swatches/other.svg) Остальные: 374 (22.71%)
 
 ### StGB § 269 Fälschung beweiserheblicher Daten
 
@@ -1182,13 +1328,15 @@ StGB
 
 - Abgeurteilte: 1 590
 - Verurteilte: 1 314
-- Иностранцы: 36.38%
-- Оправдан: 59
-- Дело прекращено: 191
-- Лишение свободы: 23
-- Условный срок: 119
-- Денежный штраф: 1 125
-- Остальные: 73
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 36.38%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 59 (3.71%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 191 (12.01%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 23 (1.45%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 119 (7.48%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 1 125 (70.75%)
+- ![](readme_assets/swatches/other.svg) Остальные: 73 (4.59%)
 
 ### StGB § 244 Abs. 4 Privatwohnungseinbruchdiebstahl
 
@@ -1198,13 +1346,15 @@ StGB
 
 - Abgeurteilte: 1 562
 - Verurteilte: 1 330
-- Иностранцы: 61.50%
-- Оправдан: 76
-- Дело прекращено: 113
-- Лишение свободы: 617
-- Условный срок: 496
-- Денежный штраф: 18
-- Остальные: 242
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 61.50%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 76 (4.87%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 113 (7.23%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 617 (39.50%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 496 (31.75%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 18 (1.15%)
+- ![](readme_assets/swatches/other.svg) Остальные: 242 (15.49%)
 
 ### StGB 15. Abschnitt, §§ 201 bis 206 Verletzung des persönlichen Lebens- und Geheimbereichs
 
@@ -1214,13 +1364,15 @@ StGB
 
 - Abgeurteilte: 1 435
 - Verurteilte: 1 082
-- Иностранцы: 34.01%
-- Оправдан: 60
-- Дело прекращено: 222
-- Лишение свободы: 10
-- Условный срок: 52
-- Денежный штраф: 979
-- Остальные: 112
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 34.01%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 60 (4.18%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 222 (15.47%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 10 (0.70%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 52 (3.62%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 979 (68.22%)
+- ![](readme_assets/swatches/other.svg) Остальные: 112 (7.80%)
 
 ### Verbotene Kraftfahrzeugrennen nach § 315 d StGB ohne Verkehrsunfall
 
@@ -1230,13 +1382,15 @@ StGB
 
 - Abgeurteilte: 1 387
 - Verurteilte: 1 040
-- Иностранцы: 29.71%
-- Оправдан: 61
-- Дело прекращено: 193
-- Лишение свободы: 44
-- Условный срок: 92
-- Денежный штраф: 685
-- Остальные: 312
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 29.71%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 61 (4.40%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 193 (13.91%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 44 (3.17%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 92 (6.63%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 685 (49.39%)
+- ![](readme_assets/swatches/other.svg) Остальные: 312 (22.49%)
 
 ### StGB §§ 277, 278 und 279 Andere Straftaten der Urkundenfälschung
 
@@ -1246,13 +1400,15 @@ StGB
 
 - Abgeurteilte: 1 322
 - Verurteilte: 650
-- Иностранцы: 14.77%
-- Оправдан: 65
-- Дело прекращено: 599
-- Лишение свободы: 0
-- Условный срок: 5
-- Денежный штраф: 642
-- Остальные: 11
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 14.77%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 65 (4.92%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 599 (45.31%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 5 (0.38%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 642 (48.56%)
+- ![](readme_assets/swatches/other.svg) Остальные: 11 (0.83%)
 
 ### StGB § 250 Schwerer Raub
 
@@ -1262,13 +1418,15 @@ StGB
 
 - Abgeurteilte: 1 286
 - Verurteilte: 943
-- Иностранцы: 45.60%
-- Оправдан: 96
-- Дело прекращено: 97
-- Лишение свободы: 330
-- Условный срок: 122
-- Денежный штраф: 0
-- Остальные: 641
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 45.60%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 96 (7.47%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 97 (7.54%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 330 (25.66%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 122 (9.49%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 0 (0.00%)
+- ![](readme_assets/swatches/other.svg) Остальные: 641 (49.84%)
 
 ### StGB § 264 Subventionsbetrug
 
@@ -1278,13 +1436,15 @@ StGB
 
 - Abgeurteilte: 1 281
 - Verurteilte: 893
-- Иностранцы: 33.48%
-- Оправдан: 49
-- Дело прекращено: 337
-- Лишение свободы: 26
-- Условный срок: 173
-- Денежный штраф: 684
-- Остальные: 12
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 33.48%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 49 (3.83%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 337 (26.31%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 26 (2.03%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 173 (13.51%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 684 (53.40%)
+- ![](readme_assets/swatches/other.svg) Остальные: 12 (0.94%)
 
 ### StGB § 145 d Vortäuschen einer Straftat
 
@@ -1294,13 +1454,15 @@ StGB
 
 - Abgeurteilte: 1 239
 - Verurteilte: 931
-- Иностранцы: 27.28%
-- Оправдан: 46
-- Дело прекращено: 180
-- Лишение свободы: 1
-- Условный срок: 24
-- Денежный штраф: 818
-- Остальные: 170
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 27.28%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 46 (3.71%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 180 (14.53%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 1 (0.08%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 24 (1.94%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 818 (66.02%)
+- ![](readme_assets/swatches/other.svg) Остальные: 170 (13.72%)
 
 ### StGB § 130 Abs. 1 Volksverhetzung durch Aufstachelung zum Hass oder vergleichbare Äußerungen
 
@@ -1310,13 +1472,15 @@ StGB
 
 - Abgeurteilte: 1 202
 - Verurteilte: 926
-- Иностранцы: 7.45%
-- Оправдан: 42
-- Дело прекращено: 187
-- Лишение свободы: 27
-- Условный срок: 101
-- Денежный штраф: 744
-- Остальные: 101
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 7.45%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 42 (3.49%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 187 (15.56%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 27 (2.25%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 101 (8.40%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 744 (61.90%)
+- ![](readme_assets/swatches/other.svg) Остальные: 101 (8.40%)
 
 ### StGB 24. Abschnitt, §§ 283 bis 283 d Insolvenzstraftaten
 
@@ -1326,13 +1490,15 @@ StGB
 
 - Abgeurteilte: 1 186
 - Verurteilte: 960
-- Иностранцы: 28.54%
-- Оправдан: 11
-- Дело прекращено: 213
-- Лишение свободы: 3
-- Условный срок: 107
-- Денежный штраф: 848
-- Остальные: 4
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 28.54%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 11 (0.93%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 213 (17.96%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 3 (0.25%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 107 (9.02%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 848 (71.50%)
+- ![](readme_assets/swatches/other.svg) Остальные: 4 (0.34%)
 
 ### StGB § 315 c Abs. 1 Nr. 1 b auch i.V.m. Abs.3 Straßenverkehrsgefährdung infolge geistiger oder körperl. Mängel mit Verkehrsunfall
 
@@ -1342,13 +1508,15 @@ StGB
 
 - Abgeurteilte: 1 183
 - Verurteilte: 923
-- Иностранцы: 30.23%
-- Оправдан: 27
-- Дело прекращено: 225
-- Лишение свободы: 0
-- Условный срок: 1
-- Денежный штраф: 908
-- Остальные: 22
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 30.23%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 27 (2.28%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 225 (19.02%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 1 (0.08%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 908 (76.75%)
+- ![](readme_assets/swatches/other.svg) Остальные: 22 (1.86%)
 
 ### StGB § 176 Sexueller Missbrauch von Kindern
 
@@ -1358,13 +1526,15 @@ StGB
 
 - Abgeurteilte: 1 169
 - Verurteilte: 870
-- Иностранцы: 18.16%
-- Оправдан: 88
-- Дело прекращено: 69
-- Лишение свободы: 195
-- Условный срок: 470
-- Денежный штраф: 15
-- Остальные: 332
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 18.16%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 88 (7.53%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 69 (5.90%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 195 (16.68%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 470 (40.21%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 15 (1.28%)
+- ![](readme_assets/swatches/other.svg) Остальные: 332 (28.40%)
 
 ### StGB 25. Abschnitt, §§ 284 bis 297 Strafbarer Eigennutz
 
@@ -1374,13 +1544,15 @@ StGB
 
 - Abgeurteilte: 1 148
 - Verurteilte: 834
-- Иностранцы: 50.36%
-- Оправдан: 48
-- Дело прекращено: 255
-- Лишение свободы: 2
-- Условный срок: 33
-- Денежный штраф: 794
-- Остальные: 16
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 50.36%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 48 (4.18%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 255 (22.21%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 2 (0.17%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 33 (2.87%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 794 (69.16%)
+- ![](readme_assets/swatches/other.svg) Остальные: 16 (1.39%)
 
 ### StGB § 238 Nachstellung
 
@@ -1390,13 +1562,15 @@ StGB
 
 - Abgeurteilte: 1 139
 - Verurteilte: 770
-- Иностранцы: 23.64%
-- Оправдан: 41
-- Дело прекращено: 306
-- Лишение свободы: 35
-- Условный срок: 153
-- Денежный штраф: 576
-- Остальные: 28
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 23.64%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 41 (3.60%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 306 (26.87%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 35 (3.07%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 153 (13.43%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 576 (50.57%)
+- ![](readme_assets/swatches/other.svg) Остальные: 28 (2.46%)
 
 ### StGB 16. Abschnitt, §§ 211 bis 222 (o.V.) Straftaten gegen das Leben (o.V.)
 
@@ -1406,13 +1580,15 @@ StGB
 
 - Abgeurteilte: 1 109
 - Verurteilte: 744
-- Иностранцы: 42.07%
-- Оправдан: 67
-- Дело прекращено: 122
-- Лишение свободы: 490
-- Условный срок: 62
-- Денежный штраф: 119
-- Остальные: 249
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 42.07%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 67 (6.04%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 122 (11.00%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 490 (44.18%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 62 (5.59%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 119 (10.73%)
+- ![](readme_assets/swatches/other.svg) Остальные: 249 (22.45%)
 
 ### StGB § 177 Abs. 6 Nr. 1 Vergewaltigung
 
@@ -1422,13 +1598,15 @@ StGB
 
 - Abgeurteilte: 1 083
 - Verurteilte: 691
-- Иностранцы: 38.06%
-- Оправдан: 239
-- Дело прекращено: 45
-- Лишение свободы: 288
-- Условный срок: 226
-- Денежный штраф: 0
-- Остальные: 285
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 38.06%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 239 (22.07%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 45 (4.16%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 288 (26.59%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 226 (20.87%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 0 (0.00%)
+- ![](readme_assets/swatches/other.svg) Остальные: 285 (26.32%)
 
 ### StGB § 276 Verschaffen von falschen amtlichen Ausweisen
 
@@ -1438,13 +1616,15 @@ StGB
 
 - Abgeurteilte: 1 065
 - Verurteilte: 962
-- Иностранцы: 88.36%
-- Оправдан: 9
-- Дело прекращено: 89
-- Лишение свободы: 14
-- Условный срок: 36
-- Денежный штраф: 908
-- Остальные: 9
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 88.36%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 9 (0.85%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 89 (8.36%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 14 (1.31%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 36 (3.38%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 908 (85.26%)
+- ![](readme_assets/swatches/other.svg) Остальные: 9 (0.85%)
 
 ### StGB § 86 Verbreiten von Propagandamitteln verfassungs- widriger und terroristischer Organisationen
 
@@ -1454,13 +1634,15 @@ StGB
 
 - Abgeurteilte: 1 047
 - Verurteilte: 880
-- Иностранцы: 9.66%
-- Оправдан: 25
-- Дело прекращено: 73
-- Лишение свободы: 14
-- Условный срок: 25
-- Денежный штраф: 786
-- Остальные: 124
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 9.66%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 25 (2.39%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 73 (6.97%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 14 (1.34%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 25 (2.39%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 786 (75.07%)
+- ![](readme_assets/swatches/other.svg) Остальные: 124 (11.84%)
 
 ### StGB 29. Abschnitt, §§ 324 bis 330 a Straftaten gegen die Umwelt
 
@@ -1470,13 +1652,15 @@ StGB
 
 - Abgeurteilte: 1 008
 - Verurteilte: 737
-- Иностранцы: 37.45%
-- Оправдан: 26
-- Дело прекращено: 240
-- Лишение свободы: 3
-- Условный срок: 10
-- Денежный штраф: 720
-- Остальные: 9
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 37.45%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 26 (2.58%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 240 (23.81%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 3 (0.30%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 10 (0.99%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 720 (71.43%)
+- ![](readme_assets/swatches/other.svg) Остальные: 9 (0.89%)
 
 ### StGB § 145 a Verstoß gegen Weisungen während der Führungsaufsicht
 
@@ -1486,13 +1670,15 @@ StGB
 
 - Abgeurteilte: 990
 - Verurteilte: 733
-- Иностранцы: 19.10%
-- Оправдан: 17
-- Дело прекращено: 239
-- Лишение свободы: 155
-- Условный срок: 183
-- Денежный штраф: 394
-- Остальные: 2
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 19.10%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 17 (1.72%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 239 (24.14%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 155 (15.66%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 183 (18.48%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 394 (39.80%)
+- ![](readme_assets/swatches/other.svg) Остальные: 2 (0.20%)
 
 ### StGB § 315 b Gefährliche Eingriffe in den Straßenverkehr
 
@@ -1502,13 +1688,15 @@ StGB
 
 - Abgeurteilte: 967
 - Verurteilte: 505
-- Иностранцы: 33.47%
-- Оправдан: 90
-- Дело прекращено: 303
-- Лишение свободы: 40
-- Условный срок: 108
-- Денежный штраф: 313
-- Остальные: 113
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 33.47%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 90 (9.31%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 303 (31.33%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 40 (4.14%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 108 (11.17%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 313 (32.37%)
+- ![](readme_assets/swatches/other.svg) Остальные: 113 (11.69%)
 
 ### StGB § 303 Abs. 2 Sachbeschädigung
 
@@ -1518,13 +1706,15 @@ StGB
 
 - Abgeurteilte: 958
 - Verurteilte: 580
-- Иностранцы: 13.79%
-- Оправдан: 16
-- Дело прекращено: 126
-- Лишение свободы: 0
-- Условный срок: 13
-- Денежный штраф: 485
-- Остальные: 318
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 13.79%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 16 (1.67%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 126 (13.15%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 13 (1.36%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 485 (50.63%)
+- ![](readme_assets/swatches/other.svg) Остальные: 318 (33.19%)
 
 ### StGB § 283 Bankrott
 
@@ -1534,13 +1724,15 @@ StGB
 
 - Abgeurteilte: 943
 - Verurteilte: 757
-- Иностранцы: 29.19%
-- Оправдан: 6
-- Дело прекращено: 178
-- Лишение свободы: 3
-- Условный срок: 100
-- Денежный штраф: 653
-- Остальные: 3
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 29.19%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 6 (0.64%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 178 (18.88%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 3 (0.32%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 100 (10.60%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 653 (69.25%)
+- ![](readme_assets/swatches/other.svg) Остальные: 3 (0.32%)
 
 ### StGB §§ 257, 258 und 258 a Begünstigung und Strafvereitelung Strafvereitelung im Amt
 
@@ -1550,13 +1742,15 @@ StGB
 
 - Abgeurteilte: 940
 - Verurteilte: 694
-- Иностранцы: 32.28%
-- Оправдан: 46
-- Дело прекращено: 152
-- Лишение свободы: 4
-- Условный срок: 37
-- Денежный штраф: 590
-- Остальные: 111
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 32.28%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 46 (4.89%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 152 (16.17%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 4 (0.43%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 37 (3.94%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 590 (62.77%)
+- ![](readme_assets/swatches/other.svg) Остальные: 111 (11.81%)
 
 ### StGB § 281 Missbrauch von Ausweispapieren
 
@@ -1566,13 +1760,15 @@ StGB
 
 - Abgeurteilte: 921
 - Verurteilte: 825
-- Иностранцы: 85.45%
-- Оправдан: 10
-- Дело прекращено: 60
-- Лишение свободы: 12
-- Условный срок: 37
-- Денежный штраф: 753
-- Остальные: 49
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 85.45%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 10 (1.09%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 60 (6.51%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 12 (1.30%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 37 (4.02%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 753 (81.76%)
+- ![](readme_assets/swatches/other.svg) Остальные: 49 (5.32%)
 
 ### StGB § 183 Exhibitionistische Handlungen
 
@@ -1582,13 +1778,15 @@ StGB
 
 - Abgeurteilte: 865
 - Verurteilte: 708
-- Иностранцы: 41.38%
-- Оправдан: 36
-- Дело прекращено: 109
-- Лишение свободы: 24
-- Условный срок: 64
-- Денежный штраф: 606
-- Остальные: 26
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 41.38%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 36 (4.16%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 109 (12.60%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 24 (2.77%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 64 (7.40%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 606 (70.06%)
+- ![](readme_assets/swatches/other.svg) Остальные: 26 (3.01%)
 
 ### StGB § 156 Falsche Versicherung an Eides Statt
 
@@ -1598,13 +1796,15 @@ StGB
 
 - Abgeurteilte: 836
 - Verurteilte: 617
-- Иностранцы: 26.42%
-- Оправдан: 36
-- Дело прекращено: 180
-- Лишение свободы: 4
-- Условный срок: 23
-- Денежный штраф: 590
-- Остальные: 3
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 26.42%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 36 (4.31%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 180 (21.53%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 4 (0.48%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 23 (2.75%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 590 (70.57%)
+- ![](readme_assets/swatches/other.svg) Остальные: 3 (0.36%)
 
 ### StGB § 145 Missbrauch von Notrufen und Beeinträchtigung von Unfallverhütungs- und Nothilfemitteln
 
@@ -1614,13 +1814,15 @@ StGB
 
 - Abgeurteilte: 829
 - Verurteilte: 634
-- Иностранцы: 28.08%
-- Оправдан: 20
-- Дело прекращено: 125
-- Лишение свободы: 10
-- Условный срок: 8
-- Денежный штраф: 574
-- Остальные: 92
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 28.08%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 20 (2.41%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 125 (15.08%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 10 (1.21%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 8 (0.97%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 574 (69.24%)
+- ![](readme_assets/swatches/other.svg) Остальные: 92 (11.10%)
 
 ### StGB 12. Abschnitt, §§ 169 bis 173 Straftaten gegen den Personenstand, die Ehe und die Familie
 
@@ -1630,13 +1832,15 @@ StGB
 
 - Abgeurteilte: 814
 - Verurteilte: 483
-- Иностранцы: 21.74%
-- Оправдан: 20
-- Дело прекращено: 309
-- Лишение свободы: 5
-- Условный срок: 206
-- Денежный штраф: 271
-- Остальные: 3
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 21.74%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 20 (2.46%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 309 (37.96%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 5 (0.61%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 206 (25.31%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 271 (33.29%)
+- ![](readme_assets/swatches/other.svg) Остальные: 3 (0.37%)
 
 ### StGB § 253 Abs. 1 Erpressung
 
@@ -1646,13 +1850,15 @@ StGB
 
 - Abgeurteilte: 812
 - Verurteilte: 492
-- Иностранцы: 34.55%
-- Оправдан: 55
-- Дело прекращено: 204
-- Лишение свободы: 22
-- Условный срок: 63
-- Денежный штраф: 346
-- Остальные: 122
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 34.55%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 55 (6.77%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 204 (25.12%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 22 (2.71%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 63 (7.76%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 346 (42.61%)
+- ![](readme_assets/swatches/other.svg) Остальные: 122 (15.02%)
 
 ### StGB § 266 Untreue
 
@@ -1662,13 +1868,15 @@ StGB
 
 - Abgeurteilte: 763
 - Verurteilte: 455
-- Иностранцы: 15.16%
-- Оправдан: 60
-- Дело прекращено: 245
-- Лишение свободы: 4
-- Условный срок: 121
-- Денежный штраф: 321
-- Остальные: 12
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 15.16%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 60 (7.86%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 245 (32.11%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 4 (0.52%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 121 (15.86%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 321 (42.07%)
+- ![](readme_assets/swatches/other.svg) Остальные: 12 (1.57%)
 
 ### StGB § 170 Abs. 1 Verletzung der Unterhaltspflicht
 
@@ -1678,13 +1886,15 @@ StGB
 
 - Abgeurteilte: 745
 - Verurteilte: 435
-- Иностранцы: 20.00%
-- Оправдан: 16
-- Дело прекращено: 293
-- Лишение свободы: 5
-- Условный срок: 192
-- Денежный штраф: 238
-- Остальные: 1
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 20.00%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 16 (2.15%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 293 (39.33%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 5 (0.67%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 192 (25.77%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 238 (31.95%)
+- ![](readme_assets/swatches/other.svg) Остальные: 1 (0.13%)
 
 ### StGB § 315 d Abs. 1 Nr. 3 Verbotene Kraftfahrzeugrennen ohne Verkehrsunfall
 
@@ -1694,13 +1904,15 @@ StGB
 
 - Abgeurteilte: 712
 - Verurteilte: 578
-- Иностранцы: 26.30%
-- Оправдан: 24
-- Дело прекращено: 68
-- Лишение свободы: 27
-- Условный срок: 59
-- Денежный штраф: 371
-- Остальные: 163
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 26.30%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 24 (3.37%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 68 (9.55%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 27 (3.79%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 59 (8.29%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 371 (52.11%)
+- ![](readme_assets/swatches/other.svg) Остальные: 163 (22.89%)
 
 ### StGB § 130 Abs. 3 Volksverhetzung durch Billigung, Leugnung oder Verharmlosung des nationalsozialistischen Völkermordes
 
@@ -1710,13 +1922,15 @@ StGB
 
 - Abgeurteilte: 675
 - Verurteilte: 543
-- Иностранцы: 4.60%
-- Оправдан: 32
-- Дело прекращено: 48
-- Лишение свободы: 2
-- Условный срок: 15
-- Денежный штраф: 505
-- Остальные: 73
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 4.60%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 32 (4.74%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 48 (7.11%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 2 (0.30%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 15 (2.22%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 505 (74.81%)
+- ![](readme_assets/swatches/other.svg) Остальные: 73 (10.81%)
 
 ### StGB § 177 Abs. 1 Sexuelle Handlungen gegen den erkennbaren Willen
 
@@ -1726,13 +1940,15 @@ StGB
 
 - Abgeurteilte: 664
 - Verurteilte: 331
-- Иностранцы: 43.20%
-- Оправдан: 157
-- Дело прекращено: 110
-- Лишение свободы: 28
-- Условный срок: 210
-- Денежный штраф: 50
-- Остальные: 109
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 43.20%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 157 (23.64%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 110 (16.57%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 28 (4.22%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 210 (31.63%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 50 (7.53%)
+- ![](readme_assets/swatches/other.svg) Остальные: 109 (16.42%)
 
 ### StGB § 176 c Schwerer sexueller Missbrauch von Kindern
 
@@ -1742,13 +1958,15 @@ StGB
 
 - Abgeurteilte: 663
 - Verurteilte: 568
-- Иностранцы: 14.44%
-- Оправдан: 43
-- Дело прекращено: 19
-- Лишение свободы: 348
-- Условный срок: 129
-- Денежный штраф: 9
-- Остальные: 115
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 14.44%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 43 (6.49%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 19 (2.87%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 348 (52.49%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 129 (19.46%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 9 (1.36%)
+- ![](readme_assets/swatches/other.svg) Остальные: 115 (17.35%)
 
 ### StGB § 323 a Vollrausch, ohne Verkehrsunfall
 
@@ -1758,13 +1976,15 @@ StGB
 
 - Abgeurteilte: 653
 - Verurteilte: 619
-- Иностранцы: 25.53%
-- Оправдан: 4
-- Дело прекращено: 25
-- Лишение свободы: 46
-- Условный срок: 99
-- Денежный штраф: 444
-- Остальные: 35
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 25.53%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 4 (0.61%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 25 (3.83%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 46 (7.04%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 99 (15.16%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 444 (67.99%)
+- ![](readme_assets/swatches/other.svg) Остальные: 35 (5.36%)
 
 ### StGB § 326 Abs. 1 Unerlaubter Umgang mit Abfällen - vorsätzlich
 
@@ -1774,13 +1994,15 @@ StGB
 
 - Abgeurteilte: 634
 - Verurteilte: 491
-- Иностранцы: 41.55%
-- Оправдан: 12
-- Дело прекращено: 126
-- Лишение свободы: 2
-- Условный срок: 7
-- Денежный штраф: 480
-- Остальные: 7
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 41.55%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 12 (1.89%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 126 (19.87%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 2 (0.32%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 7 (1.10%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 480 (75.71%)
+- ![](readme_assets/swatches/other.svg) Остальные: 7 (1.10%)
 
 ### StGB § 244 a Schwerer Bandendiebstahl
 
@@ -1790,13 +2012,15 @@ StGB
 
 - Abgeurteilte: 602
 - Verurteilte: 532
-- Иностранцы: 81.77%
-- Оправдан: 15
-- Дело прекращено: 41
-- Лишение свободы: 247
-- Условный срок: 230
-- Денежный штраф: 1
-- Остальные: 68
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 81.77%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 15 (2.49%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 41 (6.81%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 247 (41.03%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 230 (38.21%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 1 (0.17%)
+- ![](readme_assets/swatches/other.svg) Остальные: 68 (11.30%)
 
 ### StGB § 304 Abs. 1 Gemeinschädliche Sachbeschädigung
 
@@ -1806,13 +2030,15 @@ StGB
 
 - Abgeurteilte: 578
 - Verurteilte: 363
-- Иностранцы: 26.17%
-- Оправдан: 23
-- Дело прекращено: 59
-- Лишение свободы: 10
-- Условный срок: 15
-- Денежный штраф: 218
-- Остальные: 253
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 26.17%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 23 (3.98%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 59 (10.21%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 10 (1.73%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 15 (2.60%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 218 (37.72%)
+- ![](readme_assets/swatches/other.svg) Остальные: 253 (43.77%)
 
 ### StGB § 224 Abs. 1 Nr. 1 Gefährliche Körperverletzung, Vergiftung
 
@@ -1822,13 +2048,15 @@ StGB
 
 - Abgeurteilte: 575
 - Verurteilte: 232
-- Иностранцы: 39.22%
-- Оправдан: 58
-- Дело прекращено: 210
-- Лишение свободы: 26
-- Условный срок: 93
-- Денежный штраф: 64
-- Остальные: 124
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 39.22%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 58 (10.09%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 210 (36.52%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 26 (4.52%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 93 (16.17%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 64 (11.13%)
+- ![](readme_assets/swatches/other.svg) Остальные: 124 (21.57%)
 
 ### StGB § 184 c Verbreitung, Erwerb und Besitz jugendpornographischer Inhalte
 
@@ -1838,13 +2066,15 @@ StGB
 
 - Abgeurteilte: 560
 - Verurteilte: 375
-- Иностранцы: 25.33%
-- Оправдан: 12
-- Дело прекращено: 53
-- Лишение свободы: 6
-- Условный срок: 32
-- Денежный штраф: 262
-- Остальные: 195
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 25.33%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 12 (2.14%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 53 (9.46%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 6 (1.07%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 32 (5.71%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 262 (46.79%)
+- ![](readme_assets/swatches/other.svg) Остальные: 195 (34.82%)
 
 ### StGB § 201 a Verletzung des höchstpers. Lebensbereichs und von Persönlichkeitsrechten d. Bildaufn.
 
@@ -1854,13 +2084,15 @@ StGB
 
 - Abgeurteilte: 557
 - Verurteilte: 421
-- Иностранцы: 24.23%
-- Оправдан: 23
-- Дело прекращено: 63
-- Лишение свободы: 5
-- Условный срок: 19
-- Денежный штраф: 369
-- Остальные: 78
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 24.23%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 23 (4.13%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 63 (11.31%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 5 (0.90%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 19 (3.41%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 369 (66.25%)
+- ![](readme_assets/swatches/other.svg) Остальные: 78 (14.00%)
 
 ### StGB § 177 Abs. 5 Sex. Handlungen unt. Anwendung v. Gewalt, Drohung od. Ausnutzen einer schutzl. Lage
 
@@ -1870,13 +2102,15 @@ StGB
 
 - Abgeurteilte: 550
 - Verurteilte: 361
-- Иностранцы: 50.42%
-- Оправдан: 101
-- Дело прекращено: 47
-- Лишение свободы: 72
-- Условный срок: 225
-- Денежный штраф: 14
-- Остальные: 91
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 50.42%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 101 (18.36%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 47 (8.55%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 72 (13.09%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 225 (40.91%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 14 (2.55%)
+- ![](readme_assets/swatches/other.svg) Остальные: 91 (16.55%)
 
 ### StGB § 184 Verbreitung "einfacher" pornographischer Inhalte
 
@@ -1886,13 +2120,15 @@ StGB
 
 - Abgeurteilte: 549
 - Verurteilte: 430
-- Иностранцы: 21.16%
-- Оправдан: 10
-- Дело прекращено: 75
-- Лишение свободы: 5
-- Условный срок: 20
-- Денежный штраф: 380
-- Остальные: 59
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 21.16%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 10 (1.82%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 75 (13.66%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 5 (0.91%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 20 (3.64%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 380 (69.22%)
+- ![](readme_assets/swatches/other.svg) Остальные: 59 (10.75%)
 
 ### StGB § 244 Abs. 1 Nr. 3 Wohnungseinbruchdiebstahl
 
@@ -1902,13 +2138,15 @@ StGB
 
 - Abgeurteilte: 547
 - Verurteilte: 383
-- Иностранцы: 56.92%
-- Оправдан: 43
-- Дело прекращено: 98
-- Лишение свободы: 132
-- Условный срок: 164
-- Денежный штраф: 38
-- Остальные: 72
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 56.92%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 43 (7.86%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 98 (17.92%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 132 (24.13%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 164 (29.98%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 38 (6.95%)
+- ![](readme_assets/swatches/other.svg) Остальные: 72 (13.16%)
 
 ### Fahrlässige Tötung im Straßenverkehr insgesamt (§ 222 StGB)
 
@@ -1918,13 +2156,15 @@ StGB
 
 - Abgeurteilte: 538
 - Verurteilte: 465
-- Иностранцы: 27.10%
-- Оправдан: 14
-- Дело прекращено: 54
-- Лишение свободы: 26
-- Условный срок: 130
-- Денежный штраф: 289
-- Остальные: 25
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 27.10%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 14 (2.60%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 54 (10.04%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 26 (4.83%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 130 (24.16%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 289 (53.72%)
+- ![](readme_assets/swatches/other.svg) Остальные: 25 (4.65%)
 
 ### StGB 30. Abschnitt, §§ 331 bis 358 Straftaten im Amt
 
@@ -1934,13 +2174,15 @@ StGB
 
 - Abgeurteilte: 503
 - Verurteilte: 340
-- Иностранцы: 28.53%
-- Оправдан: 41
-- Дело прекращено: 120
-- Лишение свободы: 18
-- Условный срок: 91
-- Денежный штраф: 230
-- Остальные: 3
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 28.53%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 41 (8.15%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 120 (23.86%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 18 (3.58%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 91 (18.09%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 230 (45.73%)
+- ![](readme_assets/swatches/other.svg) Остальные: 3 (0.60%)
 
 ### StGB §§ 212, 213 Totschlag
 
@@ -1950,13 +2192,15 @@ StGB
 
 - Abgeurteilte: 503
 - Verurteilte: 313
-- Иностранцы: 46.96%
-- Оправдан: 33
-- Дело прекращено: 22
-- Лишение свободы: 260
-- Условный срок: 11
-- Денежный штраф: 0
-- Остальные: 177
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 46.96%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 33 (6.56%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 22 (4.37%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 260 (51.69%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 11 (2.19%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 0 (0.00%)
+- ![](readme_assets/swatches/other.svg) Остальные: 177 (35.19%)
 
 ### StGB 8. Abschnitt, §§ 146 bis 152 c Geld- und Wertzeichenfälschung
 
@@ -1966,13 +2210,15 @@ StGB
 
 - Abgeurteilte: 495
 - Verurteilte: 377
-- Иностранцы: 39.52%
-- Оправдан: 38
-- Дело прекращено: 44
-- Лишение свободы: 44
-- Условный срок: 153
-- Денежный штраф: 85
-- Остальные: 131
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 39.52%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 38 (7.68%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 44 (8.89%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 44 (8.89%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 153 (30.91%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 85 (17.17%)
+- ![](readme_assets/swatches/other.svg) Остальные: 131 (26.46%)
 
 ### StGB § 222 Fahrlässige Tötung im Straßenverkehr ohne Trunkenheit
 
@@ -1982,13 +2228,15 @@ StGB
 
 - Abgeurteilte: 493
 - Verurteilte: 420
-- Иностранцы: 26.19%
-- Оправдан: 14
-- Дело прекращено: 54
-- Лишение свободы: 10
-- Условный срок: 106
-- Денежный штраф: 288
-- Остальные: 21
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 26.19%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 14 (2.84%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 54 (10.95%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 10 (2.03%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 106 (21.50%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 288 (58.42%)
+- ![](readme_assets/swatches/other.svg) Остальные: 21 (4.26%)
 
 ### StGB § 176 a Sexueller Missbrauch von Kindern ohne Körperkontakt mit dem Kind
 
@@ -1998,13 +2246,15 @@ StGB
 
 - Abgeurteilte: 485
 - Verurteilte: 377
-- Иностранцы: 17.77%
-- Оправдан: 22
-- Дело прекращено: 31
-- Лишение свободы: 48
-- Условный срок: 235
-- Денежный штраф: 31
-- Остальные: 118
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 17.77%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 22 (4.54%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 31 (6.39%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 48 (9.90%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 235 (48.45%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 31 (6.39%)
+- ![](readme_assets/swatches/other.svg) Остальные: 118 (24.33%)
 
 ### StGB § 187 Verleumdung
 
@@ -2014,13 +2264,15 @@ StGB
 
 - Abgeurteilte: 481
 - Verurteilte: 296
-- Иностранцы: 16.55%
-- Оправдан: 20
-- Дело прекращено: 143
-- Лишение свободы: 5
-- Условный срок: 7
-- Денежный штраф: 273
-- Остальные: 33
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 16.55%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 20 (4.16%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 143 (29.73%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 5 (1.04%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 7 (1.46%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 273 (56.76%)
+- ![](readme_assets/swatches/other.svg) Остальные: 33 (6.86%)
 
 ### StGB §§ 146 bis 149 Geld-, Wertzeichen- und Wertpapierfälschung
 
@@ -2030,13 +2282,15 @@ StGB
 
 - Abgeurteilte: 469
 - Verurteilte: 356
-- Иностранцы: 36.80%
-- Оправдан: 38
-- Дело прекращено: 40
-- Лишение свободы: 33
-- Условный срок: 146
-- Денежный штраф: 83
-- Остальные: 129
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 36.80%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 38 (8.10%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 40 (8.53%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 33 (7.04%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 146 (31.13%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 83 (17.70%)
+- ![](readme_assets/swatches/other.svg) Остальные: 129 (27.51%)
 
 ### StGB § 186 Üble Nachrede
 
@@ -2046,13 +2300,15 @@ StGB
 
 - Abgeurteilte: 467
 - Verurteilte: 303
-- Иностранцы: 18.15%
-- Оправдан: 23
-- Дело прекращено: 131
-- Лишение свободы: 1
-- Условный срок: 3
-- Денежный штраф: 294
-- Остальные: 15
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 18.15%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 23 (4.93%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 131 (28.05%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 1 (0.21%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 3 (0.64%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 294 (62.96%)
+- ![](readme_assets/swatches/other.svg) Остальные: 15 (3.21%)
 
 ### StGB § 315 c Abs. 1 Nr. 2 b auch i.V.m. Abs.3 Falsches Überholen mit Verkehrsunfall
 
@@ -2062,13 +2318,15 @@ StGB
 
 - Abgeurteilte: 454
 - Verurteilte: 368
-- Иностранцы: 36.41%
-- Оправдан: 14
-- Дело прекращено: 72
-- Лишение свободы: 1
-- Условный срок: 4
-- Денежный штраф: 347
-- Остальные: 16
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 36.41%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 14 (3.08%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 72 (15.86%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 1 (0.22%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 4 (0.88%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 347 (76.43%)
+- ![](readme_assets/swatches/other.svg) Остальные: 16 (3.52%)
 
 ### StGB § 306 d Fahrlässige Brandstiftung
 
@@ -2078,13 +2336,15 @@ StGB
 
 - Abgeurteilte: 440
 - Verurteilte: 300
-- Иностранцы: 29.00%
-- Оправдан: 24
-- Дело прекращено: 94
-- Лишение свободы: 7
-- Условный срок: 19
-- Денежный штраф: 244
-- Остальные: 52
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 29.00%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 24 (5.45%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 94 (21.36%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 7 (1.59%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 19 (4.32%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 244 (55.45%)
+- ![](readme_assets/swatches/other.svg) Остальные: 52 (11.82%)
 
 ### StGB § 201 Verletzung der Vertraulichkeit des Wortes
 
@@ -2094,13 +2354,15 @@ StGB
 
 - Abgeurteilte: 417
 - Verurteilte: 288
-- Иностранцы: 29.17%
-- Оправдан: 17
-- Дело прекращено: 97
-- Лишение свободы: 2
-- Условный срок: 4
-- Денежный штраф: 276
-- Остальные: 21
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 29.17%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 17 (4.08%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 97 (23.26%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 2 (0.48%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 4 (0.96%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 276 (66.19%)
+- ![](readme_assets/swatches/other.svg) Остальные: 21 (5.04%)
 
 ### StGB § 315 c Abs. 1 Nr. 2 b auch i.V.m. Abs.3 Falsches Überholen ohne Verkehrsunfall
 
@@ -2110,13 +2372,15 @@ StGB
 
 - Abgeurteilte: 407
 - Verurteilte: 256
-- Иностранцы: 39.45%
-- Оправдан: 25
-- Дело прекращено: 113
-- Лишение свободы: 2
-- Условный срок: 11
-- Денежный штраф: 224
-- Остальные: 32
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 39.45%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 25 (6.14%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 113 (27.76%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 2 (0.49%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 11 (2.70%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 224 (55.04%)
+- ![](readme_assets/swatches/other.svg) Остальные: 32 (7.86%)
 
 ### StGB § 188 Gegen Personen des politischen Lebens gerich- tete Beleidigung,üble Nachrede u. Verleumdung
 
@@ -2126,13 +2390,15 @@ StGB
 
 - Abgeurteilte: 405
 - Verurteilte: 332
-- Иностранцы: 5.42%
-- Оправдан: 13
-- Дело прекращено: 59
-- Лишение свободы: 1
-- Условный срок: 9
-- Денежный штраф: 320
-- Остальные: 3
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 5.42%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 13 (3.21%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 59 (14.57%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 1 (0.25%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 9 (2.22%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 320 (79.01%)
+- ![](readme_assets/swatches/other.svg) Остальные: 3 (0.74%)
 
 ### StGB § 306 Brandstiftung
 
@@ -2142,13 +2408,15 @@ StGB
 
 - Abgeurteilte: 392
 - Verurteilte: 280
-- Иностранцы: 11.07%
-- Оправдан: 34
-- Дело прекращено: 14
-- Лишение свободы: 67
-- Условный срок: 104
-- Денежный штраф: 9
-- Остальные: 164
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 11.07%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 34 (8.67%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 14 (3.57%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 67 (17.09%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 104 (26.53%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 9 (2.30%)
+- ![](readme_assets/swatches/other.svg) Остальные: 164 (41.84%)
 
 ### StGB § 306 a Schwere Brandstiftung
 
@@ -2158,13 +2426,15 @@ StGB
 
 - Abgeurteilte: 386
 - Verurteilte: 224
-- Иностранцы: 33.04%
-- Оправдан: 32
-- Дело прекращено: 16
-- Лишение свободы: 102
-- Условный срок: 76
-- Денежный штраф: 6
-- Остальные: 154
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 33.04%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 32 (8.29%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 16 (4.15%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 102 (26.42%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 76 (19.69%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 6 (1.55%)
+- ![](readme_assets/swatches/other.svg) Остальные: 154 (39.90%)
 
 ### StGB § 239 Freiheitsberaubung
 
@@ -2174,13 +2444,15 @@ StGB
 
 - Abgeurteilte: 346
 - Verurteilte: 182
-- Иностранцы: 35.16%
-- Оправдан: 27
-- Дело прекращено: 125
-- Лишение свободы: 10
-- Условный срок: 15
-- Денежный штраф: 132
-- Остальные: 37
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 35.16%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 27 (7.80%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 125 (36.13%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 10 (2.89%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 15 (4.34%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 132 (38.15%)
+- ![](readme_assets/swatches/other.svg) Остальные: 37 (10.69%)
 
 ### StGB § 130 Abs. 2 Volksverhetzung durch Verbreiten volksverhetzender Inhalte
 
@@ -2190,13 +2462,15 @@ StGB
 
 - Abgeurteilte: 340
 - Verurteilte: 291
-- Иностранцы: 2.41%
-- Оправдан: 3
-- Дело прекращено: 19
-- Лишение свободы: 0
-- Условный срок: 4
-- Денежный штраф: 276
-- Остальные: 38
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 2.41%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 3 (0.88%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 19 (5.59%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 4 (1.18%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 276 (81.18%)
+- ![](readme_assets/swatches/other.svg) Остальные: 38 (11.18%)
 
 ### StGB § 206 Verletzung des Post- oder Fernmeldegeheimnisses
 
@@ -2206,13 +2480,15 @@ StGB
 
 - Abgeurteilte: 337
 - Verurteilte: 308
-- Иностранцы: 56.17%
-- Оправдан: 8
-- Дело прекращено: 19
-- Лишение свободы: 2
-- Условный срок: 27
-- Денежный штраф: 275
-- Остальные: 6
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 56.17%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 8 (2.37%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 19 (5.64%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 2 (0.59%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 27 (8.01%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 275 (81.60%)
+- ![](readme_assets/swatches/other.svg) Остальные: 6 (1.78%)
 
 ### StGB § 293 Fischwilderei
 
@@ -2222,13 +2498,15 @@ StGB
 
 - Abgeurteilte: 334
 - Verurteilte: 298
-- Иностранцы: 53.69%
-- Оправдан: 3
-- Дело прекращено: 27
-- Лишение свободы: 0
-- Условный срок: 0
-- Денежный штраф: 297
-- Остальные: 7
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 53.69%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 3 (0.90%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 27 (8.08%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 0 (0.00%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 297 (88.92%)
+- ![](readme_assets/swatches/other.svg) Остальные: 7 (2.10%)
 
 ### StGB § 260 Abs. 1 Nr. 1 Gewerbsmäßige Hehlerei
 
@@ -2238,13 +2516,15 @@ StGB
 
 - Abgeurteilte: 322
 - Verurteilte: 262
-- Иностранцы: 54.20%
-- Оправдан: 12
-- Дело прекращено: 46
-- Лишение свободы: 62
-- Условный срок: 172
-- Денежный штраф: 15
-- Остальные: 15
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 54.20%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 12 (3.73%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 46 (14.29%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 62 (19.25%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 172 (53.42%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 15 (4.66%)
+- ![](readme_assets/swatches/other.svg) Остальные: 15 (4.66%)
 
 ### StGB § 248 b Unbefugter Gebrauch eines Fahrzeugs
 
@@ -2254,13 +2534,15 @@ StGB
 
 - Abgeurteilte: 321
 - Verurteilte: 239
-- Иностранцы: 31.38%
-- Оправдан: 4
-- Дело прекращено: 28
-- Лишение свободы: 10
-- Условный срок: 15
-- Денежный штраф: 156
-- Остальные: 108
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 31.38%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 4 (1.25%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 28 (8.72%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 10 (3.12%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 15 (4.67%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 156 (48.60%)
+- ![](readme_assets/swatches/other.svg) Остальные: 108 (33.64%)
 
 ### StGB § 267 Abs. 3 und 4 Schwerwiegende Fälle der Urkundenfälschung
 
@@ -2270,13 +2552,15 @@ StGB
 
 - Abgeurteilte: 290
 - Verurteilte: 236
-- Иностранцы: 47.88%
-- Оправдан: 12
-- Дело прекращено: 39
-- Лишение свободы: 34
-- Условный срок: 148
-- Денежный штраф: 46
-- Остальные: 11
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 47.88%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 12 (4.14%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 39 (13.45%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 34 (11.72%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 148 (51.03%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 46 (15.86%)
+- ![](readme_assets/swatches/other.svg) Остальные: 11 (3.79%)
 
 ### StGB § 315 Gefährliche Eingriffe in den Bahn-, Schiffs- und Luftverkehr
 
@@ -2286,13 +2570,15 @@ StGB
 
 - Abgeurteilte: 288
 - Verurteilte: 226
-- Иностранцы: 33.63%
-- Оправдан: 6
-- Дело прекращено: 47
-- Лишение свободы: 10
-- Условный срок: 37
-- Денежный штраф: 148
-- Остальные: 40
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 33.63%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 6 (2.08%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 47 (16.32%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 10 (3.47%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 37 (12.85%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 148 (51.39%)
+- ![](readme_assets/swatches/other.svg) Остальные: 40 (13.89%)
 
 ### StGB § 248 c Entziehung elektrischer Energie
 
@@ -2302,13 +2588,15 @@ StGB
 
 - Abgeurteilte: 286
 - Verurteilte: 241
-- Иностранцы: 19.50%
-- Оправдан: 8
-- Дело прекращено: 37
-- Лишение свободы: 2
-- Условный срок: 9
-- Денежный штраф: 229
-- Остальные: 1
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 19.50%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 8 (2.80%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 37 (12.94%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 2 (0.70%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 9 (3.15%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 229 (80.07%)
+- ![](readme_assets/swatches/other.svg) Остальные: 1 (0.35%)
 
 ### StGB § 140 Belohnung und Billigung von Straftaten
 
@@ -2318,13 +2606,15 @@ StGB
 
 - Abgeurteilte: 283
 - Verurteilte: 242
-- Иностранцы: 8.26%
-- Оправдан: 9
-- Дело прекращено: 28
-- Лишение свободы: 1
-- Условный срок: 4
-- Денежный штраф: 229
-- Остальные: 12
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 8.26%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 9 (3.18%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 28 (9.89%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 1 (0.35%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 4 (1.41%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 229 (80.92%)
+- ![](readme_assets/swatches/other.svg) Остальные: 12 (4.24%)
 
 ### StGB § 126 Störung des öffentlichen Friedens durch Androhung von Straftaten
 
@@ -2334,13 +2624,15 @@ StGB
 
 - Abgeurteilte: 279
 - Verurteilte: 201
-- Иностранцы: 19.90%
-- Оправдан: 8
-- Дело прекращено: 34
-- Лишение свободы: 3
-- Условный срок: 15
-- Денежный штраф: 157
-- Остальные: 62
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 19.90%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 8 (2.87%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 34 (12.19%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 3 (1.08%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 15 (5.38%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 157 (56.27%)
+- ![](readme_assets/swatches/other.svg) Остальные: 62 (22.22%)
 
 ### StGB § 222 Fahrlässige Tötung, außer im Straßenverkehr
 
@@ -2350,13 +2642,15 @@ StGB
 
 - Abgeurteilte: 279
 - Verurteilte: 166
-- Иностранцы: 26.51%
-- Оправдан: 24
-- Дело прекращено: 87
-- Лишение свободы: 3
-- Условный срок: 42
-- Денежный штраф: 116
-- Остальные: 7
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 26.51%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 24 (8.60%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 87 (31.18%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 3 (1.08%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 42 (15.05%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 116 (41.58%)
+- ![](readme_assets/swatches/other.svg) Остальные: 7 (2.51%)
 
 ### Verbotene Kraftfahrzeugrennen nach § 315 d StGB mit Verkehrsunfall
 
@@ -2366,13 +2660,15 @@ StGB
 
 - Abgeurteilte: 260
 - Verurteilte: 214
-- Иностранцы: 30.37%
-- Оправдан: 10
-- Дело прекращено: 20
-- Лишение свободы: 14
-- Условный срок: 31
-- Денежный штраф: 123
-- Остальные: 62
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 30.37%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 10 (3.85%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 20 (7.69%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 14 (5.38%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 31 (11.92%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 123 (47.31%)
+- ![](readme_assets/swatches/other.svg) Остальные: 62 (23.85%)
 
 ### StGB § 183 a Erregung öffentlichen Ärgernisses
 
@@ -2382,13 +2678,15 @@ StGB
 
 - Abgeurteilte: 255
 - Verurteilte: 216
-- Иностранцы: 40.28%
-- Оправдан: 8
-- Дело прекращено: 29
-- Лишение свободы: 2
-- Условный срок: 15
-- Денежный штраф: 193
-- Остальные: 8
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 40.28%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 8 (3.14%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 29 (11.37%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 2 (0.78%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 15 (5.88%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 193 (75.69%)
+- ![](readme_assets/swatches/other.svg) Остальные: 8 (3.14%)
 
 ### StGB §§ 307, 308 Herbeiführen einer Explosion
 
@@ -2398,13 +2696,15 @@ StGB
 
 - Abgeurteilte: 254
 - Verurteilte: 194
-- Иностранцы: 44.85%
-- Оправдан: 12
-- Дело прекращено: 15
-- Лишение свободы: 84
-- Условный срок: 49
-- Денежный штраф: 10
-- Остальные: 84
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 44.85%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 12 (4.72%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 15 (5.91%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 84 (33.07%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 49 (19.29%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 10 (3.94%)
+- ![](readme_assets/swatches/other.svg) Остальные: 84 (33.07%)
 
 ### StGB § 315 d Abs. 1 Nr. 2 Verbotene Kraftfahrzeugrennen ohne Verkehrsunfall
 
@@ -2414,13 +2714,15 @@ StGB
 
 - Abgeurteilte: 252
 - Verurteilte: 156
-- Иностранцы: 32.69%
-- Оправдан: 18
-- Дело прекращено: 60
-- Лишение свободы: 0
-- Условный срок: 1
-- Денежный штраф: 117
-- Остальные: 56
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 32.69%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 18 (7.14%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 60 (23.81%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 1 (0.40%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 117 (46.43%)
+- ![](readme_assets/swatches/other.svg) Остальные: 56 (22.22%)
 
 ### StGB § 315 d Abs. 1 Nr. 1 Verbotene Kraftfahrzeugrennen ohne Verkehrsunfall
 
@@ -2430,13 +2732,15 @@ StGB
 
 - Abgeurteilte: 239
 - Verurteilte: 165
-- Иностранцы: 36.97%
-- Оправдан: 13
-- Дело прекращено: 40
-- Лишение свободы: 1
-- Условный срок: 11
-- Денежный штраф: 138
-- Остальные: 36
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 36.97%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 13 (5.44%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 40 (16.74%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 1 (0.42%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 11 (4.60%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 138 (57.74%)
+- ![](readme_assets/swatches/other.svg) Остальные: 36 (15.06%)
 
 ### StGB § 115 Abs.1,2 i.V.m. §§ 113, 114 Widerstand gg. o. tätl. Angriff auf Pers., die Vollstreckungsbeamten gleichstehen
 
@@ -2446,13 +2750,15 @@ StGB
 
 - Abgeurteilte: 230
 - Verurteilte: 120
-- Иностранцы: 25.83%
-- Оправдан: 13
-- Дело прекращено: 87
-- Лишение свободы: 9
-- Условный срок: 25
-- Денежный штраф: 79
-- Остальные: 17
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 25.83%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 13 (5.65%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 87 (37.83%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 9 (3.91%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 25 (10.87%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 79 (34.35%)
+- ![](readme_assets/swatches/other.svg) Остальные: 17 (7.39%)
 
 ### StGB § 284 Abs. 1 und 4, § 287 Unerlaubte Veranstaltung eines Glücksspiels, einer Lotterie oder einer Ausspielung
 
@@ -2462,13 +2768,15 @@ StGB
 
 - Abgeurteilte: 229
 - Verurteilte: 139
-- Иностранцы: 60.43%
-- Оправдан: 19
-- Дело прекращено: 69
-- Лишение свободы: 0
-- Условный срок: 3
-- Денежный штраф: 135
-- Остальные: 3
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 60.43%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 19 (8.30%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 69 (30.13%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 3 (1.31%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 135 (58.95%)
+- ![](readme_assets/swatches/other.svg) Остальные: 3 (1.31%)
 
 ### StGB § 283 b Verletzung der Buchführungspflicht
 
@@ -2478,13 +2786,15 @@ StGB
 
 - Abgeurteilte: 221
 - Verurteilte: 191
-- Иностранцы: 24.61%
-- Оправдан: 1
-- Дело прекращено: 29
-- Лишение свободы: 0
-- Условный срок: 4
-- Денежный штраф: 186
-- Остальные: 1
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 24.61%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 1 (0.45%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 29 (13.12%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 4 (1.81%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 186 (84.16%)
+- ![](readme_assets/swatches/other.svg) Остальные: 1 (0.45%)
 
 ### StGB § 334 Bestechung
 
@@ -2494,13 +2804,15 @@ StGB
 
 - Abgeurteilte: 209
 - Verurteilte: 180
-- Иностранцы: 42.78%
-- Оправдан: 5
-- Дело прекращено: 24
-- Лишение свободы: 9
-- Условный срок: 53
-- Денежный штраф: 117
-- Остальные: 1
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 42.78%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 5 (2.39%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 24 (11.48%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 9 (4.31%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 53 (25.36%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 117 (55.98%)
+- ![](readme_assets/swatches/other.svg) Остальные: 1 (0.48%)
 
 ### StGB § 115 Abs.3 i.V.m. §§ 113, 114 Widerstand gg.o.tätl. Angriff a. Hilfeleis. von Feuerwehr, Katast.-schutz o. Rettungsd.
 
@@ -2510,13 +2822,15 @@ StGB
 
 - Abgeurteilte: 208
 - Verurteilte: 174
-- Иностранцы: 27.01%
-- Оправдан: 3
-- Дело прекращено: 27
-- Лишение свободы: 12
-- Условный срок: 31
-- Денежный штраф: 113
-- Остальные: 22
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 27.01%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 3 (1.44%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 27 (12.98%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 12 (5.77%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 31 (14.90%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 113 (54.33%)
+- ![](readme_assets/swatches/other.svg) Остальные: 22 (10.58%)
 
 ### StGB § 244 Abs. 1 Nr. 2 Bandendiebstahl
 
@@ -2526,13 +2840,15 @@ StGB
 
 - Abgeurteilte: 207
 - Verurteilte: 96
-- Иностранцы: 86.46%
-- Оправдан: 10
-- Дело прекращено: 78
-- Лишение свободы: 13
-- Условный срок: 44
-- Денежный штраф: 25
-- Остальные: 37
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 86.46%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 10 (4.83%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 78 (37.68%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 13 (6.28%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 44 (21.26%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 25 (12.08%)
+- ![](readme_assets/swatches/other.svg) Остальные: 37 (17.87%)
 
 ### StGB § 261 Abs. 5 Besonders schwere Fälle der Geldwäsche
 
@@ -2542,13 +2858,15 @@ StGB
 
 - Abgeurteilte: 198
 - Verurteilte: 177
-- Иностранцы: 48.59%
-- Оправдан: 2
-- Дело прекращено: 12
-- Лишение свободы: 21
-- Условный срок: 80
-- Денежный штраф: 37
-- Остальные: 46
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 48.59%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 2 (1.01%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 12 (6.06%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 21 (10.61%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 80 (40.40%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 37 (18.69%)
+- ![](readme_assets/swatches/other.svg) Остальные: 46 (23.23%)
 
 ### StGB § 125 Landfriedensbruch
 
@@ -2558,13 +2876,15 @@ StGB
 
 - Abgeurteilte: 195
 - Verurteilte: 121
-- Иностранцы: 14.05%
-- Оправдан: 12
-- Дело прекращено: 53
-- Лишение свободы: 0
-- Условный срок: 5
-- Денежный штраф: 107
-- Остальные: 18
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 14.05%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 12 (6.15%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 53 (27.18%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 5 (2.56%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 107 (54.87%)
+- ![](readme_assets/swatches/other.svg) Остальные: 18 (9.23%)
 
 ### StGB § 274 Urkundenunterdrückung, Veränderung einer Grenzbezeichnung
 
@@ -2574,13 +2894,15 @@ StGB
 
 - Abgeurteilte: 194
 - Verurteilte: 149
-- Иностранцы: 41.61%
-- Оправдан: 4
-- Дело прекращено: 24
-- Лишение свободы: 4
-- Условный срок: 4
-- Денежный штраф: 126
-- Остальные: 32
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 41.61%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 4 (2.06%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 24 (12.37%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 4 (2.06%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 4 (2.06%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 126 (64.95%)
+- ![](readme_assets/swatches/other.svg) Остальные: 32 (16.49%)
 
 ### StGB § 285 Beteiligung am unerlaubten Glücksspiel
 
@@ -2590,13 +2912,15 @@ StGB
 
 - Abgeurteilte: 189
 - Verurteilte: 122
-- Иностранцы: 49.18%
-- Оправдан: 9
-- Дело прекращено: 58
-- Лишение свободы: 0
-- Условный срок: 0
-- Денежный штраф: 122
-- Остальные: 0
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 49.18%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 9 (4.76%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 58 (30.69%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 0 (0.00%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 122 (64.55%)
+- ![](readme_assets/swatches/other.svg) Остальные: 0 (0.00%)
 
 ### StGB § 225 Misshandlung von Schutzbefohlenen
 
@@ -2606,13 +2930,15 @@ StGB
 
 - Abgeurteilte: 185
 - Verurteilte: 86
-- Иностранцы: 25.58%
-- Оправдан: 37
-- Дело прекращено: 59
-- Лишение свободы: 10
-- Условный срок: 59
-- Денежный штраф: 9
-- Остальные: 11
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 25.58%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 37 (20.00%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 59 (31.89%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 10 (5.41%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 59 (31.89%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 9 (4.86%)
+- ![](readme_assets/swatches/other.svg) Остальные: 11 (5.95%)
 
 ### StGB §§ 288, 289 Vereiteln der Zwangsvollstreckung, Pfandkehr
 
@@ -2622,13 +2948,15 @@ StGB
 
 - Abgeurteilte: 177
 - Verurteilte: 132
-- Иностранцы: 25.00%
-- Оправдан: 3
-- Дело прекращено: 41
-- Лишение свободы: 0
-- Условный срок: 4
-- Денежный штраф: 127
-- Остальные: 2
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 25.00%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 3 (1.69%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 41 (23.16%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 4 (2.26%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 127 (71.75%)
+- ![](readme_assets/swatches/other.svg) Остальные: 2 (1.13%)
 
 ### StGB § 271 Mittelbare Falschbeurkundung
 
@@ -2638,13 +2966,15 @@ StGB
 
 - Abgeurteilte: 174
 - Verurteilte: 127
-- Иностранцы: 75.59%
-- Оправдан: 9
-- Дело прекращено: 36
-- Лишение свободы: 1
-- Условный срок: 5
-- Денежный штраф: 118
-- Остальные: 5
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 75.59%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 9 (5.17%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 36 (20.69%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 1 (0.57%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 5 (2.87%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 118 (67.82%)
+- ![](readme_assets/swatches/other.svg) Остальные: 5 (2.87%)
 
 ### StGB § 323 a Vollrausch in Verbindung mit Verkehrsunfall
 
@@ -2654,13 +2984,15 @@ StGB
 
 - Abgeurteilte: 172
 - Verurteilte: 165
-- Иностранцы: 26.06%
-- Оправдан: 0
-- Дело прекращено: 6
-- Лишение свободы: 3
-- Условный срок: 17
-- Денежный штраф: 142
-- Остальные: 4
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 26.06%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 6 (3.49%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 3 (1.74%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 17 (9.88%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 142 (82.56%)
+- ![](readme_assets/swatches/other.svg) Остальные: 4 (2.33%)
 
 ### StGB § 211 Mord
 
@@ -2670,13 +3002,15 @@ StGB
 
 - Abgeurteilte: 167
 - Verurteilte: 149
-- Иностранцы: 48.32%
-- Оправдан: 2
-- Дело прекращено: 3
-- Лишение свободы: 132
-- Условный срок: 0
-- Денежный штраф: 0
-- Остальные: 30
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 48.32%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 2 (1.20%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 3 (1.80%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 132 (79.04%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 0 (0.00%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 0 (0.00%)
+- ![](readme_assets/swatches/other.svg) Остальные: 30 (17.96%)
 
 ### StGB § 239 a Erpresserischer Menschenraub
 
@@ -2686,13 +3020,15 @@ StGB
 
 - Abgeurteilte: 167
 - Verurteilte: 137
-- Иностранцы: 35.77%
-- Оправдан: 12
-- Дело прекращено: 12
-- Лишение свободы: 71
-- Условный срок: 21
-- Денежный штраф: 0
-- Остальные: 51
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 35.77%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 12 (7.19%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 12 (7.19%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 71 (42.51%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 21 (12.57%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 0 (0.00%)
+- ![](readme_assets/swatches/other.svg) Остальные: 51 (30.54%)
 
 ### StGB § 177 Abs. 6 Nr. 2, Abs. 7,8 Gemeinschaftlich begangener od. anderer schwerer sexueller Übergriff
 
@@ -2702,13 +3038,15 @@ StGB
 
 - Abgeurteilte: 158
 - Verurteilte: 132
-- Иностранцы: 51.52%
-- Оправдан: 14
-- Дело прекращено: 8
-- Лишение свободы: 92
-- Условный срок: 12
-- Денежный штраф: 3
-- Остальные: 29
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 51.52%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 14 (8.86%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 8 (5.06%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 92 (58.23%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 12 (7.59%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 3 (1.90%)
+- ![](readme_assets/swatches/other.svg) Остальные: 29 (18.35%)
 
 ### StGB § 284 Abs. 3 Unerlaubte Veranstaltung e. gewerbsmäßigen oder bandenmäßigen Glücksspiels
 
@@ -2718,13 +3056,15 @@ StGB
 
 - Abgeurteilte: 155
 - Verurteilte: 113
-- Иностранцы: 67.26%
-- Оправдан: 4
-- Дело прекращено: 37
-- Лишение свободы: 2
-- Условный срок: 24
-- Денежный штраф: 87
-- Остальные: 1
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 67.26%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 4 (2.58%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 37 (23.87%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 2 (1.29%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 24 (15.48%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 87 (56.13%)
+- ![](readme_assets/swatches/other.svg) Остальные: 1 (0.65%)
 
 ### StGB § 315 c Abs. 1 Nr. 2 a auch i.V.m. Abs.3 Nichtbeachten der Vorfahrt ohne Verkehrsunfall
 
@@ -2734,13 +3074,15 @@ StGB
 
 - Abgeurteilte: 145
 - Verurteilte: 88
-- Иностранцы: 28.41%
-- Оправдан: 10
-- Дело прекращено: 38
-- Лишение свободы: 2
-- Условный срок: 10
-- Денежный штраф: 65
-- Остальные: 20
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 28.41%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 10 (6.90%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 38 (26.21%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 2 (1.38%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 10 (6.90%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 65 (44.83%)
+- ![](readme_assets/swatches/other.svg) Остальные: 20 (13.79%)
 
 ### StGB § 211 i.V.m. §§ 22, 23 Versuchter Mord
 
@@ -2750,13 +3092,15 @@ StGB
 
 - Abgeurteilte: 141
 - Verurteilte: 105
-- Иностранцы: 44.76%
-- Оправдан: 5
-- Дело прекращено: 6
-- Лишение свободы: 94
-- Условный срок: 2
-- Денежный штраф: 0
-- Остальные: 34
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 44.76%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 5 (3.55%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 6 (4.26%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 94 (66.67%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 2 (1.42%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 0 (0.00%)
+- ![](readme_assets/swatches/other.svg) Остальные: 34 (24.11%)
 
 ### StGB § 111 Öffentliche Aufforderung zu Straftaten
 
@@ -2766,13 +3110,15 @@ StGB
 
 - Abgeurteilte: 139
 - Verurteilte: 115
-- Иностранцы: 9.57%
-- Оправдан: 5
-- Дело прекращено: 14
-- Лишение свободы: 2
-- Условный срок: 6
-- Денежный штраф: 102
-- Остальные: 10
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 9.57%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 5 (3.60%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 14 (10.07%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 2 (1.44%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 6 (4.32%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 102 (73.38%)
+- ![](readme_assets/swatches/other.svg) Остальные: 10 (7.19%)
 
 ### StGB § 315 c Abs. 1 Nr. 1 b auch i.V.m. Abs.3 Straßenverkehrsgefährdung infolge geistiger oder körperl. Mängel ohne Verkehrsunfall
 
@@ -2782,13 +3128,15 @@ StGB
 
 - Abgeurteilte: 139
 - Verurteilte: 68
-- Иностранцы: 17.65%
-- Оправдан: 7
-- Дело прекращено: 53
-- Лишение свободы: 0
-- Условный срок: 0
-- Денежный штраф: 66
-- Остальные: 13
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 17.65%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 7 (5.04%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 53 (38.13%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 0 (0.00%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 66 (47.48%)
+- ![](readme_assets/swatches/other.svg) Остальные: 13 (9.35%)
 
 ### StGB § 142 Abs. 2 Entf. vom Unfallort ohne nachträgl. Meldung d. Unfallbeteiligung insgesamt
 
@@ -2798,13 +3146,15 @@ StGB
 
 - Abgeurteilte: 136
 - Verurteilte: 110
-- Иностранцы: 33.64%
-- Оправдан: 3
-- Дело прекращено: 19
-- Лишение свободы: 2
-- Условный срок: 1
-- Денежный штраф: 105
-- Остальные: 6
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 33.64%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 3 (2.21%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 19 (13.97%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 2 (1.47%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 1 (0.74%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 105 (77.21%)
+- ![](readme_assets/swatches/other.svg) Остальные: 6 (4.41%)
 
 ### StGB § 235 Entziehung Minderjähriger
 
@@ -2814,13 +3164,15 @@ StGB
 
 - Abgeurteilte: 134
 - Verurteilte: 91
-- Иностранцы: 52.75%
-- Оправдан: 4
-- Дело прекращено: 36
-- Лишение свободы: 3
-- Условный срок: 25
-- Денежный штраф: 63
-- Остальные: 3
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 52.75%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 4 (2.99%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 36 (26.87%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 3 (2.24%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 25 (18.66%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 63 (47.01%)
+- ![](readme_assets/swatches/other.svg) Остальные: 3 (2.24%)
 
 ### StGB § 315 d Abs. 2, auch i.V.m. Abs. 4 Verbotene Kraftfahrzeugrennen ohne Verkehrsunfall
 
@@ -2830,13 +3182,15 @@ StGB
 
 - Abgeurteilte: 134
 - Verurteilte: 107
-- Иностранцы: 32.71%
-- Оправдан: 4
-- Дело прекращено: 13
-- Лишение свободы: 11
-- Условный срок: 21
-- Денежный штраф: 43
-- Остальные: 42
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 32.71%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 4 (2.99%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 13 (9.70%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 11 (8.21%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 21 (15.67%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 43 (32.09%)
+- ![](readme_assets/swatches/other.svg) Остальные: 42 (31.34%)
 
 ### StGB § 142 Abs. 2 Entf. vom Unfallort ohne nachträgl. Meldung d. Unfallbeteiligung ohne Trunkenheit bzw. Trunkenheit nicht bekannt
 
@@ -2846,13 +3200,15 @@ StGB
 
 - Abgeurteilte: 132
 - Verurteilte: 106
-- Иностранцы: 33.96%
-- Оправдан: 3
-- Дело прекращено: 19
-- Лишение свободы: 1
-- Условный срок: 1
-- Денежный штраф: 103
-- Остальные: 5
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 33.96%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 3 (2.27%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 19 (14.39%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 1 (0.76%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 1 (0.76%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 103 (78.03%)
+- ![](readme_assets/swatches/other.svg) Остальные: 5 (3.79%)
 
 ### StGB § 315 d Abs. 2, auch i.V.m. Abs. 4 Verbotene Kraftfahrzeugrennen mit Verkehrsunfall
 
@@ -2862,13 +3218,15 @@ StGB
 
 - Abgeurteilte: 131
 - Verurteilte: 118
-- Иностранцы: 36.44%
-- Оправдан: 1
-- Дело прекращено: 6
-- Лишение свободы: 7
-- Условный срок: 21
-- Денежный штраф: 66
-- Остальные: 30
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 36.44%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 1 (0.76%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 6 (4.58%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 7 (5.34%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 21 (16.03%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 66 (50.38%)
+- ![](readme_assets/swatches/other.svg) Остальные: 30 (22.90%)
 
 ### StGB § 273 Verändern von amtlichen Ausweisen
 
@@ -2878,13 +3236,15 @@ StGB
 
 - Abgeurteilte: 129
 - Verurteilte: 114
-- Иностранцы: 92.98%
-- Оправдан: 2
-- Дело прекращено: 11
-- Лишение свободы: 0
-- Условный срок: 4
-- Денежный штраф: 109
-- Остальные: 3
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 92.98%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 2 (1.55%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 11 (8.53%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 4 (3.10%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 109 (84.50%)
+- ![](readme_assets/swatches/other.svg) Остальные: 3 (2.33%)
 
 ### StGB § 323 c Abs. 1 Unterlassene Hilfeleistung
 
@@ -2894,13 +3254,15 @@ StGB
 
 - Abgeurteilte: 128
 - Verurteilte: 59
-- Иностранцы: 28.81%
-- Оправдан: 11
-- Дело прекращено: 46
-- Лишение свободы: 0
-- Условный срок: 7
-- Денежный штраф: 41
-- Остальные: 23
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 28.81%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 11 (8.59%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 46 (35.94%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 7 (5.47%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 41 (32.03%)
+- ![](readme_assets/swatches/other.svg) Остальные: 23 (17.97%)
 
 ### StGB § 177 Abs. 2 Nr. 2,3,4,5 Sex.Handlungen unt.Ausnutzung and.Einschränk. d. Fähigkeit z.Willensbild.od.-betätigung
 
@@ -2910,13 +3272,15 @@ StGB
 
 - Abgeurteilte: 123
 - Verurteilte: 95
-- Иностранцы: 42.11%
-- Оправдан: 18
-- Дело прекращено: 9
-- Лишение свободы: 6
-- Условный срок: 58
-- Денежный штраф: 23
-- Остальные: 9
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 42.11%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 18 (14.63%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 9 (7.32%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 6 (4.88%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 58 (47.15%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 23 (18.70%)
+- ![](readme_assets/swatches/other.svg) Остальные: 9 (7.32%)
 
 ### StGB § 132 Amtsanmaßung
 
@@ -2926,13 +3290,15 @@ StGB
 
 - Abgeurteilte: 118
 - Verurteilte: 83
-- Иностранцы: 10.84%
-- Оправдан: 10
-- Дело прекращено: 17
-- Лишение свободы: 0
-- Условный срок: 3
-- Денежный штраф: 77
-- Остальные: 11
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 10.84%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 10 (8.47%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 17 (14.41%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 3 (2.54%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 77 (65.25%)
+- ![](readme_assets/swatches/other.svg) Остальные: 11 (9.32%)
 
 ### StGB § 315 c Abs. 1 Nr. 2 a auch i.V.m. Abs.3 Nichtbeachten der Vorfahrt mit Verkehrsunfall
 
@@ -2942,13 +3308,15 @@ StGB
 
 - Abgeurteilte: 117
 - Verurteilte: 82
-- Иностранцы: 36.59%
-- Оправдан: 2
-- Дело прекращено: 29
-- Лишение свободы: 1
-- Условный срок: 2
-- Денежный штраф: 72
-- Остальные: 11
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 36.59%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 2 (1.71%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 29 (24.79%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 1 (0.85%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 2 (1.71%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 72 (61.54%)
+- ![](readme_assets/swatches/other.svg) Остальные: 11 (9.40%)
 
 ### StGB § 177 Abs. 2 Nr. 1, Abs. 4 Sexuelle Handlungen unt. Ausnutzen der Unfähigkeit z.Willensbildung od.-äußerung
 
@@ -2958,13 +3326,15 @@ StGB
 
 - Abgeurteilte: 116
 - Verurteilte: 61
-- Иностранцы: 26.23%
-- Оправдан: 20
-- Дело прекращено: 23
-- Лишение свободы: 4
-- Условный срок: 49
-- Денежный штраф: 6
-- Остальные: 14
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 26.23%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 20 (17.24%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 23 (19.83%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 4 (3.45%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 49 (42.24%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 6 (5.17%)
+- ![](readme_assets/swatches/other.svg) Остальные: 14 (12.07%)
 
 ### StGB § 136 Verstrickungsbruch, Siegelbruch
 
@@ -2974,13 +3344,15 @@ StGB
 
 - Abgeurteilte: 113
 - Verurteilte: 98
-- Иностранцы: 35.71%
-- Оправдан: 2
-- Дело прекращено: 13
-- Лишение свободы: 1
-- Условный срок: 2
-- Денежный штраф: 93
-- Остальные: 2
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 35.71%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 2 (1.77%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 13 (11.50%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 1 (0.88%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 2 (1.77%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 93 (82.30%)
+- ![](readme_assets/swatches/other.svg) Остальные: 2 (1.77%)
 
 ### StGB § 132 a Missbrauch von Titeln, Berufsbezeich- nungen und Abzeichen
 
@@ -2990,13 +3362,15 @@ StGB
 
 - Abgeurteilte: 99
 - Verurteilte: 70
-- Иностранцы: 14.29%
-- Оправдан: 6
-- Дело прекращено: 22
-- Лишение свободы: 3
-- Условный срок: 3
-- Денежный штраф: 64
-- Остальные: 1
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 14.29%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 6 (6.06%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 22 (22.22%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 3 (3.03%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 3 (3.03%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 64 (64.65%)
+- ![](readme_assets/swatches/other.svg) Остальные: 1 (1.01%)
 
 ### StGB § 304 Abs. 2 Gemeinschädliche Sachbeschädigung
 
@@ -3006,13 +3380,15 @@ StGB
 
 - Abgeurteilte: 98
 - Verurteilte: 57
-- Иностранцы: 15.79%
-- Оправдан: 5
-- Дело прекращено: 11
-- Лишение свободы: 0
-- Условный срок: 0
-- Денежный штраф: 34
-- Остальные: 48
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 15.79%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 5 (5.10%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 11 (11.22%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 0 (0.00%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 34 (34.69%)
+- ![](readme_assets/swatches/other.svg) Остальные: 48 (48.98%)
 
 ### StGB § 184 f Ausübung der verbotenen Prostitution
 
@@ -3022,13 +3398,15 @@ StGB
 
 - Abgeurteilte: 93
 - Verurteilte: 83
-- Иностранцы: 85.54%
-- Оправдан: 0
-- Дело прекращено: 9
-- Лишение свободы: 0
-- Условный срок: 2
-- Денежный штраф: 81
-- Остальные: 1
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 85.54%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 9 (9.68%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 2 (2.15%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 81 (87.10%)
+- ![](readme_assets/swatches/other.svg) Остальные: 1 (1.08%)
 
 ### StGB § 275 Vorbereitung d. Fälschung v. amtl. Ausweisen Vorber. der Herst. v. unricht. Impfausweisen
 
@@ -3038,13 +3416,15 @@ StGB
 
 - Abgeurteilte: 93
 - Verurteilte: 71
-- Иностранцы: 33.80%
-- Оправдан: 5
-- Дело прекращено: 16
-- Лишение свободы: 0
-- Условный срок: 6
-- Денежный штраф: 64
-- Остальные: 2
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 33.80%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 5 (5.38%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 16 (17.20%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 6 (6.45%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 64 (68.82%)
+- ![](readme_assets/swatches/other.svg) Остальные: 2 (2.15%)
 
 ### StGB § 324, ohne Abs. 3 Gewässerverunreinigung - vorsätzlich
 
@@ -3054,13 +3434,15 @@ StGB
 
 - Abgeurteilte: 86
 - Verurteilte: 58
-- Иностранцы: 27.59%
-- Оправдан: 5
-- Дело прекращено: 23
-- Лишение свободы: 0
-- Условный срок: 0
-- Денежный штраф: 56
-- Остальные: 2
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 27.59%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 5 (5.81%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 23 (26.74%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 0 (0.00%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 56 (65.12%)
+- ![](readme_assets/swatches/other.svg) Остальные: 2 (2.33%)
 
 ### StGB § 174 Sexueller Missbrauch von Schutzbefohlenen
 
@@ -3070,13 +3452,15 @@ StGB
 
 - Abgeurteilte: 82
 - Verurteilte: 61
-- Иностранцы: 11.48%
-- Оправдан: 12
-- Дело прекращено: 9
-- Лишение свободы: 11
-- Условный срок: 40
-- Денежный штраф: 10
-- Остальные: 0
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 11.48%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 12 (14.63%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 9 (10.98%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 11 (13.41%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 40 (48.78%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 10 (12.20%)
+- ![](readme_assets/swatches/other.svg) Остальные: 0 (0.00%)
 
 ### StGB § 226 Abs. 1 Schwere Körperverletzung
 
@@ -3086,13 +3470,15 @@ StGB
 
 - Abgeurteilte: 81
 - Verurteilte: 62
-- Иностранцы: 33.87%
-- Оправдан: 3
-- Дело прекращено: 7
-- Лишение свободы: 25
-- Условный срок: 27
-- Денежный штраф: 1
-- Остальные: 18
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 33.87%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 3 (3.70%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 7 (8.64%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 25 (30.86%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 27 (33.33%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 1 (1.23%)
+- ![](readme_assets/swatches/other.svg) Остальные: 18 (22.22%)
 
 ### StGB § 261 Abs. 2 Geldwäsche
 
@@ -3102,13 +3488,15 @@ StGB
 
 - Abgeurteilte: 81
 - Verurteilte: 36
-- Иностранцы: 36.11%
-- Оправдан: 6
-- Дело прекращено: 38
-- Лишение свободы: 0
-- Условный срок: 4
-- Денежный штраф: 29
-- Остальные: 4
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 36.11%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 6 (7.41%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 38 (46.91%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 4 (4.94%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 29 (35.80%)
+- ![](readme_assets/swatches/other.svg) Остальные: 4 (4.94%)
 
 ### StGB § 315 d Abs. 1 Nr. 3 Verbotene Kraftfahrzeugrennen mit Verkehrsunfall
 
@@ -3118,13 +3506,15 @@ StGB
 
 - Abgeurteilte: 81
 - Verurteilte: 67
-- Иностранцы: 19.40%
-- Оправдан: 5
-- Дело прекращено: 2
-- Лишение свободы: 0
-- Условный срок: 7
-- Денежный штраф: 41
-- Остальные: 26
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 19.40%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 5 (6.17%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 2 (2.47%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 7 (8.64%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 41 (50.62%)
+- ![](readme_assets/swatches/other.svg) Остальные: 26 (32.10%)
 
 ### StGB § 326 Abs. 5 Nr. 1 Unerl. Umgang mit Abfällen und grenzüberschr. Verbringung von Abfällen - fahrlässig
 
@@ -3134,13 +3524,15 @@ StGB
 
 - Abgeurteilte: 81
 - Verurteilte: 66
-- Иностранцы: 42.42%
-- Оправдан: 2
-- Дело прекращено: 13
-- Лишение свободы: 0
-- Условный срок: 0
-- Денежный штраф: 66
-- Остальные: 0
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 42.42%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 2 (2.47%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 13 (16.05%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 0 (0.00%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 66 (81.48%)
+- ![](readme_assets/swatches/other.svg) Остальные: 0 (0.00%)
 
 ### StGB § 265 Versicherungsmissbrauch
 
@@ -3150,13 +3542,15 @@ StGB
 
 - Abgeurteilte: 72
 - Verurteilte: 58
-- Иностранцы: 46.55%
-- Оправдан: 3
-- Дело прекращено: 6
-- Лишение свободы: 0
-- Условный срок: 1
-- Денежный штраф: 41
-- Остальные: 21
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 46.55%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 3 (4.17%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 6 (8.33%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 1 (1.39%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 41 (56.94%)
+- ![](readme_assets/swatches/other.svg) Остальные: 21 (29.17%)
 
 ### StGB § 202 a Ausspähen von Daten
 
@@ -3166,13 +3560,15 @@ StGB
 
 - Abgeurteilte: 70
 - Verurteilte: 35
-- Иностранцы: 17.14%
-- Оправдан: 8
-- Дело прекращено: 23
-- Лишение свободы: 0
-- Условный срок: 2
-- Денежный штраф: 31
-- Остальные: 6
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 17.14%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 8 (11.43%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 23 (32.86%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 2 (2.86%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 31 (44.29%)
+- ![](readme_assets/swatches/other.svg) Остальные: 6 (8.57%)
 
 ### StGB § 192 a Verhetzende Beleidigung
 
@@ -3182,13 +3578,15 @@ StGB
 
 - Abgeurteilte: 69
 - Verurteilte: 49
-- Иностранцы: 2.04%
-- Оправдан: 5
-- Дело прекращено: 12
-- Лишение свободы: 0
-- Условный срок: 2
-- Денежный штраф: 46
-- Остальные: 4
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 2.04%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 5 (7.25%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 12 (17.39%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 2 (2.90%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 46 (66.67%)
+- ![](readme_assets/swatches/other.svg) Остальные: 4 (5.80%)
 
 ### StGB § 125 a Besonders schwerer Fall des Landfriedensbruchs
 
@@ -3198,13 +3596,15 @@ StGB
 
 - Abgeurteilte: 67
 - Verurteilte: 51
-- Иностранцы: 52.94%
-- Оправдан: 3
-- Дело прекращено: 5
-- Лишение свободы: 0
-- Условный срок: 46
-- Денежный штраф: 0
-- Остальные: 13
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 52.94%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 3 (4.48%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 5 (7.46%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 46 (68.66%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 0 (0.00%)
+- ![](readme_assets/swatches/other.svg) Остальные: 13 (19.40%)
 
 ### StGB § 266 a Abs. 4 Vorenthalten von Beiträgen durch den Arbeitgeber in besonders schweren Fällen
 
@@ -3214,13 +3614,15 @@ StGB
 
 - Abgeurteilte: 67
 - Verurteilte: 62
-- Иностранцы: 59.68%
-- Оправдан: 0
-- Дело прекращено: 5
-- Лишение свободы: 16
-- Условный срок: 42
-- Денежный штраф: 4
-- Остальные: 0
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 59.68%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 5 (7.46%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 16 (23.88%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 42 (62.69%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 4 (5.97%)
+- ![](readme_assets/swatches/other.svg) Остальные: 0 (0.00%)
 
 ### StGB § 327 Abs. 2 Unerlaubtes Betreiben anderer Anlagen - vorsätzlich
 
@@ -3230,13 +3632,15 @@ StGB
 
 - Abgeurteilte: 65
 - Verurteilte: 33
-- Иностранцы: 12.12%
-- Оправдан: 1
-- Дело прекращено: 31
-- Лишение свободы: 0
-- Условный срок: 2
-- Денежный штраф: 31
-- Остальные: 0
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 12.12%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 1 (1.54%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 31 (47.69%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 2 (3.08%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 31 (47.69%)
+- ![](readme_assets/swatches/other.svg) Остальные: 0 (0.00%)
 
 ### StGB 26. Abschnitt, §§ 298 bis 301 Straftaten gegen den Wettbewerb
 
@@ -3246,13 +3650,15 @@ StGB
 
 - Abgeurteilte: 63
 - Verurteilte: 38
-- Иностранцы: 26.32%
-- Оправдан: 1
-- Дело прекращено: 24
-- Лишение свободы: 0
-- Условный срок: 23
-- Денежный штраф: 15
-- Остальные: 0
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 26.32%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 1 (1.59%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 24 (38.10%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 23 (36.51%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 15 (23.81%)
+- ![](readme_assets/swatches/other.svg) Остальные: 0 (0.00%)
 
 ### StGB § 184 k Verletzung des Intimbereichs durch Bildaufnahmen
 
@@ -3262,13 +3668,15 @@ StGB
 
 - Abgeurteilte: 63
 - Verurteilte: 53
-- Иностранцы: 32.08%
-- Оправдан: 0
-- Дело прекращено: 7
-- Лишение свободы: 1
-- Условный срок: 2
-- Денежный штраф: 48
-- Остальные: 5
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 32.08%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 7 (11.11%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 1 (1.59%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 2 (3.17%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 48 (76.19%)
+- ![](readme_assets/swatches/other.svg) Остальные: 5 (7.94%)
 
 ### StGB § 268 Fälschung technischer Aufzeichnungen
 
@@ -3278,13 +3686,15 @@ StGB
 
 - Abgeurteilte: 63
 - Verurteilte: 57
-- Иностранцы: 63.16%
-- Оправдан: 0
-- Дело прекращено: 6
-- Лишение свободы: 0
-- Условный срок: 9
-- Денежный штраф: 46
-- Остальные: 2
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 63.16%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 6 (9.52%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 9 (14.29%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 46 (73.02%)
+- ![](readme_assets/swatches/other.svg) Остальные: 2 (3.17%)
 
 ### StGB § 182 Abs. 1, 2 Sexueller Missbrauch von Jugendlichen unter Ausnutzung einer Zwangslage oder gegen Entgelt
 
@@ -3294,13 +3704,15 @@ StGB
 
 - Abgeurteilte: 61
 - Verurteilte: 43
-- Иностранцы: 23.26%
-- Оправдан: 6
-- Дело прекращено: 10
-- Лишение свободы: 3
-- Условный срок: 15
-- Денежный штраф: 25
-- Остальные: 2
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 23.26%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 6 (9.84%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 10 (16.39%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 3 (4.92%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 15 (24.59%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 25 (40.98%)
+- ![](readme_assets/swatches/other.svg) Остальные: 2 (3.28%)
 
 ### StGB § 315 c Abs. 1 Nr. 2 d auch i.V.m. Abs.3 Zu schnelles Fahren an unübersichtlichen Stellen etc. mit Verkehrsunfall
 
@@ -3310,13 +3722,15 @@ StGB
 
 - Abgeurteilte: 59
 - Verurteilte: 46
-- Иностранцы: 32.61%
-- Оправдан: 3
-- Дело прекращено: 6
-- Лишение свободы: 0
-- Условный срок: 2
-- Денежный штраф: 34
-- Остальные: 14
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 32.61%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 3 (5.08%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 6 (10.17%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 2 (3.39%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 34 (57.63%)
+- ![](readme_assets/swatches/other.svg) Остальные: 14 (23.73%)
 
 ### StGB § 315 c Abs. 1 Nr. 2 d auch i.V.m. Abs.3 Zu schnelles Fahren an unübersichtlichen Stellen etc. ohne Verkehrsunfall
 
@@ -3326,13 +3740,15 @@ StGB
 
 - Abgeurteilte: 59
 - Verurteilte: 41
-- Иностранцы: 41.46%
-- Оправдан: 2
-- Дело прекращено: 9
-- Лишение свободы: 1
-- Условный срок: 3
-- Денежный штраф: 29
-- Остальные: 15
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 41.46%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 2 (3.39%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 9 (15.25%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 1 (1.69%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 3 (5.08%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 29 (49.15%)
+- ![](readme_assets/swatches/other.svg) Остальные: 15 (25.42%)
 
 ### StGB § 232 a Abs. 1 bis 5 Zwangsprostitution
 
@@ -3342,13 +3758,15 @@ StGB
 
 - Abgeurteilte: 57
 - Verurteilte: 44
-- Иностранцы: 54.55%
-- Оправдан: 6
-- Дело прекращено: 5
-- Лишение свободы: 26
-- Условный срок: 10
-- Денежный штраф: 2
-- Остальные: 8
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 54.55%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 6 (10.53%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 5 (8.77%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 26 (45.61%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 10 (17.54%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 2 (3.51%)
+- ![](readme_assets/swatches/other.svg) Остальные: 8 (14.04%)
 
 ### StGB § 353 b Verletzung des Dienstgeheimnisses und einer besonderen Geheimhaltungspflicht
 
@@ -3358,13 +3776,15 @@ StGB
 
 - Abgeurteilte: 56
 - Verurteilte: 40
-- Иностранцы: 0.00%
-- Оправдан: 6
-- Дело прекращено: 10
-- Лишение свободы: 0
-- Условный срок: 2
-- Денежный штраф: 38
-- Остальные: 0
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 0.00%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 6 (10.71%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 10 (17.86%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 2 (3.57%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 38 (67.86%)
+- ![](readme_assets/swatches/other.svg) Остальные: 0 (0.00%)
 
 ### StGB § 340 Körperverletzung im Amt
 
@@ -3374,13 +3794,15 @@ StGB
 
 - Abgeurteilte: 55
 - Verurteilte: 17
-- Иностранцы: 0.00%
-- Оправдан: 10
-- Дело прекращено: 28
-- Лишение свободы: 0
-- Условный срок: 3
-- Денежный штраф: 14
-- Остальные: 0
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 0.00%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 10 (18.18%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 28 (50.91%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 3 (5.45%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 14 (25.45%)
+- ![](readme_assets/swatches/other.svg) Остальные: 0 (0.00%)
 
 ### StGB §§ 316 b, 317 Störung öffentlicher Betriebe und von Telekommunikationsanlagen
 
@@ -3390,13 +3812,15 @@ StGB
 
 - Abgeurteilte: 52
 - Verurteilte: 34
-- Иностранцы: 23.53%
-- Оправдан: 2
-- Дело прекращено: 10
-- Лишение свободы: 2
-- Условный срок: 3
-- Денежный штраф: 27
-- Остальные: 8
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 23.53%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 2 (3.85%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 10 (19.23%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 2 (3.85%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 3 (5.77%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 27 (51.92%)
+- ![](readme_assets/swatches/other.svg) Остальные: 8 (15.38%)
 
 ### StGB § 171 Verletzung der Fürsorge- oder Erziehungspflicht
 
@@ -3406,13 +3830,15 @@ StGB
 
 - Abgeurteilte: 51
 - Verurteilte: 33
-- Иностранцы: 36.36%
-- Оправдан: 4
-- Дело прекращено: 14
-- Лишение свободы: 0
-- Условный срок: 10
-- Денежный штраф: 23
-- Остальные: 0
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 36.36%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 4 (7.84%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 14 (27.45%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 10 (19.61%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 23 (45.10%)
+- ![](readme_assets/swatches/other.svg) Остальные: 0 (0.00%)
 
 ### StGB § 315 d Abs. 5 Verbotene Kraftfahrzeugrennen ohne Verkehrsunfall
 
@@ -3422,13 +3848,15 @@ StGB
 
 - Abgeurteilte: 50
 - Verurteilte: 34
-- Иностранцы: 29.41%
-- Оправдан: 2
-- Дело прекращено: 12
-- Лишение свободы: 5
-- Условный срок: 0
-- Денежный штраф: 16
-- Остальные: 15
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 29.41%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 2 (4.00%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 12 (24.00%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 5 (10.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 0 (0.00%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 16 (32.00%)
+- ![](readme_assets/swatches/other.svg) Остальные: 15 (30.00%)
 
 ### StGB § 324 Abs. 3 Gewässerverunreinigung - fahrlässig
 
@@ -3438,13 +3866,15 @@ StGB
 
 - Abgeurteilte: 48
 - Verurteilte: 32
-- Иностранцы: 28.12%
-- Оправдан: 1
-- Дело прекращено: 15
-- Лишение свободы: 0
-- Условный срок: 0
-- Денежный штраф: 32
-- Остальные: 0
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 28.12%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 1 (2.08%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 15 (31.25%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 0 (0.00%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 32 (66.67%)
+- ![](readme_assets/swatches/other.svg) Остальные: 0 (0.00%)
 
 ### StGB § 138 Nichtanzeige geplanter Straftaten
 
@@ -3454,13 +3884,15 @@ StGB
 
 - Abgeurteilte: 46
 - Verurteilte: 39
-- Иностранцы: 7.69%
-- Оправдан: 1
-- Дело прекращено: 5
-- Лишение свободы: 2
-- Условный срок: 1
-- Денежный штраф: 34
-- Остальные: 3
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 7.69%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 1 (2.17%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 5 (10.87%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 2 (4.35%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 1 (2.17%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 34 (73.91%)
+- ![](readme_assets/swatches/other.svg) Остальные: 3 (6.52%)
 
 ### StGB § 176 b Vorbereitung des sexuellen Missbrauchs von Kindern
 
@@ -3470,13 +3902,15 @@ StGB
 
 - Abgeurteilte: 45
 - Verurteilte: 37
-- Иностранцы: 8.11%
-- Оправдан: 1
-- Дело прекращено: 3
-- Лишение свободы: 3
-- Условный срок: 22
-- Денежный штраф: 11
-- Остальные: 5
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 8.11%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 1 (2.22%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 3 (6.67%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 3 (6.67%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 22 (48.89%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 11 (24.44%)
+- ![](readme_assets/swatches/other.svg) Остальные: 5 (11.11%)
 
 ### StGB § 222 Fahrlässige Tötung im Straßenverkehr in Trunkenheit
 
@@ -3486,13 +3920,15 @@ StGB
 
 - Abgeurteilte: 45
 - Verurteilte: 45
-- Иностранцы: 35.56%
-- Оправдан: 0
-- Дело прекращено: 0
-- Лишение свободы: 16
-- Условный срок: 24
-- Денежный штраф: 1
-- Остальные: 4
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 35.56%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 0 (0.00%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 16 (35.56%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 24 (53.33%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 1 (2.22%)
+- ![](readme_assets/swatches/other.svg) Остальные: 4 (8.89%)
 
 ### StGB § 316 a Räuberischer Angriff auf Kraftfahrer
 
@@ -3502,13 +3938,15 @@ StGB
 
 - Abgeurteilte: 44
 - Verurteilte: 30
-- Иностранцы: 23.33%
-- Оправдан: 1
-- Дело прекращено: 4
-- Лишение свободы: 9
-- Условный срок: 3
-- Денежный штраф: 1
-- Остальные: 26
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 23.33%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 1 (2.27%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 4 (9.09%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 9 (20.45%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 3 (6.82%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 1 (2.27%)
+- ![](readme_assets/swatches/other.svg) Остальные: 26 (59.09%)
 
 ### StGB § 348 Falschbeurkundung im Amt
 
@@ -3518,13 +3956,15 @@ StGB
 
 - Abgeurteilte: 44
 - Verurteilte: 12
-- Иностранцы: 25.00%
-- Оправдан: 7
-- Дело прекращено: 25
-- Лишение свободы: 0
-- Условный срок: 2
-- Денежный штраф: 10
-- Остальные: 0
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 25.00%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 7 (15.91%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 25 (56.82%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 2 (4.55%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 10 (22.73%)
+- ![](readme_assets/swatches/other.svg) Остальные: 0 (0.00%)
 
 ### StGB § 227 Körperverletzung mit Todesfolge
 
@@ -3534,13 +3974,15 @@ StGB
 
 - Abgeurteilte: 43
 - Verurteilte: 33
-- Иностранцы: 33.33%
-- Оправдан: 2
-- Дело прекращено: 3
-- Лишение свободы: 27
-- Условный срок: 2
-- Денежный штраф: 2
-- Остальные: 7
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 33.33%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 2 (4.65%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 3 (6.98%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 27 (62.79%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 2 (4.65%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 2 (4.65%)
+- ![](readme_assets/swatches/other.svg) Остальные: 7 (16.28%)
 
 ### StGB § 133 Verwahrungsbruch
 
@@ -3550,13 +3992,15 @@ StGB
 
 - Abgeurteilte: 41
 - Verurteilte: 27
-- Иностранцы: 22.22%
-- Оправдан: 1
-- Дело прекращено: 11
-- Лишение свободы: 1
-- Условный срок: 1
-- Денежный штраф: 24
-- Остальные: 3
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 22.22%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 1 (2.44%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 11 (26.83%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 1 (2.44%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 1 (2.44%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 24 (58.54%)
+- ![](readme_assets/swatches/other.svg) Остальные: 3 (7.32%)
 
 ### StGB § 315 c Abs. 1 Nr. 2 f auch i.V.m. Abs.3 Verbotenes Wenden, Rückwärtsfahren o. Fahren entgegen d. Fahrtrichtung mit Verkehrsunfall
 
@@ -3566,13 +4010,15 @@ StGB
 
 - Abgeurteilte: 40
 - Verurteilte: 37
-- Иностранцы: 37.84%
-- Оправдан: 1
-- Дело прекращено: 1
-- Лишение свободы: 0
-- Условный срок: 1
-- Денежный штраф: 36
-- Остальные: 1
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 37.84%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 1 (2.50%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 1 (2.50%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 1 (2.50%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 36 (90.00%)
+- ![](readme_assets/swatches/other.svg) Остальные: 1 (2.50%)
 
 ### StGB § 161 Fahrlässiger Falscheid, fahrlässige falsche Versicherung an Eides Statt
 
@@ -3582,13 +4028,15 @@ StGB
 
 - Abgeurteilte: 38
 - Verurteilte: 30
-- Иностранцы: 33.33%
-- Оправдан: 1
-- Дело прекращено: 7
-- Лишение свободы: 0
-- Условный срок: 3
-- Денежный штраф: 27
-- Остальные: 0
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 33.33%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 1 (2.63%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 7 (18.42%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 3 (7.89%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 27 (71.05%)
+- ![](readme_assets/swatches/other.svg) Остальные: 0 (0.00%)
 
 ### StGB § 324 a, ohne Abs. 3 Bodenverunreinigung - vorsätzlich
 
@@ -3598,13 +4046,15 @@ StGB
 
 - Abgeurteilte: 38
 - Verurteilte: 19
-- Иностранцы: 36.84%
-- Оправдан: 5
-- Дело прекращено: 14
-- Лишение свободы: 0
-- Условный срок: 1
-- Денежный штраф: 18
-- Остальные: 0
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 36.84%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 5 (13.16%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 14 (36.84%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 1 (2.63%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 18 (47.37%)
+- ![](readme_assets/swatches/other.svg) Остальные: 0 (0.00%)
 
 ### StGB § 253 Abs. 4 Besonders schwerer Fall der Erpressung
 
@@ -3614,13 +4064,15 @@ StGB
 
 - Abgeurteilte: 37
 - Verurteilte: 24
-- Иностранцы: 50.00%
-- Оправдан: 2
-- Дело прекращено: 8
-- Лишение свободы: 7
-- Условный срок: 9
-- Денежный штраф: 2
-- Остальные: 9
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 50.00%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 2 (5.41%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 8 (21.62%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 7 (18.92%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 9 (24.32%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 2 (5.41%)
+- ![](readme_assets/swatches/other.svg) Остальные: 9 (24.32%)
 
 ### StGB § 261 Abs. 4 Geldwäsche durch Verpflichtete
 
@@ -3630,13 +4082,15 @@ StGB
 
 - Abgeurteilte: 37
 - Verurteilte: 35
-- Иностранцы: 28.57%
-- Оправдан: 2
-- Дело прекращено: 0
-- Лишение свободы: 2
-- Условный срок: 8
-- Денежный штраф: 14
-- Остальные: 11
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 28.57%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 2 (5.41%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 0 (0.00%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 2 (5.41%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 8 (21.62%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 14 (37.84%)
+- ![](readme_assets/swatches/other.svg) Остальные: 11 (29.73%)
 
 ### StGB § 315 a Gefährdung des Bahn-, Schiffs- und Luftverkehrs
 
@@ -3646,13 +4100,15 @@ StGB
 
 - Abgeurteilte: 36
 - Verurteilte: 19
-- Иностранцы: 26.32%
-- Оправдан: 3
-- Дело прекращено: 14
-- Лишение свободы: 0
-- Условный срок: 0
-- Денежный штраф: 18
-- Остальные: 1
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 26.32%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 3 (8.33%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 14 (38.89%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 0 (0.00%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 18 (50.00%)
+- ![](readme_assets/swatches/other.svg) Остальные: 1 (2.78%)
 
 ### StGB 11. Abschnitt, §§ 166 bis 168 Straftaten, welche sich auf Religion und Weltanschauung beziehen
 
@@ -3662,13 +4118,15 @@ StGB
 
 - Abgeurteilte: 35
 - Verurteilte: 28
-- Иностранцы: 17.86%
-- Оправдан: 1
-- Дело прекращено: 5
-- Лишение свободы: 0
-- Условный срок: 2
-- Денежный штраф: 24
-- Остальные: 3
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 17.86%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 1 (2.86%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 5 (14.29%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 2 (5.71%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 24 (68.57%)
+- ![](readme_assets/swatches/other.svg) Остальные: 3 (8.57%)
 
 ### StGB § 239 b Geiselnahme
 
@@ -3678,13 +4136,15 @@ StGB
 
 - Abgeurteilte: 35
 - Verurteilte: 32
-- Иностранцы: 37.50%
-- Оправдан: 1
-- Дело прекращено: 1
-- Лишение свободы: 23
-- Условный срок: 8
-- Денежный штраф: 0
-- Остальные: 2
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 37.50%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 1 (2.86%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 1 (2.86%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 23 (65.71%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 8 (22.86%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 0 (0.00%)
+- ![](readme_assets/swatches/other.svg) Остальные: 2 (5.71%)
 
 ### StGB § 260 a Gewerbsmäßige Bandenhehlerei
 
@@ -3694,13 +4154,15 @@ StGB
 
 - Abgeurteilte: 35
 - Verurteilte: 20
-- Иностранцы: 75.00%
-- Оправдан: 7
-- Дело прекращено: 8
-- Лишение свободы: 11
-- Условный срок: 9
-- Денежный штраф: 0
-- Остальные: 0
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 75.00%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 7 (20.00%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 8 (22.86%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 11 (31.43%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 9 (25.71%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 0 (0.00%)
+- ![](readme_assets/swatches/other.svg) Остальные: 0 (0.00%)
 
 ### StGB § 303 a Datenveränderung
 
@@ -3710,13 +4172,15 @@ StGB
 
 - Abgeurteilte: 35
 - Verurteilte: 20
-- Иностранцы: 25.00%
-- Оправдан: 0
-- Дело прекращено: 11
-- Лишение свободы: 0
-- Условный срок: 0
-- Денежный штраф: 12
-- Остальные: 12
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 25.00%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 11 (31.43%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 0 (0.00%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 12 (34.29%)
+- ![](readme_assets/swatches/other.svg) Остальные: 12 (34.29%)
 
 ### StGB § 154 Meineid
 
@@ -3726,13 +4190,15 @@ StGB
 
 - Abgeurteilte: 34
 - Verurteilte: 22
-- Иностранцы: 22.73%
-- Оправдан: 4
-- Дело прекращено: 8
-- Лишение свободы: 0
-- Условный срок: 16
-- Денежный штраф: 2
-- Остальные: 4
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 22.73%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 4 (11.76%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 8 (23.53%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 16 (47.06%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 2 (5.88%)
+- ![](readme_assets/swatches/other.svg) Остальные: 4 (11.76%)
 
 ### StGB § 266 a Abs. 2 Vorenthalten von Arbeitgeberbeiträgen durch den Arbeitgeber
 
@@ -3742,13 +4208,15 @@ StGB
 
 - Abgeurteilte: 32
 - Verurteilte: 28
-- Иностранцы: 46.43%
-- Оправдан: 0
-- Дело прекращено: 4
-- Лишение свободы: 0
-- Условный срок: 4
-- Денежный штраф: 24
-- Остальные: 0
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 46.43%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 4 (12.50%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 4 (12.50%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 24 (75.00%)
+- ![](readme_assets/swatches/other.svg) Остальные: 0 (0.00%)
 
 ### StGB § 300 i.V.m. § 299 Besonders schwere Fälle der Bestechlichkeit und Bestechung im geschäftlichen Verkehr
 
@@ -3758,13 +4226,15 @@ StGB
 
 - Abgeurteilte: 30
 - Verurteilte: 26
-- Иностранцы: 34.62%
-- Оправдан: 0
-- Дело прекращено: 4
-- Лишение свободы: 0
-- Условный срок: 21
-- Денежный штраф: 5
-- Остальные: 0
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 34.62%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 4 (13.33%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 21 (70.00%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 5 (16.67%)
+- ![](readme_assets/swatches/other.svg) Остальные: 0 (0.00%)
 
 ### StGB § 131 Gewaltdarstellung
 
@@ -3774,13 +4244,15 @@ StGB
 
 - Abgeurteilte: 29
 - Verurteilte: 17
-- Иностранцы: 35.29%
-- Оправдан: 1
-- Дело прекращено: 4
-- Лишение свободы: 1
-- Условный срок: 0
-- Денежный штраф: 8
-- Остальные: 15
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 35.29%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 1 (3.45%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 4 (13.79%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 1 (3.45%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 0 (0.00%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 8 (27.59%)
+- ![](readme_assets/swatches/other.svg) Остальные: 15 (51.72%)
 
 ### StGB § 315 c Abs. 1 Nr. 2 c auch i.V.m. Abs.3 Falsches Fahren an Fußgängerüberwegen ohne Verkehrsunfall
 
@@ -3790,13 +4262,15 @@ StGB
 
 - Abgeurteilte: 27
 - Verurteilte: 15
-- Иностранцы: 33.33%
-- Оправдан: 3
-- Дело прекращено: 7
-- Лишение свободы: 0
-- Условный срок: 0
-- Денежный штраф: 15
-- Остальные: 2
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 33.33%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 3 (11.11%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 7 (25.93%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 0 (0.00%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 15 (55.56%)
+- ![](readme_assets/swatches/other.svg) Остальные: 2 (7.41%)
 
 ### StGB § 129 a Bildung terroristischer Vereinigungen
 
@@ -3806,13 +4280,15 @@ StGB
 
 - Abgeurteilte: 26
 - Verurteilte: 26
-- Иностранцы: 69.23%
-- Оправдан: 0
-- Дело прекращено: 0
-- Лишение свободы: 17
-- Условный срок: 8
-- Денежный штраф: 0
-- Остальные: 1
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 69.23%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 0 (0.00%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 17 (65.38%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 8 (30.77%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 0 (0.00%)
+- ![](readme_assets/swatches/other.svg) Остальные: 1 (3.85%)
 
 ### StGB § 174 c Abs. 1 Sexueller Missbrauch unter Ausnutzung eines Beratungs-, Behandlungs- oder Betreuungsverhältnisses
 
@@ -3822,13 +4298,15 @@ StGB
 
 - Abgeurteilte: 26
 - Verurteilte: 21
-- Иностранцы: 14.29%
-- Оправдан: 3
-- Дело прекращено: 2
-- Лишение свободы: 1
-- Условный срок: 14
-- Денежный штраф: 6
-- Остальные: 0
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 14.29%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 3 (11.54%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 2 (7.69%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 1 (3.85%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 14 (53.85%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 6 (23.08%)
+- ![](readme_assets/swatches/other.svg) Остальные: 0 (0.00%)
 
 ### StGB § 333 Vorteilsgewährung
 
@@ -3838,13 +4316,15 @@ StGB
 
 - Abgeurteilte: 26
 - Verurteilte: 23
-- Иностранцы: 39.13%
-- Оправдан: 1
-- Дело прекращено: 2
-- Лишение свободы: 0
-- Условный срок: 2
-- Денежный штраф: 21
-- Остальные: 0
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 39.13%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 1 (3.85%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 2 (7.69%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 2 (7.69%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 21 (80.77%)
+- ![](readme_assets/swatches/other.svg) Остальные: 0 (0.00%)
 
 ### StGB § 120 Gefangenenbefreiung
 
@@ -3854,13 +4334,15 @@ StGB
 
 - Abgeurteilte: 25
 - Verurteilte: 10
-- Иностранцы: 40.00%
-- Оправдан: 3
-- Дело прекращено: 10
-- Лишение свободы: 0
-- Условный срок: 1
-- Денежный штраф: 7
-- Остальные: 4
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 40.00%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 3 (12.00%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 10 (40.00%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 1 (4.00%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 7 (28.00%)
+- ![](readme_assets/swatches/other.svg) Остальные: 4 (16.00%)
 
 ### StGB § 292 Jagdwilderei
 
@@ -3870,13 +4352,15 @@ StGB
 
 - Abgeurteilte: 25
 - Verurteilte: 18
-- Иностранцы: 11.11%
-- Оправдан: 2
-- Дело прекращено: 5
-- Лишение свободы: 0
-- Условный срок: 0
-- Денежный штраф: 16
-- Остальные: 2
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 11.11%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 2 (8.00%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 5 (20.00%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 0 (0.00%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 16 (64.00%)
+- ![](readme_assets/swatches/other.svg) Остальные: 2 (8.00%)
 
 ### StGB § 305 a Zerstörung wichtiger Arbeitsmittel
 
@@ -3886,13 +4370,15 @@ StGB
 
 - Abgeurteilte: 25
 - Verurteilte: 17
-- Иностранцы: 17.65%
-- Оправдан: 1
-- Дело прекращено: 7
-- Лишение свободы: 1
-- Условный срок: 2
-- Денежный штраф: 11
-- Остальные: 3
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 17.65%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 1 (4.00%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 7 (28.00%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 1 (4.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 2 (8.00%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 11 (44.00%)
+- ![](readme_assets/swatches/other.svg) Остальные: 3 (12.00%)
 
 ### StGB § 332 Bestechlichkeit
 
@@ -3902,13 +4388,15 @@ StGB
 
 - Abgeurteilte: 25
 - Verurteilte: 14
-- Иностранцы: 0.00%
-- Оправдан: 4
-- Дело прекращено: 7
-- Лишение свободы: 2
-- Условный срок: 10
-- Денежный штраф: 2
-- Остальные: 0
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 0.00%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 4 (16.00%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 7 (28.00%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 2 (8.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 10 (40.00%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 2 (8.00%)
+- ![](readme_assets/swatches/other.svg) Остальные: 0 (0.00%)
 
 ### StGB § 356 Parteiverrat
 
@@ -3918,13 +4406,15 @@ StGB
 
 - Abgeurteilte: 24
 - Verurteilte: 6
-- Иностранцы: 0.00%
-- Оправдан: 4
-- Дело прекращено: 14
-- Лишение свободы: 0
-- Условный срок: 2
-- Денежный штраф: 4
-- Остальные: 0
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 0.00%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 4 (16.67%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 14 (58.33%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 2 (8.33%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 4 (16.67%)
+- ![](readme_assets/swatches/other.svg) Остальные: 0 (0.00%)
 
 ### StGB § 306 b Besonders schwere Brandstiftung
 
@@ -3934,13 +4424,15 @@ StGB
 
 - Abgeurteilte: 23
 - Verurteilte: 16
-- Иностранцы: 25.00%
-- Оправдан: 2
-- Дело прекращено: 0
-- Лишение свободы: 10
-- Условный срок: 2
-- Денежный штраф: 1
-- Остальные: 8
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 25.00%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 2 (8.70%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 0 (0.00%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 10 (43.48%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 2 (8.70%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 1 (4.35%)
+- ![](readme_assets/swatches/other.svg) Остальные: 8 (34.78%)
 
 ### StGB § 189 Verunglimpfung des Andenkens Verstorbener
 
@@ -3950,13 +4442,15 @@ StGB
 
 - Abgeurteilte: 22
 - Verurteilte: 15
-- Иностранцы: 13.33%
-- Оправдан: 1
-- Дело прекращено: 5
-- Лишение свободы: 0
-- Условный срок: 1
-- Денежный штраф: 13
-- Остальные: 2
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 13.33%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 1 (4.55%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 5 (22.73%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 1 (4.55%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 13 (59.09%)
+- ![](readme_assets/swatches/other.svg) Остальные: 2 (9.09%)
 
 ### StGB § 202 Verletzung des Briefgeheimnisses
 
@@ -3966,13 +4460,15 @@ StGB
 
 - Abgeurteilte: 22
 - Verurteilte: 13
-- Иностранцы: 15.38%
-- Оправдан: 1
-- Дело прекращено: 8
-- Лишение свободы: 0
-- Условный срок: 0
-- Денежный штраф: 13
-- Остальные: 0
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 15.38%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 1 (4.55%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 8 (36.36%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 0 (0.00%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 13 (59.09%)
+- ![](readme_assets/swatches/other.svg) Остальные: 0 (0.00%)
 
 ### StGB § 315 c Abs. 1 Nr. 2 f auch i.V.m. Abs.3 Verbotenes Wenden, Rückwärtsfahren o. Fahren entgegen d. Fahrtrichtung ohne Verkehrsunfall
 
@@ -3982,13 +4478,15 @@ StGB
 
 - Abgeurteilte: 22
 - Verurteilte: 18
-- Иностранцы: 44.44%
-- Оправдан: 1
-- Дело прекращено: 3
-- Лишение свободы: 0
-- Условный срок: 0
-- Денежный штраф: 17
-- Остальные: 1
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 44.44%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 1 (4.55%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 3 (13.64%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 0 (0.00%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 17 (77.27%)
+- ![](readme_assets/swatches/other.svg) Остальные: 1 (4.55%)
 
 ### StGB § 324 a Abs. 3 Bodenverunreinigung - fahrlässig
 
@@ -3998,13 +4496,15 @@ StGB
 
 - Abgeurteilte: 21
 - Verurteilte: 17
-- Иностранцы: 29.41%
-- Оправдан: 0
-- Дело прекращено: 4
-- Лишение свободы: 0
-- Условный срок: 0
-- Денежный штраф: 17
-- Остальные: 0
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 29.41%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 4 (19.05%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 0 (0.00%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 17 (80.95%)
+- ![](readme_assets/swatches/other.svg) Остальные: 0 (0.00%)
 
 ### StGB § 129 Bildung krimineller Vereinigungen
 
@@ -4014,13 +4514,15 @@ StGB
 
 - Abgeurteilte: 20
 - Verurteilte: 17
-- Иностранцы: 64.71%
-- Оправдан: 0
-- Дело прекращено: 2
-- Лишение свободы: 10
-- Условный срок: 7
-- Денежный штраф: 0
-- Остальные: 1
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 64.71%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 2 (10.00%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 10 (50.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 7 (35.00%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 0 (0.00%)
+- ![](readme_assets/swatches/other.svg) Остальные: 1 (5.00%)
 
 ### StGB § 241 a Politische Verdächtigung
 
@@ -4030,13 +4532,15 @@ StGB
 
 - Abgeurteilte: 20
 - Verurteilte: 11
-- Иностранцы: 36.36%
-- Оправдан: 0
-- Дело прекращено: 1
-- Лишение свободы: 0
-- Условный срок: 0
-- Денежный штраф: 2
-- Остальные: 17
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 36.36%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 1 (5.00%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 0 (0.00%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 2 (10.00%)
+- ![](readme_assets/swatches/other.svg) Остальные: 17 (85.00%)
 
 ### StGB § 291 Abs. 1 Satz 1 Nrn. 3 und 4 Sonstiger Wucher
 
@@ -4046,13 +4550,15 @@ StGB
 
 - Abgeurteilte: 20
 - Verurteilte: 8
-- Иностранцы: 37.50%
-- Оправдан: 6
-- Дело прекращено: 6
-- Лишение свободы: 0
-- Условный срок: 0
-- Денежный штраф: 8
-- Остальные: 0
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 37.50%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 6 (30.00%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 6 (30.00%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 0 (0.00%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 8 (40.00%)
+- ![](readme_assets/swatches/other.svg) Остальные: 0 (0.00%)
 
 ### StGB §§ 166, 167 Religions- und Weltanschauungs- delikte
 
@@ -4062,13 +4568,15 @@ StGB
 
 - Abgeurteilte: 20
 - Verurteilte: 18
-- Иностранцы: 22.22%
-- Оправдан: 1
-- Дело прекращено: 1
-- Лишение свободы: 0
-- Условный срок: 1
-- Денежный штраф: 15
-- Остальные: 2
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 22.22%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 1 (5.00%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 1 (5.00%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 1 (5.00%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 15 (75.00%)
+- ![](readme_assets/swatches/other.svg) Остальные: 2 (10.00%)
 
 ### StGB § 152 b Fälschung von Zahlungskarten mit Garantiefunktion
 
@@ -4078,13 +4586,15 @@ StGB
 
 - Abgeurteilte: 19
 - Verurteilte: 17
-- Иностранцы: 100.00%
-- Оправдан: 0
-- Дело прекращено: 2
-- Лишение свободы: 11
-- Условный срок: 6
-- Денежный штраф: 0
-- Остальные: 0
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 100.00%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 2 (10.53%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 11 (57.89%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 6 (31.58%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 0 (0.00%)
+- ![](readme_assets/swatches/other.svg) Остальные: 0 (0.00%)
 
 ### StGB § 203 Verletzung von Privatgeheimnissen
 
@@ -4094,13 +4604,15 @@ StGB
 
 - Abgeurteilte: 19
 - Verurteilte: 7
-- Иностранцы: 0.00%
-- Оправдан: 3
-- Дело прекращено: 9
-- Лишение свободы: 0
-- Условный срок: 0
-- Денежный штраф: 6
-- Остальные: 1
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 0.00%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 3 (15.79%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 9 (47.37%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 0 (0.00%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 6 (31.58%)
+- ![](readme_assets/swatches/other.svg) Остальные: 1 (5.26%)
 
 ### StGB § 315 d Abs. 1 Nr. 2 Verbotene Kraftfahrzeugrennen mit Verkehrsunfall
 
@@ -4110,13 +4622,15 @@ StGB
 
 - Abgeurteilte: 19
 - Verurteilte: 7
-- Иностранцы: 57.14%
-- Оправдан: 1
-- Дело прекращено: 9
-- Лишение свободы: 0
-- Условный срок: 1
-- Денежный штраф: 5
-- Остальные: 3
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 57.14%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 1 (5.26%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 9 (47.37%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 1 (5.26%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 5 (26.32%)
+- ![](readme_assets/swatches/other.svg) Остальные: 3 (15.79%)
 
 ### StGB § 335 Besonders schwere Fälle der Bestechlichkeit und Bestechung
 
@@ -4126,13 +4640,15 @@ StGB
 
 - Abgeurteilte: 18
 - Verurteilte: 17
-- Иностранцы: 23.53%
-- Оправдан: 0
-- Дело прекращено: 1
-- Лишение свободы: 7
-- Условный срок: 9
-- Денежный штраф: 1
-- Остальные: 0
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 23.53%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 1 (5.56%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 7 (38.89%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 9 (50.00%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 1 (5.56%)
+- ![](readme_assets/swatches/other.svg) Остальные: 0 (0.00%)
 
 ### StGB §§ 309, 310, 313, 314, 318 und 319 Andere gemeingefährliche Straftaten
 
@@ -4142,13 +4658,15 @@ StGB
 
 - Abgeurteilte: 18
 - Verurteilte: 11
-- Иностранцы: 27.27%
-- Оправдан: 0
-- Дело прекращено: 5
-- Лишение свободы: 1
-- Условный срок: 1
-- Денежный штраф: 8
-- Остальные: 3
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 27.27%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 5 (27.78%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 1 (5.56%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 1 (5.56%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 8 (44.44%)
+- ![](readme_assets/swatches/other.svg) Остальные: 3 (16.67%)
 
 ### StGB § 240 Abs. 4 Nr. 1 Nötigung einer Schwangeren zum Schwangerschaftsabbruch
 
@@ -4158,13 +4676,15 @@ StGB
 
 - Abgeurteilte: 17
 - Verurteilte: 8
-- Иностранцы: 50.00%
-- Оправдан: 0
-- Дело прекращено: 9
-- Лишение свободы: 0
-- Условный срок: 3
-- Денежный штраф: 3
-- Остальные: 2
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 50.00%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 9 (52.94%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 3 (17.65%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 3 (17.65%)
+- ![](readme_assets/swatches/other.svg) Остальные: 2 (11.76%)
 
 ### StGB § 315 d Abs. 5 Verbotene Kraftfahrzeugrennen mit Verkehrsunfall
 
@@ -4174,13 +4694,15 @@ StGB
 
 - Abgeurteilte: 16
 - Verurteilte: 13
-- Иностранцы: 23.08%
-- Оправдан: 2
-- Дело прекращено: 0
-- Лишение свободы: 7
-- Условный срок: 1
-- Денежный штраф: 3
-- Остальные: 3
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 23.08%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 2 (12.50%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 0 (0.00%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 7 (43.75%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 1 (6.25%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 3 (18.75%)
+- ![](readme_assets/swatches/other.svg) Остальные: 3 (18.75%)
 
 ### StGB § 181 a Zuhälterei
 
@@ -4190,13 +4712,15 @@ StGB
 
 - Abgeurteilte: 15
 - Verurteilte: 11
-- Иностранцы: 54.55%
-- Оправдан: 0
-- Дело прекращено: 3
-- Лишение свободы: 1
-- Условный срок: 7
-- Денежный штраф: 1
-- Остальные: 3
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 54.55%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 3 (20.00%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 1 (6.67%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 7 (46.67%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 1 (6.67%)
+- ![](readme_assets/swatches/other.svg) Остальные: 3 (20.00%)
 
 ### StGB § 232 b Zwangsarbeit
 
@@ -4206,13 +4730,15 @@ StGB
 
 - Abgeurteilte: 15
 - Verurteilte: 11
-- Иностранцы: 45.45%
-- Оправдан: 1
-- Дело прекращено: 1
-- Лишение свободы: 2
-- Условный срок: 0
-- Денежный штраф: 6
-- Остальные: 5
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 45.45%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 1 (6.67%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 1 (6.67%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 2 (13.33%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 0 (0.00%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 6 (40.00%)
+- ![](readme_assets/swatches/other.svg) Остальные: 5 (33.33%)
 
 ### StGB § 323 c Abs. 2 Behinderung. v. hilfeleistenden Pers.
 
@@ -4222,13 +4748,15 @@ StGB
 
 - Abgeurteilte: 15
 - Verurteilte: 9
-- Иностранцы: 11.11%
-- Оправдан: 0
-- Дело прекращено: 6
-- Лишение свободы: 0
-- Условный срок: 0
-- Денежный штраф: 9
-- Остальные: 0
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 11.11%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 6 (40.00%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 0 (0.00%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 9 (60.00%)
+- ![](readme_assets/swatches/other.svg) Остальные: 0 (0.00%)
 
 ### StGB § 353 d Verbotene Mitteilungen über Gerichtsverhandlungen
 
@@ -4238,13 +4766,15 @@ StGB
 
 - Abgeurteilte: 15
 - Verurteilte: 9
-- Иностранцы: 22.22%
-- Оправдан: 0
-- Дело прекращено: 5
-- Лишение свободы: 0
-- Условный срок: 0
-- Денежный штраф: 9
-- Остальные: 1
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 22.22%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 5 (33.33%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 0 (0.00%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 9 (60.00%)
+- ![](readme_assets/swatches/other.svg) Остальные: 1 (6.67%)
 
 ### StGB §§ 167 a, 168 Störung einer Bestattungsfeier, Störung der Totenruhe
 
@@ -4254,13 +4784,15 @@ StGB
 
 - Abgeurteilte: 15
 - Verurteilte: 10
-- Иностранцы: 10.00%
-- Оправдан: 0
-- Дело прекращено: 4
-- Лишение свободы: 0
-- Условный срок: 1
-- Денежный штраф: 9
-- Остальные: 1
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 10.00%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 4 (26.67%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 1 (6.67%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 9 (60.00%)
+- ![](readme_assets/swatches/other.svg) Остальные: 1 (6.67%)
 
 ### StGB § 182 Abs. 3 Sexueller Missbrauch von Jugendlichen unter Ausnutzung fehlender Fähigkeit zur sexuellen Selbstbestimmung
 
@@ -4270,13 +4802,15 @@ StGB
 
 - Abgeurteilte: 14
 - Verurteilte: 9
-- Иностранцы: 22.22%
-- Оправдан: 2
-- Дело прекращено: 3
-- Лишение свободы: 0
-- Условный срок: 6
-- Денежный штраф: 3
-- Остальные: 0
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 22.22%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 2 (14.29%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 3 (21.43%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 6 (42.86%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 3 (21.43%)
+- ![](readme_assets/swatches/other.svg) Остальные: 0 (0.00%)
 
 ### StGB § 276 a i.V.m. § 276 Verschaffen von falschen aufenthaltsrechtlichen oder Fahrzeugpapieren
 
@@ -4286,13 +4820,15 @@ StGB
 
 - Abgeurteilte: 14
 - Verurteilte: 14
-- Иностранцы: 100.00%
-- Оправдан: 0
-- Дело прекращено: 0
-- Лишение свободы: 0
-- Условный срок: 0
-- Денежный штраф: 14
-- Остальные: 0
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 100.00%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 0 (0.00%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 0 (0.00%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 14 (100.00%)
+- ![](readme_assets/swatches/other.svg) Остальные: 0 (0.00%)
 
 ### StGB § 283 d Schuldnerbegünstigung
 
@@ -4302,13 +4838,15 @@ StGB
 
 - Abgeurteilte: 14
 - Verurteilte: 5
-- Иностранцы: 40.00%
-- Оправдан: 4
-- Дело прекращено: 5
-- Лишение свободы: 0
-- Условный срок: 1
-- Денежный штраф: 4
-- Остальные: 0
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 40.00%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 4 (28.57%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 5 (35.71%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 1 (7.14%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 4 (28.57%)
+- ![](readme_assets/swatches/other.svg) Остальные: 0 (0.00%)
 
 ### StGB § 299 Bestechlichkeit und Bestechung im geschäftlichen Verkehr
 
@@ -4318,13 +4856,15 @@ StGB
 
 - Abgeurteilte: 14
 - Verurteilte: 8
-- Иностранцы: 0.00%
-- Оправдан: 1
-- Дело прекращено: 5
-- Лишение свободы: 0
-- Условный срок: 2
-- Денежный штраф: 6
-- Остальные: 0
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 0.00%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 1 (7.14%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 5 (35.71%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 2 (14.29%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 6 (42.86%)
+- ![](readme_assets/swatches/other.svg) Остальные: 0 (0.00%)
 
 ### StGB § 315 d Abs. 1 Nr. 1 Verbotene Kraftfahrzeugrennen mit Verkehrsunfall
 
@@ -4334,13 +4874,15 @@ StGB
 
 - Abgeurteilte: 13
 - Verurteilte: 9
-- Иностранцы: 22.22%
-- Оправдан: 1
-- Дело прекращено: 3
-- Лишение свободы: 0
-- Условный срок: 1
-- Денежный штраф: 8
-- Остальные: 0
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 22.22%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 1 (7.69%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 3 (23.08%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 1 (7.69%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 8 (61.54%)
+- ![](readme_assets/swatches/other.svg) Остальные: 0 (0.00%)
 
 ### StGB § 184 a Verbreitung gewalt- oder tierpornographischer Inhalte
 
@@ -4350,13 +4892,15 @@ StGB
 
 - Abgeurteilte: 12
 - Verurteilte: 7
-- Иностранцы: 28.57%
-- Оправдан: 0
-- Дело прекращено: 3
-- Лишение свободы: 0
-- Условный срок: 0
-- Денежный штраф: 6
-- Остальные: 3
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 28.57%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 3 (25.00%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 0 (0.00%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 6 (50.00%)
+- ![](readme_assets/swatches/other.svg) Остальные: 3 (25.00%)
 
 ### StGB § 315 c Abs. 1 Nr. 2 e auch i.V.m. Abs.3 Nichteinhalten der rechten Fahrbahnseite mit Verkehrsunfall
 
@@ -4366,13 +4910,15 @@ StGB
 
 - Abgeurteilte: 12
 - Verurteilte: 8
-- Иностранцы: 37.50%
-- Оправдан: 0
-- Дело прекращено: 4
-- Лишение свободы: 0
-- Условный срок: 0
-- Денежный штраф: 7
-- Остальные: 1
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 37.50%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 4 (33.33%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 0 (0.00%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 7 (58.33%)
+- ![](readme_assets/swatches/other.svg) Остальные: 1 (8.33%)
 
 ### StGB § 130 Abs. 4 Volksverhetzung durch Billigung, Verherrlichung o. Rechtfertigung der nat.soz. Gewalt- und Willkürherrschaft
 
@@ -4382,13 +4928,15 @@ StGB
 
 - Abgeurteilte: 11
 - Verurteilte: 10
-- Иностранцы: 0.00%
-- Оправдан: 0
-- Дело прекращено: 1
-- Лишение свободы: 0
-- Условный срок: 0
-- Денежный штраф: 10
-- Остальные: 0
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 0.00%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 1 (9.09%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 0 (0.00%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 10 (90.91%)
+- ![](readme_assets/swatches/other.svg) Остальные: 0 (0.00%)
 
 ### StGB § 303 b Computersabotage
 
@@ -4398,13 +4946,15 @@ StGB
 
 - Abgeurteilte: 11
 - Verurteilte: 5
-- Иностранцы: 20.00%
-- Оправдан: 3
-- Дело прекращено: 3
-- Лишение свободы: 0
-- Условный срок: 0
-- Денежный штраф: 3
-- Остальные: 2
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 20.00%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 3 (27.27%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 3 (27.27%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 0 (0.00%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 3 (27.27%)
+- ![](readme_assets/swatches/other.svg) Остальные: 2 (18.18%)
 
 ### StGB § 306 c Brandstiftung mit Todesfolge
 
@@ -4414,13 +4964,15 @@ StGB
 
 - Abgeurteilte: 11
 - Verurteilte: 8
-- Иностранцы: 25.00%
-- Оправдан: 0
-- Дело прекращено: 0
-- Лишение свободы: 7
-- Условный срок: 0
-- Денежный штраф: 1
-- Остальные: 3
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 25.00%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 0 (0.00%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 7 (63.64%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 0 (0.00%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 1 (9.09%)
+- ![](readme_assets/swatches/other.svg) Остальные: 3 (27.27%)
 
 ### StGB 4. Abschnitt, §§ 105 bis 108 e Straftaten gegen Verfassungsorgane sowie bei Wahlen und Abstimmungen
 
@@ -4430,13 +4982,15 @@ StGB
 
 - Abgeurteilte: 10
 - Verurteilte: 6
-- Иностранцы: 16.67%
-- Оправдан: 2
-- Дело прекращено: 1
-- Лишение свободы: 0
-- Условный срок: 1
-- Денежный штраф: 5
-- Остальные: 1
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 16.67%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 2 (20.00%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 1 (10.00%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 1 (10.00%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 5 (50.00%)
+- ![](readme_assets/swatches/other.svg) Остальные: 1 (10.00%)
 
 ### StGB § 126 a Gefährdendes Verbreiten personenbezogener Daten
 
@@ -4446,13 +5000,15 @@ StGB
 
 - Abgeurteilte: 10
 - Verurteilte: 8
-- Иностранцы: 0.00%
-- Оправдан: 1
-- Дело прекращено: 1
-- Лишение свободы: 0
-- Условный срок: 0
-- Денежный штраф: 8
-- Остальные: 0
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 0.00%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 1 (10.00%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 1 (10.00%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 0 (0.00%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 8 (80.00%)
+- ![](readme_assets/swatches/other.svg) Остальные: 0 (0.00%)
 
 ### StGB § 232 Menschenhandel
 
@@ -4462,13 +5018,15 @@ StGB
 
 - Abgeurteilte: 10
 - Verurteilte: 8
-- Иностранцы: 50.00%
-- Оправдан: 1
-- Дело прекращено: 1
-- Лишение свободы: 2
-- Условный срок: 2
-- Денежный штраф: 2
-- Остальные: 2
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 50.00%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 1 (10.00%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 1 (10.00%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 2 (20.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 2 (20.00%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 2 (20.00%)
+- ![](readme_assets/swatches/other.svg) Остальные: 2 (20.00%)
 
 ### StGB § 240 Abs. 4 Nr. 2 Nötigung unter Missbrauch der Befugnisse oder der Stellung als Amtsträger
 
@@ -4478,13 +5036,15 @@ StGB
 
 - Abgeurteilte: 10
 - Verurteilte: 3
-- Иностранцы: 33.33%
-- Оправдан: 2
-- Дело прекращено: 4
-- Лишение свободы: 1
-- Условный срок: 0
-- Денежный штраф: 1
-- Остальные: 2
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 33.33%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 2 (20.00%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 4 (40.00%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 1 (10.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 0 (0.00%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 1 (10.00%)
+- ![](readme_assets/swatches/other.svg) Остальные: 2 (20.00%)
 
 ### StGB § 291 Abs. 1 Satz 1 Nr. 1 Mietwucher
 
@@ -4494,13 +5054,15 @@ StGB
 
 - Abgeurteilte: 10
 - Verurteilte: 1
-- Иностранцы: 0.00%
-- Оправдан: 1
-- Дело прекращено: 7
-- Лишение свободы: 0
-- Условный срок: 0
-- Денежный штраф: 1
-- Остальные: 1
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 0.00%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 1 (10.00%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 7 (70.00%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 0 (0.00%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 1 (10.00%)
+- ![](readme_assets/swatches/other.svg) Остальные: 1 (10.00%)
 
 ### StGB § 315 c Abs. 1 Nr. 2 c auch i.V.m. Abs.3 Falsches Fahren an Fußgängerüberwegen mit Verkehrsunfall
 
@@ -4510,13 +5072,15 @@ StGB
 
 - Abgeurteilte: 10
 - Verurteilte: 3
-- Иностранцы: 0.00%
-- Оправдан: 1
-- Дело прекращено: 5
-- Лишение свободы: 0
-- Условный срок: 0
-- Денежный штраф: 3
-- Остальные: 1
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 0.00%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 1 (10.00%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 5 (50.00%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 0 (0.00%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 3 (30.00%)
+- ![](readme_assets/swatches/other.svg) Остальные: 1 (10.00%)
 
 ### StGB § 327 Abs. 2 und 3 Nr. 2 Unerlaubtes Betreiben anderer Anlagen - fahrlässig
 
@@ -4526,13 +5090,15 @@ StGB
 
 - Abgeurteilte: 10
 - Verurteilte: 8
-- Иностранцы: 0.00%
-- Оправдан: 0
-- Дело прекращено: 2
-- Лишение свободы: 0
-- Условный срок: 0
-- Денежный штраф: 8
-- Остальные: 0
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 0.00%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 2 (20.00%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 0 (0.00%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 8 (80.00%)
+- ![](readme_assets/swatches/other.svg) Остальные: 0 (0.00%)
 
 ### StGB § 339 Rechtsbeugung
 
@@ -4542,13 +5108,15 @@ StGB
 
 - Abgeurteilte: 10
 - Verurteilte: 9
-- Иностранцы: 22.22%
-- Оправдан: 1
-- Дело прекращено: 0
-- Лишение свободы: 0
-- Условный срок: 3
-- Денежный штраф: 6
-- Остальные: 0
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 22.22%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 1 (10.00%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 0 (0.00%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 3 (30.00%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 6 (60.00%)
+- ![](readme_assets/swatches/other.svg) Остальные: 0 (0.00%)
 
 ### StGB § 121 Gefangenenmeuterei
 
@@ -4558,13 +5126,15 @@ StGB
 
 - Abgeurteilte: 9
 - Verurteilte: 4
-- Иностранцы: 75.00%
-- Оправдан: 2
-- Дело прекращено: 3
-- Лишение свободы: 2
-- Условный срок: 0
-- Денежный штраф: 0
-- Остальные: 2
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 75.00%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 2 (22.22%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 3 (33.33%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 2 (22.22%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 0 (0.00%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 0 (0.00%)
+- ![](readme_assets/swatches/other.svg) Остальные: 2 (22.22%)
 
 ### StGB § 218 Schwangerschaftsabbruch
 
@@ -4574,13 +5144,15 @@ StGB
 
 - Abgeurteilte: 9
 - Verurteilte: 3
-- Иностранцы: 33.33%
-- Оправдан: 2
-- Дело прекращено: 4
-- Лишение свободы: 0
-- Условный срок: 2
-- Денежный штраф: 1
-- Остальные: 0
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 33.33%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 2 (22.22%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 4 (44.44%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 2 (22.22%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 1 (11.11%)
+- ![](readme_assets/swatches/other.svg) Остальные: 0 (0.00%)
 
 ### StGB § 251 Raub mit Todesfolge
 
@@ -4590,13 +5162,15 @@ StGB
 
 - Abgeurteilte: 9
 - Verurteilte: 9
-- Иностранцы: 44.44%
-- Оправдан: 0
-- Дело прекращено: 0
-- Лишение свободы: 8
-- Условный срок: 0
-- Денежный штраф: 0
-- Остальные: 1
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 44.44%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 0 (0.00%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 8 (88.89%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 0 (0.00%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 0 (0.00%)
+- ![](readme_assets/swatches/other.svg) Остальные: 1 (11.11%)
 
 ### StGB § 291 Abs. 2 Besonders schwere Fälle des Wuchers
 
@@ -4606,13 +5180,15 @@ StGB
 
 - Abgeurteilte: 9
 - Verurteilte: 3
-- Иностранцы: 66.67%
-- Оправдан: 1
-- Дело прекращено: 5
-- Лишение свободы: 0
-- Условный срок: 2
-- Денежный штраф: 1
-- Остальные: 0
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 66.67%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 1 (11.11%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 5 (55.56%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 2 (22.22%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 1 (11.11%)
+- ![](readme_assets/swatches/other.svg) Остальные: 0 (0.00%)
 
 ### StGB § 315 c Abs. 1 Nr. 2 e auch i.V.m. Abs.3 Nichteinhalten der rechten Fahrbahnseite ohne Verkehrsunfall
 
@@ -4622,13 +5198,15 @@ StGB
 
 - Abgeurteilte: 9
 - Verurteilte: 5
-- Иностранцы: 40.00%
-- Оправдан: 0
-- Дело прекращено: 4
-- Лишение свободы: 0
-- Условный срок: 2
-- Денежный штраф: 3
-- Остальные: 0
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 40.00%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 4 (44.44%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 2 (22.22%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 3 (33.33%)
+- ![](readme_assets/swatches/other.svg) Остальные: 0 (0.00%)
 
 ### StGB § 202 d Datenhehlerei
 
@@ -4638,13 +5216,15 @@ StGB
 
 - Abgeurteilte: 8
 - Verurteilte: 6
-- Иностранцы: 16.67%
-- Оправдан: 0
-- Дело прекращено: 2
-- Лишение свободы: 1
-- Условный срок: 0
-- Денежный штраф: 5
-- Остальные: 0
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 16.67%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 2 (25.00%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 1 (12.50%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 0 (0.00%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 5 (62.50%)
+- ![](readme_assets/swatches/other.svg) Остальные: 0 (0.00%)
 
 ### StGB § 221 Aussetzung
 
@@ -4654,13 +5234,15 @@ StGB
 
 - Abgeurteilte: 8
 - Verurteilte: 7
-- Иностранцы: 28.57%
-- Оправдан: 1
-- Дело прекращено: 0
-- Лишение свободы: 1
-- Условный срок: 4
-- Денежный штраф: 2
-- Остальные: 0
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 28.57%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 1 (12.50%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 0 (0.00%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 1 (12.50%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 4 (50.00%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 2 (25.00%)
+- ![](readme_assets/swatches/other.svg) Остальные: 0 (0.00%)
 
 ### StGB § 266 a Abs. 3 Veruntreuen von Arbeitsentgelt durch den Arbeitgeber
 
@@ -4670,13 +5252,15 @@ StGB
 
 - Abgeurteilte: 8
 - Verurteilte: 4
-- Иностранцы: 25.00%
-- Оправдан: 0
-- Дело прекращено: 4
-- Лишение свободы: 0
-- Условный срок: 1
-- Денежный штраф: 3
-- Остальные: 0
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 25.00%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 4 (50.00%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 1 (12.50%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 3 (37.50%)
+- ![](readme_assets/swatches/other.svg) Остальные: 0 (0.00%)
 
 ### StGB § 266 b Missbrauch von Scheck- und Kreditkarten
 
@@ -4686,13 +5270,15 @@ StGB
 
 - Abgeurteilte: 8
 - Verurteilte: 3
-- Иностранцы: 66.67%
-- Оправдан: 2
-- Дело прекращено: 3
-- Лишение свободы: 0
-- Условный срок: 0
-- Денежный штраф: 3
-- Остальные: 0
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 66.67%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 2 (25.00%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 3 (37.50%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 0 (0.00%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 3 (37.50%)
+- ![](readme_assets/swatches/other.svg) Остальные: 0 (0.00%)
 
 ### StGB § 306 f Herbeiführen einer Brandgefahr
 
@@ -4702,13 +5288,15 @@ StGB
 
 - Abgeurteilte: 8
 - Verurteilte: 7
-- Иностранцы: 14.29%
-- Оправдан: 0
-- Дело прекращено: 0
-- Лишение свободы: 0
-- Условный срок: 0
-- Денежный штраф: 6
-- Остальные: 2
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 14.29%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 0 (0.00%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 0 (0.00%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 6 (75.00%)
+- ![](readme_assets/swatches/other.svg) Остальные: 2 (25.00%)
 
 ### StGB § 330 Besonders schwerer Fall einer Umweltstraftat
 
@@ -4718,13 +5306,15 @@ StGB
 
 - Abgeurteilte: 8
 - Verurteilte: 2
-- Иностранцы: 0.00%
-- Оправдан: 0
-- Дело прекращено: 6
-- Лишение свободы: 1
-- Условный срок: 0
-- Денежный штраф: 1
-- Остальные: 0
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 0.00%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 6 (75.00%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 1 (12.50%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 0 (0.00%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 1 (12.50%)
+- ![](readme_assets/swatches/other.svg) Остальные: 0 (0.00%)
 
 ### StGB §§ 107 bis 108 b Wahlvergehen
 
@@ -4734,13 +5324,15 @@ StGB
 
 - Abgeurteilte: 8
 - Verurteilte: 5
-- Иностранцы: 20.00%
-- Оправдан: 2
-- Дело прекращено: 1
-- Лишение свободы: 0
-- Условный срок: 1
-- Денежный штраф: 4
-- Остальные: 0
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 20.00%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 2 (25.00%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 1 (12.50%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 1 (12.50%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 4 (50.00%)
+- ![](readme_assets/swatches/other.svg) Остальные: 0 (0.00%)
 
 ### StGB 3. Abschnitt, §§ 102 bis 104 a Straftaten gegen ausländische Staaten
 
@@ -4750,13 +5342,15 @@ StGB
 
 - Abgeurteilte: 7
 - Verurteilte: 4
-- Иностранцы: 75.00%
-- Оправдан: 0
-- Дело прекращено: 0
-- Лишение свободы: 0
-- Условный срок: 0
-- Денежный штраф: 2
-- Остальные: 5
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 75.00%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 0 (0.00%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 0 (0.00%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 2 (28.57%)
+- ![](readme_assets/swatches/other.svg) Остальные: 5 (71.43%)
 
 ### StGB § 226 Abs. 2 Absichtliche oder wissentliche schwere Körperverletzung
 
@@ -4766,13 +5360,15 @@ StGB
 
 - Abgeurteilte: 7
 - Verurteilte: 5
-- Иностранцы: 20.00%
-- Оправдан: 1
-- Дело прекращено: 0
-- Лишение свободы: 1
-- Условный срок: 3
-- Денежный штраф: 0
-- Остальные: 2
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 20.00%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 1 (14.29%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 0 (0.00%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 1 (14.29%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 3 (42.86%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 0 (0.00%)
+- ![](readme_assets/swatches/other.svg) Остальные: 2 (28.57%)
 
 ### StGB § 331 Vorteilsannahme
 
@@ -4782,13 +5378,15 @@ StGB
 
 - Abgeurteilte: 7
 - Verurteilte: 6
-- Иностранцы: 0.00%
-- Оправдан: 0
-- Дело прекращено: 1
-- Лишение свободы: 0
-- Условный срок: 3
-- Денежный штраф: 3
-- Остальные: 0
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 0.00%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 1 (14.29%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 3 (42.86%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 3 (42.86%)
+- ![](readme_assets/swatches/other.svg) Остальные: 0 (0.00%)
 
 ### StGB § 85 Verstoß gegen ein Vereinigungsverbot
 
@@ -4798,13 +5396,15 @@ StGB
 
 - Abgeurteilte: 7
 - Verurteilte: 4
-- Иностранцы: 50.00%
-- Оправдан: 1
-- Дело прекращено: 1
-- Лишение свободы: 0
-- Условный срок: 2
-- Денежный штраф: 2
-- Остальные: 1
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 50.00%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 1 (14.29%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 1 (14.29%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 2 (28.57%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 2 (28.57%)
+- ![](readme_assets/swatches/other.svg) Остальные: 1 (14.29%)
 
 ### StGB §§ 102, 104 Straftaten gegen ausländische Staaten
 
@@ -4814,13 +5414,15 @@ StGB
 
 - Abgeurteilte: 7
 - Verurteilte: 4
-- Иностранцы: 75.00%
-- Оправдан: 0
-- Дело прекращено: 0
-- Лишение свободы: 0
-- Условный срок: 0
-- Денежный штраф: 2
-- Остальные: 5
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 75.00%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 0 (0.00%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 0 (0.00%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 2 (28.57%)
+- ![](readme_assets/swatches/other.svg) Остальные: 5 (71.43%)
 
 ### StGB §§ 352, 353 Gebühren- und Abgabenüberhebung, Leistungskürzung
 
@@ -4830,13 +5432,15 @@ StGB
 
 - Abgeurteilte: 7
 - Verurteilte: 3
-- Иностранцы: 0.00%
-- Оправдан: 1
-- Дело прекращено: 2
-- Лишение свободы: 0
-- Условный срок: 1
-- Денежный штраф: 2
-- Остальные: 1
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 0.00%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 1 (14.29%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 2 (28.57%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 1 (14.29%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 2 (28.57%)
+- ![](readme_assets/swatches/other.svg) Остальные: 1 (14.29%)
 
 ### StGB § 174 a Sexueller Missbrauch von Gefangenen, behördlich Verwahrten oder Kranken u. Hilfsbedürftigen in Einrichtungen
 
@@ -4846,13 +5450,15 @@ StGB
 
 - Abgeurteilte: 6
 - Verurteilte: 2
-- Иностранцы: 0.00%
-- Оправдан: 2
-- Дело прекращено: 2
-- Лишение свободы: 0
-- Условный срок: 1
-- Денежный штраф: 1
-- Остальные: 0
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 0.00%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 2 (33.33%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 2 (33.33%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 1 (16.67%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 1 (16.67%)
+- ![](readme_assets/swatches/other.svg) Остальные: 0 (0.00%)
 
 ### StGB § 180 Förderung sexueller Handlungen Minderjähriger
 
@@ -4862,13 +5468,15 @@ StGB
 
 - Abgeurteilte: 6
 - Verurteilte: 2
-- Иностранцы: 50.00%
-- Оправдан: 3
-- Дело прекращено: 1
-- Лишение свободы: 1
-- Условный срок: 1
-- Денежный штраф: 0
-- Остальные: 0
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 50.00%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 3 (50.00%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 1 (16.67%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 1 (16.67%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 1 (16.67%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 0 (0.00%)
+- ![](readme_assets/swatches/other.svg) Остальные: 0 (0.00%)
 
 ### StGB § 261 Abs. 7 i.V.m. § 261 Abs. 1 bis 6 Geldwäsche
 
@@ -4878,13 +5486,15 @@ StGB
 
 - Abgeurteilte: 6
 - Verurteilte: 4
-- Иностранцы: 75.00%
-- Оправдан: 0
-- Дело прекращено: 2
-- Лишение свободы: 0
-- Условный срок: 0
-- Денежный штраф: 4
-- Остальные: 0
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 75.00%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 2 (33.33%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 0 (0.00%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 4 (66.67%)
+- ![](readme_assets/swatches/other.svg) Остальные: 0 (0.00%)
 
 ### StGB § 264 a Kapitalanlagebetrug
 
@@ -4894,13 +5504,15 @@ StGB
 
 - Abgeurteilte: 6
 - Verurteilte: 2
-- Иностранцы: 50.00%
-- Оправдан: 0
-- Дело прекращено: 1
-- Лишение свободы: 0
-- Условный срок: 0
-- Денежный штраф: 2
-- Остальные: 3
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 50.00%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 1 (16.67%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 0 (0.00%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 2 (33.33%)
+- ![](readme_assets/swatches/other.svg) Остальные: 3 (50.00%)
 
 ### StGB § 265 b Kreditbetrug
 
@@ -4910,13 +5522,15 @@ StGB
 
 - Abgeurteilte: 6
 - Verurteilte: 4
-- Иностранцы: 25.00%
-- Оправдан: 0
-- Дело прекращено: 2
-- Лишение свободы: 1
-- Условный срок: 0
-- Денежный штраф: 1
-- Остальные: 2
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 25.00%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 2 (33.33%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 1 (16.67%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 0 (0.00%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 1 (16.67%)
+- ![](readme_assets/swatches/other.svg) Остальные: 2 (33.33%)
 
 ### StGB § 298 Wettbewerbsbeschränkende Absprachen bei Ausschreibungen
 
@@ -4926,13 +5540,15 @@ StGB
 
 - Abgeurteilte: 6
 - Verurteilte: 3
-- Иностранцы: 33.33%
-- Оправдан: 0
-- Дело прекращено: 3
-- Лишение свободы: 0
-- Условный срок: 0
-- Денежный штраф: 3
-- Остальные: 0
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 33.33%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 3 (50.00%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 0 (0.00%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 3 (50.00%)
+- ![](readme_assets/swatches/other.svg) Остальные: 0 (0.00%)
 
 ### StGB § 305 Zerstörung von Bauwerken
 
@@ -4942,13 +5558,15 @@ StGB
 
 - Abgeurteilte: 6
 - Verurteilte: 4
-- Иностранцы: 0.00%
-- Оправдан: 0
-- Дело прекращено: 2
-- Лишение свободы: 0
-- Условный срок: 0
-- Денежный штраф: 4
-- Остальные: 0
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 0.00%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 2 (33.33%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 0 (0.00%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 4 (66.67%)
+- ![](readme_assets/swatches/other.svg) Остальные: 0 (0.00%)
 
 ### StGB § 323 b Gefährdung einer Entziehungskur
 
@@ -4958,13 +5576,15 @@ StGB
 
 - Abgeurteilte: 6
 - Verurteilte: 5
-- Иностранцы: 0.00%
-- Оправдан: 0
-- Дело прекращено: 1
-- Лишение свободы: 0
-- Условный срок: 0
-- Денежный штраф: 5
-- Остальные: 0
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 0.00%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 1 (16.67%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 0 (0.00%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 5 (83.33%)
+- ![](readme_assets/swatches/other.svg) Остальные: 0 (0.00%)
 
 ### StGB § 89 a Vorbereitung einer schweren staatsgefährdenden Gewalttat
 
@@ -4974,13 +5594,15 @@ StGB
 
 - Abgeurteilte: 6
 - Verurteilte: 5
-- Иностранцы: 40.00%
-- Оправдан: 0
-- Дело прекращено: 1
-- Лишение свободы: 4
-- Условный срок: 0
-- Денежный штраф: 0
-- Остальные: 1
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 40.00%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 1 (16.67%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 4 (66.67%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 0 (0.00%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 0 (0.00%)
+- ![](readme_assets/swatches/other.svg) Остальные: 1 (16.67%)
 
 ### StGB § 129 b i.V.m. § 129 a Bildung terroristischer Vereinigungen im Ausland
 
@@ -4990,13 +5612,15 @@ StGB
 
 - Abgeurteilte: 5
 - Verurteilte: 5
-- Иностранцы: 60.00%
-- Оправдан: 0
-- Дело прекращено: 0
-- Лишение свободы: 1
-- Условный срок: 2
-- Денежный штраф: 0
-- Остальные: 2
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 60.00%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 0 (0.00%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 1 (20.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 2 (40.00%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 0 (0.00%)
+- ![](readme_assets/swatches/other.svg) Остальные: 2 (40.00%)
 
 ### StGB § 152 i.V.m. §§ 146-149 Geld-, Wert- zeichen und -papierfälschung von Geld,Wert- zeichen u. -papieren e. fremden Währungsgeb.
 
@@ -5006,13 +5630,15 @@ StGB
 
 - Abgeurteilte: 5
 - Verurteilte: 3
-- Иностранцы: 33.33%
-- Оправдан: 0
-- Дело прекращено: 1
-- Лишение свободы: 0
-- Условный срок: 1
-- Денежный штраф: 1
-- Остальные: 2
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 33.33%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 1 (20.00%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 1 (20.00%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 1 (20.00%)
+- ![](readme_assets/swatches/other.svg) Остальные: 2 (40.00%)
 
 ### StGB § 170 Abs. 2 Verletzung der Unterhaltspflicht gegenüber einer Schwangeren
 
@@ -5022,13 +5648,15 @@ StGB
 
 - Abgeurteilte: 5
 - Verurteilte: 4
-- Иностранцы: 50.00%
-- Оправдан: 0
-- Дело прекращено: 1
-- Лишение свободы: 0
-- Условный срок: 1
-- Денежный штраф: 3
-- Остальные: 0
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 50.00%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 1 (20.00%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 1 (20.00%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 3 (60.00%)
+- ![](readme_assets/swatches/other.svg) Остальные: 0 (0.00%)
 
 ### StGB § 172 Doppelehe doppelte Lebenspartnerschaft
 
@@ -5038,13 +5666,15 @@ StGB
 
 - Abgeurteilte: 5
 - Verurteilte: 4
-- Иностранцы: 25.00%
-- Оправдан: 0
-- Дело прекращено: 1
-- Лишение свободы: 0
-- Условный срок: 0
-- Денежный штраф: 4
-- Остальные: 0
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 25.00%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 1 (20.00%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 0 (0.00%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 4 (80.00%)
+- ![](readme_assets/swatches/other.svg) Остальные: 0 (0.00%)
 
 ### StGB § 173 Beischlaf zwischen Verwandten
 
@@ -5054,13 +5684,15 @@ StGB
 
 - Abgeurteilte: 5
 - Verurteilte: 4
-- Иностранцы: 25.00%
-- Оправдан: 0
-- Дело прекращено: 0
-- Лишение свободы: 0
-- Условный срок: 3
-- Денежный штраф: 1
-- Остальные: 1
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 25.00%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 0 (0.00%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 3 (60.00%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 1 (20.00%)
+- ![](readme_assets/swatches/other.svg) Остальные: 1 (20.00%)
 
 ### StGB § 184 g Jugendgefährdende Prostitution
 
@@ -5070,13 +5702,15 @@ StGB
 
 - Abgeurteilte: 5
 - Verurteilte: 5
-- Иностранцы: 0.00%
-- Оправдан: 0
-- Дело прекращено: 0
-- Лишение свободы: 0
-- Условный срок: 0
-- Денежный штраф: 5
-- Остальные: 0
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 0.00%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 0 (0.00%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 0 (0.00%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 5 (100.00%)
+- ![](readme_assets/swatches/other.svg) Остальные: 0 (0.00%)
 
 ### StGB § 260 Abs. 1 Nr. 2 Bandenhehlerei
 
@@ -5086,13 +5720,15 @@ StGB
 
 - Abgeurteilte: 5
 - Verurteilte: 4
-- Иностранцы: 75.00%
-- Оправдан: 0
-- Дело прекращено: 1
-- Лишение свободы: 1
-- Условный срок: 3
-- Денежный штраф: 0
-- Остальные: 0
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 75.00%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 1 (20.00%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 1 (20.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 3 (60.00%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 0 (0.00%)
+- ![](readme_assets/swatches/other.svg) Остальные: 0 (0.00%)
 
 ### StGB § 283 c Gläubigerbegünstigung
 
@@ -5102,13 +5738,15 @@ StGB
 
 - Abgeurteilte: 5
 - Verurteilte: 5
-- Иностранцы: 40.00%
-- Оправдан: 0
-- Дело прекращено: 0
-- Лишение свободы: 0
-- Условный срок: 0
-- Денежный штраф: 5
-- Остальные: 0
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 40.00%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 0 (0.00%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 0 (0.00%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 5 (100.00%)
+- ![](readme_assets/swatches/other.svg) Остальные: 0 (0.00%)
 
 ### StGB § 326 Abs. 2 Grenzüberschreitende Verbringung von Abfällen - vorsätzlich
 
@@ -5118,13 +5756,15 @@ StGB
 
 - Abgeurteilte: 5
 - Verurteilte: 2
-- Иностранцы: 0.00%
-- Оправдан: 0
-- Дело прекращено: 3
-- Лишение свободы: 0
-- Условный срок: 0
-- Денежный штраф: 2
-- Остальные: 0
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 0.00%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 3 (60.00%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 0 (0.00%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 2 (40.00%)
+- ![](readme_assets/swatches/other.svg) Остальные: 0 (0.00%)
 
 ### StGB § 90 a Verunglimpfung des Staates und seiner Symbole
 
@@ -5134,13 +5774,15 @@ StGB
 
 - Abgeurteilte: 5
 - Verurteilte: 2
-- Иностранцы: 0.00%
-- Оправдан: 0
-- Дело прекращено: 3
-- Лишение свободы: 0
-- Условный срок: 0
-- Денежный штраф: 2
-- Остальные: 0
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 0.00%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 3 (60.00%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 0 (0.00%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 2 (40.00%)
+- ![](readme_assets/swatches/other.svg) Остальные: 0 (0.00%)
 
 ### StGB §§ 344, 345 Verfolgung Unschuldiger, Vollstreckung gegen Unschuldige
 
@@ -5150,13 +5792,15 @@ StGB
 
 - Abgeurteilte: 5
 - Verurteilte: 3
-- Иностранцы: 0.00%
-- Оправдан: 2
-- Дело прекращено: 0
-- Лишение свободы: 0
-- Условный срок: 1
-- Денежный штраф: 2
-- Остальные: 0
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 0.00%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 2 (40.00%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 0 (0.00%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 1 (20.00%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 2 (40.00%)
+- ![](readme_assets/swatches/other.svg) Остальные: 0 (0.00%)
 
 ### StGB § 127 Betreiben krimineller Handelsplattformen im Internet
 
@@ -5166,13 +5810,15 @@ StGB
 
 - Abgeurteilte: 4
 - Verurteilte: 4
-- Иностранцы: 50.00%
-- Оправдан: 0
-- Дело прекращено: 0
-- Лишение свободы: 1
-- Условный срок: 2
-- Денежный штраф: 1
-- Остальные: 0
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 50.00%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 0 (0.00%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 1 (25.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 2 (50.00%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 1 (25.00%)
+- ![](readme_assets/swatches/other.svg) Остальные: 0 (0.00%)
 
 ### StGB § 142 Abs. 2 Entf. vom Unfallort ohne nachträgl. Meldung d. Unfallbeteiligung in Trunkenheit
 
@@ -5182,13 +5828,15 @@ StGB
 
 - Abgeurteilte: 4
 - Verurteilte: 4
-- Иностранцы: 25.00%
-- Оправдан: 0
-- Дело прекращено: 0
-- Лишение свободы: 1
-- Условный срок: 0
-- Денежный штраф: 2
-- Остальные: 1
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 25.00%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 0 (0.00%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 1 (25.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 0 (0.00%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 2 (50.00%)
+- ![](readme_assets/swatches/other.svg) Остальные: 1 (25.00%)
 
 ### StGB § 160 Verleitung zur Falschaussage
 
@@ -5198,13 +5846,15 @@ StGB
 
 - Abgeurteilte: 4
 - Verurteilte: 4
-- Иностранцы: 75.00%
-- Оправдан: 0
-- Дело прекращено: 0
-- Лишение свободы: 0
-- Условный срок: 1
-- Денежный штраф: 3
-- Остальные: 0
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 75.00%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 0 (0.00%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 1 (25.00%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 3 (75.00%)
+- ![](readme_assets/swatches/other.svg) Остальные: 0 (0.00%)
 
 ### StGB § 202 b Abfangen von Daten
 
@@ -5214,13 +5864,15 @@ StGB
 
 - Abgeurteilte: 4
 - Verurteilte: 3
-- Иностранцы: 0.00%
-- Оправдан: 0
-- Дело прекращено: 1
-- Лишение свободы: 0
-- Условный срок: 0
-- Денежный штраф: 3
-- Остальные: 0
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 0.00%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 1 (25.00%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 0 (0.00%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 3 (75.00%)
+- ![](readme_assets/swatches/other.svg) Остальные: 0 (0.00%)
 
 ### StGB § 231 Beteiligung an einer Schlägerei
 
@@ -5230,13 +5882,15 @@ StGB
 
 - Abgeurteilte: 4
 - Verurteilte: 3
-- Иностранцы: 0.00%
-- Оправдан: 0
-- Дело прекращено: 1
-- Лишение свободы: 0
-- Условный срок: 1
-- Денежный штраф: 1
-- Остальные: 1
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 0.00%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 1 (25.00%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 1 (25.00%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 1 (25.00%)
+- ![](readme_assets/swatches/other.svg) Остальные: 1 (25.00%)
 
 ### StGB § 236 Kinderhandel
 
@@ -5246,13 +5900,15 @@ StGB
 
 - Abgeurteilte: 4
 - Verurteilte: 4
-- Иностранцы: 75.00%
-- Оправдан: 0
-- Дело прекращено: 0
-- Лишение свободы: 0
-- Условный срок: 0
-- Денежный штраф: 4
-- Остальные: 0
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 75.00%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 0 (0.00%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 0 (0.00%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 4 (100.00%)
+- ![](readme_assets/swatches/other.svg) Остальные: 0 (0.00%)
 
 ### StGB § 237 Abs. 1 Zwangsheirat - Nötigung zur Eingehung der Ehe
 
@@ -5262,13 +5918,15 @@ StGB
 
 - Abgeurteilte: 4
 - Verurteilte: 1
-- Иностранцы: 100.00%
-- Оправдан: 2
-- Дело прекращено: 1
-- Лишение свободы: 0
-- Условный срок: 1
-- Денежный штраф: 0
-- Остальные: 0
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 100.00%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 2 (50.00%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 1 (25.00%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 1 (25.00%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 0 (0.00%)
+- ![](readme_assets/swatches/other.svg) Остальные: 0 (0.00%)
 
 ### StGB § 261 Abs. 9 i.V.m. § 261 Abs. 1 bis 6 Geldwäsche
 
@@ -5278,13 +5936,15 @@ StGB
 
 - Abgeurteilte: 4
 - Verurteilte: 4
-- Иностранцы: 100.00%
-- Оправдан: 0
-- Дело прекращено: 0
-- Лишение свободы: 0
-- Условный срок: 0
-- Денежный штраф: 4
-- Остальные: 0
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 100.00%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 0 (0.00%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 0 (0.00%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 4 (100.00%)
+- ![](readme_assets/swatches/other.svg) Остальные: 0 (0.00%)
 
 ### StGB § 315 c Abs. 1 Nr. 2 g auch i.V.m. Abs.3 Nichtkenntlichmachen haltender oder liegen- gebliebener Fahrzeuge mit Verkehrsunfall
 
@@ -5294,13 +5954,15 @@ StGB
 
 - Abgeurteilte: 4
 - Verurteilte: 2
-- Иностранцы: 0.00%
-- Оправдан: 0
-- Дело прекращено: 2
-- Лишение свободы: 0
-- Условный срок: 0
-- Денежный штраф: 2
-- Остальные: 0
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 0.00%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 2 (50.00%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 0 (0.00%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 2 (50.00%)
+- ![](readme_assets/swatches/other.svg) Остальные: 0 (0.00%)
 
 ### StGB § 329 Abs. 4 Schädigung von Natura2000-Gebieten - vorsätzlich
 
@@ -5310,13 +5972,15 @@ StGB
 
 - Abgeurteilte: 4
 - Verurteilte: 3
-- Иностранцы: 0.00%
-- Оправдан: 0
-- Дело прекращено: 1
-- Лишение свободы: 0
-- Условный срок: 0
-- Денежный штраф: 3
-- Остальные: 0
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 0.00%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 1 (25.00%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 0 (0.00%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 3 (75.00%)
+- ![](readme_assets/swatches/other.svg) Остальные: 0 (0.00%)
 
 ### StGB 2. Abschnitt, §§ 93 bis 101 a Landesverrat und Gefährdung der äußeren Sicherheit
 
@@ -5326,13 +5990,15 @@ StGB
 
 - Abgeurteilte: 3
 - Verurteilte: 3
-- Иностранцы: 66.67%
-- Оправдан: 0
-- Дело прекращено: 0
-- Лишение свободы: 1
-- Условный срок: 0
-- Денежный штраф: 2
-- Остальные: 0
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 66.67%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 0 (0.00%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 1 (33.33%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 0 (0.00%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 2 (66.67%)
+- ![](readme_assets/swatches/other.svg) Остальные: 0 (0.00%)
 
 ### StGB § 128 Bildung bewaffneter Gruppen
 
@@ -5342,13 +6008,15 @@ StGB
 
 - Abgeurteilte: 3
 - Verurteilte: 3
-- Иностранцы: 66.67%
-- Оправдан: 0
-- Дело прекращено: 0
-- Лишение свободы: 2
-- Условный срок: 0
-- Денежный штраф: 0
-- Остальные: 1
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 66.67%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 0 (0.00%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 2 (66.67%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 0 (0.00%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 0 (0.00%)
+- ![](readme_assets/swatches/other.svg) Остальные: 1 (33.33%)
 
 ### StGB § 130 Abs. 5 Volksverhetzung durch Billigung, Leugnung oder gröbliche Verharmlosung von Völkermorden, Verbrechen gegen die Menschlichkeit und Kriegsverbrechen
 
@@ -5358,13 +6026,15 @@ StGB
 
 - Abgeurteilte: 3
 - Verurteilte: 3
-- Иностранцы: 0.00%
-- Оправдан: 0
-- Дело прекращено: 0
-- Лишение свободы: 0
-- Условный срок: 0
-- Денежный штраф: 0
-- Остальные: 3
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 0.00%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 0 (0.00%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 0 (0.00%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 0 (0.00%)
+- ![](readme_assets/swatches/other.svg) Остальные: 3 (100.00%)
 
 ### StGB § 169 Personenstandsfälschung
 
@@ -5374,13 +6044,15 @@ StGB
 
 - Abgeurteilte: 3
 - Verurteilte: 3
-- Иностранцы: 66.67%
-- Оправдан: 0
-- Дело прекращено: 0
-- Лишение свободы: 0
-- Условный срок: 0
-- Денежный штраф: 2
-- Остальные: 1
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 66.67%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 0 (0.00%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 0 (0.00%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 2 (66.67%)
+- ![](readme_assets/swatches/other.svg) Остальные: 1 (33.33%)
 
 ### StGB § 178 Sexueller Übergriff, sexuelle Nötigung und Vergewaltigung mit Todesfolge
 
@@ -5390,13 +6062,15 @@ StGB
 
 - Abgeurteilte: 3
 - Verurteilte: 3
-- Иностранцы: 33.33%
-- Оправдан: 0
-- Дело прекращено: 0
-- Лишение свободы: 2
-- Условный срок: 0
-- Денежный штраф: 0
-- Остальные: 1
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 33.33%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 0 (0.00%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 2 (66.67%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 0 (0.00%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 0 (0.00%)
+- ![](readme_assets/swatches/other.svg) Остальные: 1 (33.33%)
 
 ### StGB § 234 Menschenraub
 
@@ -5406,13 +6080,15 @@ StGB
 
 - Abgeurteilte: 3
 - Verurteilte: 2
-- Иностранцы: 0.00%
-- Оправдан: 0
-- Дело прекращено: 1
-- Лишение свободы: 1
-- Условный срок: 0
-- Денежный штраф: 1
-- Остальные: 0
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 0.00%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 1 (33.33%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 1 (33.33%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 0 (0.00%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 1 (33.33%)
+- ![](readme_assets/swatches/other.svg) Остальные: 0 (0.00%)
 
 ### StGB § 283 a Besonders schwerer Fall des Bankrotts
 
@@ -5422,13 +6098,15 @@ StGB
 
 - Abgeurteilte: 3
 - Verurteilte: 2
-- Иностранцы: 100.00%
-- Оправдан: 0
-- Дело прекращено: 1
-- Лишение свободы: 0
-- Условный срок: 2
-- Денежный штраф: 0
-- Остальные: 0
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 100.00%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 1 (33.33%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 2 (66.67%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 0 (0.00%)
+- ![](readme_assets/swatches/other.svg) Остальные: 0 (0.00%)
 
 ### StGB § 325 Abs. 2 Freisetzen von Schadstoffen in die Luft beim Betrieb einer Anlage - vorsätzlich
 
@@ -5438,13 +6116,15 @@ StGB
 
 - Abgeurteilte: 3
 - Verurteilte: 3
-- Иностранцы: 100.00%
-- Оправдан: 0
-- Дело прекращено: 0
-- Лишение свободы: 0
-- Условный срок: 0
-- Денежный штраф: 3
-- Остальные: 0
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 100.00%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 0 (0.00%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 0 (0.00%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 3 (100.00%)
+- ![](readme_assets/swatches/other.svg) Остальные: 0 (0.00%)
 
 ### StGB § 145 c Verstoß gegen das Berufsverbot
 
@@ -5454,13 +6134,15 @@ StGB
 
 - Abgeurteilte: 2
 - Verurteilte: 2
-- Иностранцы: 0.00%
-- Оправдан: 0
-- Дело прекращено: 0
-- Лишение свободы: 0
-- Условный срок: 1
-- Денежный штраф: 1
-- Остальные: 0
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 0.00%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 0 (0.00%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 1 (50.00%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 1 (50.00%)
+- ![](readme_assets/swatches/other.svg) Остальные: 0 (0.00%)
 
 ### StGB § 152 a Fälschung von Zahlungskarten, Schecks, Wechseln und anderen körperlichen unbaren Zahlungsinstrumenten
 
@@ -5470,13 +6152,15 @@ StGB
 
 - Abgeurteilte: 2
 - Verurteilte: 1
-- Иностранцы: 0.00%
-- Оправдан: 0
-- Дело прекращено: 1
-- Лишение свободы: 0
-- Условный срок: 0
-- Денежный штраф: 1
-- Остальные: 0
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 0.00%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 1 (50.00%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 0 (0.00%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 1 (50.00%)
+- ![](readme_assets/swatches/other.svg) Остальные: 0 (0.00%)
 
 ### StGB § 176 e Verbreitung und Besitz von Anleitungen zu sexuellem Missbrauch von Kindern
 
@@ -5486,13 +6170,15 @@ StGB
 
 - Abgeurteilte: 2
 - Verurteilte: 2
-- Иностранцы: 0.00%
-- Оправдан: 0
-- Дело прекращено: 0
-- Лишение свободы: 0
-- Условный срок: 0
-- Денежный штраф: 2
-- Остальные: 0
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 0.00%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 0 (0.00%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 0 (0.00%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 2 (100.00%)
+- ![](readme_assets/swatches/other.svg) Остальные: 0 (0.00%)
 
 ### StGB § 180 a Ausbeutung von Prostituierten
 
@@ -5502,13 +6188,15 @@ StGB
 
 - Abgeurteilte: 2
 - Verurteilte: 1
-- Иностранцы: 0.00%
-- Оправдан: 1
-- Дело прекращено: 0
-- Лишение свободы: 0
-- Условный срок: 0
-- Денежный штраф: 1
-- Остальные: 0
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 0.00%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 1 (50.00%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 0 (0.00%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 0 (0.00%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 1 (50.00%)
+- ![](readme_assets/swatches/other.svg) Остальные: 0 (0.00%)
 
 ### StGB § 184 j Straftaten aus Gruppen
 
@@ -5518,13 +6206,15 @@ StGB
 
 - Abgeurteilte: 2
 - Verurteilte: 2
-- Иностранцы: 100.00%
-- Оправдан: 0
-- Дело прекращено: 0
-- Лишение свободы: 0
-- Условный срок: 0
-- Денежный штраф: 0
-- Остальные: 2
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 100.00%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 0 (0.00%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 0 (0.00%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 0 (0.00%)
+- ![](readme_assets/swatches/other.svg) Остальные: 2 (100.00%)
 
 ### StGB § 184 l Inverkehrbringen, Erwerb und Besitz von Sexpuppen mit kindlichem Erscheinungsbild
 
@@ -5534,13 +6224,15 @@ StGB
 
 - Abgeurteilte: 2
 - Verurteilte: 2
-- Иностранцы: 0.00%
-- Оправдан: 0
-- Дело прекращено: 0
-- Лишение свободы: 0
-- Условный срок: 2
-- Денежный штраф: 0
-- Остальные: 0
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 0.00%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 0 (0.00%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 2 (100.00%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 0 (0.00%)
+- ![](readme_assets/swatches/other.svg) Остальные: 0 (0.00%)
 
 ### StGB § 216 Tötung auf Verlangen
 
@@ -5550,13 +6242,15 @@ StGB
 
 - Abgeurteilte: 2
 - Verurteilte: 1
-- Иностранцы: 0.00%
-- Оправдан: 0
-- Дело прекращено: 0
-- Лишение свободы: 0
-- Условный срок: 1
-- Денежный штраф: 0
-- Остальные: 1
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 0.00%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 0 (0.00%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 1 (50.00%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 0 (0.00%)
+- ![](readme_assets/swatches/other.svg) Остальные: 1 (50.00%)
 
 ### StGB § 233 Ausbeutung der Arbeitskraft
 
@@ -5566,13 +6260,15 @@ StGB
 
 - Abgeurteilte: 2
 - Verurteilte: 1
-- Иностранцы: 0.00%
-- Оправдан: 0
-- Дело прекращено: 0
-- Лишение свободы: 0
-- Условный срок: 1
-- Денежный штраф: 0
-- Остальные: 1
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 0.00%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 0 (0.00%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 1 (50.00%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 0 (0.00%)
+- ![](readme_assets/swatches/other.svg) Остальные: 1 (50.00%)
 
 ### StGB § 325 Abs. 1 Luftverunreinigung - vorsätzlich
 
@@ -5582,13 +6278,15 @@ StGB
 
 - Abgeurteilte: 2
 - Verurteilte: 2
-- Иностранцы: 0.00%
-- Оправдан: 0
-- Дело прекращено: 0
-- Лишение свободы: 0
-- Условный срок: 0
-- Денежный штраф: 2
-- Остальные: 0
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 0.00%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 0 (0.00%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 0 (0.00%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 2 (100.00%)
+- ![](readme_assets/swatches/other.svg) Остальные: 0 (0.00%)
 
 ### StGB § 355 Verletzung des Steuergeheimnisses
 
@@ -5598,13 +6296,15 @@ StGB
 
 - Abgeurteilte: 2
 - Verurteilte: 1
-- Иностранцы: 0.00%
-- Оправдан: 0
-- Дело прекращено: 1
-- Лишение свободы: 0
-- Условный срок: 0
-- Денежный штраф: 1
-- Остальные: 0
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 0.00%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 1 (50.00%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 0 (0.00%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 1 (50.00%)
+- ![](readme_assets/swatches/other.svg) Остальные: 0 (0.00%)
 
 ### StGB § 80 a Aufstacheln zum Verbrechen der Aggression
 
@@ -5614,13 +6314,15 @@ StGB
 
 - Abgeurteilte: 2
 - Verurteilte: 1
-- Иностранцы: 0.00%
-- Оправдан: 0
-- Дело прекращено: 1
-- Лишение свободы: 0
-- Условный срок: 1
-- Денежный штраф: 0
-- Остальные: 0
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 0.00%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 1 (50.00%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 1 (50.00%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 0 (0.00%)
+- ![](readme_assets/swatches/other.svg) Остальные: 0 (0.00%)
 
 ### StGB § 91 Anleitung zur Begehung einer schweren staatsgefährdenden Gewalttat
 
@@ -5630,13 +6332,15 @@ StGB
 
 - Abgeurteilte: 2
 - Verurteilte: 2
-- Иностранцы: 50.00%
-- Оправдан: 0
-- Дело прекращено: 0
-- Лишение свободы: 0
-- Условный срок: 0
-- Денежный штраф: 1
-- Остальные: 1
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 50.00%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 0 (0.00%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 0 (0.00%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 1 (50.00%)
+- ![](readme_assets/swatches/other.svg) Остальные: 1 (50.00%)
 
 ### StGB §§ 105, 106 Nötigung von Verfassungsorganen
 
@@ -5646,13 +6350,15 @@ StGB
 
 - Abgeurteilte: 2
 - Verurteilte: 1
-- Иностранцы: 0.00%
-- Оправдан: 0
-- Дело прекращено: 0
-- Лишение свободы: 0
-- Условный срок: 0
-- Денежный штраф: 1
-- Остальные: 1
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 0.00%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 0 (0.00%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 0 (0.00%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 1 (50.00%)
+- ![](readme_assets/swatches/other.svg) Остальные: 1 (50.00%)
 
 ### StGB §§ 81 bis 83 Hochverrat
 
@@ -5662,13 +6368,15 @@ StGB
 
 - Abgeurteilte: 2
 - Verurteilte: 1
-- Иностранцы: 0.00%
-- Оправдан: 0
-- Дело прекращено: 1
-- Лишение свободы: 0
-- Условный срок: 0
-- Денежный штраф: 1
-- Остальные: 0
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 0.00%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 1 (50.00%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 0 (0.00%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 1 (50.00%)
+- ![](readme_assets/swatches/other.svg) Остальные: 0 (0.00%)
 
 ### StGB §§ 95, 97 Offenbaren und Preisgabe von Staatsgeheimnissen
 
@@ -5678,13 +6386,15 @@ StGB
 
 - Abgeurteilte: 2
 - Verurteilte: 2
-- Иностранцы: 100.00%
-- Оправдан: 0
-- Дело прекращено: 0
-- Лишение свободы: 0
-- Условный срок: 0
-- Денежный штраф: 2
-- Остальные: 0
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 100.00%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 0 (0.00%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 0 (0.00%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 2 (100.00%)
+- ![](readme_assets/swatches/other.svg) Остальные: 0 (0.00%)
 
 ### StGB § 134 Verletzung amtlicher Bekanntmachungen
 
@@ -5694,13 +6404,15 @@ StGB
 
 - Abgeurteilte: 1
 - Verurteilte: 1
-- Иностранцы: 100.00%
-- Оправдан: 0
-- Дело прекращено: 0
-- Лишение свободы: 0
-- Условный срок: 0
-- Денежный штраф: 0
-- Остальные: 1
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 100.00%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 0 (0.00%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 0 (0.00%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 0 (0.00%)
+- ![](readme_assets/swatches/other.svg) Остальные: 1 (100.00%)
 
 ### StGB § 174 b Sexueller Missbrauch unter Ausnutzung einer Amtsstellung
 
@@ -5710,13 +6422,15 @@ StGB
 
 - Abgeurteilte: 1
 - Verurteilte: 1
-- Иностранцы: 0.00%
-- Оправдан: 0
-- Дело прекращено: 0
-- Лишение свободы: 0
-- Условный срок: 0
-- Денежный штраф: 0
-- Остальные: 1
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 0.00%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 0 (0.00%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 0 (0.00%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 0 (0.00%)
+- ![](readme_assets/swatches/other.svg) Остальные: 1 (100.00%)
 
 ### StGB § 176 d Sexueller Missbrauch von Kindern mit Todesfolge
 
@@ -5726,13 +6440,15 @@ StGB
 
 - Abgeurteilte: 1
 - Verurteilte: 1
-- Иностранцы: 0.00%
-- Оправдан: 0
-- Дело прекращено: 0
-- Лишение свободы: 1
-- Условный срок: 0
-- Денежный штраф: 0
-- Остальные: 0
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 0.00%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 0 (0.00%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 1 (100.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 0 (0.00%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 0 (0.00%)
+- ![](readme_assets/swatches/other.svg) Остальные: 0 (0.00%)
 
 ### StGB § 202 c Vorbereiten des Ausspähens und Abfangens von Daten
 
@@ -5742,13 +6458,15 @@ StGB
 
 - Abgeurteilte: 1
 - Verurteilte: 1
-- Иностранцы: 0.00%
-- Оправдан: 0
-- Дело прекращено: 0
-- Лишение свободы: 0
-- Условный срок: 0
-- Денежный штраф: 1
-- Остальные: 0
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 0.00%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 0 (0.00%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 0 (0.00%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 1 (100.00%)
+- ![](readme_assets/swatches/other.svg) Остальные: 0 (0.00%)
 
 ### StGB § 300 i.V.m. § 299 a, 299 b Besonders schwere Fälle der Bestechlichkeit und Bestechung im Gesundheitswesen
 
@@ -5758,13 +6476,15 @@ StGB
 
 - Abgeurteilte: 1
 - Verurteilte: 1
-- Иностранцы: 0.00%
-- Оправдан: 0
-- Дело прекращено: 0
-- Лишение свободы: 0
-- Условный срок: 0
-- Денежный штраф: 1
-- Остальные: 0
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 0.00%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 0 (0.00%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 0 (0.00%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 1 (100.00%)
+- ![](readme_assets/swatches/other.svg) Остальные: 0 (0.00%)
 
 ### StGB § 328 Abs. 1 bis 3 Unerlaubter Umgang mit radioaktiven und anderen gefährlichen Stoffen und Gütern - vorsätzlich
 
@@ -5774,13 +6494,15 @@ StGB
 
 - Abgeurteilte: 1
 - Verurteilte: 1
-- Иностранцы: 0.00%
-- Оправдан: 0
-- Дело прекращено: 0
-- Лишение свободы: 0
-- Условный срок: 0
-- Денежный штраф: 1
-- Остальные: 0
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 0.00%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 0 (0.00%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 0 (0.00%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 1 (100.00%)
+- ![](readme_assets/swatches/other.svg) Остальные: 0 (0.00%)
 
 ### StGB § 89 c Terrorismusfinanzierung
 
@@ -5790,13 +6512,15 @@ StGB
 
 - Abgeurteilte: 1
 - Verurteilte: 1
-- Иностранцы: 100.00%
-- Оправдан: 0
-- Дело прекращено: 0
-- Лишение свободы: 0
-- Условный срок: 1
-- Денежный штраф: 0
-- Остальные: 0
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 100.00%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 0 (0.00%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 1 (100.00%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 0 (0.00%)
+- ![](readme_assets/swatches/other.svg) Остальные: 0 (0.00%)
 
 ### StGB § 99 Geheimdienstliche Agententätigkeit
 
@@ -5806,13 +6530,15 @@ StGB
 
 - Abgeurteilte: 1
 - Verurteilte: 1
-- Иностранцы: 0.00%
-- Оправдан: 0
-- Дело прекращено: 0
-- Лишение свободы: 1
-- Условный срок: 0
-- Денежный штраф: 0
-- Остальные: 0
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 0.00%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 0 (0.00%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 1 (100.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 0 (0.00%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 0 (0.00%)
+- ![](readme_assets/swatches/other.svg) Остальные: 0 (0.00%)
 
 ### StGB §§ 90, 90 b, 90 c Andere Straftaten der Gefährdung des demokratischen Rechtsstaates
 
@@ -5822,10 +6548,12 @@ StGB
 
 - Abgeurteilte: 1
 - Verurteilte: 1
-- Иностранцы: 0.00%
-- Оправдан: 0
-- Дело прекращено: 0
-- Лишение свободы: 0
-- Условный срок: 0
-- Денежный штраф: 1
-- Остальные: 0
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 0.00%
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 0 (0.00%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 0 (0.00%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 0 (0.00%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 0 (0.00%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 1 (100.00%)
+- ![](readme_assets/swatches/other.svg) Остальные: 0 (0.00%)
