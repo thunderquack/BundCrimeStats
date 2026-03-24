@@ -1,4 +1,5 @@
 source_year,Straftat_Gesetz,Art_der_Straftat,abgeurteilte,verurteilte,verurteilungsquote,verurteilungsquote_pct
+2022,AWG  ,Außenwirtschaftsgesetz AWG ,17,9,0.5294117647058824,52.94117647058824
 2022,StGB  ,Fahrlässige Koerperverl. im Straßenverkehr insgesamt (§ 229 StGB) ,12387,10420,0.8412044885767337,84.12044885767337
 2022,StGB  ,Fahrlässige Toetung im Straßenverkehr insgesamt (§ 222 StGB) ,514,458,0.8910505836575876,89.10505836575877
 2022,StGB  ,Gefährdung des Straßenverkehrs nach § 315 c StGB insgesamt ,13792,12235,0.8871084686774942,88.71084686774941
@@ -364,6 +365,7 @@ source_year,Straftat_Gesetz,Art_der_Straftat,abgeurteilte,verurteilte,verurteilu
 2022,StGB  ,Verbotene Kraftfahrzeugrennen nach § 315 d StGB mit Verkehrsunfall ,190,155,0.8157894736842105,81.57894736842105
 2022,StGB  ,Verbotene Kraftfahrzeugrennen nach § 315 d StGB ohne Verkehrsunfall ,1464,1039,0.7096994535519126,70.96994535519126
 2022,StGBoV  ,Straftaten ohne Straftaten im Straßenverkehr nach dem StGB insgesamt Summe 1012 bis 1686,475914,370989,0.7795294948246952,77.95294948246952
+2023,AWG  ,Außenwirtschaftsgesetz AWG ,52,32,0.6153846153846154,61.53846153846154
 2023,StGB  ,Gefährdung des Straßenverkehrs nach § 315 c StGB insgesamt ,14272,12657,0.8868413677130045,88.68413677130044
 2023,StGB  ,Gefährdung des Straßenverkehrs nach § 315 c StGB mit Verkehrsunfall ,11750,10791,0.9183829787234042,91.83829787234042
 2023,StGB  ,Gefährdung des Straßenverkehrs nach § 315 c StGB ohne Verkehrsunfall ,2522,1866,0.7398889770023791,73.98889770023791
@@ -727,6 +729,7 @@ source_year,Straftat_Gesetz,Art_der_Straftat,abgeurteilte,verurteilte,verurteilu
 2023,StGB  ,"StGB §§ 167 a, 168 Störung einer Bestattungsfeier, Störung der Totenruhe",27,18,0.6666666666666666,66.66666666666666
 2023,StGB  ,"StGB §§ 316 b, 317 Störung öffentlicher Betriebe und von Telekommunikationsanlagen",47,29,0.6170212765957447,61.702127659574465
 2023,StGBoV  ,Straftaten ohne Straftaten im Straßenverkehr nach dem StGB insgesamt Summe 1012 bis 1690,487968,379650,0.778022329333071,77.8022329333071
+2024,AWG  ,Außenwirtschaftsgesetz AWG ,116,75,0.646551724137931,64.65517241379311
 2024,StGB  ,Gefährdung des Straßenverkehrs nach § 315 c StGB insgesamt ,14335,12702,0.8860830136030694,88.60830136030694
 2024,StGB  ,Gefährdung des Straßenverkehrs nach § 315 c StGB mit Verkehrsunfall ,11818,10822,0.9157217803350821,91.57217803350821
 2024,StGB  ,Gefährdung des Straßenverkehrs nach § 315 c StGB ohne Verkehrsunfall ,2517,1880,0.7469209376241558,74.69209376241558
