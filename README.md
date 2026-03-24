@@ -1,4 +1,4 @@
-# StGB Outcomes by Article
+# StGB + AWG Outcomes by Article
 
 README показывает только 2024 год. Остальные годы доступны в полном HTML-отчёте: `out/stgb_article_pies_report.html`.
 
@@ -4051,6 +4051,28 @@ StGB
 - ![](readme_assets/swatches/suspended.svg) Условный срок: 2 (1.71%)
 - ![](readme_assets/swatches/fine.svg) Денежный штраф: 72 (61.54%)
 - ![](readme_assets/swatches/other.svg) Остальные: 11 (9.40%)
+
+---
+
+### Außenwirtschaftsgesetz AWG
+
+AWG
+
+![Außenwirtschaftsgesetz AWG](readme_assets/stgb_svg/2024-eb57336e75a7.svg)
+
+- Abgeurteilte: 116
+- Verurteilte: 75
+<br>
+
+- ![](readme_assets/swatches/foreigners.svg) Иностранцы: 53.33%
+<br>
+
+- ![](readme_assets/swatches/acquitted.svg) Оправдан: 7 (6.03%)
+- ![](readme_assets/swatches/dismissed.svg) Дело прекращено: 34 (29.31%)
+- ![](readme_assets/swatches/custody.svg) Лишение свободы: 3 (2.59%)
+- ![](readme_assets/swatches/suspended.svg) Условный срок: 17 (14.66%)
+- ![](readme_assets/swatches/fine.svg) Денежный штраф: 55 (47.41%)
+- ![](readme_assets/swatches/other.svg) Остальные: 0 (0.00%)
 
 ---
 
